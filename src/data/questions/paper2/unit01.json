@@ -1,0 +1,126 @@
+[
+  {
+    "id": "p2-u1-0001",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Concepts (Liberty, Equality, Justice, Rights)",
+    "type": "mcq",
+    "question": "Isaiah Berlin's distinction between 'negative liberty' and 'positive liberty' was elaborated in which famous lecture/essay?",
+    "options": [
+      "Two Concepts of Liberty",
+      "On Liberty",
+      "The Concept of the Political",
+      "A Theory of Justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isaiah Berlin developed the distinction between negative liberty (freedom from interference) and positive liberty (freedom to self-realisation) in his 1958 essay/lecture 'Two Concepts of Liberty'. 'On Liberty' is by J.S. Mill and 'A Theory of Justice' is by John Rawls.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u1-0002",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Concepts (Liberty, Equality, Justice, Rights)",
+    "type": "mcq",
+    "question": "The principle 'Justice as Fairness', based on the 'original position' and the 'veil of ignorance', is associated with:",
+    "options": ["Robert Nozick", "John Rawls", "Amartya Sen", "Ronald Dworkin"],
+    "correctIndex": 1,
+    "explanation": "John Rawls put forward 'Justice as Fairness' in 'A Theory of Justice' (1971), using the device of the 'original position' behind a 'veil of ignorance' to derive principles of justice.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u1-0003",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Liberalism & Conservatism",
+    "type": "assertion-reason",
+    "question": "Assertion (A): Classical liberalism advocates a minimal or limited state.\nReason (R): Classical liberals believe individuals are rational and best able to pursue their own interests with minimal interference.\n\nSelect the correct option:",
+    "options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+      "(A) is true but (R) is false",
+      "(A) is false but (R) is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Classical liberalism does favour a minimal ('night-watchman') state, and the reason is precisely its belief in rational, self-interested individuals who need only minimal interference — so R correctly explains A.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u1-0004",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Feminism & Ecologism",
+    "type": "mcq",
+    "question": "The slogan 'the personal is political' is most closely associated with which strand of political thought?",
+    "options": ["Conservatism", "Feminism", "Ecologism", "Multiculturalism"],
+    "correctIndex": 1,
+    "explanation": "'The personal is political' is a key slogan of (radical/second-wave) feminism, asserting that power relations in private/domestic life are political and not merely personal matters.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u1-0005",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Democracy, Power, Citizenship",
+    "type": "match",
+    "question": "Match List-I (Concept of Power) with List-II (Thinker):\n\nList-I\n(a) Power as three-dimensional\n(b) Power/Knowledge\n(c) Hegemony\n(d) Power as a community resource (communicative)\n\nList-II\n(i) Antonio Gramsci\n(ii) Steven Lukes\n(iii) Hannah Arendt\n(iv) Michel Foucault",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Steven Lukes gave the three-dimensional (radical) view of power; Foucault is associated with power/knowledge; Gramsci with hegemony; and Hannah Arendt saw power as a communicative, community resource arising when people act in concert.",
+    "source": "Practice",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p2-u1-0006",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Socialism & Marxism",
+    "type": "statements",
+    "question": "Consider the following statements about Marxism:\n1. The base (economic structure) conditions the superstructure (legal, political, ideological forms).\n2. Class struggle is the motor of historical change.\n3. The state, for Marx, is a neutral arbiter standing above class interests.\n\nWhich of the statements is/are correct?",
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correctIndex": 0,
+    "explanation": "Statements 1 and 2 are core Marxist positions. Statement 3 is incorrect — for Marx the state is NOT a neutral arbiter but an instrument of the dominant class ('a committee for managing the common affairs of the bourgeoisie').",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u1-0007",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Multiculturalism & Postmodernism",
+    "type": "mcq",
+    "question": "The idea of the 'politics of recognition', central to multiculturalism, is most associated with:",
+    "options": ["Charles Taylor", "Friedrich Hayek", "Carl Schmitt", "Jeremy Bentham"],
+    "correctIndex": 0,
+    "explanation": "Charles Taylor's essay 'The Politics of Recognition' (1992) is a foundational text of multiculturalism, arguing that misrecognition of identity can be a form of oppression.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u1-0008",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Concepts (Liberty, Equality, Justice, Rights)",
+    "type": "mcq",
+    "question": "T.H. Marshall's influential typology of citizenship identified three sets of rights developing in which order across the 18th–20th centuries?",
+    "options": [
+      "Political → Civil → Social",
+      "Civil → Political → Social",
+      "Social → Civil → Political",
+      "Civil → Social → Political"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 'Citizenship and Social Class' (1950), T.H. Marshall traced citizenship as developing through civil rights (18th c.), then political rights (19th c.), then social rights (20th c.).",
+    "source": "Practice",
+    "difficulty": "medium"
+  }
+]

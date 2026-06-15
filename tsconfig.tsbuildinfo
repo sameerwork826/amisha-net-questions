@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/layout.tsx","./src/components/questioncard.tsx","./src/data/questionbank.ts","./src/data/syllabus.ts","./src/hooks/useprogress.ts","./src/pages/dashboard.tsx","./src/pages/mock.tsx","./src/pages/practice.tsx","./src/pages/progress.tsx"],"errors":true,"version":"5.9.3"}

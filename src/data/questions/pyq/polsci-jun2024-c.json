@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pyq-2024jun-072",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Approaches & Comparative Methods",
+    "type": "statements",
+    "question": "Which of the following books are related to 'political economy'?\nA. Hans Morgenthau – Politics Among Nations\nB. Adam Smith – Wealth of Nations\nC. David Ricardo – Principles of Political Economy and Taxation\nD. Karl Marx – Economic and Philosophical Manuscripts\nE. J.S. Mill – Principles of Political Economy\n\nChoose the correct answer:",
+    "options": [
+      "A, B, C and D only",
+      "B, C, D and E only",
+      "A, C, D and E only",
+      "A, B, D and E only"
+    ],
+    "correctIndex": 1,
+    "explanation": "B, C, D and E are works in political economy. Morgenthau's 'Politics Among Nations' (A) is a foundational text of International Relations / realism, not political economy.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-073",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Federalism & State institutions",
+    "type": "chronological",
+    "question": "Arrange the formation of the following Inter-State Water Dispute Tribunals in the correct chronological order (earliest first):\nA. Godavari Water Dispute Tribunal\nB. Mahanadi Water Dispute Tribunal\nC. Ravi and Beas Water Dispute Tribunal\nD. Cauvery Water Dispute Tribunal\nE. Mahadayi Water Dispute Tribunal",
+    "options": [
+      "A, C, D, E, B",
+      "A, E, C, D, B",
+      "C, A, D, B, E",
+      "A, C, D, B, E"
+    ],
+    "correctIndex": 0,
+    "explanation": "Year of constitution: Godavari (1969), Ravi & Beas (1986), Cauvery (1990), Mahadayi (2010), Mahanadi (2018) — i.e. A, C, D, E, B.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-074",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PA theories (NPA, NPM, Development Admin)",
+    "type": "mcq",
+    "question": "The Minnowbrook-I Conference, associated with the rise of the New Public Administration, was held in:",
+    "options": ["1956", "1958", "1968", "1970"],
+    "correctIndex": 2,
+    "explanation": "The first Minnowbrook Conference was held in 1968 under Dwight Waldo; it gave rise to the New Public Administration movement emphasising social equity and relevance.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-075",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Conflict management & MBO",
+    "type": "mcq",
+    "question": "Who wrote the book 'The Practice of Management' (1954), which introduced the concept of Management by Objectives (MBO)?",
+    "options": [
+      "Mary Parker Follett",
+      "Peter Drucker",
+      "Frederick Herzberg",
+      "Chester Barnard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peter Drucker's 'The Practice of Management' (1954) introduced Management by Objectives (MBO).",
+    "source": "PYQ Jun 2024",
+    "difficulty": "easy"
+  },
+  {
+    "id": "pyq-2024jun-076",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Theories of Organization",
+    "type": "match",
+    "question": "Match List-I (Concept/Approach) with List-II (Proposer):\n\nList-I\nA. Human Relations approach to organisations\nB. Bounded Rationality\nC. Contribution-satisfaction equilibrium\nD. Self-actualisation\n\nList-II\nI. Chester Barnard\nII. Abraham Maslow\nIII. Herbert Simon\nIV. George Elton Mayo",
+    "options": [
+      "A-IV, B-III, C-I, D-II",
+      "A-III, B-II, C-I, D-IV",
+      "A-I, B-IV, C-III, D-II",
+      "A-II, B-I, C-IV, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elton Mayo – Human Relations approach; Herbert Simon – Bounded Rationality; Chester Barnard – contribution-satisfaction equilibrium (inducements-contributions); Abraham Maslow – self-actualisation. So A-IV, B-III, C-I, D-II.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-078",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Power structures, Parties & Movements",
+    "type": "mcq",
+    "question": "The book 'Political Parties: A Sociological Study of the Oligarchical Tendencies of Modern Democracy' was written by:",
+    "options": [
+      "Alexander J. Groth",
+      "Robert Michels",
+      "J.S. Brown",
+      "Bernard E. Brown"
+    ],
+    "correctIndex": 1,
+    "explanation": "Robert Michels' 'Political Parties' (1911) advanced the 'iron law of oligarchy' — the thesis that all organisations, even democratic ones, tend to become oligarchic.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-079",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Federalism & State institutions",
+    "type": "match",
+    "question": "Match List-I (Political Event) with List-II (Year):\n\nList-I\nA. Dismissal of the Namboodiripad Government (Kerala)\nB. Operation Blue Star\nC. M.M. Punchhi Commission Report\nD. Sarkaria Commission\n\nList-II\nI. 1987-88\nII. 1984\nIII. 2010\nIV. 1959",
+    "options": [
+      "A-IV, B-II, C-III, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-I, B-III, C-IV, D-II",
+      "A-II, B-IV, C-I, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first elected Communist (Namboodiripad) government in Kerala was dismissed in 1959; Operation Blue Star was in 1984; the Sarkaria Commission on Centre-State relations reported in 1987-88; the Punchhi Commission reported in 2010. So A-IV, B-II, C-III, D-I.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  }
+]

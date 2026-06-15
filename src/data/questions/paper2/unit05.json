@@ -1,0 +1,90 @@
+[
+  {
+    "id": "p2-u5-0001",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Approaches (Realism, Idealism, Constructivism)",
+    "type": "mcq",
+    "question": "Which scholar's work 'Politics Among Nations' is regarded as a foundational text of classical realism in International Relations?",
+    "options": ["Kenneth Waltz", "Hans J. Morgenthau", "Alexander Wendt", "Robert Keohane"],
+    "correctIndex": 1,
+    "explanation": "Hans J. Morgenthau's 'Politics Among Nations' (1948) is the classic statement of classical realism. Waltz is associated with neorealism, Wendt with constructivism, and Keohane with neoliberal institutionalism.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u5-0002",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Approaches (Realism, Idealism, Constructivism)",
+    "type": "mcq",
+    "question": "The phrase 'Anarchy is what states make of it' encapsulates the core argument of which approach?",
+    "options": ["Neorealism", "Social Constructivism", "Structural Marxism", "Classical Realism"],
+    "correctIndex": 1,
+    "explanation": "Alexander Wendt's 1992 article 'Anarchy is What States Make of It' is a landmark of social constructivism, arguing that anarchy has no fixed logic but is socially constructed through state interaction.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u5-0003",
+    "paper": 2,
+    "unit": 5,
+    "topic": "United Nations & International Law",
+    "type": "statements",
+    "question": "Consider the following statements about the UN Security Council:\n1. It has five permanent members with veto power.\n2. It currently has ten non-permanent members elected for two-year terms.\n3. The veto power is also enjoyed by the non-permanent members.\n\nWhich of the statements is/are correct?",
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correctIndex": 0,
+    "explanation": "The UNSC has 5 permanent members (P5) with veto power and 10 non-permanent members elected for two-year terms. Only the P5 hold the veto, so statement 3 is incorrect.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u5-0004",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Core concepts (Power, Sovereignty, Security)",
+    "type": "mcq",
+    "question": "The Treaty of Westphalia (1648) is considered foundational in IR primarily because it is associated with the emergence of:",
+    "options": [
+      "The concept of collective security",
+      "The modern principle of state sovereignty",
+      "The balance of power doctrine",
+      "International humanitarian law"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Peace of Westphalia (1648) is conventionally seen as establishing the modern system of sovereign territorial states, hence the term 'Westphalian sovereignty'.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u5-0005",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Political Economy & Global governance",
+    "type": "match",
+    "question": "Match List-I (Institution) with List-II (Primary function/origin):\n\nList-I\n(a) IMF\n(b) WTO\n(c) World Bank\n(d) BRICS\n\nList-II\n(i) Multilateral trade rules (successor to GATT)\n(ii) Short-term balance of payments support\n(iii) Grouping of emerging economies\n(iv) Long-term development finance",
+    "options": [
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    ],
+    "correctIndex": 0,
+    "explanation": "IMF provides short-term balance-of-payments support; WTO administers multilateral trade rules (succeeding GATT in 1995); World Bank provides long-term development finance; BRICS is a grouping of emerging economies (Brazil, Russia, India, China, South Africa).",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u5-0006",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Regional organisations & Contemporary challenges",
+    "type": "mcq",
+    "question": "The Paris Agreement (2015) on climate change was adopted under which framework convention?",
+    "options": ["Kyoto Protocol", "UNFCCC", "Montreal Protocol", "Convention on Biological Diversity"],
+    "correctIndex": 1,
+    "explanation": "The Paris Agreement was adopted at COP21 under the United Nations Framework Convention on Climate Change (UNFCCC). The Kyoto Protocol (1997) was an earlier instrument under the same convention.",
+    "source": "Practice",
+    "difficulty": "medium"
+  }
+]

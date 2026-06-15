@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pyq-2024jun-063",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Regional organisations & Contemporary challenges",
+    "type": "match",
+    "question": "Match List-I (Organization) with List-II (Year of formation):\n\nList-I\nA. ASEAN\nB. European Union\nC. African Union\nD. Eurasian Economic Community\n\nList-II\nI. 2000\nII. 2002\nIII. 1967\nIV. 1993",
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-IV, C-III, D-I"
+    ],
+    "correctIndex": 0,
+    "explanation": "ASEAN was formed in 1967, the European Union by the Maastricht Treaty in 1993, the African Union in 2002, and the Eurasian Economic Community in 2000 — so A-III, B-IV, C-II, D-I.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-064",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Grassroots Governance (PRIs)",
+    "type": "mcq",
+    "question": "Which committee was appointed by the Janata Government to review the working of Panchayati Raj Institutions?",
+    "options": [
+      "Andre Beteille Committee",
+      "Ram Manohar Lohia Committee",
+      "Jyoti Basu Committee",
+      "Ashok Mehta Committee"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Ashok Mehta Committee (1977) was set up by the Janata Government to review Panchayati Raj; it recommended a two-tier system and is a landmark in the evolution of PRIs.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-065",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Good governance mechanisms (RTI, Lokpal)",
+    "type": "statements",
+    "question": "The Right to Information (RTI) is a means of strengthening democracy because it promotes:\nA. Openness\nB. Maintaining secrecy\nC. Transparency\nD. Bureaucratic red-tapism\nE. Accountability\n\nChoose the correct answer:",
+    "options": [
+      "A, B and C only",
+      "B, D and E only",
+      "A, C and E only",
+      "B, C and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "RTI strengthens democracy by promoting openness, transparency and accountability (A, C, E). Secrecy and red-tapism are precisely what it works against.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "easy"
+  },
+  {
+    "id": "pyq-2024jun-066",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Democracy, Power, Citizenship",
+    "type": "mcq",
+    "question": "Who described democracy as 'the tyranny of the majority' in his work 'Democracy in America'?",
+    "options": [
+      "Confucius",
+      "John Stuart Mill",
+      "Alexis de Tocqueville",
+      "Frantz Fanon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alexis de Tocqueville, in 'Democracy in America', famously warned of the 'tyranny of the majority' — the danger that majority opinion could suppress dissent and individual liberty.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-067",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Elections, Local Govt & Constitutional Bodies",
+    "type": "chronological",
+    "question": "Arrange the following Chief Election Commissioners of India in the correct chronological order (earliest first):\nA. Sunil Arora\nB. S.Y. Quraishi\nC. T.N. Seshan\nD. V.S. Sampath\nE. J.M. Lyngdoh",
+    "options": [
+      "C, E, B, D, A",
+      "C, B, E, D, A",
+      "E, C, B, A, D",
+      "C, E, D, B, A"
+    ],
+    "correctIndex": 0,
+    "explanation": "Order of tenure: T.N. Seshan (1990–96), J.M. Lyngdoh (2001–04), S.Y. Quraishi (2010–12), V.S. Sampath (2012–15), Sunil Arora (2018–21) — i.e. C, E, B, D, A.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-069",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Periyar, Iqbal, Savarkar",
+    "type": "mcq",
+    "question": "Who wrote the book 'The Indian War of Independence of 1857'?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Manmohan Singh",
+      "Swami Vivekananda",
+      "V.D. Savarkar"
+    ],
+    "correctIndex": 3,
+    "explanation": "V.D. Savarkar wrote 'The Indian War of Independence, 1857' (1909), reinterpreting the 1857 revolt as India's first organised war of independence; the British banned it.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-070",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Ancient & Medieval (Kautilya, Barani, Kabir)",
+    "type": "mcq",
+    "question": "The theory of 'Saptanga Rajya' (postulating a seven-organ/limb conception of the State) was propounded by:",
+    "options": ["Thomas Hobbes", "Kautilya", "John Locke", "Kalhana"],
+    "correctIndex": 1,
+    "explanation": "Kautilya, in the Arthashastra, set out the Saptanga theory of the State, comprising seven elements (prakritis): Swami (king), Amatya (ministers), Janapada (territory/people), Durga (fort), Kosha (treasury), Danda (army) and Mitra (ally).",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  }
+]

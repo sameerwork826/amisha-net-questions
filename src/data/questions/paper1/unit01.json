@@ -1,0 +1,59 @@
+[
+  {
+    "id": "p1-u1-0001",
+    "paper": 1,
+    "unit": 1,
+    "topic": "Concept, objectives & levels of teaching",
+    "type": "mcq",
+    "question": "In the levels of teaching, which level aims at developing reasoning, problem-solving and critical thinking rather than mere recall?",
+    "options": ["Memory level", "Understanding level", "Reflective level", "Autonomous level"],
+    "correctIndex": 2,
+    "explanation": "The three levels of teaching are Memory (recall), Understanding (insight into relationships), and Reflective (highest level — problem-centred, developing reasoning, critical and creative thinking).",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-u1-0002",
+    "paper": 1,
+    "unit": 1,
+    "topic": "Methods of teaching & teaching aids",
+    "type": "mcq",
+    "question": "SWAYAM, an initiative for online courses in higher education in India, is an example of:",
+    "options": [
+      "A learner-centred ICT-based / MOOC platform",
+      "A traditional teacher-centred method",
+      "An evaluation/grading system",
+      "A printed support material"
+    ],
+    "correctIndex": 0,
+    "explanation": "SWAYAM is India's MOOC (Massive Open Online Course) platform — an online, ICT-based, largely learner-centred mode of teaching delivery in higher education.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-u1-0003",
+    "paper": 1,
+    "unit": 1,
+    "topic": "Learner & teacher characteristics",
+    "type": "statements",
+    "question": "Consider the following as factors affecting teaching:\n1. Characteristics of the teacher\n2. Characteristics of the learner\n3. Learning environment and institution\n4. Support material and instructional facilities\n\nWhich of the above are recognised factors affecting teaching?",
+    "options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+    "correctIndex": 3,
+    "explanation": "All four are listed in the UGC NET Paper 1 syllabus as factors affecting teaching: teacher, learner, support material, instructional facilities, learning environment and institution.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-u1-0004",
+    "paper": 1,
+    "unit": 1,
+    "topic": "Evaluation systems",
+    "type": "mcq",
+    "question": "Evaluation conducted DURING the instructional process to monitor learning and provide ongoing feedback is called:",
+    "options": ["Summative evaluation", "Formative evaluation", "Diagnostic evaluation", "Norm-referenced evaluation"],
+    "correctIndex": 1,
+    "explanation": "Formative evaluation occurs during instruction to monitor progress and give feedback. Summative evaluation is conducted at the end to judge overall achievement.",
+    "source": "Practice",
+    "difficulty": "easy"
+  }
+]
