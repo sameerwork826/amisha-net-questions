@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "pw-dec2019-001",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "What is the binary equivalent of decimal number 75 ?",
+    "options": [
+      "1101001",
+      "101001",
+      "100101",
+      "1001011"
+    ],
+    "correctIndex": 3,
+    "explanation": "To find the binary equivalent of the decimal number 75 , we can convert it by dividing by 2 and recording the remainders. 1. 75 ÷ 2 = 37 remainder 1 2. 37 ÷ 2 = 18 remainder 1 3. remainder 18 ÷ 2 = 9 0 4. 9 ÷ 2 = 4 remainder 1 5. remainder 4 ÷ 2 = 2 0 6. 2 ÷ 2 = 1 remainder 0 7. 1 ÷ 2 = 0 remainder 1 Writing the remainders in reverse order, we get: 1001011 So, the correct answer is: - Option D: 1001011",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-002",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "\"Gyan Darshan\" launched by IGNOU refers to which one of the following?",
+    "options": [
+      "Satellite based educational T.V. Channel",
+      "Educational FM radio network",
+      "Global initiative of Academic networks",
+      "Online courses"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Gyan Darshan,\" launched by the Indira Gandhi National Open University (IGNOU), refers to a: Satellite-based educational TV channel. It was introduced to provide educational content via television, aiming to reach a wide audience with educational programs across various disciplines. So, the correct answer is: Option A: Satellite-based educational T.V. Channel",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-003",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Through which Act University Grants Commission came into existence?",
+    "options": [
+      "UGC ACT - 1956",
+      "UGC ACT - 1949",
+      "UGC Act - 1944",
+      "UGC Act - 1968"
+    ],
+    "correctIndex": 0,
+    "explanation": "UGC Act of 1956. This act, formally known as \"The University Grants Commission Act, 1956,\" led to the creation of the UGC, giving it the authority to oversee and maintain standards of higher education in India. So, the correct answer is: Option A: UGC ACT - 1956 Solutions",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-004",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "In the context of IT/ICT, which one of the following statements about spamming is true?",
+    "options": [
+      "Spamming is posting or e-mailing unsolicited advertising messages to a wide audience",
+      "Spamming is sending lines of nonsensical garbage in a chat conversation",
+      "Spamming is posting a message that contains graphic description of something offensive",
+      "Spamming is an attempt to acquire sensitive information for malicious reasons, by masquerading as trustworthy entity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spamming typically involves sending unsolicited and often repetitive advertising messages, usually through email, to a large number of recipients. The other options describe different types of online behavior or cyber threats: Option B describes \"flooding\" or \"trolling\" in chat conversations. Option C may describe \"offensive content\" or \"shock messaging.\" Option D describes \"phishing,\" where malicious actors attempt to acquire sensitive information by impersonating a trusted entity.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-005",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The introduction of MOOC in open and distance learning programmes is justified because of",
+    "options": [
+      "Low cost considerations",
+      "Accessibility consideration",
+      "Speed considerations",
+      "Novelty considerations"
+    ],
+    "correctIndex": 1,
+    "explanation": "MOOCs (Massive Open Online Courses) are introduced in open and distance learning primarily to increase accessibility. They allow a large number of learners from different locations to access quality education, regardless of their physical proximity to educational institutions. Although MOOCs may offer low-cost and speed benefits, their primary justification is to make education widely accessible.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-007",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "A virus type that is capable of transferring from one computer to another without any \"user interaction' is known as",
+    "options": [
+      "Worm",
+      "Trojan",
+      "Key logging",
+      "Boot sector virus"
+    ],
+    "correctIndex": 0,
+    "explanation": "A worm is a type of malware that can spread from one computer to another without any user interaction. Unlike other types of viruses, worms are self-replicating and can propagate automatically across networks by exploiting vulnerabilities, making them particularly dangerous.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-008",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following types of energy sources employ direct energy conversion process to produce electricity?",
+    "options": [
+      "Biomass",
+      "Wind",
+      "Geothermal",
+      "Nuclear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wind energy employs a direct energy conversion process to produce electricity. Wind turbines convert the kinetic energy of wind directly into electrical energy using a generator, without any intermediate steps involving heat or combustion.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-009",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The target set by Indian government for power from roof-top solar installations by the year 2022 is",
+    "options": [
+      "40.0 GW",
+      "50.0 GW",
+      "60.0 GW",
+      "100.0 GW"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Indian government set a target of achieving 40 gigawatts (GW) of power from rooftop solar installations by the year 2022 as part of its overall goal of 100 GW of solar capacity. The remaining 60 GW was targeted to come from large-scale solar power plants.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-010",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which one of the following institutions was established as a consequence to the closure of InterUniversity Board brought in for promotion of cooperation among the Universities in the field of education and allied areas?",
+    "options": [
+      "Association of Central Universities",
+      "University Grants Commission",
+      "IIAS, Shimla",
+      "Association of Indian Universities"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Association of Indian Universities (AIU) was established as a",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-011",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "A geothermal reserve has the stored heat of J 5 × 1019 . If the overall efficiency of a geothermal power plant based on this reserve is 0.04 , how much power can be produced by the plant in 1 year?",
+    "options": [
+      "32GW",
+      "64GW ~0. 0.",
+      "2.62 GW",
+      "63.41 GW"
+    ],
+    "correctIndex": 3,
+    "explanation": "To find how much power can be produced by the geothermal plant in 1 year, we need to use the following steps: Given: 1019 - Stored heat = 5 × J - Efficiency = 0.04 - Time = 1 year = 365 × 24 × 60 × 60 = 31, 536, 000 seconds Steps: 1. Calculate the useful energy extracted: Useful Energy = Stored Heat × Efficiency Useful Energy = 5 × 1019 × 0.04 = 2 × 1018 J 2. Calculate the power produced: Power is energy per unit time, so: Useful Energy Power = Time 2 × 1018 J Power = 31, 536, 000 seconds Power = 6.34 × 1010 W = 63.4 GW Therefore, the power produced is approximately 63.41 GW. The correct answer is: - Option D: 63.41 GW",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-012",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "How many National Missions of the Indian Government are there to address the problem of climate change?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "17"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Indian government has identified 8 National Missions under its National Action Plan on Climate Change (NAPCC) to address the issues related to climate change. These missions focus on various sectors such as renewable energy, energy efficiency, sustainable agriculture, and water conservation.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-013",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "48.) Which of the following instructional design is part of SWAYAM launched by Government of India? (i) E-Tutorial (ii) E-Content (iii) Assessment (iv) Discussion Forum (v) Classroom teaching Choose the correct option from below",
+    "options": [
+      "(i) and (ii) only",
+      "(i), (iii), (iv) and (v) only",
+      "(i), (ii), (iii) and (iv) only",
+      "(iii) and (v) only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The SWAYAM platform, launched by the Government of India, is an initiative to achieve the goal of universal access to quality education. The following components are part of SWAYAM: E-Tutorial: Instructional videos and tutorials. E-Content: Learning material in digital form. Assessment: Online tests and assessments to evaluate learners' progress. Discussion Forum: A platform for interaction and discussion among learners and instructors. Classroom teaching is not part of the SWAYAM online platform, as it is primarily an online learning system.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-014",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following materials is widely used in solar cell fabrication?",
+    "options": [
+      "Nubidium",
+      "Silicon",
+      "Nickel",
+      "Chromium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Silicon is the most widely used material in the fabrication of solar cells due to its efficiency in converting sunlight into electricity and its abundant availability. Silicon-based solar cells are the most common type of photovoltaic cells used in solar energy systems.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-015",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "You need to use automatic calculations in preparing a budget. Which software application should be used?",
+    "options": [
+      "Spreadsheet",
+      "Presentation",
+      "Word processing",
+      "Desktop publishing"
+    ],
+    "correctIndex": 0,
+    "explanation": "A spreadsheet software (like Microsoft Excel or Google Sheets) is ideal for automatic calculations, data manipulation, and organizing financial information. It allows you to create formulas, perform calculations, and analyze data efficiently, making it the best tool for preparing budgets.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-016",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In the two sets given below, set-I provides the different levels of teaching and learning while set-II gives their exemplars and concerns. Match the two sets and select from the code to indicate your answer. Set-II (Exemplars and Concerns) (i) Encourages critical thinking based Set-I (Levels of teaching cognitive interchange and learning) (ii) Protects personal (a) Memory level interest and attitudinal (b) Understanding level concerns (c) Reflective level (iii) Facilitates recalling and recognizing of facts (iv) Enhances scope for seeing of relationships and meanings",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Here’s the matching based on the nature of the levels of teaching and learning and their corresponding exemplars and concerns: Memory level (a): This level involves recalling and recognizing facts, which matches (iii). Understanding level (b): At this level, students are expected to see relationships and meanings, which aligns with (iv). Reflective level (c): This level encourages critical thinking and cognitive interchange, which is reflected in (i).",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-017",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "'Research ethics' is of critical importance in which of the following areas? Select your answer from the code given below: (a) Data collecting (b) Preparing a seminar paper (c) Data analysis (d) Participation in a conference (e) Writing a thesis/dissertation (f) Selecting a research problem",
+    "options": [
+      "(a), (c) and (e)",
+      "(a), (b) and (f)",
+      "(a), (b) and (c)",
+      "(d), (e) and (f)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Research ethics plays a critical role in the following areas: Data collecting (a): Ethical practices in collecting data ensure the integrity of the research process and protect participants' rights. Data analysis (c): Ethics in data analysis ensures that data is analyzed honestly and without manipulation to mislead",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-018",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "While presenting the research outcomes and sharing the same with others, in which of the following research type, the style has to be impersonal?",
+    "options": [
+      "Narrative studies",
+      "Action research based studies",
+      "Ethnographic studies",
+      "Causal comparative based Ex post facto studies"
+    ],
+    "correctIndex": 3,
+    "explanation": "In causal comparative (ex post facto) studies, the style of presenting research outcomes is typically impersonal because these studies focus on identifying and analyzing cause-and-effect relationships between variables that already exist. Researchers aim to remain objective and neutral, and their personal involvement or opinions should not influence the presentation of the findings. In contrast: Narrative studies and ethnographic studies often involve more personal perspectives, stories, and interpretations by the researcher. Action research is a reflective process often involving the researcher’s personal engagement and perspective in addressing a problem or improving practice, which can include more subjective elements in the presentation.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-019",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In the following statements identifies those which relate to 'Norm-referenced testing' (NRT). Select from the code to give your answer. (a) Covering a large domain of learning tasks with just a few items measuring specific tasks. (b) Emphasizing discrimination among individuals in terms of relative level of learning. (c) Focusing on a specified domain of learning tasks with a large number of items measuring specific tasks. (d) Interpretation required a clearly defined group. (e) Interpretation required a clearly defined achievement domain. (f) Emphasizing description of learning tasks which individuals can and cannot perform.",
+    "options": [
+      "(b), (c) and (f)",
+      "(d), (e) and (f)",
+      "(a), (b) and (d)",
+      "(a), (b) and (c)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norm-referenced testing (NRT) focuses on comparing the performance of individuals to a defined group, rather than measuring performance against a set standard or specific learning goals. The statements that relate to NRT are: (a): \"Covering a large domain of learning tasks with just a few items measuring specific tasks\" – In NRT, a broad range of tasks may be tested but with fewer items that measure specific tasks for comparison. (b): \"Emphasizing discrimination among individuals in terms of relative level of learning\" – NRT is designed to differentiate among individuals by comparing their performance relative to others in the group. (d): \"Interpretation required a clearly defined group\" – NRT requires a reference group to interpret scores, as individuals' performance is evaluated in relation to this group.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-020",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In the list of statements given below which of them offer a suitable definition of research? Give your answer by selecting from the code. (a) Research means a repeated search (b) Research is basically an answer to a question. (c) Research provides an authentic solution to a problem. (d) Research is an Endeavour to prove one's hypothesis. (e) Research is a meaning- giving process (f) Research means drawing a sample from a defined population.",
+    "options": [
+      "(b), (c) and (e)",
+      "(b), (c) and (f)",
+      "(a), (d) and (f)",
+      "(a), (b) and (c)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Let's break down why (b), (c), and (f) are suitable definitions of research: (b): \"Research is basically an answer to a question\" – Research typically begins with a question that it seeks to answer, making this a suitable definition. (c): \"Research provides an authentic solution to a problem\" – Research aims to provide valid and reliable solutions to identified problems, which aligns with this definition. (f): \"Research means drawing a sample from a defined population\" – This is a part of the research process, particularly in quantitative research, where a sample is selected from a larger population to study a particular issue.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-021",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following is an indicator of key behaviour in effective teaching as evident from researches?",
+    "options": [
+      "Engagement in learning by students",
+      "Use of process and content questions during teaching",
+      "Teacher affect in developing teacher-learner relationship",
+      "Using student ideas and contributions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Researches on effective teaching emphasize student engagement as a key indicator of effective teaching. When students are actively engaged in the learning process, it demonstrates that the teaching methods are stimulating and that students are motivated to learn. Engagement can take many forms, including participation, interest, and sustained attention, and is strongly correlated with better learning outcomes.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-022",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Ability to see and size up the situation creatively is most relevant at which stage of research?",
+    "options": [
+      "In formulating research hypotheses and procedures for testing them.",
+      "At the stage of identifying and defining a research problem.",
+      "In deciding and identifying the sampling procedures to ensure their representative character.",
+      "In determining the research design and its execution."
+    ],
+    "correctIndex": 0,
+    "explanation": "The ability to see and size up the situation creatively is most relevant when formulating research hypotheses and procedures for testing them. This stage requires researchers to think critically and creatively in order to develop hypotheses that are novel, testable, and significant. Researchers need to consider various approaches and methodologies for testing the hypotheses, and creativity plays a key role in developing innovative and effective procedures. While creativity is also important in other stages, such as identifying the research problem, it's particularly emphasized during the hypothesis formulation and testing procedures, as this is where the research design begins to take shape and the direction of the study is set.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-023",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following methods to teaching will encourage indirect learning?",
+    "options": [
+      "Collaborative projects",
+      "Lecturing with examples",
+      "Term teaching",
+      "Demonstration on a subject"
+    ],
+    "correctIndex": 0,
+    "explanation": "Collaborative projects encourage indirect learning because they often involve students working together to solve problems or create something, promoting learning through interaction, peer feedback, and shared problem- solving. This method allows students to learn from each other and from the process itself, rather than just receiving direct instruction from a teacher. It fosters critical thinking, communication, and the development of interpersonal skills, all of which contribute to a more experiential form of learning.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-024",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In which of the following methods of research the independent variable has to be selected rather than manipulated?",
+    "options": [
+      "Descriptive survey method",
+      "Ex post facto method",
+      "Experimental method",
+      "Exegetic research"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the Ex post facto method, the researcher does not manipulate the independent variable. Instead, the independent variable is selected based on existing conditions or phenomena. This method is used when it is not possible or ethical to manipulate the variables. The researcher observes the effects of an independent variable that has already occurred and studies its relationship with the dependent variable, often in a retrospective manner.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-025",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "From the following list, identify the indicators of commitment areas of teachers and learners. Select from the code to give your answer. (a) 'Do it well' approach (b) Developing contact with community (c) Enhancing performance in classroom including teaching-learning processes (d) Concern for the all-round development and readiness to help (e) Acquiring curricular and content competency (f) Respecting impartiality, objectivity and intellectual honesty",
+    "options": [
+      "(a), (b) and (c)",
+      "(d), (e) and (f)",
+      "(a), (d) and (f)",
+      "(b), (c) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The indicators of commitment areas of teachers and learners relate to qualities that reflect a dedication to improving the learning process, developing personal and professional growth, and fostering an ethical and supportive environment. Here's how the statements relate: (a): \"Do it well approach\" – Reflects the teacher's commitment to excellence in their work and their dedication to providing quality education. (d): \"Concern for the all-round development and readiness to help\" – Reflects a teacher’s or learner’s commitment to fostering overall growth and being willing to support others. (f): \"Respecting impartiality, objectivity and intellectual honesty\" – Shows a commitment to fairness and ethical behavior in both teaching and learning.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-031",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Match the following. Given below are two sets, set-I embodies the type of communication while set-II provides their exemplification. Select your answer from the code given: Set-I (types of Set-II (exemplification) communication) (i) Members are given (a) Linear themes on which they communication are required to hold (b) Interactive discussion. communication (ii) A teacher in the (c) Transactional classroom presents a Communication structured content (iii) The principal of a college holds the staff meeting for understanding their problems. (iv) The teachers and students in a college go on rampage.",
+    "options": [
+      "(a)-(iii), (b)-(i), (c)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(i)",
+      "(a)-(i), (b)-(iv), (c)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(iii)"
+    ],
+    "correctIndex": 1,
+    "explanation": "1. Linear Communication is a one-way communication where information flows in a single direction, such as a teacher presenting content to students. 2. Interactive Communication involves a two- way exchange, often used for understanding or gathering feedback, such as a principal meeting with staff. 3. Transactional Communication is a more dynamic exchange, where both parties are equally involved in creating meaning, such as a discussion among group members on given themes.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-032",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "When students place themselves close to certain communication sources, it will lead to",
+    "options": [
+      "Selective exposure",
+      "Negative choices",
+      "Source domination",
+      "Impersonal behaviour"
+    ],
+    "correctIndex": 0,
+    "explanation": "When students position themselves close to certain communication sources, they are engaging in selective exposure—a process where individuals choose to expose themselves to messages or sources that align with their existing beliefs, interests, or preferences. This concept is based on the idea that people tend to seek out information that reinforces their views and avoid sources that contradict them.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-033",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "A cluster of propositions with a structure that exhibits some inference is called:",
+    "options": [
+      "An explanation",
+      "An argument",
+      "An implication",
+      "A description"
+    ],
+    "correctIndex": 1,
+    "explanation": "An argument is a set of propositions structured in a way that aims to demonstrate a conclusion based on premises. In an argument, certain propositions (premises) provide support or reasons for believing in another proposition (the conclusion). This structure inherently includes inference, as it logically connects the premises to the conclusion. The other options do not specifically represent a structure with inference: An explanation provides reasons for why something is the case but doesn’t necessarily involve inferential structure. An implication suggests a consequence or",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-034",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "If NTA14 and NTA15 are 5-digit numbers such N T A that their sum is 157229 , then + + would be: Options:-",
+    "options": [
+      "25",
+      "72",
+      "21",
+      "15"
+    ],
+    "correctIndex": 2,
+    "explanation": "To solve this, let’s analyze the problem step by step: 1. Identify the numbers: We have two 5-digit numbers, NTA14 and NTA15. Since \"N,\" \"T,\" and \"A\" represent single-digit numbers, we can write these numbers as: NTA14 N T = 10000 × + 1000 × + 100 A × + 14 NTA15 N T = 10000 × + 1000 × + 100 A × + 15 2. Sum the numbers: The problem states that their sum is 157229. (NTA14) (NTA15) + = 157229 Simplifying this, N T A) 2 × (10000 × + 1000 × + 100 × + (14 + 15) = 157229 N T A) 2 × (10000 × + 1000 × + 100 × + 29 = 157229 N T A) 2 × (10000 × + 1000 × + 100 × = 157200 N T A 10000 × + 1000 × + 100 × = 78600 3. Solve for N, T, and A: Dividing by 100 gives N T A 100 × + 10 × + = 786 N T A So, = 7 , = 8 , and = 6 . N T A 4. Calculate + + : N + T + A = 7 + 8 + 6 = 21 Answer: C. 21",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-035",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Identify the correct sequence of decoding process of communication in the classroom",
+    "options": [
+      "Feedback, Sensory involvement, Interpretation, Evaluation",
+      "Evaluation, Interpretation, Sensory involvement, Feedback",
+      "Interpretation, Evaluation, Feedback, Sensory involvement",
+      "Sensory involvement, Interpretation, Evaluation, Feedback"
+    ],
+    "correctIndex": 3,
+    "explanation": "In the process of decoding communication in a classroom setting, the correct sequence is as follows: 1. Sensory Involvement: Students first receive the message through their senses (e.g., hearing or seeing). 2. Interpretation: They then interpret or understand the meaning of the message based on their knowledge and context. 3. Evaluation: Next, they evaluate or assess the content, deciding how it aligns with their existing beliefs or if it requires further inquiry. 4. Feedback: Finally, students provide feedback to the teacher, which could be in the form of questions, responses, or non-verbal cues, completing the communication loop. This sequence accurately reflects the flow of how messages are decoded and processed in a classroom.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-036",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In the sequence of numbers x, 5, 19, 49, 101, 181, 295, … … , the term x is:",
+    "options": [
+      "501",
+      "449",
+      "351",
+      "401"
+    ],
+    "correctIndex": 1,
+    "explanation": "x To find the term in the sequence, let's examine the pattern between the terms. The given sequence is: x, 5, 19, 49, 101, 181, 295, … Let's look at the differences between consecutive terms: 1. 19 −5 = 14 2. 49 −19 = 30 3. 101 −49 = 52 4. 181 −101 = 80 5. 295 −181 = 114 The differences between terms are: . 14, 30, 52, 80, 114 It seems the differences are increasing in a pattern. Let's find the pattern in the differences: The differences between the differences are: 1. 30 −14 = 16 2. 52 −30 = 22 3. 80 −52 = 28 4. 114 −80 = 34 The second-level differences are increasing by +6 each time, suggesting a quadratic sequence. Following this pattern, the next difference should be: 114 + 40 = 154 Adding this to the last known term (295), we get: 295 + 154 = 449 x So, the term is: B. 449",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-037",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "assertion-reason",
+    "question": "Assertion \"A\": Classroom communication involves the clear decoding of messages by the students. Reason \" R \" : By increasing redundancy, we can improve the fidelity of communication",
+    "options": [
+      "Both \"A\" and \"R\" are true, but \"R\" is not the correct explanation of \"A\".",
+      "\"A\" is false, but \" R \" is true.",
+      "\"A\" is true, but \" R \" is false.",
+      "Both \"A\" and \"R\" are true."
+    ],
+    "correctIndex": 0,
+    "explanation": "of \"A\". Explanation: Assertion (A): \"Classroom communication involves the clear decoding of messages by the students.\" This statement is true because effective classroom communication relies on students accurately understanding (decoding) the teacher’s messages. Reason (R): \"By increasing redundancy, we can improve the fidelity of communication.\" This statement is also true. Redundancy in communication (e.g., repeating",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-038",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "If the proposition 'No dog is quadruped' is false which one among the following propositions can be claimed certainly to be true?",
+    "options": [
+      "Some dogs are quadruped.",
+      "Some dogs are not quadruped.",
+      "All dogs are quadruped",
+      "All dogs are biped"
+    ],
+    "correctIndex": 0,
+    "explanation": "The proposition \"No dog is quadruped\" is a universal negative statement (E-type proposition) that denies any dog being a quadruped. Since this statement is given as false, its contradictory must be true. The contradictory of \"No dog is quadruped\" is \"Some dogs are quadruped,\" which is an I-type proposition (a particular affirmative statement). In logic, for any universal negative statement (E- type), if it is false, then the particular affirmative statement (I-type) must be true.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-039",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Consider the statements (a), (b), (c) and (d) given below. Which one of the codes contains the correct statements only? (a) Venn diagram is a clear method of notation. (b) To diagram a standard form of a categorical proposition, three overlapping circles are drawn. (c) To test a categorical syllogism, two overlapping circles are drawn. (d) Venn diagram is a method of testing the validity of categorical syllogisms.",
+    "options": [
+      "(a) and (d) only",
+      "(a), (b) and (d)",
+      "(a) and (b) only",
+      "(a), (b) and (c) only"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) Venn diagram is a clear method of notation. This statement is correct. Venn diagrams provide a visual and clear method of representing relationships between sets. (b) To diagram a standard form of a categorical proposition, three overlapping circles are drawn. This statement is correct in the context of categorical syllogisms involving three terms (e.g., major term, minor term, and middle term). For a standard syllogism, three overlapping circles are typically used. (c) To test a categorical syllogism, two overlapping circles are drawn. This statement is incorrect because testing a categorical syllogism generally requires three overlapping circles, representing three terms in the syllogism. (d) Venn diagram is a method of testing the validity of categorical syllogisms. This statement is correct as Venn diagrams are often used to assess the logical validity of categorical syllogisms b",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-040",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Given below are two premises. Four conclusions are drawn from them (taking singly or together). Select the code that states the validly drawn conclusions. Premises: (i) Some flowers are red. (ii) All roses are flowers. Conclusions: (a) Some roses are red. (b) Some red things are flowers. (c) Some flowers are roses. (d) All roses are red.",
+    "options": [
+      "(b) and (c) only",
+      "(a), (b) and (c) only",
+      "(c) and (d) only",
+      "(a) and (b) only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conclusion (a): \"Some roses are red.\" This conclusion is not necessarily true. The premises do not specify that roses must be among the red flowers. Some red flowers could be other types of flowers, not necessarily roses. So, this conclusion cannot be definitively drawn. Conclusion (b): \"Some red things are flowers.\" This conclusion is valid. Since \"Some flowers are red,\" it follows that \"some red things\" are indeed flowers. This conclusion is correct. Conclusion (c): \"Some flowers are roses.\" This conclusion is valid. Since \"All roses are flowers\" and \"Some flowers are red,\" it is possible that some of those red flowers could be roses, even though we can't definitively conclude that all red flowers are roses. But the possibility exists that some flowers are roses. Conclusion (d): \"All roses are red.\" This conclusion is not valid because the premises do not provide enough information to ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-041",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Fleeting changes that occur in facial expressions of teachers in a classroom are described as:",
+    "options": [
+      "Informational-momentary movements",
+      "Macro-momentary movements",
+      "Micro-momentary movements",
+      "Significant-momentary movements"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fleeting changes that occur in facial expressions, often observed as very brief or subtle shifts in emotion or response, are described as micro-momentary movements. These are quick, involuntary facial expressions that can reflect underlying emotional states and are typically very short-lived, lasting only a fraction of a second. These movements are often used to convey emotional cues in communication.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-042",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "You have recently joined a new office. Walking at 5km/hour , you reach the office from your 3km/ house 15 minutes early and walking at hour, you are late by 9 minutes. The distance between your house and office is :",
+    "options": [
+      "5 km",
+      "3 km",
+      "2 km",
+      "8 km"
+    ],
+    "correctIndex": 1,
+    "explanation": "Let the distance between your house and office be d km and let the time it takes to reach the t office on time be hours. Case 1: Walking at 5 km/hour - If you walk at 5 km/hour, you reach the office 15 minutes early. d The time taken in this case is hours. 5 Since you are 15 minutes early, the time difference between the actual time and the early 15 1 arrival is 15 minutes, or = hours. 60 4 Therefore: d 1 t = − 5 4 Case 2: Walking at 3 km/hour - If you walk at 3 km/hour, you are 9 minutes late. d The time taken in this case is hours. 3 Since you are 9 minutes late, the time difference 9 3 is = hours. 60 20 Therefore: d 3 t = + 3 20 Solving the system of equations: 1. From the first equation: d 1 t = − 5 4 t Solving for : d 1 t = + 5 4 t 2. Substitute this value of into the second equation: d d ( 1 ) 3 = + + 3 5 4 20 First, simplify the right side: d d 1 3 = + + 3 5 4 20 Find a common den",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-043",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Choose the correct alternative to replace the question mark (?). 42 →26 71 →78 33 →16 62 →?",
+    "options": [
+      "54",
+      "68",
+      "38",
+      "39"
+    ],
+    "correctIndex": 2,
+    "explanation": ", let's walk through the logic step by step: Given Pairs: - 42 →26 : - The difference between the digits is (i.e., 2 4 −2 = 2 ). - Sum of the digits 4 + 2 = 6 . - 71 →78 : - The difference between the digits is 7 (i.e., ). 7 −1 = 7 - Sum of the digits 7 + 1 = 8 . - : 33 →16 - The difference between the digits is 1 (i.e., 3 −3 = 1 ). - Sum of the digits . 3 + 3 = 6 For 62 →? : - The difference between the digits is 3 (i.e., ). 6 −2 = 3 - Sum of the digits 6 + 2 = 8 . Therefore, the number corresponding to 62 should be 38 , as the sum of digits equals 8 and the difference between the digits is 3. Thus, the correct answer is: D. 38.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-044",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "A's mother is sister of B and daughter of C. D is daughter of B and sister of E. How is C related to E ?",
+    "options": [
+      "Aunt",
+      "Grandmother",
+      "Sister-in-law",
+      "Mother"
+    ],
+    "correctIndex": 1,
+    "explanation": "1. A's mother is the sister of B and daughter of C. This means A's mother is B's sister and C's daughter. So, C is A's grandmother. 2. D is the daughter of B and sister of E. This means D and E are siblings, and their mother is B. Now, the question asks how C is related to E: Since C is B's mother (as established earlier), and B is E's mother, it follows that C is E's grandmother. Thus, the correct answer is: B. Grandmother.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-045",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "A deductive argument is invalid if:",
+    "options": [
+      "Its premises and conclusions are all false.",
+      "Its premises are all true but its conclusion is false.",
+      "Its premises are all false but its conclusion is true.",
+      "Its premises and conclusions are all true."
+    ],
+    "correctIndex": 1,
+    "explanation": "A deductive argument is invalid if the premises do not guarantee the conclusion. This means that it is possible for the premises to be true and the conclusion false. In deductive reasoning, if the premises are true and the argument is valid, the conclusion must necessarily be true. Therefore, if the premises are true and the conclusion is false, the argument is invalid. Option A (\"Its premises and conclusions are all false\") doesn't necessarily indicate an invalid argument. The argument can still be valid if the reasoning is logically sound, even if the premises and conclusion are false. Option C (\"Its premises are all false but its conclusion is true\") doesn't affect validity; it is possible to have a valid argument with false premises and a true conclusion, but the reasoning is still not logically guaranteed. Option D (\"Its premises and conclusions are all true\") is possible in a valid",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-051",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Theory of form and allegory of caves is related with",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Machiavelli",
+      "Hobbes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plato's Theory of Forms is a philosophical concept that suggests there is a higher, unchanging reality that consists of abstract, perfect \"forms\" or \"ideas\" of things. According to Plato, everything in the physical world is an imperfect copy or reflection of these ideal forms. Plato uses the Allegory of the Cave in 'The Republic' to demonstrate his ideas about reality, knowledge, and enlightenment. In this theory, inmates shackled in a cave can only see shadows on a wall, which they consider to be the real world. One prisoner discovers that the shadows are only reflections of a more genuine world once he breaks free and sees the outer world.The path from ignorance to knowledge is symbolized by this allegory, which implies that most people are only conscious of the shadows or surface-level elements of reality. Philosophical investigation is the only way for them to comprehend the higher t",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-052",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Arthashastra is known as",
+    "options": [
+      "Shruti",
+      "Smriti",
+      "Samhita",
+      "Nitishastra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Arthashastra is an ancient Indian treatise on statecraft, economics, and political science. It is attributed to the scholar Kautilya (also known as Chanakya). Arthashastra is considered one of the most important works in the tradition of Nitishastra, which is a genre of ancient Indian literature that deals with political science, ethics, and statecraft. Nitishastra is a Sanskrit term that means \"science of politics\" or \"politics and ethics\". It encompasses a range of texts that provide guidance on governance, statecraft, and political ethics. While Arthashastra is an important work in the tradition of Nitishastra, it is not the only text that is classified as Nitishastra. Other works, such as the Kamandaka's Nitisara and the Sukra Nitisara, are also considered part of this genre.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-053",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Vandana Shiva is known as",
+    "options": [
+      "Post Modernist",
+      "Marxist",
+      "Eco-feminist",
+      "Conservatist"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indian novelist, academic, and environmental activist Vandana Shiva is well-known for her support of causes like social justice, biodiversity preservation, and environmental protection. Her work relating feminism and environmental issues—known as eco-feminist—has earned her special recognition. Eco-feminism is a subset of feminism that looks at the links between women's oppression and environmental exploitation, seeing both as intertwined systems of capitalism and patriarchal societies' dominance. According to Vandana Shiva, women are marginalized and exploited by the same structures that take advantage of the environment, especially in rural and agricultural communities. She has opposed corporate seed monopolies, large-scale industrial agriculture, and crop genetic modification in favor of sustainable agricultural methods that uphold the rights of women and the environment.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-054",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following freedoms was not mentioned by Roosevelt?",
+    "options": [
+      "Freedom of speech",
+      "Freedom of worship",
+      "Freedom from fear",
+      "Freedom against exploitation"
+    ],
+    "correctIndex": 3,
+    "explanation": "U.S. President Franklin D. Roosevelt in his 1941 State of the Union Address listed four fundamental human freedoms. These were: 1. Freedom of Speech – The right to express oneself freely. 2. Freedom of Worship – The right to practice one's religion freely. 3. Freedom from Want – The right to an adequate standard of living, including economic security. 4. Freedom from Fear – The right to live without the threat of violence or oppression. These four liberties were later included in the Universal Declaration of Human Rights and became fundamental principles. Therefore, Roosevelt's Four Freedoms did not include freedom from exploitation. Although it is an important human rights issue, particularly when considering labor rights and anti-colonial movements, Roosevelt did not mention it in his address.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-055",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who is not a supporter of Libertarianism?",
+    "options": [
+      "Robert Nozick",
+      "Milton Friedman",
+      "Robert. Dahl",
+      "F.A. Hayek"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Robert Nozick: Nozick is one of the well- known proponents of libertarianism. In his book 'Anarchy, State, and Utopia', he argues for a minimal state for protecting individuals' rights to life, liberty, and property, which aligns closely with libertarian principles. (B) Milton Friedman: An economist and strong advocate of free-market principles, Friedman supported individual liberty and minimal government intervention in the economy. (C) F.A. Hayek: Hayek, a notable economist and political philosopher, argued against central planning and government control, supporting a free-market system and individual freedom, making him a proponent of libertarian thought. (D) Robert Dahl: Unlike the others, Dahl was a political scientist known for his work on democracy and pluralism rather than libertarianism. He advocated for inclusive, participatory democracy and believed in a more active role f",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-056",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The best propounder of 'Pluralist Theory of Citizenship' was:",
+    "options": [
+      "T.H. Marshal",
+      "Anthony Giddens",
+      "B.S. Turner",
+      "David Held"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) T.H. Marshall: Known for his theory of citizenship based on civil, political, and social rights, but not primarily a pluralist perspective. (B) Anthony Giddens: Known for his work on modernity, not specifically focused on pluralist citizenship. (C) B.S. Turner: Renowned sociologist Bryan S. Turner made a substantial contribution to the pluralist philosophy of citizenship. His work on citizenship examines the ways in which many social elements influence citizenship and emphasizes the significance of rights, cultural diversity, and the complexity of contemporary identity in comprehending citizenship. By acknowledging that citizenship is a multifaceted term influenced by a wide range of social, economic, and cultural factors, Turner's method exemplifies pluralism and promotes a more inclusive and varied view of what it means to be a citizen. (D) David Held: Known for his work on cosmopo",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-057",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "\"Distributive Justice is mainly concerned with distribution of honours or wealth\". Who said it?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Marx",
+      "Gramsci"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Plato: Plato discussed justice in a broader sense, focusing on harmony within the individual and the state rather than the specific idea of distributive justice. (B) Aristotle: Aristotle is the philosopher who introduced the concept of distributive justice, particularly in his work 'Nicomachean Ethics'. He described distributive justice as primarily concerned with the fair distribution of resources, honours, or wealth among members of a community based on merit or contribution (C) Marx: Karl Marx criticized capitalist distributions of wealth, emphasizing equality and class struggle but did not frame his arguments in terms of distributive justice as Aristotle did. (D) Gramsci: Antonio Gramsci, a Marxist theorist, focused more on cultural hegemony and the role of ideology rather than theories of justice and wealth distribution. Therefore, correct option is B",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-058",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who had condemned utilitarianism in his Theory of justice?",
+    "options": [
+      "Plato",
+      "Havel",
+      "Rawls",
+      "Milton"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Rawls criticized utilitarianism in his influential work, A Theory of Justice (1971). Rawls argued that utilitarianism, which aims to maximize overall happiness or utility, can lead to unjust outcomes. It allows for the sacrifice of individuals' rights and welfare, if doing so would increase the total happiness of society. Rawls’ Criticism of Utilitarianism in His Theory of Justice: Rawls believed that justice should be based on principles that respect individual rights and provide fair treatment for all, rather than merely focusing on maximizing collective happiness. He proposed the principles of justice as fairness, which includes two main principles: the equal liberty principle (everyone has an equal right to basic liberties) and the difference principle (inequalities are acceptable only if they benefit the least advantaged in society). Rawls argued that utilitarianism could justi",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-059",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which among the following is the full title of the book written by Mary Wollstonecraft?",
+    "options": [
+      "A Vindication of the Rights of Women",
+      "A Vindication of the Rights of Women with Strictures on Political and Moral Subjects",
+      "Reflections on the French Revolution",
+      "A Vindication of the Rights of Human Beings"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mary Wollstonecraft's seminal work, A Vindication of the Rights of Women with Strictures on Political and Moral Subjects, was published in 1792. The book is considered one of the earliest works of feminist philosophy, laying the groundwork for future movements for women’s rights. In this work, Wollstonecraft challenges the dominant social standards that limited women's positions in society and makes the case for women's equality and education. Wollstonecraft fought for women's rights, particularly the right to education because she felt that educated women might make significant contributions to society and enhance family relationships. She argues that women should be viewed as rational individuals with the same capacity for thought as men, criticizing the ways in which they are trained to be obedient and dependent.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-060",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who said, \"Every state is known by the rights that it maintains\"?",
+    "options": [
+      "Laski",
+      "Green",
+      "Hegel",
+      "Barker"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Every state is known by the rights that it maintains,\" is credited to Harold J. Laski. Laski was a renowned British political theorist and had a pivotal role in twentieth-century political thinking. His thinking emphasized the importance of individual rights and liberties, and he believed that a state's legitimacy and moral standing were heavily influenced by how successfully it protected its inhabitants' rights. This perspective aligns with his support for democratic socialism, which emphasizes social justice and the protection of individual liberties. The quote reflects Laski's belief in the centrality of rights in defining the ethical nature of a state. Laski maintained that the state's function is not just to preserve order, but also to protect individual liberties and social rights. In his opinion, the rights that a state recognizes and protects are a reflection of its beliefs and ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-061",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which incident made Periyar an Atheist?",
+    "options": [
+      "Self Respect Movement",
+      "Kashi Pilgrimage Incident",
+      "Dravida National Movement",
+      "Discrimination in society"
+    ],
+    "correctIndex": 1,
+    "explanation": "E.V. Ramasamy, well known as Periyar, was a renowned social reformer and activist from Tamil Nadu, India. He was once a devoted Hindu, but the Kashi Pilgrimage Incident had a tremendous impact on him, ultimately leading him to atheism. During his visit to Kashi (Varanasi), a famed Hindu city, Periyar experienced severe caste prejudice. He was outraged to witness upper- caste Hindus treat lower-caste people with contempt, denying them access to food, water, and shelter merely because of their caste. This event caused him to doubt the fundamentals of Hinduism and its caste-based customs, prompting him to reject the notion of a religion that perpetuates inequity and social injustice. Following this episode, Periyar became an outspoken opponent of religious orthodoxy and caste inequality. He later created the Self- Respect Movement to advocate rationalism, egalitarianism, and atheism while c",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-062",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "When was Jaiprakash Narayan awarded Bharat Ratna?",
+    "options": [
+      "1999",
+      "1998",
+      "1997",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jayaprakash Narayan, commonly known as JP, was a notable Indian freedom fighter, social reformer, and political leader best remembered for his involvement in the Quit India Movement and later for spearheading the resistance to Indira Gandhi's Emergency in the 1970s. His appeal for a \"total revolution\" galvanized a generation of Indians to demand democracy, and social fairness. In 1999, he was posthumously granted India's highest civilian award, the Bharat Ratna. This honored his lifelong contributions to Indian society, particularly his support for democracy, efforts in social reform, and leadership in the fight for civil freedoms during the Emergency. His commitment to democracy and social justice has a long-term impact on Indian politics and society.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-063",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In which year did Rabindranath Tagore surrender the knighthood as a protest against Jallianwala Bagh Massacre?",
+    "options": [
+      "1919",
+      "1924",
+      "1935",
+      "1937"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rabindranath Tagore gave up his knighthood in 1919 as a protest against the Jallianwala Bagh Massacre. On April 13, 1919, British Brigadier General Reginald Dyer ordered his troops to open fire on an unarmed gathering of Indian men, women, and children in Amritsar, Punjab,",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-064",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following is not related to Kabir?",
+    "options": [
+      "Begampura",
+      "Bhakti",
+      "Panchvani",
+      "Gender inequality"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Begampura is not directly related to Kabir. Begampura is a term associated with Guru Ravidas, a 15th-century Indian mystic, poet, and saint who, like Kabir, belonged to the Bhakti movement. The term \"Begampura\" refers to Ravidas' idealistic city or utopia, which is free of grief, pain, and discrimination. Ravidas envisioned Begampura as a casteless, classless society in which everyone might coexist peacefully and equally. (B) Bhakti: Kabir was a key figure in the Bhakti movement, which emphasized devotion to God over conventional activities and advocated for a personal, direct relationship with the divine. While Kabir's teachings and poems were part of the Bhakti movement, they focused on other principles such as the need of a direct connection with the divine, the critique of ritualism, and the rejection of caste and religious divisions. (C) Panchvani is a compilation of poetry attr",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-065",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In which year, Government of India decided to observe the birthday of Swami Vivekananda as the National Youth Day?",
+    "options": [
+      "1984",
+      "1985",
+      "1986",
+      "1987"
+    ],
+    "correctIndex": 0,
+    "explanation": "In 1984, the Government of India declared Swami Vivekananda's birthday as National Youth Day. This decision was taken to recognize Vivekananda's contributions to Indian society and his effect on young people. Swami Vivekananda, a notable Hindu monk, spiritual leader, and philosopher, was born on January 12, 1863, and emphasized the role of youth in nation-building, self-confidence, and spirituality. He influenced generations with his beliefs about service, self-discipline, and commitment to the well-being of others. Swami Vivekananda's birthday has been honored as National Youth Day in India every year since January 12, 1985. The government picked this day to encourage young people to follow his goals and teachings, with the goal of instilling in them traits like leadership, motivation, and moral values.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-066",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who is the author of the book \"Escape from Freedom\"?",
+    "options": [
+      "Herbert Marcuse",
+      "Erich Fromm",
+      "Jurgen Habermas",
+      "Thomas Friedman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erich Fromm, a well-known German social psychologist, psychotherapist, sociologist, and philosopher, wrote \"Escape from Freedom\" (first published in 1941). The book delves into the meaning of freedom in the modern world, as well as its psychological and social repercussions. According to Fromm, while historical changes such as the Renaissance, Reformation, and Enlightenment liberated people from conventional authorities and restraints, they also experienced emotions of isolation, insecurity, and impotence. These impulses may cause people to abandon their freedom in favor of authoritarianism, conformism, or destructive actions. The book is regarded as a significant contribution to the fields of social psychology and political philosophy, providing insights into the relationship between individuality, freedom, and societal systems.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-067",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The author of the book \"Nation and Nationalism\" is:",
+    "options": [
+      "Ernest Gellner",
+      "Hans.J. Morganthau",
+      "J.S. Coleman",
+      "Rajni Kothari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ernest Gellner, a well-known philosopher and social anthropologist, wrote the book \"Nations and Nationalism\". This book, published in 1983, is considered a landmark work in the study of nationalism. Gellner develops a thorough theoretical framework for explaining the origin and spread of nationalism in modern countries. Nationalism as a Product of Modernization: Gellner contends that nationalism is the product of the shift from rural to industrial cultures. He highlights the need of education, communication, and cultural standardization in forming a national identity. The role of industrialization: According to Gellner, industrial societies demand a homogeneous culture for effective communication, which contributes to the establishment of national identities. Critique of Primordialism: Gellner questions the notion that countries are ancient and natural. Instead, he views them as modern c",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-068",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following is not correct?",
+    "options": [
+      "Nation is psychological concept",
+      "State is legal concept",
+      "Nationalism is attribute of Nation",
+      "Nation and state are co-terminus"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Nation is a psychological concept is right. A nation is sometimes regarded as a psychological or cultural term that conveys a common identity among people based on shared culture, language, history, or ideals. B. State is a legal concept: That is right. The state is a legal body with formal institutions, laws, governance, and recognized by other governments. C. Nationalism is an attribute of the nation: This is right. Nationalism is a political ideology or movement that attempts to advance the interests and identity of a specific nation. It is directly related to the concept of nationhood and the desire for self-determination. D. Nation and state are co-terminus: Incorrect. While the phrases \"nation\" and \"state\" are sometimes used interchangeably, particularly in political conversations, they are separate concepts that are not always coterminous. Nation is a collective identity of peo",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-069",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The book \"Political Order in Changing Societies\" is written by:",
+    "options": [
+      "Lucian Pye",
+      "G.A. Almond",
+      "Ernest Barker",
+      "S.P Huntinoton"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book \"Political Order in Changing Societies\" was written by Samuel P. Huntington and published in 1968. In this influential work, Huntington explores how political stability and development occur in societies undergoing rapid social and economic modernization. He argues that political order is not guaranteed during modernization and emphasizes the importance of strong institutions to manage the social changes that accompany economic growth. The book critiques the assumption that economic development automatically leads to democracy and political stability. He argues that without robust institutions, modernization can lead to chaos, as new social forces emerge and traditional structures lose their influence.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-070",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The book \"Aspects of Political Development\" is written",
+    "options": [
+      "Lucian Pye",
+      "G.A. Almond",
+      "G.H. Sabine",
+      "Maurice Duverger"
+    ],
+    "correctIndex": 0,
+    "explanation": "The book \"Aspects of Political Development\" was written by Lucian Pye, a prominent political scientist known for his contributions to the study of political development and modernization. In this book, Pye explores the process of political development in emerging nations, particularly in the context of modernization during the mid- 20th century. Key themes in the book include: Modernization and Political Development: Pye examines how traditional societies transition to modern political systems and the challenges they face during this transformation. Nation-Building: He highlights the importance of creating national identity and integrating diverse groups into a unified political system. Institutionalization: Pye emphasizes the need for strong, adaptable political institutions to manage societal changes and maintain stability.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-071",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "According to G.A. Almond comparatively \"Homogenous culture\" is found in",
+    "options": [
+      "Developed countries",
+      "Underdeveloped countries",
+      "Developing countries",
+      "Least developed countries"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to Gabriel A. Almond, developed countries are more likely to have a homogeneous political culture because they tend to have higher levels of socio-economic development, education, and integration. These factors contribute to a shared set of values, norms, and attitudes toward politics and governance,",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-072",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which one of the following is not a function of political parties?",
+    "options": [
+      "Socialisation and Recruitment",
+      "Interest articulation",
+      "Interest aggregation",
+      "Rule adjudication"
+    ],
+    "correctIndex": 3,
+    "explanation": "Political parties play a vital role in the functioning of a democratic political system. Their main functions include: (A) Socialisation and Recruitment: Political parties educate citizens about political values and norms and recruit individuals into political roles, helping integrate people into the political system. (B) Interest Articulation: Parties express and advocate for the interests and demands of various societal groups, acting as a bridge between the public and the government. (C) Interest Aggregation: Parties combine and reconcile different demands and interests into coherent policy proposals and platforms to be pursued by the government. (D) Rule adjudication refers to the interpretation and enforcement of laws, which is primarily the role of the judiciary(courts and judges). Political parties are not responsible for adjudicating laws; their primary role lies in influencing l",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-073",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which one of the following is incorrect statement?",
+    "options": [
+      "Globalisation means internationalization of economy",
+      "Globalisation gives emphasis on market economy",
+      "Globalization gives rise to international institutions to supervise economy",
+      "Globalisation tends to perpetuate parochial culture"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Globalisation means internationalization of economy: This is correct. Globalisation involves increased interconnectedness and interdependence of economies through trade, investment, and technology. (B) Globalisation gives emphasis on market economy: This is correct. Globalisation often promotes free-market principles, reducing barriers to trade and encouraging competition. (C) Globalisation gives rise to international institutions to supervise economy: This is correct. Institutions like the IMF, World Bank, and WTO play significant roles in overseeing global economic activities and regulations. (D) Globalisation tends to perpetuate parochial culture: This is incorrect. Globalisation is known for spreading diverse cultural influences, often leading to cultural homogenization or hybridization, rather than perpetuating narrow, local (parochial) cultures. It tends to expose societies to ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-074",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who had formed the \"Society for right to die with dignity\"?",
+    "options": [
+      "Jai Prakash Narayan",
+      "Minoo Masani",
+      "Krishna Ayyar",
+      "Medha Patkar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minoo Masani, an Indian politician, writer, and advocate for individual liberty, founded the \"Society for the Right to Die with Dignity\". This organization was established to promote the idea of euthanasia and the right of terminally ill individuals to choose a dignified death rather than prolonged suffering. The society promoted the idea that individuals suffering from terminal illnesses or irreversible medical conditions should have the right to choose a dignified death. This was in opposition to prolonging life through artificial or painful medical interventions.The society sought to raise awareness about the ethical and legal dimensions of end-of-life decisions.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-075",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who had differentiated between natural and conventional inequality?",
+    "options": [
+      "Hobbes",
+      "Locke",
+      "Rousseau",
+      "Bentham"
+    ],
+    "correctIndex": 2,
+    "explanation": "In his work \"The Social Contract\", Jean-Jacques Rousseau made a significant distinction between two types of inequality: Natural Inequality: This refers to inequalities that arise from differences in physical characteristics, such as strength, intelligence, or age. Rousseau believed that natural inequality was inherent to humans and was generally inevitable. Conventional Inequality: Also known as \"social inequality\", this refers to inequalities that are created by society, particularly through institutions, laws, and social norms. Rousseau argued that conventional inequality is the",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-076",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Kyoto Protocol was enforced in:",
+    "options": [
+      "1997",
+      "2000",
+      "2005",
+      "2006"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Kyoto Protocol was adopted on December 11, 1997, in Kyoto, Japan, but it did not come into force until February 16, 2005, after being ratified by more than 140 countries. The Kyoto Protocol is an international treaty that aims to reduce greenhouse gas emissions and mitigate climate change. It sets binding targets for developed countries to reduce their emissions of six greenhouse gases, such as carbon dioxide and methane, by an average of 5% below 1990 levels over the period 2008- 2012. The other options are incorrect: A: 1997 is the year the protocol was adopted, not enforced. B: 2000 is not a significant year related to the Kyoto Protocol's enforcement. D: 2006 is not the correct year either, as the protocol was already in force since 2005.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-077",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "When did International Labour Organization become a specialized agency of the United Nations Organization?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctIndex": 1,
+    "explanation": "The International Labour Organization (ILO) became a specialized agency of the United Nations (UN) on 1st March 1946. The ILO had originally been established in 1919 as part of the League of Nations, but after the establishment of the United Nations, it transitioned to being one of the specialized agencies of the UN. The ILO's primary purpose is to promote social justice and fair labor standards worldwide, addressing issues like workers' rights, fair wages, and improving working conditions across the globe.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-078",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "From legal point of view which of the following is called a \"soft law\"?",
+    "options": [
+      "Right to Environment",
+      "Right to Development",
+      "Right to Health",
+      "Right to Privacy"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Soft law\" refers to legal instruments that are not legally binding in the same way as treaties or statutes but are still influential and can shape norms and practices. They often take the form of declarations, guidelines, or resolutions adopted by international organizations. Right to Development is often considered \"soft law\" because, while it has been recognized in various international declarations (e.g., the UN Declaration on the Right to Development, 1986), it is not legally enforceable like a treaty or a binding international law. Instead, it provides guiding principles and aspirations for the development of human rights. In contrast, rights like the Right to Environment, Right to Health, and Right to Privacy may be articulated in both soft law documents and legally binding treaties, making them less clearly categorized as \"soft law\" in a legal sense.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-079",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "In which year UNESCO was set up?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctIndex": 0,
+    "explanation": "The United Nations Educational, Scientific and Cultural Organization (UNESCO) was established on November 16, 1945, in the aftermath of World War II. Its primary goal is to promote peace, security, and sustainable development through international cooperation in education, science, culture, and communication. UNESCO's work includes fostering cultural understanding, preserving heritage, supporting educational initiatives, and promoting freedom of expression, among other objectives.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-080",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "On which of the following date, India joined as a member of the United Nations Human Rights Council?",
+    "options": [
+      "1 August 2019",
+      "1 June 2019",
+      "1 January 2019",
+      "1 July 2019"
+    ],
+    "correctIndex": 2,
+    "explanation": "India has been elected to the United Nations Human Rights Council (UNHRC) for a period of three years beginning January 1, 2019. The elections for selecting new members to UN Human Rights Council (UNHRC) were held at the United Nations in which the 193- members of the UN General Assembly took part. India received 188 votes in the Asia-Pacific category. India was vying for a seat in the Asia Pacific category, which has 5 seats in UNHRC. Along with India, Bahrain, Bangladesh, Fiji, and the Philippines were also elected to UNHRC from Asia-Pacific. India has previously served in Human Rights Council from 2011-2014 and 2014-2017. The Human Rights Council is responsible for promoting and protecting human rights around the globe, and India’s involvement further emphasizes its commitment to supporting international human rights efforts.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-081",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The term \"Sanskritisation\" was coined by",
+    "options": [
+      "M.N. Srinivas",
+      "M.S. Golwalkar",
+      "S.P. Mukheriee",
+      "Andre Beteille"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) M. N. Srinivas : Sanskritisation means the process of a lower caste or community to make its social, cultural, and religious practices similar to those of higher castes, especially Brahmins. It is seen as a means of social mobility in Indian society. The term and concept were first coined by Indian sociologist M. N. Srinivas in the 1950s. He explained it in detail in his book \"Religion and Society among the Coorgs of South India\" (1952). According to him, the lower castes try to improve their status in society by adopting the traditions, customs, and lifestyle of the higher castes. Explanation of other options: (B) M. S. Golwalkar: M. S. Golwalkar was a prominent ideologue and the second Sarsanghchalak of the Rashtriya Swayamsevak Sangh (RSS). His focus was on Hindutva and cultural nationalism, but he did not coin the term \"Sanskritisation\". (C) S. P. Mukherjee: Dr. Syama Prasad Mukh",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-082",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which Article of the Indian Constitution provides power to the President to promulgate ordinances?",
+    "options": [
+      "Article 123",
+      "Article 221",
+      "Article 222",
+      "Article 223"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Article 123: Power of the President to issue Ordinances 1. Provisions - Article 123 of the Indian Constitution empowers the President to issue Ordinances in case of urgent need, when Parliament is not in session. 2. Conditions - Parliament not in session: Ordinances can be issued only when either House of Parliament (Lok Sabha or Rajya Sabha) is not in session. Urgent need: The President has to ensure that there are circumstances which demand urgent action to make a law. 3. Duration of Ordinance - Ordinances remain in force until the next session of Parliament begins. The ordinance must be approved by the Parliament within 6 weeks of the commencement of the next session of Parliament, otherwise it lapses. Explanation of other options: B. Article 221: This article deals with the salaries and service conditions of the judges of the High Courts of India. It has nothing to do with issuing",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-083",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following statements about the powers of the President is correct?",
+    "options": [
+      "He presides over the meetings of the Zonal Councils",
+      "He is the head of the Inter State Council",
+      "He can disqualify a member of Parliament under Art. 102 on the recommendation of the Election Commission",
+      "He can declare national emergency at his discretion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Option A: He presides over the meetings of the Zonal Councils: This statement is incorrect. Zonal Councils are formed to promote cooperation between different regions of India. These councils are chaired by the Union Home Minister, not the President. Option B: He is the head of the Inter State Council: This statement is incorrect. The Inter State Council has been formed under Article 263 of the Indian Constitution to establish coordination between the Center and the States. The Chairman of this council is the Prime Minister, not the President. Option C: He can disqualify a member of Parliament under Article 102 on the recommendation of the Election Commission: Article 102 of the Constitution lays down the conditions for the disqualification of an MP. If the question of disqualification of an MP arises, the President takes the decision, but this decision is based on the recommendation of ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-084",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who defined Public Administration as \"the art and science of management applied to the affairs of the state\"?",
+    "options": [
+      "L.D. White",
+      "H. Simon",
+      "D. Waldo",
+      "Pfiffner and Presthus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dwight Waldo defined public administration as \"the art and science of management applied to the affairs of the state\". Waldo did not consider the study of public administration to be limited to technical or management skills, but looked at it in broader social and ethical terms. According to him, public administration should coordinate efficiency as well as morality and public interest. Dwight Waldo's main contribution was to focus the study of public administration on the balance between management and politics. His book \"The Administrative State\" (1948) is a major source of his ideas in public administration.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-085",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The sequencing of communication process in organisation is:",
+    "options": [
+      "Sender, message, receiver, encoding",
+      "Message, channel, feedback, encoding",
+      "Sender, encoding, decoding, receiver",
+      "Sender, encoding, message, channel"
+    ],
+    "correctIndex": 3,
+    "explanation": "- Option (D) : The sequence of communication process in an organisation is Sender, encoding, message, channel. The communication process consists of the following steps: Sender: The sender is the person or organisation who initiates the communication. Encoding: The sender converts the message into some symbolic form (such as words, pictures, signs, etc.) so that the message can be transmitted. Message: It is the information or idea that the sender wants to convey to the receiver. Channel: It is the medium through which the message reaches the receiver, such as verbal conversation, email, letter, or any other medium. Explanation of the other options - Option (A): Sender, message, receiver, encoding: This sequence is wrong because encoding takes place between the sender and the message. Unless the message is encoded, it cannot be sent effectively. Option (B): Message, channel, feedback, en",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-086",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Who defined leadership as \"the ability of a manager to induce subordinates to work with zeal",
+    "options": [
+      "Koontz and O'Donnell",
+      "Chester Bernard",
+      "M.P. Follet",
+      "Peter Drucker"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leadership is extremely important for the success of an organization and achieving its goals. It transforms possibility into reality and is an important part of management. (A) Koontz and O'Donnell- \"Leadership is the ability of a manager to inspire his subordinates to work with passion and enthusiasm\". This statement highlights the motivational aspect of leadership, in which a manager gets his team to work by filling them with energy and enthusiasm. (B) Chester Bernard- \"Leadership refers to the behavioral qualities of individuals, where they guide people in their actions in organized efforts\". According to Bernard, the main purpose of leadership is to conduct tasks in an organized manner and guide the group members in the right direction. (C) Mary Parker Follett- \"The leader not only influences the group, but he himself is influenced by the group\". Follett called this interrelationship",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-087",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Under which constitutional provision, elections to Panchayati Raj Bodies are conducted in India?",
+    "options": [
+      "Article 243 J",
+      "Article 243 K",
+      "Article 243 L",
+      "Article 243 M"
+    ],
+    "correctIndex": 1,
+    "explanation": "Article 243K deals with the election to Panchayat Raj institutions. It states that: The State Election Commission shall be responsible for conducting elections to Panchayats and Municipalities.The Governor shall constitute a State Election Commission consisting of a State Election Commissioner.This Commission shall be independently responsible for conducting elections to Panchayats and Municipal bodies.The Commission has to ensure that the elections are held in a timely and fair manner. Articles 243 to 243 O: Article 243: Defines panchayats Article 243A: Deals with the Gram Sabha, which can perform functions and exercise powers at the village level Article 243B: Deals with the constitution of panchayats, which are established at the village, intermediate, and district levels in each state Article 243C: Deals with the composition of panchayats, and the ratio between the population of a pa",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-088",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Name the editor of the book, \"Towards a New Public Administration-Minnowbrook\" :",
+    "options": [
+      "James Charlesworth",
+      "Frank Marini",
+      "W.F. Willoughby",
+      "Frank J. Goodnow"
+    ],
+    "correctIndex": 1,
+    "explanation": "The editor of the book \"Towards a New Public Administration: The Minnowbrook Perspective\" is Frank Marini. This book is based on the ideas of the Minnowbrook Conference in 1968, which marks the rise of New Public Administration in public administration. This book emphasizes social equity, relevance, and humanistic approach to public administration. Explanation of other options: (A)James Charlesworth: James Charlesworth's main contribution focuses on the humanistic approach to public administration. He believed that administration is not limited to rules and procedures, but it is for the service of the people and their welfare. Main Idea: Public administration should be linked with human values. The administrative process should include ethics and social justice. Public interest should be given priority while taking decisions. Organizations should be seen as a living entity and not a mach",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-089",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which constitutional provision provides for formation of a Gram Sabha?",
+    "options": [
+      "Article 243 A",
+      "Article 243 B",
+      "Article 243 C",
+      "Article 243 D"
+    ],
+    "correctIndex": 0,
+    "explanation": "The provision of the Constitution that provides for the formation of Gram Sabha is Article 243 A. Article 243 A specifically deals with the Gram Sabha, stating that the Gram Sabha shall be the body consisting of all the registered voters of a village or group of villages. It empowers the Gram Sabha to perform functions related to local administration, such as monitoring, deciding on development works and participation in Panchayat elections. Explanations of the other options: Option B (Article 243 B): This Article deals with the formation of Panchayats. Option C (Article 243 C): This Article deals with the composition of Panchayats. Option D (Article 243 D): This Article deals with reservation of seats (for SC, ST and women) in Panchayats.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-090",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following types of policy evaluation lays emphasis on determining the success level in achieving its basic objectives?",
+    "options": [
+      "Programme Strategy Evaluation",
+      "Programme Impact Evaluation",
+      "Project Monitoring",
+      "Cost-benefit analysis"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Programme Strategy Evaluation: This evaluation focuses on understanding the strategy of a programme and evaluating its success in achieving its basic objectives. In this, the planning and execution of the programme is evaluated, but it does not measure success directly. B. Programme Impact Evaluation: This evaluation looks at how much a programme or policy has affected its goals, i.e. what was its actual impact. In this, success in achieving basic objectives is directly evaluated. This is the most relevant option if we talk about \"success level in achieving basic objectives\". C. Project Monitoring: In this a project is continuously monitored to see whether it is running according to its target or not. Instead of evaluating success, it focuses on problems and progress occurring during implementation. D. Cost-benefit analysis: In this, the benefits and costs of a policy or programme are",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-091",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following two are correct? (a) According to August Comte, the principal methods are observation, experiment and comparison (b) According to Bluntshli, the true methods are philosophical and historical (c) Very few thinkers are pragmatic and inductive methods in contemporary times (d) John Rawls had used deductive and dogmatic methods Choose the correct options :",
+    "options": [
+      "(a) and (b)",
+      "(a) and (c)",
+      "(a) and (d)",
+      "(b) and (c)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) According to August Comte, the principal methods are observation, experiment and comparison: August Comte is considered the father of sociology. He introduced the concept of positivism to develop sociology as a science. According to him, society should be studied through scientific methods. He described three major methods: observation, experiment, and comparison. Through observation, society and human behavior can be observed systematically. Sociological phenomena can be confirmed through experiment, and comparative study analyzes different societies and their development. For example, Comte compared the structure of ancient and modern society and considered it helpful in understanding the development of human society. This statement is correct because it accurately describes Comte's theories. (b) According to Bluntschli, the true methods are philosophical and historical: John Kaspa",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-092",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following are the arguments for women's equality? (a) Inferiority of women to men is socially constructed and has no legal justification (b) Non-application of the principles of liberty and equality to the conditions of women is paradoxical (c) Women are naturally inferior to men (d) Women's inequality survived because it was justifiable Choose the correct option from below :",
+    "options": [
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)",
+      "(a) and (b)",
+      "(c) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The arguments for women's equality are: Statement (a) Inferiority of women to men is socially constructed and has no legal justification: This argument highlights that the notion of women's inferiority is a social construct, perpetuated by societal norms and attitudes, and has no basis in law or reason. Statement (b) Non-application of the principles of liberty and equality to the conditions of women is paradoxical: This argument emphasizes that it is contradictory to uphold principles of liberty and equality, yet deny them to women. The other options are not correct: Statement (c) Women are naturally inferior to men: This statement is a discriminatory attitude that perpetuates gender inequality, and is not an argument for women's equality. Statement (d) Women's inequality survived because it was justifiable: This statement implies that women's inequality has a justification, which is no",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-093",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following pairs are correctly matched? (a) John Rawls - Egalitarian (b) Plato - Idealist (c) Mary Wollstonecraft - Communist (d) Gramsci - Feminist Choose the correct answer from the options given below :",
+    "options": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(c) and (a)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) John Rawls - Egalitarian : This pair is correctly matched. John Rawls was a famous liberal thinker who promoted egalitarian principles. In his book \"A Theory of Justice\", he presented the \"Theory of Justice\", in which he emphasized on the \"Principle of Equality\". Rawls' view was that the distribution of resources in society should be such that the weakest section is benefited. His theory of \"Well of Ignorance\" is an important step towards equality. (b) Plato - Idealist : This pair is also correctly matched. Plato is called an idealist in political philosophy because his works focused on the ideal state and ideal society. In his famous book \"The Republic\", he presented the idea of the \"Philosopher King\". Plato's view was that knowledge, justice and virtue should be paramount in an ideal society. His idealistic view was based on the idea that ideals and ideas are more important than re",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-094",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following two are correct regarding the adoption of inductive method? (a) Plato (b) Machiavelli (c) Thomas Aquinas (d) Thomas Hobbes Choose the correct options :",
+    "options": [
+      "(a) and (b)",
+      "(a) and (c)",
+      "(b) and (d)",
+      "(a) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inductive method is the method in which conclusions are drawn by studying empirical facts and real situations. (a) Plato : Plato's philosophy was mainly based on idealism, and he did not follow the \"inductive method\". His ideas can be seen in \"The Republic\", where he presented the concept of the ideal state and the \"Philosopher King\". Plato's thinking was based on \"what ought to be,\" and he used the deductive method. His approach was to reach reality from ideals and ideas, not to make theories from experiences. Therefore, Plato cannot be considered to be using the \"inductive method\". (b) Machiavelli : Niccolò Machiavelli used the \"inductive method\" in politics and gave it a new direction. In his famous book \"The Prince\", he emphasized Pragmatic Politics. Machiavelli provided practical guidance for rulers by studying historical events and political experiences. He argued that it is more i",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-095",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following two are correct? (a) Plato laid more emphasis on duties than rights (b) His ideal state was merely an idea not reality (c) He was not a feminist (d) He did speak about class state Choose the correct option :",
+    "options": [
+      "(a) , (b) and (d)",
+      "(a) and (c)",
+      "(a) and (d)",
+      "(b) and (c)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Plato laid more emphasis on duties than rights: This is true. In Plato’s Republic, the focus is more on the duties of individuals within society, such as the roles each class plays in maintaining the state, rather than on individual rights. (b) His ideal state was merely an idea, not reality: This is also true. Plato’s concept of the ideal state in the Republic is a philosophical idea, a utopia that was not intended to be a practical, real-world application, but rather a model for thinking about justice and the structure of society. (d) He did speak about class state: This is true. In the Republic, Plato divides society into three classes: rulers (philosopher-kings), warriors, and producers (farmers, artisans, etc.). He discusses how each class has its own role and contributes to the harmony of the state. (c) He was not a feminist: While Plato did suggest that women could take on rol",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-096",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following writers are from Italy? (i) Vilfredo Pareto (ii) Gaetano Mosca (iii) Robert Michels (iv) C. Wright Mills",
+    "options": [
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(i) and (iv)",
+      "(iii) and (iv)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(i) Vilfredo Pareto : Vilfredo Pareto was a famous Italian sociologist and economist. He developed the \"Elite Theory\" and studied the distribution of power and influence in society. Pareto's contribution is significant in both economics (Pareto Optimality) and sociology. He belongs to Italy. (ii) Gaetano Mosca : Gaetano Mosca was also an Italian political thinker and sociologist. He developed the theory of \"Ruling Class\" and emphasized the unequal distribution of political power in society. His major book \"The Ruling Class\" is famous for its analysis of power structures. Mosca also belongs to Italy. (iii) Robert Michels : Robert Michels was a German-Italian sociologist. Although he was born in Germany, most of his work was done in Italy and he held Italian citizenship. Mitchell developed the “Iron Law of Oligarchy” which states that large organisations gradually move towards centralisati",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-097",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Agganna Sutta deals with: (a) Origin of life (b) Origin of social order and castes (c) Origin of secularism (d) Origin of six fold policy Select the correct answer from the code given below :",
+    "options": [
+      "(a) only",
+      "(b) only",
+      "(a) and (b)",
+      "(a) (b) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Agganna Sutta is the 27th Sutta of the Digha Nikaya collection (Pali version). The Sutta describes the discourse given by Buddha to two Brahmins, Bharadwaja and Vasettha, who had left their families and castes to become monks. (a) Origin of life : This statement is correct. This Sutta discusses the origin of life on earth, social order, and the origin of castes. Agganna Sutta has three main parts: 1. Myth of supremacy 2. Origin of life 3. Social order and birth of caste In this, Mahatma Buddha explained that earlier people lived in a very primitive state, when there was no casteism or social system. Gradually social order and castes were born, and the complexity of society increased. This Sutta is an important text for explaining the origin of casteism and social structure. (b) Origin of social order and castes : This statement is correct. Agganna Sutta describes in detail the origin of ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-098",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Ram Manohar Lohia was opposed to: (a) Capitalism (b) Communism (c) Socialism (d) Decentralisation of powers Select the correct answer from the options given below :",
+    "options": [
+      "(a) and (b)",
+      "(c) and (d)",
+      "(a), (b) and (c)",
+      "(b), (c) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ram Manohar Lohia was a prominent thinker and socialist leader of Indian politics, whose political views differed from traditional socialism and Marxism. He expressed his views on many issues, which mainly included the following points. (a) Capitalism : Ram Manohar Lohia was against capitalism. He believed that the capitalist system exploits the poor and laborers and promotes social inequality. He believed that equality and justice in society is possible only when capitalism is opposed and society has control over the means of production. (b) Communism : Lohia also criticized communism. Although he was in favor of socialism, he considered communism to be rigid and mechanical. He believed that many of the assumptions of communism did not match reality and it ignored the diversity and cultural differences of the population. He acknowledged the limitations of the Marxist approach and critic",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-099",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which statements are true about an Election Commissioner? (a) He is appointed by President (b) He can be removed from office on same grounds as a Judge of Supreme Court (c) He can be removed by the President only on recommendations of Chief Election Commissioner (d) His term of office is six years or upto the age of 65 whichever is earlier Choose the correct answer :",
+    "options": [
+      "(a), (b)",
+      "(b), (d)",
+      "(a), (c)",
+      "(a), (c), (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Statement (a): He is appointed by the President – This is correct. An Election Commissioner is appointed by the President of India. Statement (b): He can be removed from office on the same grounds as a Judge of the Supreme Court – This is incorrect. While the Chief Election Commissioner can only be removed by similar manner to a Supreme Court judge, the other Election Commissioners can be removed by the President, but only on the recommendation of the Chief Election Commissioner, not the same procedure as a judge. Statement (c): He can be removed by the President only on recommendations of Chief Election Commissioner – This is correct. The other Election Commissioners can indeed be removed only on the recommendation of the Chief Election Commissioner, as per the Constitution. Statement (d): His term of office is six years or up to the age of 65, whichever is earlier – This is correct. An",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-100",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following statements about the definition of Welfare State are correct? (a) It is a state that provides for its citizens a wide range of social services (b) It is a compromise between communism on the one side and unbridled individualism on the other (c) Welfare state sets a pattern for any humane and progressive society (d) Welfare state guarantees a minimum standard of subsistence without removing incentives to private sector",
+    "options": [
+      "(a), (b) and (c)",
+      "(b), (c) and (d)",
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (a): It is a state that provides for its citizens a wide range of social services – This is correct. A Welfare State is one that provides a comprehensive set of social services to its citizens, including healthcare, education, housing, unemployment benefits, and social security, aimed at ensuring the well-being of its people. Statement (b): It is a compromise between communism on the one side and unbridled individualism on the other – This is also correct. The welfare state represents a balance between the extreme centralization of communism and the unchecked freedom of individualism. It advocates for government intervention to ensure social justice while maintaining the free market economy. Statement (c): Welfare state sets a pattern for any humane and progressive society – This is correct as well. A welfare state aims to build a humane and progressive society by addressing so",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-101",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following two statements regarding World Trade Organization are correct? (a) It is the only international organization dealing with global trade rules between nations (b) It was established in 1996 (c) Its Headquarters is in Geneva (d) It employs some 680 staff Choose the correct options :",
+    "options": [
+      "(a) and (b)",
+      "(a) and (c)",
+      "(c) and (d)",
+      "(a) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Statement (a): It is the only international organization dealing with global trade rules between nations – This is correct. The World Trade Organization (WTO) is indeed the only international organization responsible for regulating international trade and ensuring that trade flows as smoothly, predictably, and freely as possible. It creates the rules for global trade and oversees their implementation. Statement (b): It was established in 1996 – This is incorrect. The WTO was established on January 1, 1995, not 1996. It replaced the General Agreement on Tariffs and Trade (GATT), which had been in place since 1947. Statement (c): Its Headquarters is in Geneva – This is correct. The WTO headquarters is located in Geneva, Switzerland, where it conducts most of its meetings and trade negotiations. Statement (d): It employs some 680 staff: This is incorrect. The WTO employs significantly more ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-102",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following two are correct regarding Right to Development? (a) The Declaration on the Right to Development was adopted by General Assembly in 1986 (b) This is an inalienable human right (c) It found no place in the 1993 Vienna Declaration and Programme of action (d) In 1990 the Commission on Human Rights established a working group to monitor its progress Choose the correct options :",
+    "options": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(a) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (a): The Declaration on the Right to Development was adopted by the General Assembly in 1986 – This is correct. The UN Declaration on the Right to Development was adopted by the UN General Assembly in 1986 through Resolution 41/128. This declaration recognized development as a fundamental human right. Statement (b): This is an inalienable human right – This is also correct. The Right to Development is recognized as an inalienable human right, meaning it cannot be taken away or denied, and it is integral to the full enjoyment of all other human rights. Statement (c): It found no place in the 1993 Vienna Declaration and Programme of action – This is incorrect. The Vienna Declaration and Programme of Action (1993) reaffirmed the Right to Development and highlighted its significance, stating that it is an essential part of human rights and global development. Statement (d): In 1990",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-103",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following two statements are true regarding Indo-Pak relations on Kashmir? (a) The Security Council first discussed the issue of Jammu and Kashmir in 1948 (b) A summit meeting took place in 2004 in Islamabad between A.B. Vajpayee and Pervez Muzharraf (c) A bus service across the ceasefire line was inaugurated in 2006 (d) Terrorist attack on Samjhauta Express was made in 2007 Choose the correct options :",
+    "options": [
+      "(a) and (b)",
+      "(a) and (c)",
+      "(a) and (d)",
+      "(c) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (a): The Security Council first discussed the issue of Jammu and Kashmir in 1948 – This is true. The Kashmir issue was first brought before the United Nations Security Council (UNSC) on January 1, 1948, by India, after Pakistan's tribal invasion of Jammu and Kashmir in 1947. This led to the establishment of the United Nations Commission for India and Pakistan (UNCIP). Statement (b): A summit meeting took place in 2004 in Islamabad between A.B. Vajpayee and Pervez Musharraf. This is also true. Atal Bihari Vajpayee and Musharraf hold direct talks at the 12th SAARC summit in Islamabad and the two sides decided to move the peace process forward. India and Pakistan had agreed to a ceasefire along the Line of Control (LOC) and to cool tensions and cease hostilities across the border. This marked the beginning of the Composite Dialogue Process, in which bilateral meetings are held bet",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-104",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following two statements are correct regarding Chinese policy of \"Theory of Palm and five fingers\"? (a) It includes Bhutan and Nepal (b) It includes Arunachal Pradesh, Sikkim and Laddakh (c) It includes Mizoram and Manipur (d) It includes Tripura and Nagaland",
+    "options": [
+      "(a) and (c)",
+      "(a) and (d)",
+      "(a) and (b)",
+      "(b) and (c)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (a): It includes Bhutan and Nepal – This is correct. According to the Chinese policy of the \"Theory of Palm and Five Fingers,\" Bhutan and Nepal are part of the five \"fingers.\" China sees these regions as areas of strategic importance around Tibet, which is considered the \"palm.\" Statement (b): It includes Arunachal Pradesh, Sikkim, and Ladakh – This is also correct. Arunachal Pradesh, Sikkim, and Ladakh are included in the five \"fingers.\" China claims these regions, especially Arunachal Pradesh (referred to as \"South Tibet\" by China), as part of its territorial strategy linked to Tibet. Statement (c): It includes Mizoram and Manipur – This is incorrect. Mizoram and Manipur are not part of the \"five fingers\" according to the Chinese theory. Statement (d): It includes Tripura and Nagaland – This is also incorrect. Like Mizoram and Manipur, these northeastern states are not part o",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-105",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following statements are true regarding the composition of Rajya Sabha? (a) Not more than 238 members represent States and Union territories in Rajya Sabha (b) Representatives of Puducherry in the Rajya Sabha are elected (c) Third Schedule of the Constitution deals with the allocation of seats in Rajya Sabha to States (d) Fourth Schedule of the Constitution deals with the allocation of seats in Rajya Sabha to states Choose the correct answer from the options given below :",
+    "options": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(a) and (c)",
+      "(a) , (b) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Rajya Sabha (Council of States) is the upper house of the Indian Parliament. Its composition and functioning are governed by various constitutional provisions. Statement (A) Not more than 238 members represent States and Union territories in Rajya Sabha : This is correct. Article 80 of the Constitution provides that the Rajya Sabha shall consist of not more than 238 representatives from the States and Union Territories. In addition, 12 members are nominated by the President for their expertise in literature, science, art, or social services, making the total strength 250. Statement (B) Representatives of Puducherry in the Rajya Sabha are elected : This is also correct. Puducherry, a Union Territory, has representatives in the Rajya Sabha who are elected by the elected members of its Legislative Assembly. Statement (C) Third Schedule of the Constitution deals with the allocation of se",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-106",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "On which of the following grounds Writ of Certiorari can be issued by the Judiciary? (a) Lack of jurisdiction (b) Locus Standi (c) Excess of jurisdiction (d) Error of law Choose the correct option from below :",
+    "options": [
+      "(a), (b) and (c)",
+      "(a), (b) and (d)",
+      "(a) and (b)",
+      "(a) and (c)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Writ of Certiorari is a judicial remedy in which a higher court orders a lower court, tribunal, or quasi-judicial authority to transfer a case to itself or quash its decision. This writ is issued when the lower court or authority has acted: Statement (a) Without Jurisdiction (Lack of Jurisdiction) : If the lower court or authority hears a matter that it is not legally empowered to adjudicate, its decision can be invalidated through a writ of certiorari. Statement (c) Excess of Jurisdiction : This occurs when the lower court or authority exceeds its legal power or jurisdiction while passing a decision. For example, taking action beyond its legal boundaries or authority. Why are Statements (b) and (d) incorrect? Statement (b) Locus Standi : This refers to the right of a party to bring a matter to court. It is not a ground for issuing a writ of certiorari. It is about the eligibility of",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-107",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following two statements are correct regarding Preamble of Indian Constitution? (a) Justice-social, economic and political (b) Liberty of thought, expression, belief, faith and worship (c) Equality of status, character and of opportunity (d) Fraternity assuring the dignity and respect of the individual Choose the correct option :",
+    "options": [
+      "(a) and (c)",
+      "(a) and (d)",
+      "(c) and (d)",
+      "(a) and (b)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Preamble of the Indian Constitution outlines the fundamental values and principles upon which the Constitution is based. It serves as a guiding light for interpreting and understanding the intentions of the framers of the Constitution. Statement (a): the Preamble mentions Justice in three forms: social, economic, and political . Social justice ensures the removal of social discrimination and guarantees equal treatment for all sections of society. Economic justice emphasizes equitable distribution of resources, ensuring no exploitation. Political justice ensures every individual has the right to participate in the political process, regardless of their background. Together, these three aspects of justice strive to create a fair and inclusive society. Statement (b): the Preamble enshrines the concept of Liberty of thought, expression, belief, faith, and worship . This liberty ensures t",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-108",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The positive impact of Liberalisation are: (a) Foreign investment (b) Increased production (c) Increased unemployment (d) Technological advancement",
+    "options": [
+      "(a), (b), (d)",
+      "(b), (c)",
+      "(a), (c)",
+      "(b), (c), (a)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liberalisation has the following positive impacts: A. Foreign investment: Encourages foreign direct investment (FDI) and boosts the economy. B. Increased production: Liberalisation allows industries to grow without excessive government control, increasing production. C.Increased unemployment : This is typically not a positive impact of liberalisation, as it is often considered a challenge or negative outcome in certain sectors due to competition or restructuring. D. Technological advancement: Open markets facilitate the transfer of advanced technologies from developed countries. Therefore , the correct answer is option A.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-109",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Rigg's Fused model is based on: (a) dependence on agriculture (b) attainment value in society (c) domination of royal family (d) economic system based on barter system Choose the right option :",
+    "options": [
+      "(a), (c), (d)",
+      "(a), (b)",
+      "(b) (c) (d)",
+      "(a), (b), (c)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fred W. Riggs' Fused Model is part of his ecological approach to understanding public administration and societies. In the fused model, Riggs describes a type of society that is traditional, undifferentiated, and characterized by overlapping roles, functions, and structures. This model is one of the three stages in his \"prismatic-sala-fused\" typology, representing the least differentiated form of societal organization. Fused model: 1. Dependence on agriculture (a): In the fused model, societies are agrarian and heavily dependent on agriculture as the primary economic activity. The economy lacks industrialization, and most people engage in subsistence farming. This aligns with Riggs' description of fused societies. 2. Domination of the royal family (c): In fused societies, power is concentrated in a single authority figure or a small elite, such as a royal family. Governance structures ar",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-110",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which are the themes of New Public Management? (a) Adoption of private sector practices (b) Improved reporting and monitoring mechanism (c) Performance targets (d) Adoption of public sector practices Choose the correct option :",
+    "options": [
+      "(a), (b)",
+      "(a), (b), (c)",
+      "(b), (c), (d)",
+      "(c) (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "New Public Management (NPM) is a management approach that tries to adopt private sector practices and efficiency models in the functioning of the public sector. It includes some main themes: 1. Adoption of private sector practices (a): The main objective of NPM is to adopt private sector practices and management style in the public sector. It promotes market-based approach, competition and efficiency. 2. Improved reporting and monitoring systems (b): NPM emphasizes on improving reporting and monitoring systems. It aims to make public entities more accountable so that their performance and efficiency can be tracked. 3. Performance targets (c): NPM sets targets to measure performance. These targets are to improve the efficiency and productivity of employees and entities. Adoption of public sector practices (d): This is not a part of the theme of NPM. NPM emphasizes on adopting private sect",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-111",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "The Comptroller and Auditor-General of India can undertake evaluation studies on the basis of which of the following? (a) On its own initiative (b) The request of financial committees (c) Directive in legislation (d) The request of the Organization and Methods division of a Ministry Choose the correct option from below :",
+    "options": [
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (d)",
+      "(b), (c) and (d)",
+      "(a), (b) and (c)"
+    ],
+    "correctIndex": 3,
+    "explanation": "According to Article 149 of the Constitution, the Parliament may specify the responsibilities and jurisdiction of the CAG with regard to the accounts of the Union, the States, and any other authority or entity. The Comptroller and Auditor- General of India can undertake evaluation studies on the basis: (a) On its own initiative: The CAG has the autonomy to undertake evaluation studies and audits on its own initiative to ensure comprehensive oversight and accountability in public spending and administration. (b)The request of financial committees: Financial committees like the Public Accounts Committee (PAC) or the Committee on Public Undertakings can request the CAG to conduct specific evaluation studies or audits. (c) Directive in legislation: Certain legislations may include directives that empower the CAG to undertake evaluation studies as part of its mandate. Thus, correct option is ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-112",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following statements about the significance of public policy is correct? (a) Public policies help in achieving socio- economic development. (b) Public policies help maintain national unity and integrity. (c) It's basic purpose is to serve individual interest and solve public problems. (d) Public policy aims at shaping the society for its betterment.",
+    "options": [
+      "(a), (b), (c) and (d)",
+      "(b), (c) and (d)",
+      "(a), (b) and (d)",
+      "(a), (b) and (c)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Public policy is a course of action taken by government to address public problems and improve the quality of life for citizens. Its significance lies in its ability to shape the society, promote development, and maintain national unity and integrity. Public policy has several significance, including: (a) Public policies help in achieving socio- economic development: Public policies aim to improve the overall well-being of citizens by addressing socio-economic issues like poverty, education, healthcare, and infrastructure development. (b) Public policies help maintain national unity and integrity: Public policies promote national integration by addressing issues related to diversity, equity, and social justice, thereby maintaining national unity and integrity. (d) Public policy aims at shaping the society for its betterment: Public policies aim to create a better society by addressing va",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-113",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "73rd Amendment of the Constitution seeks to provide which of the following to the Panchayati Raj Institutions? (a) Constitutional status (b) Financial autonomy (c) Empowerment of marginalized sections of the rural population (d) Decentralised planning",
+    "options": [
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)",
+      "(b), (c) and (d)",
+      "(a), (b) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 73rd Constitutional Amendment Act, 1992, sought to provide the following to the Panchayati Raj Institutions: (a) Constitutional status: The amendment gave constitutional status to the Panchayati Raj Institutions, making them a third tier of government. (b) Financial autonomy: The amendment provided for financial autonomy to the Panchayati Raj Institutions, enabling them to levy and collect taxes, and prepare their own budgets. (c) Empowerment of marginalized sections of the rural population: The amendment reserved seats for marginalized sections such as Scheduled Castes, Scheduled Tribes, and women in the Panchayati Raj Institutions.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-114",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Which of the following are the salient features of Draft National Water Policy 2012? (a) Setting up of Water Regulatory Authority (b) Incentivisation of recycle and re-use (c) Community participation in managing the water resources projects (d) Water users association should be given statutory powers Choose the correct option from below :",
+    "options": [
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)",
+      "(b), (c) and (d)",
+      "(a), (b) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Draft National Water Policy 2012, released by the Ministry of Water Resources, Government of India, has several salient features, including: (a) Setting up of Water Regulatory Authority: The policy proposes the establishment of a Water Regulatory Authority to regulate water use, ensure equitable distribution, and prevent over- exploitation. (b) Incentivisation of recycle and re-use: The policy encourages water conservation and efficient use by promoting recycling and re- use of water, particularly in industrial and urban areas. (c) Community participation in managing the water resources projects: The policy emphasizes the importance of community participation in planning, designing, and managing water resources projects to ensure that local needs and concerns are addressed. (d) Water users association should be given statutory powers: The policy recommends that water users associatio",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-115",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "statements",
+    "question": "Which of the following statements about National Health Policy, 2017 are correct? (a) It aims to ensure availability of 2 beds per 1000 population (b) It proposes free drugs, free diagnostics and free emergency health care services in all public hospitals (c) Reduction of total fertility rate to 2.1 at national and sub-national level by 2025 (d) Reduce mortality rate of children under 5 years of age to 23 (per 1000) by 2020 Choose the correct option from below :",
+    "options": [
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)",
+      "(a) and (b)",
+      "(c) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Aim to ensure availability of 2 beds per 1000 population: The National Health Policy, 2017 indeed aims to ensure the availability of 2 beds per 1000 population. (b) Free drugs, diagnostics, and emergency healthcare: The policy proposes providing free drugs, free diagnostics, and free emergency healthcare services in all public hospitals. (c) Reduction of total fertility rate: The policy aims to reduce the total fertility rate to 2.1 at the national and sub-national level by 2025. (d) Reduce mortality rate of children under 5 years of age to 23 (per 1000) by 2020 is not correct because the deadline is by 2025. Thus, the correct option is A.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-126",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange these in a chronological order : (a) Benn and RS Peters' Social Principles and Democratic State (b) John Rawls' A Theory of Justice (c) Susan Mollerokin's Justice Gender and Family (d) Rousseau's Social Contract Choose the correct option from below :",
+    "options": [
+      "(d), (a), (b), (c)",
+      "(a), (d), (b) and (c)",
+      "(b), (a), (c) and (d)",
+      "(c), (b), (d) and (a)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(d) Rousseau's Social Contract (1762)- Jean- Jacques Rousseau's \"The Social Contract\" was first published in 1762. It is a foundational work in political philosophy, discussing the concepts of freedom, the general will, and the legitimacy of authority. (a) Benn and RS Peters' Social Principles and Democratic State (1959)- Social Principles and Democratic State, written by P.F. Benn and R.S. Peters, was published in 1959. It focuses on social philosophy, particularly in the context of democratic states. (b) John Rawls' A Theory of Justice (1971)- John Rawls' \"A Theory of Justice\" was first published in 1971. It is one of the most influential works in modern political philosophy, introducing the concepts of justice as fairness, the original position, and the veil of ignorance. (c) Susan Moller Okin's Justice, Gender, and the Family (1989)- Susan Moller Okin's \"Justice, Gender, and Family\" ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-127",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following Ashrams/Institutions founded by Gandhi in chronological order : (a) Phoenix Settlement (b) Kochrab Ashram (c) Sevagram Ashram (d) Tolstoy Farm Select the correct answer from the options as given below :",
+    "options": [
+      "(a), (b), (c), (d)",
+      "(a), (d), (b), (c)",
+      "(d), (c), (b), (a)",
+      "(a), (c), (d), (b)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) Phoenix Settlement (1904) - Founded in Durban, South Africa.Gandhi founded the Phoenix Settlement in 1904 in South Africa. It was a community of followers focused on simple living and self-reliance. (d) Tolstoy Farm (1910) - Founded near Johannesburg, South Africa. Gandhi established Tolstoy Farm in 1910, also in South Africa, as a retreat for his followers, inspired by the principles of Leo Tolstoy, promoting self-sufficiency and non-violence. (b) Kochrab Ashram (1915) - Founded in Ahmedabad, India. Gandhi founded the Kochrab Ashram in 1915 in Ahmedabad, India, after his return from South Africa. It was his first ashram in India. (c) Sevagram Ashram (1936) - Founded in Wardha, India. The Sevagram Ashram was established by Gandhi in 1936 in Wardha, Maharashtra. This became the center of his activities during the later stages of the freedom movement. Thus, the correct chronological or",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-128",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following books as per the year of their publication in chronological order : (a) Modern Democracies (b) Constitutional Government and Democracy (c) Public Opinion and Popular Government (d) The American Commonwealth Choose the correct option from below :",
+    "options": [
+      "(a), (b), (c) and (d)",
+      "(d), (c), (a) and (b)",
+      "(d), (a), (b) and (c)",
+      "(a) (c) (d) and (b)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(d) The American Commonwealth (1888)- This book by James Bryce was published in 1888. It is a comprehensive study of the American political system and its institutions. (c) Public Opinion and Popular Government (1891)- This book, written by Walter Bagehot, was published in 1891. It focuses on the role of public opinion in shaping government and political decisions. (a) Modern Democracies (1915)- Written by James Bryce, it was published in 1915. This work compares the democratic systems in the United States and the United Kingdom. (b) Constitutional Government and Democracy (1928)- This book by Walter Bagehot was published in 1928 and discusses the theory and practice of constitutional government and the functioning of democracy. Thus, the correct chronological order is (d) The American Commonwealth (1888) → (c) Public Opinion and Popular Government (1891) → (a) Modern Democracies (1915) ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-129",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following of UN system in their chronological order : (i) International Bank for Reconstruction and Development (ii) Multilateral Investment Guarantee Agency (iii) International Finance Corporation (iv) International Development Association Choose the correct option:",
+    "options": [
+      "(iv), (iii), (ii),(i)",
+      "(i), (iii), (iv), (ii)",
+      "(ii), (iv), (i), (iii)",
+      "(iii), (iv), (i), (ii)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(i) International Bank for Reconstruction and Development (IBRD) (1944)- Established in 1944, the IBRD is one of the five institutions of the World Bank Group, created to provide loans for post-war reconstruction and development. (iii) International Finance Corporation (IFC) (1956)- The IFC was founded in 1956 to support private sector investment in developing countries. (iv) International Development Association (IDA) (1960)- Established in 1960, the IDA focuses on providing concessional loans and grants to the world’s poorest countries. (ii) Multilateral Investment Guarantee Agency (MIGA) (1988)- The MIGA was formed in 1988 to promote foreign direct investment by offering political risk insurance and credit enhancement. Thus, the correct chronological order is (i) IBRD (1944) → (iii) IFC (1956) → (iv) IDA (1960) → (ii) MIGA (1988).",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-130",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following Institutions / Organizations in chronological order : (i) BRICS Development Bank (ii) IBSA (iii) G-7 (iv) G-20 Choose the correct option :",
+    "options": [
+      "(iii), (iv), (ii), (i)",
+      "(i), (ii), (iii), (iv)",
+      "(iv), (iii), (ii), (i)",
+      "(i), (ii), (iii), (iv)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(iii) G-7 (1975)- The Group of Seven (G-7), an intergovernmental organization of advanced economies, was established in 1975. (iv) IBSA (2003)- The IBSA Dialogue Forum (India, Brazil, South Africa) was launched in 2003 to promote South-South cooperation. (ii) G-20 (1999)- The Group of Twenty (G-20) was formed in 1999 to bring together major economies to discuss global financial and economic issues. (i) BRICS Development Bank (2014)- The BRICS Development Bank (New Development Bank) was established in 2014 by Brazil, Russia, India, China, and South Africa. Thus, the correct chronological order is (iii) G- 7 (1975) → (iv) G-20 (1999) → (ii) IBSA (2003) → (i) BRICS Development Bank (2014).",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-131",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following in their chronological order : (a) Jalianwala Bagh Massacre (b) Report Submission by Hunter Committee (c) Chauri-Chaura incident (d) Establishment of Swaraj Party Choose the correct ontion.",
+    "options": [
+      "(a), (b), (c), (d)",
+      "(d), (c), (b), (a)",
+      "(a), (b), (d), (c)",
+      "(d) (h) (a) (c)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Jallianwala Bagh Massacre (1919)- The massacre occurred on 13 April 1919, when British troops, under General Dyer, opened fire on a peaceful gathering in Amritsar. (b) Report Submission by Hunter Committee (1920)- The Hunter Committee, formed to investigate the Jallianwala Bagh incident, submitted its report in March 1920. (c) Chauri-Chaura Incident (1922)- This incident occurred on 4 February 1922, when a mob of protesters set a police station on fire, leading to Gandhi calling off the Non- Cooperation Movement. (d) Establishment of Swaraj Party (1923)- The Swaraj Party was founded by Motilal Nehru and Chittaranjan Das in January 1923 to participate in legislative councils while continuing the freedom struggle. Thus, correct Chronological Order is (a) Jallianwala Bagh Massacre (1919) → (b) Report Submission by Hunter Committee (1920) → (c) Chauri-Chaura Incident (1922) → (d) Establi",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-132",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the formation of following states in chronological order : (a) Sikkim (b) Goa (c) Gujarat (d) Telangana Choose the correct option :",
+    "options": [
+      "(a), (b), (c) and (d)",
+      "(d) (h) (c) and (a)",
+      "(b), (c), (a) and (d)",
+      "(c), (a), (b) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(c) Gujarat (1960)- Gujarat was formed on 1 May 1960, after being separated from the Bombay State. (a) Sikkim (1975)- Sikkim became the 22nd state of India on 16 May 1975, following the 36th Constitutional Amendment. (b) Goa (1987)- Goa was granted statehood on 30 May 1987, becoming India’s 25th state. (d) Telangana (2014)- Telangana was formed on 2 June 2014, after being separated from Andhra Pradesh, becoming the 29th state of India. Thus, the correct sequence is (c) Gujarat (1960) → (a) Sikkim (1975) → (b) Goa (1987) → (d) Telangana (2014).",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-133",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2019",
+    "type": "mcq",
+    "question": "Make a sequence of Decision-making approach : (a) Search for information (b) Problem recognition (c) Selection of alternative (d) Definition of alternative",
+    "options": [
+      "(a), (c), (d), (b)",
+      "(b), (d), (a), (c)",
+      "(b), (a), (c), (d)",
+      "(b), (a), (d), (c)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct sequence of the decision-making approach is: (b) Problem recognition: Identify the problem or opportunity that requires a decision. (a) Search for information: Gather relevant data and information to understand the problem. (d) Definition of alternative: Define potential solutions or alternatives to address the problem. (c) Selection of alternative: Evaluate and choose the best alternative from the defined options. Thus, the correct sequence is b, a, d, c.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2019-134",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following in an ascending chronological order : (a) Right to Education Act (b) Consumer Protection (Amendment) Act (c) Food Security Act (d) Prevention of Corruption (Amendment) Act Choose the correct option from below :",
+    "options": [
+      "(a), (c), (d) and (b)",
+      "(b), (a), (c) and (d)",
+      "(a), (b), (c) and (d)",
+      "(c), (a), (d) and (b)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Right to Education Act (RTE Act, 2009): The RTE Act was enacted in 2009, making free and compulsory education a fundamental right for children aged 6 to 14 years. (c) Food Security Act (2013): The National Food Security Act was enacted in 2013, aiming to provide subsidized food grains to approximately two-thirds of India's population. (b) Prevention of Corruption (Amendment) Act (2018): The Prevention of Corruption (Amendment) Act was enacted in 2018, focusing on criminalizing bribe-giving and increasing the accountability of public servants. (d) Consumer Protection (Amendment) Act (2019): The Consumer Protection (Amendment) Act, 2019, strengthened consumer rights and replaced the 1986 Act. Thus, Correct Chronological Order: (a) Right to Education Act (2009) → (c) Food Security Act (2013) → (d) Prevention of Corruption (Amendment) Act (2018) → (b) Consumer Protection (Amendment) Act ",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2019-135",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2019",
+    "type": "chronological",
+    "question": "Arrange the following four reports of Second Administrative Reforms Commission in their sequential order : (a) Right to Information (b) Unlocking Human capital (c) Crisis Management (d) Ethics in Governance Choose the correct option:",
+    "options": [
+      "(a), (b), (c), (d)",
+      "(d) (c) (b) (a)",
+      "(a) (d) (b) (c)",
+      "(c), (a), (d), (b)"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Second Administrative Reforms Commission (ARC) was established in 2005 and produced a series of reports addressing various aspects of governance. The sequential order of the specific reports mentioned is as follows: (a) Right to Information - This was the first report, emphasizing transparency and accountability in governance. (b) Unlocking Human Capital - The second report, discussing strategies for human resource development. (c) Crisis Management - The third report, dealing with effective response mechanisms for crises. (d) Ethics in Governance - The fourth report, focusing on promoting ethical standards within government institutions. These reports by the Second Administrative Reforms Commission were aimed at comprehensive governance reforms in India. Thus, the correct sequence is a, b, c, d.",
+    "source": "PYQ Dec 2019",
+    "difficulty": "hard"
+  }
+]

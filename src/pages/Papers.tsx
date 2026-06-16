@@ -23,6 +23,9 @@ export default function Papers() {
               </span>
               <div>
                 <span className="badge badge-brand">{p.session}</span>
+                {p.solved && (
+                  <span className="badge badge-green ml-1.5">Answer key + solutions</span>
+                )}
                 <h2 className="display mt-1.5 font-bold leading-snug">{p.title}</h2>
                 <p className="text-xs t-faint">{p.paper}</p>
               </div>

@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "pw-jun2020-001",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following belongs to the category of geophysical hazards?",
+    "options": [
+      "Infestation",
+      "Avalanches",
+      "Invasive species",
+      "Diseases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Among the given options: A. Infestation: Refers to the presence of pests or vermin, not a geophysical hazard. B. Avalanches: These are landslides of snow, ice, and debris, which are caused by physical forces in the Earth's environment, specifically in mountainous regions. This is a geophysical hazard. C. Invasive species: Refers to organisms that are non-native to an ecosystem and can cause harm, which is a biological rather than geophysical hazard. D. Diseases: While they can be caused by biological agents, they are not considered geophysical hazards. Thus, the correct answer is: B. Avalanches.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-002",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following best describes a wiki?",
+    "options": [
+      "A system that allows users to add information onto a website but does not change any pre- existing information.",
+      "A system that allows collaborative modification of its content and structure directly from the web browser.",
+      "A system that serves as a publically accessible personal journal for an individual.",
+      "A system that monitors the modification of content within a blog."
+    ],
+    "correctIndex": 1,
+    "explanation": "B. A system that allows collaborative modification of its content and structure directly from the web browser. A wiki is a website that allows multiple users to collaboratively create, edit, and organize content, typically in a simple and user-friendly format. A well-known example of a wiki is Wikipedia.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-003",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statement(s) is/are True in respect to ICT? P : ICT is an acronym that stands for information and competitive technology. Q: The effective use of ICT to support learning in the inclusive education exemplifies good teaching for all learners.",
+    "options": [
+      "P only",
+      "Q only",
+      "Both P and Q",
+      "Neither P nor Q"
+    ],
+    "correctIndex": 1,
+    "explanation": "P is incorrect because ICT stands for Information and Communication Technology, not Information and Competitive Technology. Q is correct because the effective use of ICT to support learning in inclusive education is Solutions indeed an example of good teaching practices that can benefit all learners, including those with diverse learning needs.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-004",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In the formation of Surface Ozone, which of the following do play an important role? (a) Oxides of nitrogen (b) Oxides of sulphur (c) Sunlight (d) Carbon monoxide Choose the correct answer from the code given below:",
+    "options": [
+      "(a), (b), (c)",
+      "(b), (c), (d)",
+      "(a), (c), (d)",
+      "(a), (b), (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Surface ozone is primarily formed through photochemical reactions that involve: Oxides of nitrogen (a): These play a key role in the formation of ozone in the presence of sunlight. Sunlight (c): Sunlight provides the energy required for the photochemical reactions that produce ozone. Carbon monoxide (d): It also contributes to the formation of ozone by reacting with other compounds in the presence of sunlight. Oxides of sulphur (b), however, are not directly involved in the formation of surface ozone. They tend to contribute more to the formation of acid rain.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-005",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The premier organisation established in India to deal with capacity building and research in planning and management of education in India and South Asia is:",
+    "options": [
+      "AIU",
+      "SAARC University",
+      "NUEPA",
+      "Nalanda University"
+    ],
+    "correctIndex": 2,
+    "explanation": "NUEPA is the premier organization in India responsible for capacity building, research, and planning in education, not only in India but also in South Asia. It focuses on improving education management and planning and provides support to educational policymakers and administrators.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-006",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Statement I: The Millennium Development Goals were adopted in the United Nations in the year 2010. Statement II: Developing a global partnership for development was one of the Millennium Development Goals. Which of the above statements is/are correct?",
+    "options": [
+      "Only I",
+      "Only II",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Statement I is incorrect. The Millennium Development Goals (MDGs) were adopted by the United Nations in 2000, not 2010. The MDGs were set to be achieved by 2015. Statement II is correct. One of the MDGs was indeed to develop a global partnership for development. This goal aimed to strengthen international cooperation in trade, development aid, and the global economy.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-007",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Brain drain problem which was dominant in the middle of 20th Century in India is indicative of which one of the following aspects? (i) Lack of adequate facilities for advanced study and research in India. (ii) The capacity of the developed nations to buy the talent at a price beyond the means of the developing nations. (iii) Increase of population and under-utilization of human research. Choose the correct option from below:",
+    "options": [
+      "Only (i) and (iii)",
+      "Only (ii) and (iii)",
+      "Only (iii)",
+      "Only (i) and (ii)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(i) Lack of adequate facilities for advanced study and research in India: This was one of the reasons for the brain drain, as many skilled professionals and scholars sought better opportunities abroad due to the lack of advanced research facilities in India. (ii) The capacity of developed nations to buy the talent at a price beyond the means of developing nations: Developed countries offered better financial incentives, which attracted talented individuals from developing countries like India. (iii) Increase of population and under- utilization of human resources: While this is a challenge, it is not directly related to the brain drain phenomenon, which was more about the lack of opportunities in India and better incentives abroad. Therefore, this is not a key factor for the brain drain issue in the middle of the 20th century.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-008",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which are the examples of potential kinetic energy? Select your answer from the options given below: (i) Water that is behind a dam (ii) Radio signals (iii) An airplane idling on the runway (iv) A satellite before it is launched (v) A coiled spring (vi) Heat harnessed from the oceans",
+    "options": [
+      "(i), (iii), (iv) and (v)",
+      "(i), (ii), (iii) and (vi)",
+      "(ii), (iii), (iv), and (v)",
+      "(ii), (iv), (v) and (vi)"
+    ],
+    "correctIndex": 0,
+    "explanation": "1. Water behind a dam – This is potential energy because the water has stored energy due to its position above a lower level. 2. Radio signals – Radio signals involve the movement of electromagnetic waves, which are a form of kinetic energy. 3. An airplane idling on the runway – The airplane is stationary, but its fuel has stored potential energy that can be used for motion. 4. A satellite before it is launched – This is potential energy since the satellite has stored energy in its position and fuel. 5. A coiled spring – This has potential energy stored in the spring's compressed or stretched state. 6. Heat harnessed from the oceans – This is kinetic energy because it involves the motion of particles. Correct Answer: Option A (i), (iii), (iv), and (v)",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-009",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Participation in which type of research has the great potential for ensuring the improvement of the professional as well as work situation?",
+    "options": [
+      "Fundamental research",
+      "Applied research",
+      "Evaluate research",
+      "Action research"
+    ],
+    "correctIndex": 3,
+    "explanation": "Action research is a type of research specifically designed to address issues and improve practices within a professional or work environment. It involves a cycle of identifying a problem, implementing solutions, observing the effects, and refining actions based on findings. Because it is collaborative and focused on practical problem-solving, action research has a high potential for enhancing both professional growth and work situations, making it especially effective in educational, organizational, and workplace settings. Other research types: Fundamental research (Option A) seeks to expand general knowledge and understanding, often without immediate practical application. Applied research (Option B) focuses on practical applications but is typically broader and less focused on specific workplace improvements. Evaluation research (Option C) assesses the effectiveness of programs or pol",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-010",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which stage in research creates a working thesis for the research paper by specifying and organizing the category of information?",
+    "options": [
+      "Research design",
+      "Developing a hypothesis",
+      "Review of literature",
+      "Analysis of data"
+    ],
+    "correctIndex": 2,
+    "explanation": "A review of literature is an essential early step in the research process. It involves examining previous studies related to the research topic, which helps to create a working thesis by specifying and organizing the categories of information relevant to the study. Through reviewing past literature, researchers can identify research gaps, generate research questions, validate existing viewpoints, and synthesize previous findings. This step provides direction and structure to the research, helping to focus and refine the working thesis.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-011",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "After identifying the different variables and establishing the logical reasoning in theoretical framework, the next step in the research process is to",
+    "options": [
+      "Conduct survey",
+      "Generate hypothesis",
+      "Focus on group discussion",
+      "Use experiment in an investigation"
+    ],
+    "correctIndex": 1,
+    "explanation": "After identifying the different variables and establishing a logical reasoning within the theoretical framework, the next step in the research process is to generate a hypothesis. The hypothesis provides a testable statement or prediction about the relationship between the variables, based on the established theoretical framework. This hypothesis then guides the subsequent steps of the research, including the choice of methodology (such as surveys, experiments, or discussions) for testing the hypothesis.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-012",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Supervisor's certification on the thesis",
+    "options": [
+      "Gives name and fame to the supervisor",
+      "Clears different bottlenecks in the system",
+      "Gives weightage to the scholar's work",
+      "Ensures originality of the work"
+    ],
+    "correctIndex": 3,
+    "explanation": "The supervisor’s certification on a thesis includes a formal attestation that verifies the originality of the work. This certification process requires the supervisor to confirm that the research is free from plagiarism and has been conducted with academic integrity. Alongside a plagiarism check, the supervisor’s certification is crucial in establishing the thesis as an original contribution to knowledge, ensuring that it meets the academic and ethical standards necessary for acceptance in postgraduate and doctoral studies. Thus, ensuring the originality of the work (Option D) is the primary purpose of the supervisor’s certification on a thesis.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-013",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Below are listed some learners' characteristics. Identify those that help in effective teaching. (a) Learners' respect for teacher (b) Learners' level of mental ability (c) Learners' previous experience (d) Learners' level of interest to study (e) Learners' level of interpersonal relation (f) Learners' view about the society Select your answer from the options given below:",
+    "options": [
+      "(a), (b), (c) and (f)",
+      "(c), (d), (e) and (f)",
+      "(a), (b), (c) and (d)",
+      "(b), (c), (d) and (f)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Based on the points mentioned, the learner characteristics that contribute to effective teaching include: (b) Learners' level of mental ability: Understanding learners' mental capacities allows teachers to adjust their approach to enhance comprehension. (c) Learners' previous experience: Prior knowledge provides a foundation for new learning, making teaching more effective. (d) Learners' level of interest to study: Interest and enthusiasm motivate learners to engage with the material, aiding in effective learning. (f) Learners' view about the society: Perspectives on society can influence the learner’s understanding and integration of new concepts, especially in subjects that relate to social awareness.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-014",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "A teacher gives lot of positive and negative examples to support his / her presentations in the classroom. This will be related to which level of teaching?",
+    "options": [
+      "Autonomous development level",
+      "Memory level",
+      "Understanding level",
+      "Reflective level"
+    ],
+    "correctIndex": 2,
+    "explanation": "The understanding level of teaching focuses on helping students grasp the underlying concepts and principles rather than just memorizing facts. By providing positive and negative examples, the teacher facilitates a deeper understanding of the material, enabling students to differentiate between correct and incorrect applications of a concept. This approach encourages students to comprehend and apply knowledge, which is characteristic of the understanding level.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-015",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Below are listed some activities performed by a teacher. Which activities are of the nature of formative evaluation? (a) Giving a mastery test (b) Conducting quiz session (c) Evaluating students in grading system (d) Providing feedback while teaching (e) Encouraging students reflect more Select your answer from the options given below:",
+    "options": [
+      "(a), (b) and (c)",
+      "(b), (c) and (d)",
+      "(b), (d) and (e)",
+      "(b), (c) and (e)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Formative evaluation focuses on ongoing assessments that provide feedback during the learning process to help improve student understanding and performance. (b) Conducting quiz session: Quizzes can be used formatively to assess student knowledge, clarify misunderstandings, and provide immediate feedback. (d) Providing feedback while teaching: Providing feedback during the learning process is a key characteristic of formative evaluation. It helps students understand where they stand and how they can improve. (e) Encouraging students to reflect more: Encouraging reflection is a formative approach as it promotes self-assessment and deeper understanding of the material.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-016",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "8.) Below are given two columns. Column - A lists methods of teaching and Column - B lists the focus of a method. Match Column - A with Column - B. Column A (a) Lecture method (b) Demonstration method (c) Project method (d) Collaborative method Column B (i) Emphasizing the participative procedure of an act (ii) Experience based learning (iii) Imparting large amount of knowledge (iv) Students engage in different activities together and learn Select your answer from the options given below:",
+    "options": [
+      "(a)-(i); (b)-(iii); (c)-(ii); (d)-(iv)",
+      "(a)-(ii); (b)-(iv); (c)-(i); (d)-(iii)",
+      "(a)-(iii); (b)-(i); (c)-(ii); (d)-(iv)",
+      "(a)-(iii); (b)-(ii); (c)-(iv); (d)-(i)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lecture Method: This method focuses on imparting large amounts of knowledge (iii), delivering information in a structured way, typically to large groups. Demonstration Method: It is experience- based learning (ii), where the teacher illustrates procedures or processes through action to aid understanding. Project Method: This method involves students engaging in activities together (iv), working in groups to explore real-life issues and solutions. Collaborative Method: This method emphasizes participative procedures (i), where learners engage with each other in a group to solve problems and complete tasks.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-017",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "From the list given below, identify those teaching methods which have a great scope for dialogic discourses. (a) Lecture with audio - video aids (b) Team teaching (c) Tutorials (d) Problem solving methods (e) Chalk and talk method (f) Group discussions Select your answer from the options given below:",
+    "options": [
+      "(a), (b) and (c)",
+      "(c), (d) and (f)",
+      "(b), (c) and (e)",
+      "(d), (e) and (f)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dialogic discourse refers to an interactive communication style where multiple perspectives are shared and discussed, fostering critical thinking and deeper understanding. (c) Tutorials: Tutorials are a form of personalized, interactive teaching where dialogic discourse can take place between the teacher and students. It allows for discussion, questions, and feedback. (d) Problem solving methods: Problem- solving often involves dialogue, as students discuss and collaborate to find solutions, engaging in interactive reasoning and critical thinking. (f) Group discussions: Group discussions are inherently dialogic, as they involve students exchanging ideas, debating, and exploring different viewpoints to arrive at a deeper understanding.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-018",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Reference serves the purpose of",
+    "options": [
+      "Lending authenticity to the given content",
+      "Insightful decision making",
+      "Giving ornamental value to the research",
+      "Exhibiting the great achievement"
+    ],
+    "correctIndex": 0,
+    "explanation": "References in research and academic writing serve to lend authenticity to the content by supporting claims, providing evidence, and acknowledging prior work in the field. Proper referencing ensures that the work is credible, traceable, and built upon a solid foundation of established research. This helps establish the reliability of the research and its contributions to the academic community.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-024",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Consider the argument given below : \"Sound is permanent because it is inaudible\" Identify the fallacy involved in the above argument on the basis of Indian logic from the options given below:",
+    "options": [
+      "Fallacy of trivial reason",
+      "Fallacy of irrelevant reason",
+      "Fallacy of contradictory reason",
+      "Fallacy of wrong assertion"
+    ],
+    "correctIndex": 0,
+    "explanation": "The reason \"it is inaudible\" is irrelevant and trivial in establishing the conclusion that \"sound is permanent.\" The audibility of sound has no bearing on its permanence, making this a trivial reason for the claim being made.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-025",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "assertion-reason",
+    "question": "Assertion \"A\": Communication has the power to inform, persuade and Misinform. Reason \"R\": Propaganda blurs the thin line between truth and falsehood to be persuasive. Choose the correct answer from the options given below:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "of A Explanation: Assertion \"A\": Communication has the power to inform, persuade, and misinform. This is true because communication can serve various purposes, including conveying factual information, influencing others' opinions or behaviors (persuasion), and, unfortunately, spreading false or misleading information (misinformation). Reason \"R\": Propaganda blurs the thin line between truth and falsehood to be persuasive. This is also true. Propaganda often uses emotional appeal and selective information to manipulate public opinion, blurring the distinction between truth and falsehood in the process. Thus, Reason \"R\" correctly explains Assertion \"A\" because propaganda is an example of how communication can be used to misinform and persuade by manipulating facts and emotions.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2020-027",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "During one year, the population of a town increased by and during the next year, the 5% population decreased by 5%. If the total population is 29925 at the end of the second year, then what was the population size in the beginning of the first year?",
+    "options": [
+      "25000",
+      "30000",
+      "33000",
+      "36000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Let's solve this step by step. P Step 1: Let the initial population be . After the first year, the population increased by 5%, so the population at the end of the first year is: P Population at the end of first year = P × (1 + 0.05) = × 1.05 In the second year, the population decreased by 5%, so the population at the end of the second year is: P Population at the end of second year = P × 1.05 × (1 −0.05) = × 1.05 × 0.95 We are told that the population at the end of the second year is 29,925. So, we can set up the equation: P × 1.05 × 0.95 = 29925 Step 2: Simplify the equation P P × 1.05 × 0.95 = × 0.9975 Now, substitute the value 29,925: P × 0.9975 = 29925 P Step 3: Solve for 29925 P = = 30000 0.9975 Final Answer: The population size at the beginning of the first year was 30,000. Thus, the correct answer is: B. 30000",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-028",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In a school, there are five teachers. A and B both are teaching Hindi and English. C and B both are teaching English and Geography. D and A both are teaching Punjabi and Hindi. E and B both are teaching History and French. Who among the teachers is teaching the maximum number of subjects?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C and E"
+    ],
+    "correctIndex": 1,
+    "explanation": "A teaches: Hindi, English, Punjabi Total subjects: 3 B teaches: Hindi, English, Geography, History, French Total subjects: 5 C teaches: English, Geography Total subjects: 2 D teaches: Punjabi, Hindi Total subjects: 2 E teaches: History, French Total subjects: 2 Conclusion: B is teaching the maximum number of subjects, which is 5. Thus, the correct answer is: B. B",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-029",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In communication process, body language is associated with",
+    "options": [
+      "A culture",
+      "A movie audience",
+      "A classroom situation",
+      "A subject taught"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. A culture Body language is not universal across cultures— different cultures teach different interpretations of non-verbal cues. This is why body language is directly associated with culture, as it reflects and communicates culturally specific values, norms, and expectations.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-031",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Choose the correct alternative. Cup is to coffee as bowl is to ...... .",
+    "options": [
+      "Dish",
+      "Soup",
+      "Spoon",
+      "Food"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cup is commonly used to hold coffee, just as a bowl is commonly used to hold soup. Therefore, the relationship between \"cup\" and \"coffee\" is analogous to the relationship between \"bowl\" and \"soup.\" Thus, the analogy is: Cup : Coffee = Bowl : Soup.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-032",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'All children are not greedy' is an example of which proposition?",
+    "options": [
+      "Universal Affirmative",
+      "Universal Negative",
+      "Particular Affirmative",
+      "Particular Negative"
+    ],
+    "correctIndex": 3,
+    "explanation": "The proposition \"All children are not greedy\" is a particular negative statement. It is a negative statement because it denies a certain quality (being greedy) in some children. The term \"all\" may imply a reference to a group, but the denial is only applicable to \"some\" children, making it a particular negative proposition. In formal logic: Universal Affirmative: \"All children are greedy\" (A-type). Universal Negative: \"No children are greedy\" (E-type). Particular Affirmative: \"Some children are greedy\" (I-type). Particular Negative: \"Some children are not greedy\" (O-type). Therefore, the given proposition fits as a Particular Negative.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-033",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Local and face-to-face communication is referred to as",
+    "options": [
+      "Clinical integration",
+      "Demonstrative integration",
+      "Social integration",
+      "Spatial integration"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term \"social integration\" refers to the process in which individuals or groups, particularly minority groups, are integrated into the larger society. The key point is that it involves face-to-face communication and engagement, which helps bring people together, promoting cohesion within the social structure.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-034",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The sixth number in a sequence of numbers is 32 and each number after the first number in the sequence is 4 less than the number immediately proceeding it. What is the third number in the sequence?",
+    "options": [
+      "36",
+      "40",
+      "44",
+      "48"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let's denote the sequence of numbers as a1 a2 a3 , where each number after the first , , , … is 4 less than the previous number. According to the problem, the sixth number in the sequence is 32, i.e., a6 , and we need to find the third = 32 a3 number, . Step 1: Write the relationship between terms From the problem statement, we know: an+1 an n = −4 for all So, each number is 4 less than the previous one. Step 2: Find the earlier terms based on a6 = 32 To find a3 , let's work backward from a6 : a6 = 32 a5 a6 = + 4 = 32 + 4 = 36 a4 a5 = + 4 = 36 + 4 = 40 a3 a4 = + 4 = 40 + 4 = 44 Step 3: Conclusion a3 The third number in the sequence is = 44 . Thus, the correct answer is Option C: 44.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-035",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The argument which claims that its conclusion is conclusively supported by its premises is called",
+    "options": [
+      "Analogical Argument",
+      "Inductive Argument",
+      "Demonstrative Argument",
+      "Deductive Argument"
+    ],
+    "correctIndex": 3,
+    "explanation": "Deductive Argument: In a deductive argument, the premises are intended to conclusively support the conclusion. If the premises are true, the conclusion must be true as well. The argument is valid if the structure is correct, and it is sound if the premises are also true. Inductive Argument: In contrast, an inductive argument involves reasoning from specific instances to general conclusions. The premises provide some degree of support for the conclusion, but it is not guaranteed. Analogical Argument: This type of argument draws a comparison between two things based on their similarities, suggesting that what is true for one is true for the other. Demonstrative Argument: This term is not commonly used in traditional logic as a specific category. It may refer to arguments that seek to demonstrate or prove something, but the most direct answer here is \"Deductive Argument\".",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-036",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "A basic principle of effective classroom communication is that one should adapt his or her own ....... to the audience. Which of the following would replace the gap?",
+    "options": [
+      "Accent",
+      "Exterior",
+      "Message",
+      "Mannerism"
+    ],
+    "correctIndex": 2,
+    "explanation": "In effective classroom communication, a teacher must adapt their message to the audience (students). This means adjusting the content, style, and delivery of the information to suit the students' level of understanding, interests, and learning needs. Accent: Refers to the way someone pronounces words, which may influence comprehension, but the focus here is on adapting the content of communication rather than pronunciation. Exterior: Refers to outward appearance, which is not the core principle of effective communication in this context. Mannerism: Refers to habitual gestures or ways of behaving, which can influence communication but is secondary to adapting the message for clarity and engagement.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-038",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Consider the example provided below: \"There is no jar now on the ground\" Identify the means of knowledge (Pramana) involved in the example from the options given below :",
+    "options": [
+      "Anupalabdhi",
+      "Arthapatti",
+      "Pratyaksha",
+      "Anumana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anupalabdhi is a means of knowledge (Pramana) in Indian philosophy that refers to knowledge gained through non-perception or the absence of something. In this case, the statement \"There is no jar now on the ground\" is knowledge derived from the absence (non-perception) of the jar, which aligns with the concept of Anupalabdhi.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-044",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "1.) From the list given below identify the instructional events which form part of the structure of a lesson plan. Select your answer from the options given below the list. List of instructional events: (i) Gaining attention of students. (ii) Prior knowledge of students. (iii) Informing the learner of the objectives. (iv) Stimulating recall of pre-requisite learning. (v) Checking the availability of reading material in the library. (vi) Eliciting the desired response.",
+    "options": [
+      "(i), (ii), (iii), (iv)",
+      "(i), (iii), (iv), (vi)",
+      "(ii), (iii), (v), (vi)",
+      "(i), (iii), (iv), (v)"
+    ],
+    "correctIndex": 1,
+    "explanation": "1. Gaining Attention of Students (i) This is the first step in many instructional models, often referred to as \"setting the stage\" for learning. The teacher engages students' interest and prepares them for the learning process. This could involve asking a thought-provoking question, presenting an interesting fact, or using a visual aid to focus students' attention on the topic. 2. Informing the Learner of the Objectives (iii) Informing students of the learning objectives is crucial as it provides clarity on what they are expected to achieve by the end of the lesson. When students understand the goals, it increases motivation and provides them with a sense of purpose, making the lesson more structured. 3. Stimulating Recall of Pre-requisite Learning (iv) This step involves revisiting prior knowledge that is relevant to the new material. Activating prior knowledge helps students connect wh",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-045",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which teaching aids enhance the skills like reading, listening and pronunciation?",
+    "options": [
+      "Audio-lingual teaching aids.",
+      "Scientific teaching aids.",
+      "General knowledge teaching aids.",
+      "Theoretical based teaching aids."
+    ],
+    "correctIndex": 0,
+    "explanation": "Audio-lingual teaching aids are specifically designed to enhance skills like reading, listening, and pronunciation. These aids use audio resources, such as recorded conversations, language labs, and pronunciation exercises, which allow students to hear correct pronunciation and intonation. Listening to spoken language models helps learners practice pronunciation and improves their listening comprehension. Other Options :- B. Scientific teaching aids: These are used primarily to illustrate scientific concepts and experiments rather than language skills. C. General knowledge teaching aids: These aids are focused on imparting general knowledge across various topics and are not specifically designed for reading, listening, or pronunciation skills. D. Theoretical based teaching aids: These focus on delivering theoretical knowledge, which may not include active listening or pronunciation compo",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-046",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Participant observation is a part of:",
+    "options": [
+      "Philosophical research",
+      "Mentalist Theory of language",
+      "Mathematical research",
+      "Ethnographic research"
+    ],
+    "correctIndex": 3,
+    "explanation": "Participant observation is a primary method used in ethnographic research. In this approach, researchers immerse themselves in the community or environment they are studying, observing and interacting with participants in their natural setting. This method helps researchers gain an in-depth understanding of social practices, cultural norms, and behaviors within a specific group. Other Options:- A. Philosophical research: While philosophical research involves deep theoretical analysis and reasoning, it typically does not use participant observation as a method. B. Mentalist Theory of language: This theory in linguistics focuses on the cognitive processes of language acquisition and understanding, not on observing social behavior within communities. C. Mathematical research: Mathematical research relies on logical analysis, proofs, and calculations rather than observational methods. Thus, ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-047",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Plagiarism in research is:",
+    "options": [
+      "Creative use of previous data.",
+      "Copying unscrupulously and making use of it.",
+      "Quoting someone and citing him/her.",
+      "Referring to previous data and working over it with new objectives."
+    ],
+    "correctIndex": 1,
+    "explanation": "Plagiarism in research refers to using someone else's work, ideas, or words without proper acknowledgment, essentially presenting it as one's own. This includes copying text, data, or ideas without citation, which is unethical and often considered a serious academic offense. Plagiarism undermines the originality and integrity of research work. Therefore, Option B is correct, as plagiarism specifically involves copying without proper acknowledgment or permission.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-048",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Think-aloud procedure is:",
+    "options": [
+      "a part of secondary source of data.",
+      "a technique used to investigate learner strategies and performance.",
+      "a strategy of testing learners' aptitude by providing primary sources.",
+      "a necessary method in scientific research."
+    ],
+    "correctIndex": 1,
+    "explanation": "The think-aloud procedure is a research method where participants verbalize their thoughts while performing a task. This technique allows researchers to gain insights into the participants' cognitive processes, strategies, and decision- making in real-time. It is often used in educational psychology, language learning, and other fields to understand how learners approach and solve problems, thereby evaluating their strategies and performance.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-049",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In the two sets given below, Set-I provides the different levels of learning according to Bloom's Taxonomy, while set-II gives their examples and concerns. Match the two sets and select from the options to indicate your answer: Set-I (Levels of Learning) (a) Memory level (b) Understanding level (c) Analysing level (d) Creating level (c) Analysing level (d) Creating level Set-II (Examples) (i) Identifying examples of a given concept (ii) Generating new ideas (iii) Recalling information (iv) Isolating information into parts Options (a) (b) (c) (d)",
+    "options": [
+      "(ii) (i) (iii) (iv)",
+      "(i) (ii) (iii) (iv)",
+      "(iv) (iii) (i) (ii)",
+      "(iii) (i) (iv) (ii)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matching Set-I (Levels of Learning) with Set-II (Examples) based on Bloom's Taxonomy: (a) Memory level — (iii) Recalling information The memory level involves recalling or retrieving previously learned information. This is the most basic level of Bloom's Taxonomy. (b) Understanding level — (i) Identifying examples of a given concept The understanding level requires comprehending the meaning of the information, which includes identifying examples and explaining concepts in one's own words. (c) Analysing level — (iv) Isolating information into parts The analysis level involves breaking down information into parts to understand its structure and relationships. This includes isolating, organizing, and identifying patterns. (d) Creating level — (ii) Generating new ideas The creating level is the highest in Bloom's Taxonomy, involving synthesizing information to generate new ideas or products.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-050",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Diagnostic Evaluation ascertains:",
+    "options": [
+      "Students performance at the beginning of instructions.",
+      "Causes and remedies of persistent learning problems during instructions.",
+      "Degree of achievement of instructional objectives at the end.",
+      "Learning progress and failure after instructions."
+    ],
+    "correctIndex": 1,
+    "explanation": "Diagnostic Evaluation is specifically designed to identify and analyze the causes of students' learning difficulties during the instructional process. It aims to uncover persistent learning issues that may be hindering progress, allowing educators to implement targeted interventions or remediation strategies. This type of evaluation helps improve the effectiveness of instruction by addressing specific needs as they arise.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-051",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'All aspects of luck, including natural ability, should be irrelevant to distributive justice' - This statement refers to the concept of",
+    "options": [
+      "Meritocracy",
+      "Plutocracy",
+      "Luck egalitarianism",
+      "Aristocracy"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statement, \"All aspects of luck, including natural ability, should be irrelevant to distributive justice,\" refers to the concept of luck egalitarianism in theories of distributive justice. Luck egalitarianism is a philosophical view which argues that inequalities in society are justified only if they arise from choices individuals make rather than from circumstances beyond their control. In essence, luck equality aims to establish a society in which",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-052",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which among the following is NOT a salient feature of 'individualist anarchism\"?",
+    "options": [
+      "Private property",
+      "Ultra liberalism",
+      "Civil disobedience",
+      "Organicism"
+    ],
+    "correctIndex": 3,
+    "explanation": "Individualist anarchism is a subset of anarchism that values individual autonomy, personal liberty, and independence over collective or community alternatives. This philosophy aims to eradicate all forms of external authority that limit individual freedom, including the state, organized religion, and social hierarchy. (A) Private property- In the 19th century, individualist anarchism often viewed private property as personal possession, rather than capitalist property. Individualist anarchists support individual possession ownership while opposing the state and collective property control. (B) Ultra liberalism- Individualist anarchism is considered an extreme variant of liberalism, emphasizing individual freedom, autonomy, and minimum government intervention. This emphasis on personal liberty is consistent with ultra-liberal ideals, which place individual rights above nearly everything e",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-053",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The theory that 'the Earth is best understood as a living entity that acts to maintain its own existence ' is known as",
+    "options": [
+      "Tragedy of commons",
+      "Sustainability",
+      "Social ecology",
+      "Gaia hypothesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Tragedy of the commons- This concept was introduced by ecologist Garrett Hardin and it refers to the problem of individuals depleting shared resources for personal gain, which eventually leads to the depletion of those resources, harming everyone. B. Sustainability- Sustainability is the principle of meeting current needs without compromising the ability of future generations. It focuses on the long-term management of resources but does not specifically describe the Earth as a living, self-regulating entity. C. Social ecology- Social ecology, developed by theorist Murray Bookchin, explores the interdependence between social and environmental issues, advocating for an ecological society based on equality and sustainability. However, it does not present the Earth as a living organism. D. Gaia hypothesis- The Gaia hypothesis, proposed in the 1970s, suggests that the Earth functions as a ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-054",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which among the following countries have no written constitution?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Spain",
+      "France"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Australia has a written constitution. Australia's constitution known as the Constitution of Australia, came into effect in 1901, outlines the structure of the federal government and the division of powers between the Commonwealth and the states. (B) New Zealand has no single written constitution, instead, New Zealand's constitution is based on a combination of statutes, common law, and conventions. There exists documents such as the Constitution Act 1986 and Treaty of Waitangi 1840, but there is no one comprehensive written document that serves as the constitution. (C) Spain has a written constitution. Spain’s current constitution, adopted in 1978, defines the structure of the government, the relationship between the central government and regions, and citizens' rights. (D) France also has a written constitution. France's constitution, established in 1958 under the Fifth Republic, is",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-055",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which among the following forms of government is ideal for Machiavelli?",
+    "options": [
+      "Republic",
+      "Aristocracy",
+      "Democracy",
+      "Hereditary Monarchy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niccolò Machiavelli is often associated with ideas about strong, sometimes ruthless leadership but his ideal form of government was actually a republic. This is evident from his writings, particularly in 'The Discourses on Livy', where he praises the Roman Republic as a model of political stability and civic virtue. (A) Republic: Machiavelli saw a republic as an ideal form of government because it allows for more active participation by the people, encourages civic responsibility, and has checks and balances that prevent the concentration of power. In a republic, he believed, citizens could work collectively to promote the common good and defend their liberty. (B) Aristocracy: While Machiavelli acknowledged that an aristocracy could provide stable governance, he did not see it as ideal because it concentrates power among a few, risking corruption and detachment from the people’s needs. (",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-056",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following thinkers did not believe in women equality?",
+    "options": [
+      "Plato and Mill",
+      "Aristotle and Hegel",
+      "Mill and Mary Wollstonecraft",
+      "Plato and Mary wollstonecraft"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Plato and Mill: They believed in women’s equality. Plato, in 'The Republic', argued that women could perform the same roles as men in society, as long as they were properly educated. Similarly, John Stuart Mill was a strong advocate for gender equality, particularly in his work 'The Subjection of Women', where he argued for equal rights and education for women. (B) Aristotle and Hegel: They did not believe in women’s equality. Aristotle viewed women as naturally inferior to men and believed that they were better suited to domestic roles rather than public or political life. Hegel also saw women as subordinate in the family structure and believed they should focus on the private sphere, rather than participate as equals in society or public life. (C) Mill and Mary Wollstonecraft: They Believed in women’s equality. Both John Stuart Mill and Mary Wollstonecraft advocated for gender equa",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-057",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In \"The Considerations on Representative Government\", J.S. Mill did not elaborate upon",
+    "options": [
+      "Ideal government based on proportional representation",
+      "Protection of minorities",
+      "Institutions of self-government",
+      "Political Economy"
+    ],
+    "correctIndex": 3,
+    "explanation": "In 'Considerations on Representative Government', John Stuart Mill focuses on the principles and structure of an ideal representative government. He covers the importance of proportional representation, the protection of minority rights, and the role of self-governing institutions. (A) Ideal government based on proportional representation: Mill discusses the importance of proportional representation as a way to ensure fair representation for all groups within a democratic society. He argues that proportional representation allows for a more balanced and equitable government, preventing the majority from overpowering minority voices. (B) Protection of minorities: Mill emphasizes the need to protect minority interests in a representative government. He is concerned with the potential for a \"tyranny of the majority\" and suggests safeguards to ensure that minority groups are not suppressed b",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-058",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Aristotle's \"ideal state is always Plato's second best\". Who said this?",
+    "options": [
+      "G.H. Sabine",
+      "W.Ebenstein",
+      "J. A. Dunning",
+      "C.L Wayper"
+    ],
+    "correctIndex": 0,
+    "explanation": "The statement \"Aristotle's ideal state is always Plato's second best\" was made by G.H. Sabine, a well-known historian of political thought, in his analysis of classical political theory. Sabine pointed out that while both Plato and Aristotle were concerned with defining an ideal state, their visions differed significantly. Aristotle’s ideal state was more pragmatic and grounded in the realities of human nature and political life. This contrasted with Plato’s more abstract, idealistic vision presented in 'The Republic'. Sabine argued that Aristotle’s practical approach to the ideal state did not fully align with the lofty philosophical idealism of Plato’s work, thus making Aristotle's model somewhat of a \"second best\" in the context of Plato’s standards.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-059",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which one of the following is not the function of State, according to Kautilya?",
+    "options": [
+      "Acquisition of that which is not under its control and possession",
+      "Preservation of what has been acquired",
+      "Accentuation of what has been preserved",
+      "Empire building only"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Kautilya’s Arthashastra, a foundational treatise on governance and statecraft in ancient India, boutlines the functions of the state and the duties of a ruler. The functions of the state, according to Kautilya, focus on acquisition, preservation, and growth of resources, as well as the welfare and security of the state and its people. (A) Acquisition of that which is not under its control and possession: Kautilya emphasized that a state should aim to acquire resources, land, and wealth that are not yet under its control. This could involve expansion or consolidation efforts to strengthen the state. (B) Preservation of what has been acquired: Once resources or territory are acquired, Kautilya advocated for their protection and effective management. Preservation was crucial for maintaining stability and prosperity. (C) Accentuation of what has been preserved: This refers to enhancing or",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-060",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'Agganasutta' is related with",
+    "options": [
+      "Hindu Philosophy",
+      "Buddhist Philosophy",
+      "Jain Philosophy",
+      "Vedanta Philosophy"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Agganna Sutta is a discourse in Buddhist philosophy, specifically found in the Digha Nikaya of the Pali Canon, which is a major collection of Theravada Buddhist scriptures. In this sutta, the Buddha explains the origins of human society, social classes, and the development of moral and ethical values. It is known for its insights on the nature of the world, society, and the concept of human evolution from a Buddhist perspective. The Agganna Sutta refutes the notion of a permanent social structure, such as the caste system, claiming that moral and ethical action, rather than birth, determines a person's worth. This is consistent with Buddhist teachings, which prioritize human growth and compassion over social position. Moreover, the sutta discusses the idea that humans should strive for virtue and enlightenment, promoting values that contribute to the welfare of all beings.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-061",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which one of the following party firstly joined by E.V Ramasami Periyar?",
+    "options": [
+      "Bharatiya Janata Party",
+      "Indian National Congress",
+      "Justice Party",
+      "Communist Party of India"
+    ],
+    "correctIndex": 1,
+    "explanation": "E.V. Ramasami Periyar, a prominent social reformer from Tamil Nadu, first joined the Indian National Congress (INC) in the early 1900s. His involvement in the Congress stemmed from his desire to promote social justice and combat caste discrimination, which he saw as issues that the Congress could address at the time. However, he ultimately became disillusioned with the party, believing it was dominated by upper-caste interests and was not sufficiently devoted to addressing social disparities in underprivileged communities. After leaving the INC, Periyar joined and became a major leader of the Justice Party (later the Dravidar Kazhagam), which focused more directly on anti-caste and anti-Brahmin concerns, which were closely related to his fight for Dravidian identity and social equality.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-062",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The concept of 'credible minimum deterrent' relates to which of the follwing types of weapons?",
+    "options": [
+      "Chemical",
+      "Biological",
+      "Nuclear",
+      "Space-based"
+    ],
+    "correctIndex": 2,
+    "explanation": "The concept of \"credible minimum deterrence\" is commonly connected with nuclear weapons. This principle refers to a country's resolve to keep a nuclear arsenal substantial enough to deter potential rivals but not so large that it appears aggressive or sparks an arms race. The goal is to create a credible nuclear force that can function as a deterrent to any nuclear or large-scale conventional attack, without building up a stockpile that surpasses what is considered required for self-defense. This theory is especially important for countries like India, which has implemented a \"no first use\" policy for nuclear weapons. Under this approach, credible minimum deterrence allows a nation to ensure it has adequate nuclear capability to respond effectively to an attack.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-063",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who gave the idea of 'the New Northern Concert of Power' (NNCP) to analyse the relevance of non-aligned movement in post-cold war era?",
+    "options": [
+      "M.S. Rajan",
+      "S.D. Muni",
+      "A.P. Rana",
+      "Muchkund Dubey"
+    ],
+    "correctIndex": 2,
+    "explanation": "A.P. Rana developed the idea of the \"New Northern Concert of Power\" (NNCP) to examine the shifting dynamics of international relations in the post-Cold War era, as well as the role of the Non-Aligned Movement (NAM) in this context. This concept relates to the restructuring of global power, notably among major Northern or Western states, after the Cold War ended and new alliances arose. Rana stated that as the global power structure changed, the Non- Aligned Movement needed to rethink its position and purpose in order to remain relevant. Rana's notion of the NNCP proposed that key powers in the Global North (such as the United States, European nations, and other developed countries) will likely work together to maintain global stability and address common concerns. This collaboration reduced the direct influence of NAM, as global conflicts were no longer characterized by the ideological d",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-064",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In which of the following subjects, Rajya Sabha has got more power than Lok sabha?",
+    "options": [
+      "Ratification of President's rule in a state",
+      "Creation of a new All India Service",
+      "Creation of Legislation Council in a state",
+      "Alteration in the boundary of a state"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Ratification of President's Rule in a state: Both the Rajya Sabha and the Lok Sabha have equal power in ratifying the proclamation of President's Rule (under Article 356). The resolution must be approved by both houses of Parliament, not just Rajya Sabha. (B) Creation of a new All India Service: According to Article 312 of the Indian Constitution, the Rajya Sabha has a special power to create new All India Services, such as the Indian Police Service (IPS) or Indian Administrative Service (IAS). The Rajya Sabha can initiate a proposal for the creation of such services, and if it passes the motion, it is then sent to Lok Sabha for approval. Moreover, if Rajya Sabha passes a motion regarding the creation of an All India Service, Lok Sabha cannot veto it but can only delay or modify it. This makes the Rajya Sabha's role in this matter more significant than that of the Lok Sabha. (C) Crea",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-065",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which article of the Indian Constitution is associated with judicial activism?",
+    "options": [
+      "14",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Article 14: Article 14 guarantees equality before the law and equal protection of the laws. While it is crucial for judicial review and addressing discrimination, it is not as directly associated with judicial activism as Article 21. (B) Article 18: Article 18 abolishes titles and does not directly relate to judicial activism or fundamental rights. (C) Article 21 of the Indian Constitution is most closely associated with judicial activism in India. This article states: \"No person shall be deprived of his life or personal liberty except according to procedure established by law.\" The Indian court, particularly the Supreme Court, has dramatically increased the scope of fundamental rights through its interpretation of Article 21. The Court has used Article 21 as a foundation for creating rights that are not specifically stated in the Constitution, thereby encouraging judicial activism. ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-066",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following was strongly opposed to the idea of Panchayati Raj system in India?",
+    "options": [
+      "B.R. Ambedkar",
+      "Jaya Prakash Narayan",
+      "Ram Manohar Lohia",
+      "Mahatma Gandhi"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) The Indian Constitution's creator and well- known politician, Dr. B.R. Ambedkar, was adamantly against the concept of the Panchayati Raj system. His main reason for opposing the system was his conviction that it would uphold social injustices and caste-based structures, especially the persecution of Dalits and other oppressed people. Ambedkar believed that the higher castes' supremacy over the lower castes in rural regions might be maintained via local self-governance through Panchayats. (B) Jaya Prakash Narayan: J.P. Narayan was a strong advocate of grassroots democracy and was a supporter of the Panchayati Raj system. (C) Ram Manohar Lohia: Lohia was also a proponent of socialist ideals and advocated for empowering people at the grassroots level, including through Panchayati Raj. He was a strong advocate for social equality and empowerment of marginalized communities. (D) Mahatma G",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-067",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statement is false about the Indian federalism?",
+    "options": [
+      "it is a good example of 'holding together' federation",
+      "it has a tendency of strong Central Government",
+      "it reflects the spirit of 'coming together' federation",
+      "it has been referred to as 'quasi federal' system"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) it is a good example of 'holding together' federation- This is accurate. The federal structure of India is a \"holding together\" federation, which means that the central authority established and maintains the federation, bringing the several states together to form a single country. The union, or central government, has more authority under this arrangement than the states have. The system was created to maintain national unity under a single administration. Under this form of federalism, the federal government retains strong central control while attempting to maintain the integrity and unity of the country by giving authority to various states. (B) It has a tendency of strong Central Government- This is accurate. The central government has considerable authority over the states in India's federal system, which is centralized. The Constitution gives the Union Government additional a",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-068",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who has given originally the idea of 'Hindu Rashtra?",
+    "options": [
+      "V.D. Savarkar",
+      "K.B. Hedgewar",
+      "B.S. Moonje",
+      "M.S. Golwalkar"
+    ],
+    "correctIndex": 0,
+    "explanation": "The concept of a Hindu Rashtra (Hindu Nation) was first conceived by renowned independence fighter, social reformer, and thinker V.D. Savarkar. In his 1923 book \"Hindutva: Who is a Hindu?\" he outlined his theories. Savarkar established the framework for his idea of a Hindu nation in this book. He emphasized the notion that India should be a country where the Hindu way of life, culture, and values would be integral to the nation's identity, defining Hindutva not only as a religion but also as a cultural and national identity for all Hindus. The unification of Hindus was the main goal of Savarkar's concept of Hindu Rashtra, especially in reaction to British colonial control and the widening religious and cultural divides within the nation.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-069",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following characterized- the Indian polity as being stable not in the sense of a stationary unresponsive state but in terms of a 'regulated movement'?",
+    "options": [
+      "Myron Weiner",
+      "W.H. Morris Jones",
+      "James Manor",
+      "Atul Kohli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Renowned political scientist and Indian politics expert W.H. Morris Jones described the Indian polity as stable in the sense of a \"regulated movement\" rather than a stagnant, unresponsive state. He thought that while being dynamic and changing, Indian democracy was able to retain stability through a controlled and well-balanced process. He asserted that because of the institutionalized governance procedures, the Indian political system maintained its stability while remaining responsive and flexible. He observed that the Indian state exhibited a capacity for reform and change, yet it also possessed a resilience and structure that ensured its political system remained responsive but stable. Morris Jones emphasized how India was able to adjust to its socio-political shifts as a recently independent nation while preserving stability.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-070",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following was not a member of the 'Syndicate' group of the Congress party?",
+    "options": [
+      "M.N. Nijalingappa",
+      "Morarji Desai",
+      "K. Kamaraj",
+      "Y.B. Chauvhan"
+    ],
+    "correctIndex": 3,
+    "explanation": "The \"Syndicate\" was a powerful group of top leaders in the Indian National Congress in the 1960s. This group featured significant people such as M.N. Nijalingappa, Morarji Desai, K. Kamaraj, and other senior leaders. This group had a considerable impact on party choices and policies, particularly in the years following Jawaharlal Nehru's death. Yashwantrao Balwantrao Chavan, a prominent Congress leader, was not a member of the Syndicate. He was more closely affiliated with the faction that supported Indira Gandhi, who ultimately became Prime Minister, and held different ideas than the Syndicate members. Y.B. Chauvhan served as 8th Minister of Finance from 1970 to 1971 & 1971 to 1974. Thus, Option D is the correct answer because Y.B. Chavan was not a member of the Syndicate group.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-071",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "A formal organization, according to Chester Bernard, comes into existence when",
+    "options": [
+      "There are persons who are willing to contribute action",
+      "There are persons with different goals and purpose",
+      "There are prsons willing to communicate through informal channels only",
+      "Executive is unwilling to handle the economy of incentives within an organisation"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to Chester Barnard, a formal organization is created when there are individuals who are willing to contribute purposeful action toward a common goal. Barnard emphasized three primary elements necessary for a formal organization to exist: 1. Willingness to contribute by members of the organization. 2. Common purpose or goal that aligns members' efforts. 3. Communication among members to coordinate and direct their actions. Option A reflects the idea that people must be willing to take action and contribute for an organization to function effectively. However, options B, C, and D do not align with Barnard's principles for the formation of a formal organization.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-072",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The concept of 'traditional' authority involves:",
+    "options": [
+      "Use of authority by virtue of their inherited status by persons",
+      "The exercise of power subject to rules and regulations",
+      "The use of power based on the basis of magical qualities by a person",
+      "The use of power/authority as per inherited status as well as extraordinary contribution to the history of advanced business organisation"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to sociologist Max Weber, 'traditional authority' refers to a type of authority that is justified by long-standing conventions and traditions. In this type of authority, power is inherited or passed down through existing social institutions, and leaders are empowered by their inherited status or long-standing norms rather than formal qualifications or legal frameworks. Within this context: (A) Option A (Use of authority by virtue of their inherited status by persons) is right because traditional authority entails people wielding power based on their inherited or customary position in a social or organizational structure. (B) Option B (The exercise of power subject to rules and regulations) represents rational-legal authority, in which power is established by a set of rules and formal regulations. (C) Option C (The use of power based on the basis of magical qualities by a person",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-073",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following factors did not contribute to the evolution of the scientific management theory?",
+    "options": [
+      "lack of effective standards of work",
+      "lack of clear understanding of worker- management responsibilities",
+      "rule-of-thumb based decisions by the management",
+      "proper job design and economic incentives to workers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Frederick W. Taylor created scientific management theory in the early twentieth century with the goal of improving efficiency and production by tackling a number of fundamental workplace challenges. The theory developed in response to the following factors: (A) lack of effective standards of work: Prior to scientific management, there were no defined techniques for accomplishing tasks,",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-074",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements about the 'Consumer Protection Act 2019' is NOT true?",
+    "options": [
+      "It has widened the definition of consumer",
+      "It provides for E-filing of complaints",
+      "It establishes Central Consumer Protection Authority",
+      "It ignores mediation as an alternate disputes resolution mechanism"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Consumer Protection Act, 2019 in India introduced several new provisions to strengthen consumer rights and enhance dispute resolution mechanisms. (A) It has widened the definition of consumer: This statement is true as the Act expanded the definition of \"consumer\" to include e- commerce transactions, covering online purchases and digital services, thus defining a broader scope of consumer rights. (B) It provides for E-filing of complaints: This statement is also true. The 2019 Act allows consumers to file complaints electronically (E- filing) in consumer commissions, making it easier for consumers to seek redress without needing to physically visit a consumer court. (C) It establishes the Central Consumer Protection Authority (CCPA): This statement is true. The Act created the Central Consumer Protection Authority to protect and enforce the rights of consumers, investigate violations",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-075",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'Consumer Protection Bill 2019' was passed by the Indian Parliament on",
+    "options": [
+      "13th July 2019 25th",
+      "July 2019 6th",
+      "August 2019",
+      "9th August 2019"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Indian Parliament enacted the Consumer Protection Bill, 2019, on August 6, 2019. The following is the chronology for its passage: The Lok Sabha (the lower house of Parliament) passed the bill on July 30, 2019. The Rajya Sabha (the upper house of Parliament) subsequently passed it on August 6, 2019. Following its passing through both chambers, the measure gained the President's assent on August 9, 2019, and became the Consumer Protection Act of 2019. Thus, Option C is true, as both chambers of Parliament officially enacted the bill on August 6, 2019.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-076",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'Hegemony' refers to",
+    "options": [
+      "economic exploitation",
+      "structural inequality",
+      "the capacity of bourgeoisie to displace rival views and become, in effect, the common sense of the age",
+      "military domination"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term hegemony was popularized by the Italian Marxist theorist Antonio Gramsci, who used it to describe the way a dominant social class, especially the bourgeoisie, maintains control over society not merely through coercive power but by shaping cultural norms, values, and beliefs. Hegemony is about achieving and sustaining ideological dominance or consensus so that the values and worldview of the ruling class become accepted as \"common sense\" by the broader society. In this context: Option A (economic exploitation) and Option B (structural inequality) can be the consequences or aspects of hegemony but are not related to its meaning, which involves ideological influence rather than just economic or structural power. Option D (military domination) refers to control through force, which contrasts with hegemony, where consent and ideological persuasion play key roles. Therefore, Option C ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-077",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following rejected 'scientific determinism' and advocated political and intellectual struggle?",
+    "options": [
+      "Antonio Gramsci",
+      "Karl Marx",
+      "V.I. Lenin",
+      "Friedrich Engels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antonio Gramsci criticized scientific determinism, which holds that social and historical developments are completely governed by economic forces and follow unavoidable laws. Unlike some interpretations of Marx and Engels that highlighted the deterministic role of economic mechanisms in constructing society, Gramsci claimed that political and intellectual struggle (or \"praxis\") is critical in shaping social and historical change. He believed that ideological struggles and the role of culture were critical to effecting social transformation, and hence coined the term \"cultural hegemony\" to describe how the ruling class retains control. While Marx and Engels saw economic determinism as a key driver in historical materialism, Gramsci emphasized individual and group agency through intellectual and cultural struggle, arguing that changing the superstructure (culture, ideology, and beliefs) is",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-078",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following indicates the nature of planning in India in Contemporary times?",
+    "options": [
+      "Annual Planning",
+      "Centralised Planning",
+      "Perspective Planning",
+      "Five year Planning"
+    ],
+    "correctIndex": 2,
+    "explanation": "In India, planning has shifted from the Five-Year Planning model to a Perspective Planning approach, which focuses on setting long-term goals for the country's development over extended periods, usually around 15 to 20 years. This change reflects the move away from the traditional centralized and rigid five-year plans toward more flexible and broad-based planning with adaptable strategies. (A) Annual Planning: Annual planning is used for short-term budget allocations and immediate policy adjustments but it does not capture the long-term nature of contemporary Indian planning. (B) Centralised Planning: Centralized planning, as seen under the Planning Commission, has been largely replaced by more decentralized planning mechanisms with the establishment of the NITI Aayog in 2015, which promotes cooperative federalism and involves state governments in the planning process. (C) Perspective Pl",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-079",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following was/is the first chairman of NITI Aayog in India?",
+    "options": [
+      "Amitabh Kant",
+      "Arvind Pangariya",
+      "Narendra Modi",
+      "Manmohan Singh"
+    ],
+    "correctIndex": 2,
+    "explanation": "The National Institution for Transforming India (NITI) Aayog was founded in January 2015 to replace the Planning Commission. NITI Aayog’s primary aim is to promote sustainable and inclusive growth by providing strategic and technical advice to the central and state governments. The Prime Minister of India, Narendra Modi, served as the first Chairman of NITI Aayog when it was established. (A) Amitabh Kant: Amitabh Kant is the CEO of NITI Aayog, but not its chairman. He is crucial in putting proposals and policies into action, but he does not serve as chairman. (B) Arvind Pangariya: Arvind Pangariya was the Vice-Chairman of NITI Aayog when it was established. He held this role from 2015 until his resignation in 2017, but he never served as chairman. (C) Narendra ModI: this is correct as Narendra Modi, as the Prime Minister of India, became the first Chairman of NITI Aayog. (D) Manmohan Sin",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-080",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following has presented the incremental model of public policy?",
+    "options": [
+      "Henry Fayol",
+      "Charles E. Lindblom",
+      "Fred W. Riggs",
+      "David Easton"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Henry Fayol: Henry Fayol was a management theorist who developed the administrative theory of management, focusing on principles of management. (B) Charles E. Lindblom: This is correct because he proposed the Incremental Model of Public Policy in the middle of the twentieth century. According to Lindblom, public policy is usually developed through modest, incremental improvements rather than huge, sweeping ones. He contended that governments frequently base decisions on current policies and make incremental, gradual tweaks to them rather than starting from fresh with radical improvements. This method differs from other policy models, which push for comprehensive, top-down decision-making. Lindblom's incrementalism emphasizes on decision-making constraints such as time, information, and resources. As a",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-081",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which one of the following is not a theory or model of representation?",
+    "options": [
+      "Trusteeship",
+      "Delegation",
+      "The Mandate",
+      "Consensus"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Trusteeship Model: According to this model, representatives use their discretion to make decisions that they feel are in the best interest of the public. In this model, representatives use their thinking and decision making abilities, even if this decision is contrary to the immediate wishes of their voters. In this approach, the public trusts that their representative will make the right decision for the benefit of society. B. Delegation Model: In the delegation model, representatives act only according to the wishes and instructions of their voters. In this model, the representative is considered to be a direct reflection of the wishes of his voters, and is expected to make decisions according to their views and preferences. C. The Mandate Model: In this model, representatives are elected with a clear policy or agenda, which they are bound to implement based on the promises made to ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-082",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "According to Greek system of classification of regimes, the degenerative form of rule by many is known as",
+    "options": [
+      "Tyranny",
+      "Aristocracy",
+      "Anarchic democracy (mob rule)",
+      "Oligarchy"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the Greek system of classification of regimes, the degenerative form of rule by many is known as Anarchic democracy (mob rule). Democracy (rule by the many) is considered the good or ideal form of government in Greek political philosophy, particularly by Aristotle. The degenerative or corrupt form of democracy is termed \"Anarchic democracy\" or \"mob rule,\" where the majority may act out of self-interest or impulsiveness, leading to disorder and chaos rather than good governance. So, the correct answer is option C (Anarchic democracy or mob rule).",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-083",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following is often portrayed as the 'father' of cultural nationalism?",
+    "options": [
+      "Guisseppe Mazzini",
+      "Charles Maurras",
+      "Frantz Fanon",
+      "Johann Gottfried Herder"
+    ],
+    "correctIndex": 3,
+    "explanation": "The concept of defining a nation’s identity through its culture, language, traditions and history is called Cultural Nationalism. Let’s analyse the options: A. Giuseppe Mazzini : Mazzini was a major proponent of Political Nationalism. He was a leader in the Italian Unification movement and believed that the nation should be democratic and independent. Although he valued national identity, his focus was on political independence and the nation state. B. Charles Maurras: Moras was a French nationalist who promoted Integral Nationalism. His nationalism was more reactionary and conservative, and it is different from cultural nationalism. C. Franz Fanon : Fanon was an advocate of anti- colonialism and Black nationalism. His works, such as \"The Wretched of the Earth\", focused on the cultural identity and liberation struggle of colonized countries. D. Johann Gottfried Herder : Herder is often c",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-085",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following reformulated Hans Morgenthau's 'six principles of political realism' from a feminist perspective?",
+    "options": [
+      "Judith Butler",
+      "J.Ann Tickner",
+      "Helen M.Kinsella",
+      "Betty Friden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hans Morgenthau established the \"Six Principles of Political Realism\" to understand international politics. Morgenthau's approach was traditional realism, emphasizing power, national interest, and a state-centric approach.J. Ann Tickner restructured these principles from a feminist perspective and challenged the male-dominated notion of realism in international relations. According to her, Morgenthau's theories overlooked the role of women and social structures. Six Principles of Hans Morgenthau: 1. Politics is governed by objective laws. 2. National interest is defined by power. 3. Politics and morality are distinct. 4. Moral values are seen relative to power. 5. The state is the primary unit. 6. The concept of political realism is universal. Explanation of other options: A. Judith Butler : Butler is a well-known feminist and philosopher, but her work focuses primarily on gender theory ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-086",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "The combination of liberal democracy and the market had drawn a finishing line in the history of political and social development'. Who made this statement?",
+    "options": [
+      "Samuel P. Huntington",
+      "Benjamin Barber",
+      "Francis Fukuyama",
+      "Alexander Wendt"
+    ],
+    "correctIndex": 2,
+    "explanation": "This idea was presented by Francis Fukuyama in his famous book \"The End of History and the Last Man\" (1992). Fukuyama argued that liberal democracy and free market economy represented the final stage of political and social development after the end of the Cold War and the collapse of the Soviet Union. According to him, the \"end\" of history was not that events would stop, but that no new ideology or system of governance would be able to challenge liberal democracy and capitalism.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-087",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following is the executive- bureaucratic arm of the European Union?",
+    "options": [
+      "The European Council",
+      "The European Commission",
+      "The Council",
+      "The European Parliament"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the context of the European Union, the European Commission is its executive- bureaucratic organ. It implements the policies and laws of the Union. It also makes legislative proposals and coordinates between member countries and other institutions. Main functions of the European Commission: 1. Proposing Legislation: It prepares proposals for new laws for the EU, which are then approved by the European Parliament and the Council. 2. Implementing Policies: It implements EU laws and budgets. 3. Monitoring Treaties: The Commission ensures that all member countries comply with EU treaties and laws. 4. International Representation: It represents the EU internationally, such as in trade negotiations. Explanation of other options: Option A -The European Council: It is the body of the heads of state and government of the member states. It mainly decides the political direction and priorities of",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-088",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following is not a principle of jus ad bellum (just recourse to war)?",
+    "options": [
+      "just cause",
+      "legitimate authority",
+      "proportionality",
+      "humanity"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jus ad bellum means \"just reason for going to war.\" It is the set of principles and norms that determine whether it is moral or legitimate for a state or group to start a war. Its basic principles are as follows: A. Just Cause : There must be a legitimate and justifiable reason for starting a war, such as self- defense, preventing tyranny, or responding to aggression. B. Legitimate Authority : The decision to wage war should only be taken by a recognized and legitimate political or legal authority, such as the government of a country. C. Proportionality : The benefits and consequences of war must outweigh the potential harms. This ensures that war is a just solution. D. Humanity : It is not part of this principle, as it is an aspect of Jus in bello (principles of behavior during war). Jus in bello ensures that humanitarian values are maintained in war and unnecessary suffering is avoided",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-089",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following is NOT a key figure of 'Conservatism?",
+    "options": [
+      "T.H. Green",
+      "Edmund Burke",
+      "Michael Oakshott",
+      "Friedrich Von Hayek"
+    ],
+    "correctIndex": 0,
+    "explanation": "s: Conservatism is a political ideology that believes in tradition, stability, and gradual change. Its key principles include respecting traditions, maintaining stability, and running society based on experiences learned from the past. Explanation of options: A. T.H. Green : T.H. Green was a Liberal philosopher who was one of the leading thinkers of 19th-century liberalism.He emphasized individual freedom, the role of the state in society, and ideas of social justice.His thinking was progressive and reformist, which is in contrast to the traditionalist ideology of conservatism.Therefore, T.H. Green is not considered a major thinker of conservatism. B. Edmund Burke : Edmund Burke is considered the founder of modern conservatism.He emphasized the importance of tradition and gradual reform. In his major work \"Reflections on the Revolution in France\" he criticized the French Revolution and e",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-090",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In which one of the following countries, 'consociationalism' as a power-sharing mechanism is not practiced?",
+    "options": [
+      "Germany",
+      "Netherlands",
+      "Switzerland",
+      "Belgium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consociationalism is a model of power-sharing developed to ensure political stability in diverse societies. It is mainly used in countries where there are deep social, cultural, religious, or linguistic divisions. The aim of this model is to promote cooperation and consensus among groups. There are four main elements of consociationalism- 1. Power-sharing: Different groups are given representation in the government. 2. Group autonomy: Every group has the right to maintain its culture, language, and identity. 3. Proportionality: Resources and political representation are distributed in proportion to the population. 4. Mutual veto: Minority groups are given special rights to protect their interests. Explanation of options: A. Germany : Consociationalism is not used in Germany. Germany's political system is based on federalism and parliamentary democracy. Powers are decentralized rather tha",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-092",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements are true about dependency theory?",
+    "options": [
+      "Dependency theory was strongly influenced by Marxists and Non-Leninists who were critical of Development theory",
+      "Dependency theory stressed the peaceful, evolutionary process of modernisation",
+      "Development in the third world was dependent on development in the already developed nations.",
+      "The First World does not exploit the third world Choose the most appropriate answer from the options given below:"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Dependency theory was strongly influenced by Marxists and Non-Leninists who were critical of Development theory : This statement is correct. Dependency theory explains the situation of countries that have been deprived of development due to colonialism and global capitalism. (B) Dependency theory stressed the peaceful, evolutionary process of modernisation : This is incorrect. Dependency theory does not see the process of modernisation as peaceful and evolutionary. Instead, it argues that the backwardness and inequality of developing countries has arisen due to colonialism and global capitalism, and this led to the economic and political exploitation of these countries. (C) Development in the third world was dependent on development in the already developed nations : This is correct. The main argument of the Dependency Theory is that the development of developing countries depends on",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-093",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements are true about the Authoritarianism and Totalitarianism?",
+    "options": [
+      "In authoritarian regime, government is not constitutionally responsible to the public",
+      "Authoritarian regimes may be institutionalised and legitimate",
+      "Totalitarian regimes seek to control and transform all aspects of the state, society and economy",
+      "Totalitarian regimes do not have strong ideological goal and do not use violence as a tool for remaking institutions Choose the most appropriate answer from the options given below:"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) In authoritarian regime, government is not constitutionally responsible to the public : This is correct. In authoritarian regimes, government is not constitutionally responsible to the public. There is a process of centralization of power and civil rights and liberties are usually limited. (B) Authoritarian regimes may be institutionalised and legitimate : This is also correct. Governments in authoritarian regimes can sometimes be institutionalised and legitimate, especially if the public or institutions give their approval to the regime, or the regime has lasted for a long time and is generally accepted. (C) Totalitarian regimes seek to control and transform all aspects of the state, society and economy : This is correct. Totalitarian regime is a regime in which the government seeks to control and transform all aspects of the state, society and economy. There is a total suppression ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-094",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "According to Aristotle, which of the following statements are correct?",
+    "options": [
+      "Polis should be large enough to guarantee self sufficiency and small enough to ensure good government",
+      "The Polis was natural and prior to the individual, not chronologically but teleologically",
+      "Polis is the highest and most comprehensive of Human Associations",
+      "Polis is man writ large Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Polis should be large enough to guarantee self-sufficiency and small enough to ensure good government : Aristotle argues that the polis (city-state) should have a size that is large enough to be self-sufficient but not so large that it becomes unmanageable or difficult to govern. This ensures a balance between resources and effective administration. So, this statement is correct. (B) The Polis was natural and prior to the individual, not chronologically but teleologically : According to Aristotle, the polis is a natural institution, as humans are social beings by nature. He believes the polis exists for the fulfillment of human potential and purpose (teleologically). This statement is correct. (C) Polis is the highest and most comprehensive of Human Associations : Aristotle sees the polis as the ultimate form of human association because it enables humans to achieve their fullest pot",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-095",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Marx's concept of alienated labour includes",
+    "options": [
+      "Alienation from the Product",
+      "Alienation from the Process",
+      "Alienation from Species",
+      "Alienation from Nature Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 3,
+    "explanation": "Karl Marx’s concept of alienated labor refers to the condition in which workers become disconnected or alienated from various aspects of their work and existence under capitalism. The four forms of alienation are: Alienation from the Product (A): In capitalism, workers do not own the products they create. The product is taken away from them and sold, and they have no control over its use or purpose. This leads to a sense of estrangement from the",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-096",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are the statements about the difference between passive resistance and satyagraha. Which ones are true?",
+    "options": [
+      "Passive resistance is weapon of the weaker sections, satyagraha never desires to terrorise the opponent",
+      "Passive Resistance is negative in practice, whereas satyagraha is positive morality",
+      "Passive Resistance is equivalent to satyagraha",
+      "Passive Resistance is not afraid of the physical strength while satyagraha is afraid of physical strength Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Passive resistance is a weapon of the weaker sections, satyagraha never desires to terrorize the opponent: True. Passive resistance is often seen as a method used by the weaker or oppressed sections of society to stand up against authority or injustice. Satyagraha, as formulated by Gandhi, is a nonviolent form of resistance that seeks to convert or win over the opponent rather than to terrorize or intimidate them. It is based on the principle of love and truth. (B) Passive resistance is negative in practice, whereas satyagraha is positive morality: True. Passive resistance often implies a refusal to cooperate or an absence of action (a negative approach), whereas satyagraha is based on a positive moral stance of truth, nonviolence, and love. Satyagraha involves actively engaging in constructive and nonviolent efforts to bring about social change. (C) Passive resistance is equivalent ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-097",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Jaya Prakash Narayan formed which of the following parties? (A Congress Socialist Party (B) Bhoodan Aandolan Party (C) Praja Socialist Party (D) Democratic Praja Socialist Party Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and C Only",
+      "C and D Only",
+      "A and C Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jaya Prakash Narayan, often known as JP, was a prominent political leader and social reformer. He played a key role in the political landscape of post-independence India and was associated with several political movements. (A) Congress Socialist Party: True. Jaya Prakash Narayan was one of the founding members of the Congress Socialist Party (CSP), which was formed in 1934 as a socialist wing of the Indian National Congress. The CSP aimed to promote socialism and social justice within the Congress framework. (B) Bhoodan Aandolan Party: False. The Bhoodan Movement, or the \"Land Gift Movement,\" was led by Vinoba Bhave, not Jaya Prakash Narayan. This movement aimed to encourage landowners to voluntarily give a part of their land to the landless. (C) Praja Socialist Party: True. In the post-independence period, Jaya Prakash Narayan became a leader of the Praja Socialist Party (PSP), which wa",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-098",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "'Fatwa-i-Jahandari' of Ziauddin Barani is related with",
+    "options": [
+      "Advices for Muslim kings in order to earn religious merit and the gratitude of the subject",
+      "Advices to all the kings",
+      "Description of the origin of state",
+      "Tenets of secularism Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ziauddin Barani's \"Fatwa-i-Jahandari\" is a treatise aimed at advising Muslim kings and rulers, specifically those under the Delhi Sultanate, on how to govern effectively according to Islamic principles. (A) Advices for Muslim kings in order to earn religious merit and the gratitude of the subject : This is true . This is the main focus of the \"Fatwa-i-Jahandari.\" Barani emphasized that a ruler should govern in accordance with Islamic teachings, ensuring justice, fairness, and the welfare of the people. By doing so, a king could earn both religious merit and the loyalty of his subjects. (B) Advices to all the kings : This is false. The \"Fatwa-i-Jahandari\" is specifically addressed to Muslim rulers, not all kings. It focuses on how Muslim rulers can maintain power and legitimacy, while adhering to Islamic laws and ethical principles. (C) Description of the origin of the state : This is fal",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-099",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements are true with regard to Pandita Ramabai?",
+    "options": [
+      "She was a staunch supporter of Hindu Philosophy",
+      "She was a pioneer in the field of education and emancipation of women in India",
+      "She was the writer of 'The High Caste Hindu Women'",
+      "She was Anti-Christianity Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) She was a staunch supporter of Hindu Philosophy: False. While Pandita Ramabai was born into a Hindu family and initially practiced Hinduism, she became increasingly critical of certain traditional Hindu practices, particularly those that oppressed women. She was especially vocal against the treatment of widows and the rigid caste system. Although she advocated for social reform within Hinduism, she was not a staunch supporter of its conservative practices. (B) She was a pioneer in the field of education and emancipation of women in India: True. Pandita Ramabai was a trailblazer in promoting education for women, especially for those from marginalized backgrounds. She founded the Mukti Mission in 1889, which became an institution dedicated to the welfare and education of women, particularly widows and orphans. Her efforts to educate and uplift women were groundbreaking in the context o",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-100",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "In which of the following countries, did India participate in the peace keeping operations?",
+    "options": [
+      "Korea",
+      "Gaza strip",
+      "Cyprus",
+      "Lebanan Choose the correct answer from the options given below:"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Korea: True. India participated in peacekeeping efforts in Korea during the Korean War (1950-1953).It contributed to the Neutral Nations Repatriation Commission (NNRC), which was responsible for overseeing the repatriation of prisoners of war after the conflict ended in an armistice. (B) Gaza Strip: True. India has contributed to peacekeeping operations in the broader Middle East, including the Gaza Strip, under various United Nations missions, although its contributions have often been indirect, as part of regional peacekeeping or diplomatic efforts. (C) Cyprus: True. India has been actively involved in peacekeeping operations in Cyprus since 1964, under the United Nations Peacekeeping Force in Cyprus (UNFICYP), where Indian troops have worked to maintain peace between the Greek and Turkish Cypriot communities. (D) Lebanon: True. India has participated in the United Nations Interim ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-101",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following features of the Indian political system are false?",
+    "options": [
+      "Dual government",
+      "Supremacy of the Parliament",
+      "Indestructability of the union",
+      "Indestructability of the states Choose the correct answer from the options give below:"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Dual government: True. The Indian political system has a dual government, meaning there is a division of powers between the central government (Union government) and state governments. This division of powers is a hallmark of India's federal system. (B) Supremacy of the Parliament: False. While the Indian Parliament is powerful, it is not supreme in the sense that it can override the judiciary or violate the fundamental rights guaranteed in the Constitution. The judiciary has the power to review and invalidate laws passed by Parliament if they are found to be unconstitutional. Therefore, Parliament is not absolutely supreme in all respects. (C) Indestructibility of the union: True. The Union of India is considered indestructible in the sense that the integrity of the country cannot be undermined, and the Union is above the states. The Indian Constitution provides a strong framework f",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-102",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following are civil society organizations?",
+    "options": [
+      "Bachpan Bachao Andolan",
+      "India Against Corruption",
+      "Vigyan Prasar",
+      "Majdoor Kisan Sangharsh Samiti Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Bachpan Bachao Andolan: True. Bachpan Bachao Andolan is a prominent civil society organization that works for the protection of children’s rights, particularly focusing on child labor, trafficking, and education. Founded by Kailash Satyarthi, it advocates for child welfare and is an active member of the civil society movement. (B) India Against Corruption: True. India Against Corruption (IAC) is a civil society organization that gained significant attention during the 2011 anti-corruption movement led by Anna Hazare. It was instrumental in pushing for a strong Lokpal Bill and raising public awareness about government corruption, functioning as a grassroots movement for social change. (C) Vigyan Prasar: False. Vigyan Prasar is a government initiative, not a civil society organization. It is an autonomous organization under the Department of Science and Technology, Government of India,",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-103",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements regarding women's movement in India are true?",
+    "options": [
+      "Arya Samaj was not concerned about women's issues at all.",
+      "All India Women's Conference was set up in 1924.",
+      "Sarojini Naidu and Annie Besant raised the issue of right to vote for women.",
+      "Tilak's 'Ganesh Utsavas' were mainly aimed at drawing women into national movement. Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Arya Samaj was not concerned about women's issues at all: False. Arya Samaj, founded by Swami Dayananda Saraswati in 1875, was deeply concerned with social reforms, including women's issues. It advocated for women's education, widow remarriage, and the abolition of child marriage, and played a progressive role in advancing women's rights in India. (B) All India Women's Conference was set up in 1924: False. The All India Women's Conference (AIWC) was established in 1927, not 1924. AIWC focused on improving women's status, advocating for their education, welfare, and legal rights. (C) Sarojini Naidu and Annie Besant raised the issue of the right to vote for women: True. Both Sarojini Naidu and Annie Besant were strong advocates for women’s suffrage in India. Sarojini Naidu, a prominent freedom fighter and poet, campaigned for women’s political participation, including the right to vote",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-104",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following provide the structural - functional perspective on the nature of Indian State?",
+    "options": [
+      "W.H. Morris Jones",
+      "Rajni Kothari",
+      "Francine Frankel",
+      "Llyod Rudolph Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "s: A. W.H. Morris Jones applied the structural- functional approach in his work The Government and Politics of India (1957). He analyzed how Indian political institutions, like Parliament and the bureaucracy, interacted to create laws and maintain stability. He also examined the influence of social structures like caste and religion on these institutions. B. Rajni Kothari used the approach in Politics in India (1970), focusing on how political parties, especially the Congress Party, acted as stabilizing forces in a diverse society. He showed how political institutions adapted to changes in society, including caste and regional demands, to maintain political stability. C. Francine Frankel did not apply the structural- functional approach but focused more on the sociological aspects of Indian politics. In 'India’s Political Economy' (1978), she analyzed how economic structures and social h",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-105",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following are the characteristics of prismatic model of F.W. Riggs?",
+    "options": [
+      "Formalism",
+      "Heterogeneity",
+      "Overlapping",
+      "Bureau of office Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "F.W. Riggs' prismatic model describes societies that are transitioning from traditional to modern forms, where institutions and structures are characterized by both modern and traditional features. The characteristics of the prismatic model include: A. Formalism: This refers to the gap between formal rules (such as laws and regulations) and the informal realities (the actual practices) in society. Riggs argued that in prismatic societies, there is often a mismatch between what is formally prescribed and what is actually practiced. B. Heterogeneity: This refers to the presence of multiple, often conflicting, social, cultural, and economic systems coexisting in the same society. In prismatic societies, there is a mixture of traditional and modern elements that may not always align or integrate smoothly. C. Overlapping: This characteristic highlights the coexistence of traditional and moder",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-106",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following are associated with the notion of governance?",
+    "options": [
+      "Competitive democracies",
+      "Participatory democracy",
+      "Democratic administration",
+      "Change - oriented democracy Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "(B) Participatory Democracy: This is closely associated with the notion of governance because it emphasizes the involvement of citizens in decision-making processes, which is a core aspect of good governance. Participatory democracy ensures that people have a voice in how they are governed, fostering inclusion and accountability. (C) Democratic Administration: This refers to the way public administration is carried out in a democracy, ensuring that governance is transparent, accountable, and responsive to the needs of the people. Democratic administration is central to the idea of governance because it involves the implementation of policies that reflect democratic values and principles. Why not the other options? (A) Competitive Democracies : While competitive democracies are important in the context of democratic systems, they focus more on the political competition between parties rat",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-107",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statements are true about the concept of governance?",
+    "options": [
+      "It does not simply mean 'rule' or 'administration'",
+      "It has a specific meaning in the context of globalisation",
+      "It is the manner in which power is exercised",
+      "Governance and government are the same thing Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "The meaning of the term governance is not limited to “rule” or “administration”. It refers to the process of managing power and resources in broader contexts, involving the state, markets, and civil society. Let us examine the options in detail: (A) It does not simply mean 'rule' or 'administration': That is correct. Governance does not simply mean “rule” or “administration”. It also represents the methods of decision making, implementation of policies, and coordination among various stakeholders. (B) It has a specific meaning in the context of globalization: That is correct. Governance in the context of globalization means managing the relationships between international organizations, non- governmental organizations (NGOs), multinational companies (MNCs), and states. It is important in addressing global issues such as environment, human rights, and trade. (C) It is the manner in which ",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-108",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following terms is referred to as the 'software' of the state?",
+    "options": [
+      "Capacity",
+      "Acccountability",
+      "Resilience",
+      "Responsiveness"
+    ],
+    "correctIndex": 1,
+    "explanation": "( Accountability) 'Hardware' refers to the structural and physical aspects that are necessary for the state to operate, such as resources, infrastructure, and mechanisms. 'Software' is the values, norms, and ethics that govern and guide these structures. A. Capacity: Capacity is the power of the state to manage resources and mechanisms. It includes finance, human resources, technology, and institutional structure. If the state does not have skilled personnel, modern technology, and adequate budget, policies and plans cannot be implemented. Capacity only provides resources. B. Accountability: The 'software' of the state is referred to as the elements that govern its functioning and effectiveness. It looks at whether the state is responsible and accountable to its citizens. Accountability means that the government and its institutions are accountable to the citizens for their actions. It e",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-109",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following regarded state as a 'necessary evil'?",
+    "options": [
+      "Jeremy Bentham",
+      "Thomas Paine",
+      "James Mill",
+      "J.S. Mill"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Paine described the state as a \"necessary evil\". According to him, the purpose of the state is only to maintain peace and order in society, but it is basically a negative institution because it limits the freedom of the individual. He wrote in his book \"Common Sense\" (1776) that government is a necessity, but it is an evil that exists only because of the defects in human society. Paine believed that under ideal conditions, humans can be governed on the basis of morality and social discipline. But when this is not possible, government is created, which should function with minimum interference. Other options: A. Jeremy Bentham: He viewed government from the point of view of \"utilitarianism\". His philosophy was based on the \"Greatest Happiness Principle\". He regarded the state not as an \"evil\" but as a tool for promoting public interest. C. James Mill: James Mill was a Utilitarian a",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-110",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who among the following is NOT a post modern thinker?",
+    "options": [
+      "Jean Francois Lyotard",
+      "Michel Foucault",
+      "Richard Rorty",
+      "Herbert Marcuse"
+    ],
+    "correctIndex": 3,
+    "explanation": "Postmodern thinkers are characterized by their perspective that rejects the so-called \"grand narratives\" and universal truths of modernity. They attempt to understand the complex relationship between knowledge, power, and language. Let's examine the options: A. Jean Francois Lyotard : He is considered the leading thinker of postmodernism. In his book \"The Postmodern Condition\" he challenged the grand and universal narratives of knowledge and said that \"truth\" is divided into mini-narratives. B. Michel Foucault: Foucault adopted a postmodern approach to understanding the relationship between power and knowledge. His works \"Discipline and Punish\" and \"The History of Sexuality\" criticize power structures and question the assumptions of modernity. C. Richard Rorty: Rorty refers to language and truth under postmodern ideology and believes that truth is not absolute but relative. His work \"Phi",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-114",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following characterise International Criminal Court (ICC)?",
+    "options": [
+      "The Rome statute established ICC as 'Court of last resort'",
+      "ICC can exercise jurisdiction only when national courts are unwilling or unable to investigate or prosecute",
+      "It can not prosecute acts of war crimes",
+      "ICC is not located in the Hague Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is A Explantion: (A) The Rome statute established ICC as 'Court of last resort' is true because as a court of last resort, it seeks to complement, not replace, national Courts. Governed by an international treaty called the Rome Statute, the ICC is the world's first permanent international criminal court. (B) ICC can exercise jurisdiction only when national courts are unwilling or unable to investigate or prosecute is true because it prosecutes cases only when States do not are unwilling or unable to do so genuinely. To further extend the possibility of the ICC to exercise jurisdiction Article 12(3) Rome Statute provides for territorial and nationality non- State Parties to ad hoc accept the exercise of jurisdiction by the ICC. (C) It can not prosecute acts of war crimes is False because the Court will prosecute the most serious crimes that are of concern to the intern",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-115",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Which of the following characterise shallow or reformist ecology?",
+    "options": [
+      "Reformist ecology seeks to rconcile ecology with capitalist modernity",
+      "It recognises 'limits to growth'",
+      "It rejects all forms of anthropocentrism, embracing ecocentrisim",
+      "It considers damage to environment as an externality or 'social cost' Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shallow ecology, also known as Reformist or Modernist Ecology, is a political or philosophical position that advocates for environmental protection that serves human interests. (A) Reformist ecology seeks to rconcile ecology with capitalist modernity is correct because, Reformist Ecology, also known as Modernist or Shallow Ecology, seeks to balance anthropocentrism and nature while reconciling ecology with capitalist modernity. (B) It recognises 'limits to growth' is correct because. Reformist Ecology's key principles include: weak sustainability, limits to growth, and intergenerational equity. (C) It rejects all forms of anthropocentrism, embracing ecocentrisim is false because, Shallow ecology is based on the idea of \"enlightened anthropocentrism\", which attempts to balance the needs of humans with the needs of nature. It's based on the principles of weak sustainability, limits to grow",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-116",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Which of the following statement is true about International Monetary Fund (IMF)?",
+    "options": [
+      "The IMF is not created by the Bretton Woods Agreement",
+      "Its functions is to ensure exchange rate stability",
+      "Critics see IMF as political arm of neoliberal globalization",
+      "The IMF is not a specialized agency of the UN Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) The IMF is not created by the Bretton Woods Agreement. This is incorrect because the IMF was indeed created by the Bretton Woods Agreement in 1944. (B) Its function is to ensure exchange rate stability. This is correct because one of the key functions of the IMF is to promote exchange rate stability and facilitate balanced growth of international trade.) (C) Critics see IMF as political arm of neoliberal globalization. This is correct because critics often view the IMF as promoting neoliberal economic policies, which they argue benefit developed countries and large corporations at the expense of developing nations.) (D) The IMF is not a specialized agency of the UN. This is incorrect because the IMF is a specialized agency of the United Nations.) Therefore, the correct option is C.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-124",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "chronological",
+    "question": "Arrange the following freedoms mentioned in Article 19 of the constitution in the order of thie appearance",
+    "options": [
+      "Form Associations or unions",
+      "Practise any profession",
+      "Move freely throughout the territory of Inida",
+      "Assemble peaceably and without arms Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "Article 19 of the Indian Constitution guarantees six freedoms to all citizens. Here they are, arranged in the order they appear: D. Assemble Peaceably and Without Arms - It is one of the six freedoms guaranteed by Article 19 of the Indian Constitution. It is listed under Article 19(1)(b) and ensures that all citizens have the right to gather peacefully and without weapons. A. Form Associations or Unions - It is another crucial freedom guaranteed by Article 19 of the Indian Constitution. Specifically, it is found in Article 19(1)(c). This provision allows citizens the right to form associations, unions, and cooperatives. It's vital for fostering a collaborative environment where individuals can collectively work towards common goals, advocate for their interests, and engage in social, economic, and political activities. C. Move Freely Throughout the Territory of India - It is another vita",
+    "source": "PYQ Jun 2020",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2020-125",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "chronological",
+    "question": "Arrange the following Parliamentary Committees in order of their formation:",
+    "options": [
+      "Estimates Committee",
+      "Departmental Standing Committee",
+      "Public Accounts Committee",
+      "Committee on Public Undertakings Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(C) Public Accounts Committee (1921)- This is the oldest committee, formed in 1921. It examines the audit report of the Comptroller and Auditor General of India. (A) Estimates Committee (1950)- Formed in 1950, this committee scrutinizes the estimates included in the budget and suggests economies in public expenditure. (D) Committee on Public Undertakings (1964)- Established in 1964, this committee evaluates the performance of public sector undertakings and ensures efficient financial management. (B) Departmental Standing Committee (1993)- These were established in 1993 to scrutinize the functioning of various departments of the Government of India. Thus, the correct option is C.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2020-126",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2020",
+    "type": "chronological",
+    "question": "Arrange the following foundational elements of Indian foreign policy in order of their appearance :",
+    "options": [
+      "Gujaral doctrine",
+      "Panchasheel",
+      "Look East policy",
+      "Indo-Soviet Treaty of Friendship Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "(B) Panchasheel (1954)- Panchasheel, or the Five Principles of Peaceful Coexistence, was formalized in 1954 between India and China. These principles include mutual respect for sovereignty, non-aggression, non-interference, equality, and peaceful coexistence. It laid the foundation for India's approach to international relations emphasizing peaceful coexistence and mutual respect. (D) Indo-Soviet Treaty of Friendship (1971)- This treaty was signed between India and the Soviet Union in 1971. It marked a strategic alliance and close cooperation between the two countries, particularly significant during the Bangladesh Liberation War. This treaty ensured political, economic, and military cooperation, strengthening India's foreign policy stance during the Cold War era. (C) Look East policy (1991)- Initiated in 1991 by then-Prime Minister P.V. Narasimha Rao, the Look East Policy aimed to culti",
+    "source": "PYQ Jun 2020",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2020-127",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Arrange the works of Karl Marx in ascending order :",
+    "options": [
+      "The capital (Das Capital)",
+      "The Communist Manifesto",
+      "The Critique of the Gotha Programme",
+      "The Economic and Philosophical Manuscripts Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "(D) The Economic and Philosophical Manuscripts (1844)- These manuscripts were written in 1844 but were only published posthumously in 1932. They are significant for their exploration of human nature, labor, and alienation. (B) The Communist Manifesto (1848)- Co- authored with Friedrich Engels, this seminal work was published in 1848 and outlines the principles of Marxism and the theory of class struggle. (A) The Capital (Das Kapital) (1867)- The first volume of Das Kapital was published in 1867. It is a critical analysis of political economy and capitalism. (C) The Critique of the Gotha Programme (1875)- This work was written in 1875 and critiques the draft program of the United Workers' Party of Germany. It was published after Marx's death in 1891. Thus, the correct ascending order is (D), (B), (A), (C).",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-129",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "mcq",
+    "question": "Who called 1857 revolt as the First War of Independence?",
+    "options": [
+      "V. D. Savarkar",
+      "Ram Manohar Lohia",
+      "Swami Vivekananda",
+      "Deendayal Upadhyaya"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Vinayak Damodar Savarkar was the first to describe the 1857 revolt as the \"First War of Independence\" in his book \"The Indian War of Independence, 1857\". Savarkar was a pragmatic adherent of Hindu philosophy despite being an atheist. He was a prominent member of the Hindu Mahasabha. The Indian War of Independence is a 1909 edition of Vinayak Damodar Savarkar's Indian nationalist narrative of the 1857 uprising. It presents the Indian Rebellion of 1857 as a unified and national movement of India as a country against British rule. The book was considered to be extremely provocative at the time, and the Marathi edition was already outlawed in British India. (B) Ram Manohar Lohia- Ram Manohar Lohia was an Indian freedom fighter of the Indian independence movement and a socialist politician. (C) Swami Vivekananda- orn Narendranath Dutta, he was the chief disciple of the 19th-century mystic",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-132",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I : Globalisation has helped in deepening of democracy in India. Statement II: Globalisation has deeply impacted the Indian society. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 3,
+    "explanation": "Statement I: This statement is generally considered incorrect. While globalization has brought economic growth, technological advancement, and greater integration with the global market, its impact on democracy has been more complex. Some argue that globalization has increased inequality, undermined local industries, and made Indian democracy more vulnerable to external influences. Hence, it has not necessarily \"deepened\" democracy in a straightforward way. Statement II: This statement is true. Globalization has indeed had a profound impact on Indian society. It has influenced various sectors, including the economy, culture, and social structures. Increased foreign investment, access to technology, and cultural exchanges are some of the direct effects of globalization on Indian society. Thus, the correct option is D.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-133",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I: Chaudhary Charan Singh was the only Prime Minister in India who did not face the Parliament. Statement II: Passage of a no - confidence motion in Lok Sabha leads to the ouster of a government from office. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: Chaudhary Charan Singh was the only Prime Minister in India who did not face the Parliament. It is true because Chaudhary Charan Singh became Prime Minister in July 1979. He resigned after just 23 days without facing Parliament because Indira Gandhi withdrew her party's support. Statement II: Passage of a no-confidence motion in Lok Sabha leads to the ouster of a government from office. It is true because A no-confidence motion, if passed by a majority in the Lok Sabha,",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-134",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I: India has deliberately been christened as a 'Union of states' instead of a 'federation of states' by the Constitution. Statement II: The word 'Union' does indicate a particular type of federation that Constitution makers envisaged for India. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: India has deliberately been christened as a 'Union of states' instead of a 'federation of states' by the Constitution. It is true because the term 'Union of States' was chosen to emphasize that India is an indestructible union of states, meaning that no state has the right to secede from the union. This reflects the sovereignty and unity of the nation. Statement II: The word 'Union' does indicate a particular type of federation that Constitution makers envisaged for India. It is true because the term 'Union' signifies a stronger central government as envisaged by the Constitution makers, where the central authority has significant power over the states. Thus, correct statement is A",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-135",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I : A country's foreign policy is the product of its history. Statement II : Core values of Indian national movement constituted the building blocks of Indian foreign policy. In the light of the above statements, choose the most appropriate answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: A country's foreign policy is the product of its history. True: A country's history, including its experiences, conflicts, alliances, and cultural evolution, shapes its foreign policy. Historical events and contexts influence how a nation perceives other countries and how it formulates its foreign policy goals and strategies. Statement II: Core values of Indian national movement constituted the building blocks of Indian foreign policy. True: The core values of the Indian national movement, such as non-alignment, anti- colonialism, democracy, and sovereignty, significantly influenced India's foreign policy. These values provided a framework for India's interactions with other countries and its stance on global issues. Thus, correct option is A",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-136",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I: M.N. Roy considered the economic interpretation of history propounded by Marx as misconceived and imperfect. Statement II : M.N. Roy argued that the real form of social and economic process is not determined merely by types of material resources. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: M.N. Roy considered the economic interpretation of history propounded by Marx as misconceived and imperfect. True: M.N. Roy critiqued Marx's economic determinism, which suggests that economic factors are the primary drivers of historical and social change. Roy found this interpretation to be limited and flawed. Statement II: M.N. Roy argued that the real form of social and economic process is not determined merely by types of material resources. True: Roy believed that social and economic processes are influenced by a variety of factors beyond just material resources, including ideological, cultural, and political elements. Thus, correct option is A",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-137",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I : Oligarchy is a government dominated by the few. Statement II : Robert Mckenzie formulated the iron law of oligarchy. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement I: Oligarchy is a government dominated by the few. True: An oligarchy is a form of government where power is concentrated in the hands of a small group of people. These few individuals typically have significant wealth, influence, or military control. Statement II: Robert Mckenzie formulated the iron law of oligarchy. False: The iron law of oligarchy was formulated by Robert Michels, not Robert Mckenzie. Michels' theory posits that all complex organizations, regardless of how democratic they are at the start, eventually develop oligarchic tendencies. He argued that bureaucracy and hierarchical structures inevitably lead to the concentration of power in the hands of a few leaders. Thus, correct option is C.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-138",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I : Social democracy combines elements of liberalism and socialism to reconcile freedom and equality. Statement II: Social democratic regimes use the system of neo corporatism wherein policy - making involves the state, labour and the businesses. In the light of the above statements, choose the most appropriate answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: Social democracy combines elements of liberalism and socialism to reconcile freedom and equality. True: Social democracy seeks to merge the ideals of liberalism (emphasizing individual freedoms) and socialism (emphasizing social equality) to create a balanced society where both freedom and equality are valued and protected. Statement II: Social democratic regimes use the system of neo-corporatism wherein policy- making involves the state, labour, and the businesses. True: Neo-corporatism is a key feature of many social democratic regimes, where the state, labor unions, and business groups collaborate in the policy-making process to achieve consensus and maintain social harmony. Thus, correct option is A.",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-139",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I: Every constitution has a philosophy of its own. Statement II: For the philosophy underlying Indian Constitution, we must look back into the historic Objective Resolution moved by Pandit Nehru. In the light of the above statements, choose the correct answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is correct but Statement II is false",
+      "Statement I is incorrect but Statement II is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: Every constitution has a philosophy of its own. True: Every constitution is based on a set of fundamental principles and philosophies that guide the legal and political framework of a country. These principles reflect the values, beliefs, and aspirations of the nation. Statement II: For the philosophy underlying Indian Constitution, we must look back into the historic Objective Resolution moved by Pandit Nehru. True: The Objective Resolution, moved by Pandit Jawaharlal Nehru in 1946, laid down the foundational principles and philosophy of the Indian Constitution. It articulated the vision of a sovereign, socialist, secular, and democratic republic committed to justice, liberty, equality, and fraternity. Thus, correct option is A",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2020-140",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2020",
+    "type": "statements",
+    "question": "Given below are two statements : Statement I: Chester Bernard defined organization as a system of consciously coordinated activities of two or more persons. Statement II : Chester Bernard supported the viewpoint tht man is mainly motivated by economic incentives. In the light of the above statements, choose the most appropriate answer from the options given below :",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement I: Chester Bernard defined organization as a system of consciously coordinated activities of two or more persons. True: Chester Bernard did indeed define an organization as a system of consciously coordinated activities of two or more persons. His definition emphasizes the importance of coordination and collective effort in achieving organizational goals. Statement II: Chester Bernard supported the viewpoint that man is mainly motivated by economic incentives. False: Chester Bernard did not primarily support the viewpoint that man is mainly motivated by economic incentives. Instead, he believed in a more holistic approach to motivation, recognizing that individuals are driven by a variety of factors, including social and psychological needs. He emphasized the significance of non-monetary incentives, such as a sense of purpose, recognition, and the fulfillment of personal and or",
+    "source": "PYQ Jun 2020",
+    "difficulty": "medium"
+  }
+]

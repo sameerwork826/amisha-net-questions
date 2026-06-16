@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "pw-dec2023-006",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following are examples of Persistent Organic Pollutants (POPs)? A. Dioxins B. Poly-Chlorinated Benzenes (PCBs) C. Formaldehyde D. Organo Chlorine Pesticides E. Furans Choose the correct answer from the options given below:",
+    "options": [
+      "A, C and E only",
+      "A, B, D and E only",
+      "B and D only",
+      "B, C and E only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Dioxins: Dioxins are highly toxic and persistent organic pollutants that can have serious health effects on humans and wildlife. B. Poly-Chlorinated Benzenes (PCBs): PCBs are another group of highly persistent organic pollutants that were widely used in various industrial applications, but their production and use have been restricted due to their environmental and health impacts. D. Organo Chlorine Pesticides: Organochlorine pesticides, such as DDT (dichlorodiphenyltrichloroethane), are examples of persistent organic pollutants. These pesticides were widely used in agriculture but have been banned or restricted in many countries due to their persistence in the environment and their harmful effects on wildlife and human health. E. Furans: Furans are a class of organic compounds that include some highly toxic and persistent pollutants, such as polychlorinated dibenzofurans (PCDFs), whi",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-007",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "A person buys a mobile phone from a shop for Rs. 7800.00 . The shopkeeper makes a profit of $20 \\%$ at the cost price. What is the cost price of the mobile phone?",
+    "options": [
+      "₹ 6500",
+      "₹ 6240",
+      "₹ 5860",
+      "₹ 6800"
+    ],
+    "correctIndex": 0,
+    "explanation": "Let the cost price of the mobile phone be Rs x. Now, the shopkeeper makes a profit of 20% at the cost price, and the person buys it for Rs 7800. So, from the given equation- x+ 20% of x= 7800 x+ x/5=7800 6x/5=7800 or x= 7800×5/6 or x= 6500 Therefore, the cost price of the mobile phone is Rs 6500.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-008",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following are identified as non- verbal practices of communication? A. Mimicking Speeches B. Accent C. Posture D. Gait E. Dress Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "C, D and E only",
+      "A, D and E only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Non-verbal practices of communication are those that convey messages without the use of words. C. Posture: Posture refers to the position and alignment of the body, which can convey various messages or attitudes. D. Gait: Gait refers to the particular way a person walks, which can also convey information about their mood, confidence, or physical condition. E. Dress: Clothing and appearance are significant non-verbal cues that communicate various messages about personality, culture, social status, and more.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-009",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List-I with List-II",
+    "options": [
+      "A - III, B - IV, C - I, D - II",
+      "A - III, B - I, C - IV, D - II",
+      "A - II, B - I V, C - I, D - III",
+      "A - IV, B - II, C - III, D - I"
+    ],
+    "correctIndex": 0,
+    "explanation": "A barcode reader is a scanner that can read printed barcodes, and decode the data from a food item in a mall at a Point of Sale(POS) terminal. A microphone converts sounds into electrical signals that help create voice over a presentation. The scanner is typically used to scan hard-copy images and enter the text into a computer. A Computer Mouse is a device used to select items or options from a menu in software. On matching the given options, the correct answer is-(A).",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-010",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The mean and standard deviation of 70 observations are 47 and 9, respectively. If 3 is subtracted from each observation, the new mean and standard deviation will be",
+    "options": [
+      "44,6",
+      "44,9",
+      "47,6",
+      "44,3"
+    ],
+    "correctIndex": 1,
+    "explanation": "To find the new mean and standard deviation after subtracting 3 from each observation, we need to understand how these operations affect the mean and standard deviation. 1. Mean (μ): Subtracting a constant from each observation shifts the mean by the same constant. New Mean = Old Mean −Constant New Mean=Old Mean−Constant New Mean = 47 −3 = 44 New Mean=47−3=44 2. Standard Deviation (σ): Subtracting a constant from each observation doesn't affect the standard deviation. So, the new mean is 44. The standard deviation remains the same, i.e., 9. Therefore, the new mean is 44 and the new standard deviation is 9.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-011",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Two railway stations A and B are 380 km apart. Train- 1 leaves station A at 7:00 A.M moving with a speed of 80 km/hour towards B. After half an hour Train- 2 leaves station B towards A moving with speed of 90 km/hour. At what time, the two trains will cross each other?",
+    "options": [
+      "8:45 A.M",
+      "9.00 A.M",
+      "9.30 A.M",
+      "10: 15 A.M"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let's first find out how much distance Train-1 covers before Train-2 starts. Train-1 travels for 0.5 hours at 80 km/h: Distance travelled by Train-1 in 0.5 hours = 80 × 0.5 = 40 km Distance travelled by Train- 1 in 0.5 hours=80×0.5=40 km So, when Train-2 starts moving, the remaining distance between the two trains is: Remaining distance = 380 −40 = 340 km Remaining distance=380−40=340 km Now, both trains are moving towards each other. We can use relative speed to find out when they meet. The combined speed of the two trains is km/h 80 + 90 = 170 Using the formula: Time = Distance Speed Time=SpeedDistance​ 340 Time = = 2 hours Time 170 Adding this time to the initial departure time of Train-1, and Train-2 which was 7:30 A.M, (after subtraction of initial distance covered by train -1)we get the time at which the trains cross each other: Crossing time=7:30 A.M+2 hours=9:30AM",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-012",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): Learning is also considered as a social construct. Statement (II): Social construct is characterised by development of socially desired behaviour. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are correct.",
+      "Both Statement (I) and Statement (II) are incorrect.",
+      "Statement (I) is correct but Statement (II) is incorrect.",
+      "Statement (I) is incorrect but Statement (II) is correct."
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (I): \"Learning is also considered as a social construct.\" This statement is correct. Learning is not just an individual process but is influenced by social factors such as culture, norms, and interactions with others. Therefore, learning can be viewed as a social construct. Statement (II): \"Social construct is characterized by the development of socially desired behavior.\" This statement is also correct. Social constructs are ideas or phenomena that are created and accepted within a society, and they often shape and influence behavior by defining what is considered socially acceptable or desirable. Therefore, the development of socially desired behavior is indeed a characteristic of social constructs.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-013",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Buddhism contains a well-developed model of communication",
+    "options": [
+      "Business",
+      "Mass",
+      "Inter-personal",
+      "Organisational"
+    ],
+    "correctIndex": 2,
+    "explanation": "Buddhism follows a universal principle of noble truth and preaches people to inculcate such practices that foster spiritual growth and development. As we know interpersonal communication is a form of communication that involves the exchange of information and ideas between two or more people, so this form of model adopts best with this kind of practice wherein- Interpersonal interaction is involved. Direct exchange of wise thoughts, guidance, and peaceful ideas are involved. Knowledge is imparted regarding worship, respect, and solitude. All these lead to effective interpersonal communication. However, for business communication, information is shared within a workspace or a company only, limiting its role within a business setting. Mass communication on the other hand imparts messages through mass media or print media, so this approach might not be appropriate. Organizational communicat",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-014",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "As per square of opposition, which of the following propositions are contradictories? A. All birds are apes. B. No birds are apes. C. Some birds are apes. D. Some birds are not apes. Choose the correct answer from the options given below:",
+    "options": [
+      "C and D only",
+      "A and C only",
+      "B and C only",
+      "B and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Universal negative (E) proposition asserts \"No birds are apes,\" while the Particular affirmative (I) proposition claims \"Some birds are apes.\" These two assertions directly oppose each other. If \"no birds are apes\" holds true, then it becomes untenable for \"some birds are apes\" to be true concurrently. Conversely, if \"some birds are apes\" stands true, then it invalidates the possibility of \"no birds are apes\" being true. However, the Universal affirmative (A) proposition states \"All birds are apes,\" and the Particular negative (O) proposition asserts \"Some birds are not apes.\" These propositions do not constitute a contradictory pair. While A implies that all birds are apes, O merely suggests that some birds are not apes. Such statements do not inherently contradict each other. It remains plausible that all birds are apes except for a distinct subset that falls outside the \"apes\" cat",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-015",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Before Independence, the Lady Irwin College, Delhi was set up for teaching",
+    "options": [
+      "Civil engineering",
+      "Fine arts",
+      "Horticulture",
+      "Educational research"
+    ],
+    "correctIndex": 2,
+    "explanation": "Before independence, Lady Irwin College, Delhi was set up for teaching and promoting home science education concerning nutrition, dietetics, food service management, clothing and textiles, child development, resource management, and family studies. Of the given options, the one that is closest to its purpose is that of horticulture, which can align with the given tag of this college. On the other hand, civil engineering, fine arts, and educational research do not fall under any of the objectives or purposes of education at any point in time in history or historical records.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-016",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): Carl Rogers is a proponent of non- directive model of teaching. Statement (II): Rogers extended to education his view of therapy as a mode of learning. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are correct.",
+      "Both Statement (I) and Statement (II) are incorrect.",
+      "Statement (I) is correct but Statement (II) is incorrect.",
+      "Statement (I) is incorrect but Statement (II) is correct."
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (I): Carl Rogers is indeed a proponent of the non-directive or client- centered model of teaching. He advocated for student-centered approaches where the teacher acts as a facilitator, allowing students to direct their own learning process. Statement (II): Rogers extended his view of therapy as a mode of learning to education. He believed that education should be focused on facilitating personal growth and self- discovery, similar to the therapeutic process he advocated for in counseling.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-017",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The transmission time required for sending 512 - byte packet using a 56 kilobits (1 kilo =1000) per second modem is about",
+    "options": [
+      "7 milliseconds",
+      "43 milliseconds",
+      "73 milliseconds",
+      "80 milliseconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Given data transmitted= 56 kilobits per second =56×1000 bits per sec = 56000 bits per sec Packet size= 512 bytes Rate if data transmission= 56000/8 =7000 bytes per second Now transmission time taken =512/7000 = 0.073 seconds (approx) =(0.073×1000) milliseconds =73 milliseconds",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-018",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following pollutants is responsible for causing blue baby disease?",
+    "options": [
+      "Mercury",
+      "Particulate Matter",
+      "Nitrates",
+      "Sulphur dioxide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blue baby disease, also known as methemoglobinemia, occurs when there's a high level of nitrates in the body. Nitrates can enter water sources from various human activities, such as agricultural runoff containing fertilizers, wastewater discharge, and industrial pollution. When infants consume water with high levels of nitrates, their bodies can convert these nitrates into nitrites, which can lead to a condition where their blood is less able to carry oxygen. This condition can",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-019",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The first term in an arithmetic series of 100 terms is 7. If the last term is 205, what is the 71 th term of the series?",
+    "options": [
+      "157",
+      "151",
+      "147",
+      "161"
+    ],
+    "correctIndex": 2,
+    "explanation": "a ​=a +(n−1)d n 1​ Where: a ​ is the nth term, n a ​ is the first term, 1 n is the term number, and d is the common difference between terms. Given that the first term a ​ is 7, and the last term 1 is 205, we can find the common difference (d) using the formula for the nth term: a ​=a +(n−1)d n 1​ Substituting the known values: 205=7+(100−1)d Solving for d 99d 205 = 7 + 2 99d=205−7 99d=198 d=198/2 ​ d=2 a71 Now, we can find the 71st term ( ) using the formula a ​=a ​+(71−1)d 71 1 Substituting the known values a =7+(71−1)×2 71​ a ​=7+70×2 71 a ​=7+140 71 a71​=147 So, the 71st term of the series is 147.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-021",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following are the characteristics of a good test? A. Objectivity B. Validity C. Comprehensiveness D. Diagnosticity E. Practicability Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, D and E only",
+      "A, B, C, D and E",
+      "B and D only",
+      "C and E only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A good test possesses a lot of characteristics- 1. Objectivity- This implies that the research is free from any bias, be it from external influences, personal beliefs, or other perspectives. It should provide uniform consistent",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-022",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Which of the following statements is/are true regarding ICT? A. Encryption is the scrambling of data thereby destroying computer viruses and preventing unauthorised access to computer systems. B. Microblog is very much restricted on the size of post and is very difficult to customize. C. LAN always uses wireless technology to transmit data Choose the correct answer from the options given below:",
+    "options": [
+      "A only",
+      "B only",
+      "B and C only",
+      "A and C only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Encryption is the process of converting data into code that is inaccessible to others and can only be used when someone knows how to decrypt it. It is used to secure data and protect against viruses, and not to destroy computer viruses as such. Microblog is the limited or smaller version of blogging, with the usage of very few characters, thereby restricting the size of posts. It is also difficult to customize as reaching an audience using a particular set of words is quite a task to administer. LAN(Local Area Network) connections use both wired and wireless technology for data transmission. Ethernet and Wi-Fi are the most common technologies in use for such networks. So, from the given statements only statement B sounds true after properly analyzing them.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-023",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following are true about the Millennium Development Goals (MDGs)? A. MDGs have 8 goals. B. MDGs have 40 targets. C. MDGs were to be achieved by the year 2015 . D. MDGs were the successor of Sustainable Development Goals (SDGs). Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C only",
+      "A and C only",
+      "B and D only",
+      "B, C and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. MDGs have 8 goals. - This is correct. The MDGs consisted of eight goals aimed at addressing various global challenges such as poverty, hunger, and disease. C. MDGs were to be achieved by the year 2015. - Yes, the MDGs were established with a target year of achievement set for 2015.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-025",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The monthly expenses (in thousand ₹) of a family during a year from January to December months were 16,19,18,23,24,28,26,19,19,22, 20 and 18, respectively. In which of the months the deviation of the expenses from the average monthly expenses of the year was the least?",
+    "options": [
+      "February, August and September",
+      "June and July",
+      "March, August and September",
+      "October and November"
+    ],
+    "correctIndex": 3,
+    "explanation": "Average(in thousand)- =16+19+18+23+24+28+26+19+19+22+20+18/12 =252/12 =21 Now, we have to calculate the deviation of each month's expenses from the average January:∣16−21∣=5 February:∣19−21∣=2 March:∣18−21∣=3 April:∣23−21∣=2 May:∣24−21∣=3 June:∣28−21∣=7 July:∣26−21∣=5 August:∣19−21∣=2 September:∣19−21∣=2 October:∣22−21∣=1 November:∣20−21∣=1 December:∣18−21∣=3 From the given calculations, we see that October and November have the least deviation from the average, with a deviation of 1 each.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-026",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following are autonomous research institutions under various government departments and agencies in India? A. Council of Scientific and Industrial Research B. Indian Council of Social Science Research C. Indian Institute of Astrophysics D. Institute of Clinical Research, India E. Indian Biological Sciences and Research Institute Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "C, D and E only",
+      "A, D and E only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autonomous research institutions are the institutions that run independent control over their curriculum, academia, and daily activities. For example, Central Power Research Institute(CPRI). The Council of Scientific and Industrial Research, the Indian Council of Social Science Research, Indian Institute of Astrophysics are all autonomous research institutes under various government departments. Institute of Clinical Research, India, and the Indian Biological Sciences and Research Institute are not typically recognized as autonomous research institutes. .",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-027",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The Shannon and Weaver model of communication has which of the following characteristics? A. It is linear. B. It focusses on transmission of information. C. It is concerned with reproduction of messages from one point to another. D. It offers a meta model of communication. E. The feedback component is circular. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "C, D and E only",
+      "A, D and E only"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is linear. - Yes, the model presents communication as a linear process from sender to receiver. It is concerned with reproduction of messages from one point to another. - Yes, the model primarily focuses on the transmission of messages from one point (sender) to another (receiver). The feedback component is circular. - No, in the Shannon and Weaver model, the feedback component is not circular; it is represented as a separate component that provides information about the success or failure of the message transmission.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-028",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The memory for general knowledge and facts about the world, as well as memory for the rules of logic that are used to deduce other facts is known as:",
+    "options": [
+      "Temporary memory",
+      "Semantic memory",
+      "Iconic memory",
+      "General memory"
+    ],
+    "correctIndex": 1,
+    "explanation": "Semantic memory refers to the part of long-term memory that deals with general knowledge about the world, concepts, and factual information that are not tied to specific personal experiences. It is a type of declarative memory that allows individuals to store and retrieve information about words, meanings, concepts, and relationships between them.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-029",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): Under Montreal Protocol, developed and developing countries have same timetable for phasing out of Ozone Depleting Substances (ODS). Statement (II): Under Montreal Protocol developing countries are referred to as 'Article 5 Countries' In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are correct.",
+      "Both Statomont (I) and Statomont (II) aro incorroct.",
+      "Statement (I) is correct but Statement (II) is incorrect.",
+      "Statement (I) is incorrect but Statement (II) is correct."
+    ],
+    "correctIndex": 3,
+    "explanation": "Montreal Protocol is a global agreement to protect the stratospheric ozone layer by phasing out the products Ieading to consumption of ozone-depleting substances(ODS). Statement I- Under the Montreal Protocol, developed and developing countries have different timetables for phasing out Ozone Depleting Substances. Statement II- Under this protocol, developing countries are referred to as “Article 5” countries.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-030",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Which of the following statements are logically equivalent? A. All non-apes are non-monkeys. B. No apes are non-monkeys. C. No monkeys are non-apes. D. All monkeys are apes. Choose the correct answer from the options given below:",
+    "options": [
+      "A, C and D only",
+      "B and D only",
+      "A, B and C only",
+      "B and C only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let's go through each statement 1. All non-apes are non-monkeys. 2. No apes are non-monkeys. 3. No monkeys are non-apes. 4. All monkeys are apes. Statements A, B, and C all convey the same logical idea: the absence of entities that belong to both categories is specified. They assert that if something belongs to one category (apes or monkeys), it cannot belong to the other. This appears to be logical. Statement D, on the other hand, conveys a different relationship between monkeys and apes, stating that all monkeys are apes. So, A, B, and C are logically equivalent.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-031",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following is not responsible for the destruction of Ozone layer?",
+    "options": [
+      "CFC",
+      "Halons",
+      "Dioxines",
+      "HCFC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dioxins are not directly responsible for the destruction of the ozone layer. Dioxins are a group of chemical compounds that are primarily produced as by-products of certain industrial processes such as waste incineration, chemical manufacturing, and pesticide production. They are also released into the environment through natural processes like forest fires and volcanic eruptions.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-032",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Identify the bibliographic softwares among the following: A. Turnitin B. EndNote C. Reference Manager D. Mendeley Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "A, B and D only",
+      "A, C and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turnitin is not a bibliographic software. It is an online plagiarism detection service commonly used in educational institutions to check for plagiarism in students' academic work. B. EndNote is a bibliographic software used for managing and formatting references and citations in research papers and publications. It allows users to organize their references, create bibliographies, and cite sources in various citation styles. C. Reference Manager is another bibliographic software, also known as RefMan. It is used for managing references and bibliographies in academic research. It allows users to import, organize, and format references for use in research papers and publications. D. Mendeley is also a bibliographic software that offers reference management, citation, and collaboration features for researchers. It allows users to organize their research papers, annotate PDFs, and generate c",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-033",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "\"Either you let me go to Las Vegas for a vacation or I will be miserable for the rest of my life. I am sure you don't want to see me miserable so you have a clear decision to allow me to go for a vacation to Las Vegas.\" Which fallacy is committed in this statement?",
+    "options": [
+      "Appeal to force",
+      "False Dichotomy",
+      "False Cause",
+      "Complex Question"
+    ],
+    "correctIndex": 1,
+    "explanation": "A false dichotomy occurs when someone presents a situation as if there are only two options or possibilities when, in reality, there are more. In this statement, the speaker presents only two options: allowing them to go to Las Vegas for a vacation or making them miserable for the rest of their life. However, this oversimplifies the situation and ignores other possible options or compromises. The speaker implies that the only way to avoid their misery is by allowing them to go to Las Vegas, which is not necessarily true. There could be other ways to address the situation and find a resolution that doesn't involve a vacation in Las Vegas. By presenting only two extreme options and suggesting that there are no other alternatives, the speaker commits the fallacy of false dichotomy.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-034",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "As per square of opposition, if the statement- \"All apes are mammals\" is given as true, which of the following statements can be immediately inferred to be false? A. No apes are mammals. B. Some apes are mammals. C. Some mammals are apes. D. Some apes are not mammals. Choose the correct answer from the options given below:",
+    "options": [
+      "A only",
+      "D only",
+      "A and D only",
+      "A, C and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The square of opposition delineates four categorical statement types: Universal affirmative (All S are P), Universal negative (No S are P), Particular affirmative (Some S are P), and Particular negative (Some S are not P). The statement \"All apes are mammals\" falls under the category of universal affirmative (A). According to the square of opposition, the contradictory of a universal affirmative (A) is a particular negative (O). Thus, if A is true, then O must be false. In this context, the particular negative (O) is \"Some apes are not mammals.\" Therefore, if \"All apes are mammals\" is true, then \"Some apes are not mammals\" must be false. However, the other statements do not inherently contradict the given statement: \"No apes are mammals\" (E) represents the converse of the given statement. Although not logically equivalent, it doesn't necessarily imply falseness if the given statement is ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-035",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): The National Accreditation Board, as per NEP report of 2016 , must oversee the entire process of accreditation, set standards and define guidelines for the purpose. Statement (II): It can license the private agencies (preferable non-profit ones), who will do the actual evaluation of academic institutions. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are true.",
+      "Both Statement (I) and Statement (II) are false.",
+      "Statement (I) is true but Statement (II) is false.",
+      "Statement (I) is false but Statement (II) is true."
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (I) states that the National Accreditation Board, as per the NEP (National Education Policy) report of 2016, must oversee the entire process of accreditation, set standards, and define guidelines for the purpose. This is true as accreditation boards are responsible for establishing standards and guidelines for evaluating academic institutions' quality and performance. Statement (II) states that the National Accreditation Board can license private agencies, preferably non-profit ones, to conduct the actual evaluation of academic institutions. This is also true, as accreditation boards often delegate the task of evaluating institutions to external agencies or organizations.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-036",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "In a certain code 'DELHI' is coded as '19' and CHENNAI is coded as '27'. How will 'GUWAHATI' be coded in the above code?",
+    "options": [
+      "30",
+      "45",
+      "75",
+      "25"
+    ],
+    "correctIndex": 1,
+    "explanation": "o find the coding pattern, let's analyze the given codes for 'DELHI' and 'CHENNAI': 'DELHI' is coded as '19'. 'CHENNAI' is coded as '27'. Observing closely, we can see that the number assigned to each letter corresponds to its position in the English alphabet. For example: D (the 4th letter of the alphabet) is assigned the number 4. E (the 5th letter of the alphabet) is assigned the number 5. L (the 12th letter of the alphabet) is assigned the number 12. H (the 8th letter of the alphabet) is assigned the number 8. I (the 9th letter of the alphabet) is assigned the number 9. Similarly for 'CHENNAI': C (the 3rd letter of the alphabet) is assigned the number 3. H (the 8th letter of the alphabet) is assigned the number 8. E (the 5th letter of the alphabet) is assigned the number 5. N (the 14th letter of the alphabet) is assigned the number 14. N (the 14th letter of the alphabet) is assigned ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-037",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): Communication is a symbolic process and as such depends upon symbols that are both arbitrary and conventional. Statement (II): Different symbols cannot be selected to represent an object or idea to communicate. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are true.",
+      "Both Statement (I) and Statement (II) are false.",
+      "Statement (I) is true but Statement (II) is false.",
+      "Statement (I) is false but Statement (II) is true."
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (I): \"Communication is a symbolic process and as such depends upon symbols that are both arbitrary and conventional.\" This statement is true. Communication involves the use of symbols to convey meaning, and these symbols are often arbitrary (lacking any inherent connection to the concept they represent) and conventional (agreed upon within a specific cultural or social context). For example, words in spoken language and letters in written language are symbols that represent ideas or concepts. Statement (II): \"Different symbols cannot be selected to represent an object or idea to communicate.\" This statement is false. In communication, different symbols can indeed be selected to represent the same object or idea. For example, in different cultures or languages, different words or symbols may be used to represent the same concept. Additionally, within a single language or culture",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-038",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): The Internet is not regulated in India; therefore, the information may be biased or inaccurate. Statement (II): The Internet is one of the services offered by World Wide Web (WWW). In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are true.",
+      "Both Statement (I) and Statement (II) are false.",
+      "Statement (I) is true but Statement (II) is false.",
+      "Statement (I) is false but Statement (II) is true."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Internet is a global network of computers and electronic devices that makes the process of communication and data transmission easier and accessible to people all over the world. Statement(I)- Indeed, the Internet is not regulated in India, and due to this, the information may be biased or inaccurate. There are no regulatory restrictions and sometimes, there may be spread of misinformation, or misuse of data on the web. Statement(II)- The given statement implies that the Internet is one of the services offered by the World Wide Web(WWW), which is false. WWW is, one of the major components of the Internet, which is an umbrella term, comprising various services like email, file transfer, Google Docs, classroom, etc.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-039",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The main preoccupations of quantitative researchers are: A. measurement B. causality C. generalization D. replication Choose the correct answer from the options given below:",
+    "options": [
+      "A and B only",
+      "B, C and D only",
+      "A, C and D only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 3,
+    "explanation": "From the given points, the main preoccupations of quantitative researchers include- 1. Measurement- This involves using precise measures that quantify the relationship between the variables, and show consistency. 2. Causality- To establish causal relationships between the variables involved in one way or the other. 3. Generalisation- This aims to generalize findings from the sample to a population, in an easily applicable way in a particular context. 4. Replication- This again is very important in research as it helps ensure the reliability, validity, and accuracy of the data findings. So all these are very important in quantitative research.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-040",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements: Statement (I): SPSS is an open-source software for data analysis. Statement (II): Turnitin is a very useful software for statistical data analysis. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both Statement (I) and Statement (II) are correct.",
+      "Both Statement (I) and Statement (II) are incorrect.",
+      "Statement (I) is correct but Statement (II) is incorrect.",
+      "Statement (I) is incorrect but Statement (II) is correct."
+    ],
+    "correctIndex": 1,
+    "explanation": "Statistical data analysis is a kind of quantitative research that applies different statistical methods and tests to quantify data and get a summarized and well-interpreted data output. Let’s look at the 2 statements- Statement I- Given statement that SPSS(Statistical Package for Social Sciences) is an open-source software is not true, it is in fact, a proprietary software package owned by the company and charges fees from people who want to use it for statistical data analysis. Statement II- It is false that Turnitin is a useful software for statistical data analysis. It is a plagiarism check tool that is used in various academic organizations and disciplines to maintain their data integrity. So, both the statements are false.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-041",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Mirroring another person's non-verbal behaviour facilitates",
+    "options": [
+      "Resistance",
+      "Restriction",
+      "Regression",
+      "Compliance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mirroring another person's non-verbal behavior refers to the subconscious imitation or synchronization of gestures, posture, facial expressions, and other non-verbal cues. When one person mirrors another's non-verbal behavior, it often leads to increased rapport and empathy between them. This phenomenon is known as \"mirroring\" or \"the chameleon effect.\" Mirroring can facilitate compliance, which refers to the act of conforming to a request or suggestion from another person. When individuals feel a sense of rapport or connection due to mirroring, they may be more inclined to comply with requests or suggestions made by the person they are mirroring. This is because mirroring can create a sense of trust and affiliation, making individuals more receptive to influence.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-042",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The University of Vikramasila was a well-known centre of",
+    "options": [
+      "Arabic language",
+      "Chinses philosophy",
+      "Tantric Buddhism",
+      "Japanese Art"
+    ],
+    "correctIndex": 2,
+    "explanation": "The University of Vikramasila was a renowned center of Tantric Buddhism. It was one of the major Buddhist universities in ancient India, particularly during the Pala Empire (8th to 12th centuries CE). Vikramasila University was established by King Dharmapala of the Pala dynasty in the late 8th century. It became a prominent center for the study and propagation of Tantric Buddhism, which emphasized esoteric practices and rituals aimed at achieving enlightenment. The university attracted scholars and students from various parts of India and beyond, contributing significantly to the development and spread of Tantric Buddhist teachings.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-043",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List-I with List-II List I List II Domains of Teaching Components of Responsibility Domains A. Planning and I. Communicating with Preparation students II. Establishing a culture B. Instruction for learning C. Classroom III. Reflecting on Environment teaching D. Professional IV. Setting instructional Responsibilities outcomes Choose the correct answer from the options given below:",
+    "options": [
+      "A - IV, B - I, C - III, D - II",
+      "A - IV, B - I, C - II, D - III",
+      "A - II, B - IV, C - I, D - III",
+      "A - II, B - IV, C - III, D - I"
+    ],
+    "correctIndex": 1,
+    "explanation": "1. Planning and Preparation- This involves defining well-outlined instructional goals and outcomes. 2. Instruction- includes communication between the students to deliver information. 3. Classroom environment- This domain of teaching responsibility establishes a conducive environment that helps imbibe a learning culture. 4. Professional responsibilities- This includes reflecting on all teaching practices and strategies incorporated while teaching.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-044",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "An ontological position which asserts that social phenomena and their meanings are continually being accomplished by social which actors, refers to",
+    "options": [
+      "Objectivism",
+      "Constructionism",
+      "Interpretivism",
+      "Positivism"
+    ],
+    "correctIndex": 1,
+    "explanation": "Constructionism is an ontological position that asserts that social phenomena and their meanings are continually being accomplished by social actors. In other words, it emphasizes that social reality is constructed through human interactions, interpretations, and meanings attributed by individuals and groups within a society. This perspective views reality as socially constructed rather than existing independently of human perceptions and interpretations. Option A, Objectivism, typically refers to the belief that there is an objective reality independent of human observation or interpretation. Option C, Interpretivism, focuses on understanding the subjective meanings and interpretations of individuals or groups within a social context. Option D, Positivism, is a philosophical stance that emphasizes empirical observation and scientific methods to study phenomena, often seeking to uncover ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-045",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Lord Auckland supported the idea of establishing _______ in places with a large population.",
+    "options": [
+      "Community colleges",
+      "Central colleges",
+      "Technical colleges",
+      "Science colleges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lord Auckland supported the idea of establishing \"central colleges\" in places with a large population. This information is derived from historical context, as Lord Auckland was the Governor-General of India from 1836 to 1842, during the British colonial period. During his tenure, he advocated for the establishment of central colleges to provide higher education in various regions with significant populations. These central colleges were intended to serve as educational institutions offering higher learning opportunities to the local population.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-051",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List I with List II: List I List II Shared understanding and common meaning,",
+    "options": [
+      "Liberalism (I) based on shared history, culture or worldview. No need for member to share a common culture,",
+      "Communitarianism (II) history, worldview, language or value system. Moral concern for Liberal",
+      "(III) one another as free Nationalism and equal citizens. Shared nationality, based on a Multiculturism",
+      "(IV) common history, Difference Theory language and culture."
+    ],
+    "correctIndex": 3,
+    "explanation": "- (A-III, B-II, C-IV, D-I) A. Liberalism- correct match(III)- Moral concern for one another as free and equal citizens. Within a liberal society's citizens are united by their common values of equality and freedom. Similarly, every person, regardless of their background, is valuable and deserving of being regarded as an independent agent with fundamental rights. This serves as the moral cornerstone of liberal societies, where institutions and regulations are designed to uphold individual liberties and guarantee that everyone can live in harmony while respecting one another's rights. B. Communitarianism- correct match(II)- No need for member to share a common culture, history, worldview, language or value system. Instead of strictly imposing a single cultural framework, this interpretation of communitarianism focuses on creating a community where people of different culture, worldview and",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-052",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who has stated that, \"religion is the real criterion of Manu's state-polity\"?",
+    "options": [
+      "Nalini Sinha",
+      "Satyamitra Dubey",
+      "Mahendra Prasad Singh",
+      "Himanshu Roy"
+    ],
+    "correctIndex": 1,
+    "explanation": "- The belief that \"religion is the real criterion of Manu's state-polity\" is credited to Satyamitra Dubey, a researcher who has written extensively on Hindu political theory and ideas. Dubey's interpretation of the ancient Manusmriti (also known as the \"Laws of Manu\"), a foundational Hindu text that delineates a set of social, ethical, and legal norms for society, is reflected in this viewpoint. Dubey claims that Manu's state-polity is firmly based on religious ideals, with dharma—or moral and religious obligation—defining government and societal structure rather than secular rules.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-053",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The paper entitled 'The study of administration', published in Political Science Quarterly in 1887, was written by:",
+    "options": [
+      "Henry Fayol",
+      "Woodrow Wilson",
+      "Mary Parker Follett",
+      "Max Weber"
+    ],
+    "correctIndex": 1,
+    "explanation": "Woodrow Wilson's article \"The Study of Administration\" appeared in Political Science Quarterly in 1887. Along with Max Weber and Frederick Winslow Taylor, Wilson is regarded as one of the founding fathers of public administration because of this article, which is widely regarded as a foundational work in the discipline. In this, Wilson contends that public managers ought to answer directly to political leaders and public administration be considered a distinct academic discipline. The work is also responsible for defining the line that separates administration from politics.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-054",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The book 'Capitalism, Socialism and Democracy' is authored by:",
+    "options": [
+      "Joseph Schumpeter",
+      "Samuel Huntington",
+      "Andre Gunder Frank",
+      "Joseph Lapalombara"
+    ],
+    "correctIndex": 0,
+    "explanation": "- \"Capitalism, Socialism and Democracy\" was originally published in 1942 and was written by renowned political scientist and economist Joseph Alois Schumpeter. In this work, Schumpeter examines the dynamics of economic systems focusing on capitalism and how it relates to socialism and democracy. Schumpeter is credited with popularizing the idea of \"creative destruction,\" which describes how capitalism develops and innovates. This process entails the ongoing cycle of new technologies and industries replacing older ones. Although this promotes innovation and economic growth, it also causes a great deal of disruption and uproots workers and businesses that are unable to adjust. Further, Schumpeter investigates the relationship between democracy and capitalism. According to him, capitalism promotes democracy by generating a middle class that values political involvement and rights. He cautio",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-055",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "assertion-reason",
+    "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:- Assertion A: India has historically been deemed a safe heaven for refugees Reason R: India has no refugee law and has not signed the 1951 Refugee Convention In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      "Both A and R are correct and R is the correct explanation of A",
+      "Both A and R are correct but R is Not the correct explanation of A",
+      "A is correct but R is not correct",
+      "A is not correct but R is correct"
+    ],
+    "correctIndex": 1,
+    "explanation": "(Both A and R are correct but R is Not the correct explanation of A) Assertion A: India has historically been deemed a safe haven for refugees. This statement is true because the prevalent belief that India has historically offered refuge to a variety of communities is reflected in this remark. Diverse groups have been accepted and accommodated in India, including the Rohingya Muslims who are escaping persecution in Myanmar, the Tibetan refugees who fled China after the Chinese invasion in 1959, and the refugees from Bangladesh who fled during the Liberation War in 1971. The cultural attitude of hospitality in India, known as \"Vasudhaiva Kutumbakam,\" or \"the world is one family,\" is the source of this custom. Reason R: India has no refugee law and has not signed the 1951 Refugee Convention. This statement is true because India has not signed the 1951 Refugee Convention or its 1967 Protoc",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-056",
+    "paper": 1,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "B.R. Ambedkar demanded a separate electorate for the depressed classes in which of the following events?",
+    "options": [
+      "First round table conference",
+      "Second round table conference",
+      "Third round table conference",
+      "Fourth round table conference"
+    ],
+    "correctIndex": 1,
+    "explanation": "At the Second Round Table Conference in London in 1931, B.R. Ambedkar called for a separate electorate for the Depressed classes. The conference addressed the political representation of marginalized groups, such as the depressed classes—a term used to refer to the Dalits and other socially disadvantaged communities. Ambedkar promoted separate electorates to guarantee that the marginalized classes could choose their representatives directly, instead of relying on the votes of the upper castes. The Poona Pact of 1932, partially satisfied the need, which created reserved seats for the depressed classes inside the general electorate rather than separate electorates.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-057",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following observations are correct about deliberative democracy?",
+    "options": [
+      "Deliberative democracy describes a normative ideal in which free and equal citizens publicly exchange reasons with one another.",
+      "They do with a view to reaching a consensus about some issue or policy or about the principles underlying the system as a whole.",
+      "The central claim is that a political decision or system is legitimate even if it cannot command free and reasoned agreement among equals",
+      "Clearly this is a practical conception, which contemporary political life- with partisan rivalries and messy compromises often conforms to."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A, B and E only) Deliberative democracy is a political theory that emphasizes the role of discussion and reasoning in democratic decision-making. (A) Deliberative democracy describes a normative ideal in which free and equal citizens publicly exchange reasons with one another is correct: This statement accurately captures the essence of deliberative democracy as it emphasise upon the importance of reasoned dialogue and communication among citizens. (B) They do so with a view to reaching a consensus about some issue or policy or about the principles underlying the system as a whole is also correct: Deliberative democracy focuses on reaching consensus or maintaining understanding among citizens regarding policies and democratic principles. (C) The central claim is that a political decision or system is legitimate even if it cannot command free and reasoned agreement among equals is incorr",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-058",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The process in which the dictatorial ruling elite introduces liberalizing reforms that ultimately lead to a democratic transition is known as-",
+    "options": [
+      "Bottom-up democratic transition",
+      "Top-down democratic transition",
+      "First reverse wave",
+      "Second reverse wave"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a top-down democratic transition, the reforms are brought and implemented by the existing authoritarian regime or elite. This approach contrasts with \"bottom-up\" transitions, where grassroots movements and popular uprisings plays a major role in bringing democracy from the ground level. Within the top-down approach, the ruling elite may introduce reforms such as political pluralism, increased civil liberties, and economic liberalization as a way to shift public demand or to stabilize their rule. The main idea is to gradually introduce these reforms, and manage the transition to democracy while maintaining control over the process. However, First and second reverse wave refers to period representing strain on democracy. First reverse wave (1922-42) saw disorientation and alienation of democracy (20s), Great Depression (30s), rise of Communism, Fascism and Nazism. Second reverse wave (1",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-059",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Choose the correct statements given below:",
+    "options": [
+      "India is amongst the first countries to establish diplomatic relations with EEC",
+      "The bilateral relationship was upgraded to strategic partnership in 2004",
+      "The EU is also one of the largest sources of FDI for India.",
+      "The EU is a member of UN General Assembly."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) India is amongst the first countries to establish diplomatic relations with EEC. This statement is correct because in the early 1960s, India was among the first non-European nations to formally establish diplomatic ties with the EEC, which later evolved into the European Union (EU).. Mutual economic interests and a desire to expand trade and collaboration outside of Europe served as the driving forces for this partnership. (B) The bilateral relationship was upgraded to strategic partnership in 2004. This statement is correct because annual India-EU summits have been conducted since 2004 to talk about bilateral, regional, and international concerns. These summits offer a forum for high-level participation and the evaluation of progress toward common objectives. (C) The EU is also one of the largest sources of FDI for India. This statement is correct because Along with other significan",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-060",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List I with List Il: List- I (Ideas) List- II (Thinkers) Extremely",
+    "options": [
+      "(I) Morris Jones Federal",
+      "Quasi Federal (II) Granville Austin Bargaining",
+      "(III) K.C. Wheare Federal Cooperative",
+      "(IV) Paul Appleby Federal Choose the correct option given below:"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Extremely Federal- Paul Appleby According to American public administration expert Paul H. Appleby, India's administrative structure can be described as \"extremely federal.\" In the early years following India's independence, he conducted a thorough study of the country's governance and administrative system and found that India's governance system was highly decentralized. (B) Quasi Federal- K.C. Wheare Prominent British constitutional expert K.C. Wheare called India's political structure \"quasi- federal.\" This description draws attention to the distinctive qualities of India's federal system, which blends elements of both federalism and a powerful central government. (C) Bargaining Federal- Morris Jones The phrase \"Bargaining Federalism\" was coined by political scientist Morris Jones, who conducted a thorough analysis of Indian politics, to characterize the country's federal system.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-061",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List I with List II: List I List II Decision making Scientific process involves three",
+    "options": [
+      "management (I) phases- intelligence theory activity, design activity and choice activity",
+      "New public (II) The development of a management true science of work, which in effect will benefit both the workers and manager alike Government should be continuously engaged Human relations in improving quality of",
+      "(III) theory its programmes and services and therely adjusting with demands Organization is to be viewed as a social Rational system and informal",
+      "decision-making (IV) elements play an theory important role in the overall organizational output."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A-II, B-III, C-IV, D-I) (A) Scientific management theory relates to the development of a true science of work, which in effect will benefit both the workers and manager alike. Frederick Winslow Taylor created scientific management in the early 20th century with the goal of increasing productivity and efficiency. The approach calls for standardizing procedures, dividing activities into manageable chunks, and applying systematic evaluation to determine the most effective way to do each work. Taylor thought it would be advantageous for both employees and management to have a \"science\" for every job. (B) Government should be continuously engaged in improving quality of its programmes and services and therely adjusting with demands within the New public management. NPM is a late 20th-century approach to public sector management that promotes effectiveness, adaptability, and an outcome-orient",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-062",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the correct one with regard to 108th Amendment Bill, 2008:",
+    "options": [
+      "Reservation of seats reserved for scheduled caste shall be for women shall cease to exist 15 years after the commencement of this Bill.",
+      "It seeks to reserve one-third of all seats for women in the Lok Sabha only",
+      "One-third of the total number of seats reserved for scheduled castes shall be reserved for women of this group in legislative assemblies only.",
+      "Reserved seats may be allotted by rotation to different constituencies in the state or UTs."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A & D only) The 108th Amendment Bill, 2008, commonly known as the Women's Reservation Bill, was introduced to reserve seats for women in legislative bodies. (A) Reservation of seats reserved for scheduled caste shall be for women shall cease to exit 15 years after the commencement of this Bill. This statement is true because the Bill proposes that the reservation for women will expire 15 years after the Bill's implementation. (B) It seeks to reserve one-third of all seats for women in the Lok Sabha only. This statement is incorrrect because the Bill seeks to reserve one- third of all seats for women in both the Lok Sabha and State Legislative Assemblies. (C) One-third of the total number of seats reserved for scheduled castes shall be reserved for women of this group in legislative assemblies only. This statement is incorrect because One-third of the total seats reserved for Scheduled C",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-063",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Choose the correct statements given below:",
+    "options": [
+      "Conflict in society and politics is inevitable",
+      "The usage of violence in conflicts cannot be eliminated by protests against such violence.",
+      "Non-violent action can be categorized into three methods: protests and persuasion, non- cooperation and non-violent intervention.",
+      "Use of non-violent methods is a guarantee of success."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Conflict in society and politics is inevitable. This statement is true because conflict is a natural part of social and political life, arising from difference in interests and values among individuals and groups. (B) The usage of violence in conflicts cannot be eliminated by protests against such violence. This statement is correct because protesting against violence alone may not completely eliminate violence, as it often requires a deeper transformation in societal attitudes, systems, and structures. (C) Non-violent action can be categorized into three methods: protests and persuasion, non- cooperation and non-violent intervention. This statement is true because non-violent action indeed encompasses these three categories, offering different approaches for resistance and change without the use of physical force. (D) Use of non-violent methods is a guarantee of success. This statem",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-064",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The true beginning of the modern state system marked the end of:",
+    "options": [
+      "Fifty years war",
+      "Thirty years war",
+      "One hundred years war",
+      "Ten years war"
+    ],
+    "correctIndex": 1,
+    "explanation": "The signing of the Peace of Westphalia in 1648, which marked the end of the Thirty Years' War, is typically seen as the real start of the modern state system. This incident is seen as a turning point in the evolution of the contemporary international order. The following ideas were created by the Peace of Westphalia and have influenced the idea of state sovereignty: 1. States' Sovereignty: Every state was acknowledged as having complete control over its own internal affairs and territory, free from outside intervention. 2. Equality Among States: The accords advanced the notion that all states were equal under the law, irrespective of their size or strength. 3. Non-Intervention: It created the rule that states shouldn't meddle in a sovereign state's internal affairs.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-065",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following statements explain Bhikhu Parekh's conception of human nature?",
+    "options": [
+      "All references to human nature should be subjected to the strictest scrutiny and viewed with a healthy dose of skepticism.",
+      "Human beings are culturally embedded, in the sense that they are born into, raised in and deeply shaped by their cultural communities.",
+      "Regardless of their different cultural contexts, human beings behave more or less in a uniform manner when it comes to citical matters.",
+      "Although skin colour, gender, height and other physical features are universally shared, they are all differently conceptualized and acquire different meaning and significance in different societies"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) All references to human nature should be subjected to the strictest scrutiny and viewed with a healthy dose of skepticism. This statement is correct because he challenges universal claims and encourages skepticism towards rigid definitions of human nature. (B) Human beings are culturally embedded, in the sense that they are born into, raised in and deeply shaped by their cultural communities. This statement is correct because it reflects Parekh's idea that human beings are \"culturally embedded\". Acoording to him, this cultural embeddedness influences their understanding of themselves and the world. (C) Regardless of their different cultural contexts, human beings behave more or less in a uniform manner when it comes to citical matters. This statement is incorrect because Parekh argues against uniform behavior across cultures in critical matters. (D) Although skin colour, gender, heig",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-066",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Name the country that does not fall within the 'Asian Tiger' economies:",
+    "options": [
+      "South Korea",
+      "Singapore",
+      "Hong Kong",
+      "Burma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Burma (Myanmar) is the nation that does not belong to the \"Asian Tiger\" economy. The phrase \"Asian Tigers\" describes four East and Southeast Asian economies that saw substantial development, high rates of economic growth, and fast industrialization between the 1960s and 1990s. These economies are: Hong Kong Singapore Korea Taiwan These four nations became major actors in the world economy by enacting export-oriented policies, making significant educational investments, and growing their industrial and high-tech sectors.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-067",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match the following organization with the year it was established in: List I List II",
+    "options": [
+      "SCO (I) 1967",
+      "BRIC (II) 2006",
+      "ASEAN (III) 1957",
+      "EEC (IV) 2001"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A-IV, B-II, C-I, D-III) (A) The Shanghai Cooperation Organization (SCO) was formed on June 15, 2001 and was founded by China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan. India and Pakistan joined in 2017, expanding the organization's influence. SCO's focuses on regional security, counter-terrorism, anti- extremism, economic cooperation, and cultural exchange among member states. (B) The BRIC grouping was originally formed by Brazil, Russia, India, and China in 2006. South Africa joined in 2010, turning BRIC into BRICS. BRICS main aim is to promote mutual economic cooperation and creating an alternative to Western-dominated financial institutions like the IMF and World Bank. (C) Association of South East Asian Nations (ASEAN) was established on August 8, 1967 in Bangkok, Thailand. The founding countries were Indonesia, Malaysia, the Philippines, Singapore, and Thailand. S",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-068",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List I with List Il: List I List II Antonio",
+    "options": [
+      "(I) On human conduct Gramsci Robert",
+      "(II) Prison notebooks Putnam The protestant ethics Michael",
+      "(III) and the spirit of Oakeshott capitalism Bowling Alone: The",
+      "Max Weber (IV) collapse and revival of American community"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A-II, B-IV, C-I, D-III) (A) Antonio Gramsci wrote 'The Prison notebooks'. Gramsci wrote these notebooks between 1929 and 1935 while he was detained by the Italian Fascist government. His views on culture, ideology, and hegemony are reflected in this work. (B) Robert Putnam wrote 'Bowling Alone: The collapse and revival of American community'. Using \"bowling alone\" as a metaphor for fading civic engagement, Putnam examines the decrease of social capital and community engagement in the US. (C) Michael Oakeshott wrote 'On human conduct' in 1975. This philosophical treatise explores the idea of civil order, political association, and human behavior. (D) Max Weber wrote 'The protestant ethics and the spirit of capitalism' in 1905. Weber's seminal work argues that Protestant ethics helps in fostering the spirit of capitalism by encouraging values like hard work and discipline.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-070",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the correct one with regard to constructivist argument on democracy",
+    "options": [
+      "Constructivist argument treats culture as something that is objective and inherited.",
+      "Constructivist argument states that culture exists prior to, and remains unchanged by political interaction.",
+      "Constructivist argument treats culture as something that is constructed or invented rather than inherited.",
+      "Constructivist argument claims that culture has a causal effect."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Constructivist argument treats culture as something that is objective and inherited. This statement is incorrect because constructivists argue that culture is not fixed or merely inherited but is socially constructed through interactions, historical experiences, and institutions. (B) Constructivist argument states that culture exists prior to, and remains unchanged by political interaction. This statement is incorrect because constructivist emphasizes that culture can be dynamic and responsive to political interactions. (C) Constructivist argument treats culture as something that is constructed or invented rather than inherited. This statement is correct because constructivism views culture as a dynamic, socially constructed phenomenon rather than as something fixed or inherited. Moreover, culture is not seen as a static, predetermined inheritance but as something actively constructe",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-071",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The present political regime in the Central Asia republic of Tajikistan falls under which of the following category?",
+    "options": [
+      "Monarchy",
+      "Military dictatorship",
+      "Democracy",
+      "Civilian dictatorship"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tajikistan's current political system is a civilian dictatorship. The hallmark of this type of dictatorship is the consolidation of power in the hands of a civilian leader who has considerable influence over the political system, frequently in the absence of democratic checks and balances. Since taking office in 1992, President Emomali Rahmon of Tajikistan has solidified his hold on power by stifling opposition parties, controlling the media, and employing political repression to keep a firm hold on the government. Although elections are conducted, many foreign observers believe they fall short of democratic norms and lack true competition.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-073",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following is not, according to Bhikhu Parekh, a question usually ignored by Indian political thought?",
+    "options": [
+      "Modern Individual thinkers",
+      "The nature of Indian state",
+      "Social Justice",
+      "Political Economy"
+    ],
+    "correctIndex": 3,
+    "explanation": "According to Bhikhu Parekh, Indian political theory does not generally overlook political economy. He highlights in his analysis that political economy is frequently a major topic of concentration, even though many facets of Indian political discourse may ignore particular issues. Parekh contends that the other choices—social justice, the character of the Indian state, and contemporary individual thinkers get less consideration in Indian political philosophy. Further, he criticises the tendency to overlook contemporary analytical frameworks in favour of some traditional principles. Political economy, which studies how politics and economic systems interact, is therefore viewed as an important element that is typically discussed rather than disregarded.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-074",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "assertion-reason",
+    "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: 'Ahimsa' was complementary to Gandhi's model of conflict resolution that was certainly the most original and creative model of social change and political action. Reason R: This was a theory of politics that gradually became the dominant ideology of a national political movement in which Gandhi reigned supreme. In the light of the above statements, choose the most appropriate answer from the options given below.",
+    "options": [
+      "Both A and R are correct and R is the correct exolanation of A.",
+      "Both A and R are correct but R is Not the correct explanation of A.",
+      "A is correct but R is not correct",
+      "A is not correct but R is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Assertion A is correct because \"Ahimsa\" (non- violence) was indeed a fundamental aspect of Gandhi's approach to conflict resolution and social change. Gandhi’s philosophy of non- violence is recognized as a unique and effective method for political action and social transformation. Reason R is also correct, as Gandhi’s emphasis on non-violence and his overall philosophy became a dominant ideology in the Indian national movement, influencing a wide range of leaders and strategies. Since Reason R explains how and why Assertion A is valid, the best choice is that both statements are correct and R serves as the correct explanation for A.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-075",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which one of the following is not the key element of direct democracy?",
+    "options": [
+      "Referendum",
+      "Recall",
+      "Filibustering",
+      "Plebiscite"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mechanisms that enable citizens to directly engage in decision-making processes without exclusively depending on elected officials are essential components of direct democracy. Referendum: A procedure in which voters directly decide whether to accept or reject particular laws or policies. Since it enables public involvement in decision-making, this is a key element of direct democracy. Recall: Typically, a public vote is used to remove an elected individual from office before the end of their term. By granting citizens direct influence over their representatives, this is also consistent with direct democracy. Plebiscite: A plebiscite, like a referendum, is a direct public vote on a significant subject. Usually applied to subjects of national importance, including constitutional revisions or issues pertaining to national sovereignty, it embodies the ideals of direct democracy. The practic",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-077",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who among the following thinkers are associated with participatory democracy? A. Carole Pateman B. lan Shapiro C. Benjamin Barber D. Jurgen Habermas E. C.B. Macpherson",
+    "options": [
+      "A, B and C only",
+      "A, B and D only",
+      "A, C and E only",
+      "A, C and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "1. Carole Pateman (A) : Carole Pateman is considered one of the leading thinkers of participatory democracy. In her work, \"Participation and Democratic Theory\" (1970), she described active participation at every level of society as essential for the democratic process. Pateman believes that people should be able to take their own decisions in important areas of their lives, which is a main principle of participatory democracy. 2. Benjamin Barber(C) : Barber is famous for his book \"Strong Democracy: Participatory Politics for a New Age\" (1984). In this he defined participatory democracy as a \"strong democracy\" in which citizens not only have a say in decision making but also have complete control over them. Barber believes that only through active participation can a strong society and true democracy be established. 3. C. B. Macpherson (E): Macpherson's thought is also connected with the ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-078",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The 73rd Constitutional Amendment Act, 1992 lays down the following major provisions regarding Panchayat: A. The Gram Sabha may exercise such powers and perform such functions at the village level as may be prescribed by the State Legislature by law. B. A Finance Commission shall be constituted every five years by the Governor of the State to review the financial position of the Panchayats and make recommendations to the Governor. C. The Legislative Assembly of a State cannot confer any further powers and authority on the Panchayats for their functioning as institutions of self-government. D. The election for the constitution of a Panchayat shall be completed before the expiry of a period of six months from the date of its dissolution. Choose the correct answer from the options given below.",
+    "options": [
+      "A , B and C only",
+      "B , C and D only",
+      "A , B and D only",
+      "C , B and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The main provisions regarding Panchayats in the 73rd Constitutional Amendment Act, 1992 include: Statement A is correct: The Gram Sabha is empowered to perform such functions at the village level as may be determined by law of the State Legislature. Statement B is correct: Every five years a Finance Commission shall be constituted by the Governor of the State to review the financial position of the Panchayats. Statement D is correct: Elections to constitute a Panchayat must be completed within six months from the date of its dissolution. But statement C is incorrect, as the State Legislature can give more powers to the Panchayats as institutions of self-government.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-079",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "With which country India signed the declaration to promote the building of a harmonious world of durable peace and common prosperity through developing the strategic and cooperative partnership for peace and prosperity?",
+    "options": [
+      "United States",
+      "China",
+      "United Kingdom",
+      "Japan"
+    ],
+    "correctIndex": 1,
+    "explanation": "India signed a declaration with China which focused on building a \"harmonious world of durable peace and common prosperity\" and strengthening \"strategic and cooperative partnership for peace and prosperity\". This understanding was signed between India and China in 2005, when both countries wanted to bring about comprehensive improvements in their relations through peace and development. The main objective of this understanding was to promote trust and support between the two countries and to strengthen cooperation in various areas such as trade, security, science and technology. This understanding was considered an important step in achieving the goals of permanent peace and prosperity between the two countries.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-080",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange the following Director Generals of WTO who held office in ascending order: A. Mike Moore B. Pascal Lam C. Supachai Pandchakd D. Robert Azvedo",
+    "options": [
+      "A, C, B, D",
+      "A, B, D, C",
+      "C, B, A, D",
+      "D, A, B, C"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Mike Moore (1999–2002): Mike Moore of New Zealand became the director general of WTO and held this position from 1999 to 2002. (C) Supachai Panchipakdi (2002–2005): Supachai Panchipakdi of Thailand took over this position after Moore and remained director general from 2002 to 2005. (B) Pascal Lamy (2005–2013): Pascal Lamy of France served as the director general of WTO from 2005 to 2013. (D) Roberto Azevedo (2013–2020): Roberto Azevedo of Brazil became the director general of WTO and held this position from 2013 to 2020. Therefore, correct order is A, C, B, D.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-081",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following concepts are not related to John Rawls?",
+    "options": [
+      "Justice as Fairness",
+      "Distributive Justice",
+      "Class in itself",
+      "Veil of ignorance"
+    ],
+    "correctIndex": 2,
+    "explanation": "A: Justice as Fairness: This is the main principle of John Rawls, which is given in his book A Theory of Justice (1971). In this Rawls says that justice should be seen as equality and judicial facilities, in which all people get benefits on an equal basis. B: Distributive Justice: This is also related to Rawls' principles. Distributive Justice means distributing social and economic resources in such a way that all people can get equal facilities, especially the people of the weaker class. C: Class in itself: This concept is of Karl Marx and is not related to Rawls. According to Marx, the idea of class consciousness and revolution has been expressed through \"class in itself\" and \"class for itself\". D: Veil of Ignorance: This is also an important concept of Rawls. Veil of Ignorance means that people come to such a situation where they do not know anything about their mental or social condi",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-082",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match the past interventions with the year in which they took place List-I (Country) List-II (Year) A. Iraq I. 1991 B. Darfur, Sudan II. 2000 C. Somalia III. 2004 D. Sierra Leone IV. 1992 Choose the correct option from the codes provided below.",
+    "options": [
+      "A-I, B-IV, C-III, D-II",
+      "A-III, B-II, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-I, B-III, C-IV, D-II"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Iraq - The intervention in Iraq began in 1991 with the Gulf War. Gulf War (Persian Gulf War): Iraq attacked Kuwait in 1990, which led to the Gulf War. Iraq believed that Kuwait was its land and it was a matter of rights over its oil resources. International Response: In response to this attack, the United Nations launched a military campaign (Operation Desert Storm) against Iraq, which was launched in January 1991 through the US and its allies. B. Darfur, Sudan (2003-2004) Start of the conflict: The war in Darfur began in February 2003 when the Sudan Liberation Movement (SLM) and the Justice and Equality Movement (JEM) took up arms against the Sudan government. Cause of conflict: The rebels accused the Sudan government of atrocities against non-Arab communities in Darfur. The government initiated ethnic cleansing of non-Arabs, which turned into violence and a humanitarian crisis. Inte",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-083",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Linguistic Provinces Commission that was formed to advise Constituent Assembly was popularly known as:",
+    "options": [
+      "Dhar Commision",
+      "Menon Commision",
+      "Mukherjee Commision",
+      "Bose Commision"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Dhar Commission was set up by the Indian Government in 1948 to examine whether reorganisation of states on the basis of language would be appropriate. Its main objective was to study the possibility of division of states on the basis of language and to estimate its impact. The Commission stated in its report that reorganisation of states on the basis of language was premature and could lead to further division and instability in the country and therefore recommended avoiding such reorganisation.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-084",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "What is the main argument of philosophical anarchism?",
+    "options": [
+      "That no state should exist.",
+      "That no state in fact has authority.",
+      "That arguments for philosophical anarchism are opposed to liberal principles.",
+      "That all states should exist in mutual cooperation and harmony."
+    ],
+    "correctIndex": 1,
+    "explanation": "Option A- That no state should exist: This option refers to absolute anarchism, which believes that the state should cease to exist because it violates individual freedom. But philosophical anarchism is not such a type of anarchism. Philosophical anarchists do not insist that the state should cease to exist, rather they insist that the state’s authority is not morally legitimate. Hence, this option is incorrect. Option B- That no state has real authority: This option is correct. The main argument of philosophical anarchism is that no state has moral authority over its people. This means that although the state may exist and people may follow the laws, it is not the state’s moral authority. Philosophical anarchists believe that the state's claim to power is not justified by any moral argument. Option C- That the arguments of philosophical anarchism are in conflict with liberal principles:",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-085",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Mazdoor Kisan Shakti Sangathan (MKSS) pioneered which movement in India?",
+    "options": [
+      "Namantar Andolan",
+      "Nirbhaya Movement",
+      "Jan Sunwai",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mazdoor Kisan Shakti Sangathan (MKSS) started the public hearing movement in India. This organization is working in Rajasthan and became active in the 1990s to promote transparency and public rights. Public hearing means public hearing, in which open discussion is held in front of the people to maintain transparency in government functioning and policies. The public hearing movement raised the demand to make information about government records and expenditure available to the general public, so that corruption can be curbed. This movement of MKSS proved to play a very important role in the implementation of the Right to Information (RTI) law.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-086",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Given below are two statements Statement I. The transformation of India's economy has not been as dramatic as that of post-communist countries in Eastern Europe Statement II: India has produced growth rates as high as those of China in 2010s In the light of the above statements, choose the most appropriate answer from the options given below",
+    "options": [
+      "Both Statement I and Statement il are correct",
+      "Both Statement i and statement il are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement Il is correct"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement I is correct because the transformation of India's economy has not been as dramatic as that of the socialist countries of Eastern Europe. After the collapse of the Soviet Union in the 1990s, many Eastern European countries quickly adopted market-based reforms, transforming their economies rapidly. In contrast, India's liberalisation was gradual and its effects were not as rapid. India began economic reforms in 1991, but it has been a long process because of structural and institutional barriers. Statement II is incorrect because China's economic growth was higher than India's in the 2010s. India has achieved high growth rates in some years, but has been unable to consistently reach China's levels.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-087",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following thinker is associated with 'syncretism'?",
+    "options": [
+      "Abul Fazl",
+      "Kabir",
+      "Zia-ud-din Barani",
+      "Tulsidas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kabir's thoughts reflect \"syncretism\" , in which he combined the principles of Hindu and Muslim religions and gave such a religious message that unites the people of both communities and inspires them towards social equality.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-088",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange the following in a sequence that historically and conceptually presents the concepts of civil society: A. It can be understood as a collective entity that springs from society and exists for specific and limited purposes. B. The concept was part of the economic and political liberalism that arose with John Locke and was celebrated by Scottish enlightenment. C. Civil society is one among many spheres of the larger society along with family, economy, polities etc. D. The concept found a significant place in the writings of Hegel and Marx in the 19th century. E. The first articulation of the concept took place in the 17th and 18th centuries in Europe.",
+    "options": [
+      "A,B,C,D,E",
+      "B,D,C,E,A",
+      "C,A,E,B,D",
+      "E,B,A,C,D"
+    ],
+    "correctIndex": 2,
+    "explanation": "(C) Civil society is one among many spheres of the larger society along with family, economy, polities, etc.- It is explained here that civil society is a part of society, which together with other spheres such as family, economy, and politics forms a larger society. This is the most general and basic definition, which states that civil society exists as a part of society. (A) It can be understood as a collective entity that springs from society and exists for specific and limited purposes. Next, civil society is seen as a collective entity that springs from society and exists to fulfill some specific and limited purposes. This moves forward from the basic definition and presents the concept in a more clear form. (E) The first articulation of the concept took place in the 17th and 18th centuries in Europe- First , the concept of civil society was in the 17th and 18th centuries in Europe.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-089",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who said that statesmen think and act in terms of interest defined as power?",
+    "options": [
+      "Morgenthau",
+      "George F. Kennan",
+      "Harold Nicholson",
+      "Henry A Kissinger"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Hans Morgenthau - a prominent political scientist and realist theorist, is known for his assertion that statesmen think and act in terms of interest defined as power. This concept is central to his realist theory of international relations, where power dynamics play a critical role in shaping political decisions and actions.He popularized the theory of Realism in politics. In his book Politics Among Nations, he gave the idea that the policy of nations lies in their national interests, especially power. B. George F. Kennan - American diplomat and historian, who is considered the father of the US containment policy during the Cold War. He suggested stopping the expansion of the Soviet Union in international relations. C. Harold Nicolson - British diplomat and author, who wrote on the diplomatic process and international relations. However, he has not focused on the role of power but on ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-090",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the books written by Mahatma Gandhi given below: A. Modern India B. Constructive Programme C. India's struggle for Independence D. Why socialism? E. Hind Swaraj",
+    "options": [
+      "A only",
+      "D only",
+      "C only",
+      "B and E only"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Modern India- This book is written by Ramachandra Guha, who is a famous historian. This book focuses on the overall history and development of India. (B) Constructive Programme: Its Meaning and Place- This book is written by Mahatma Gandhi and in it he has presented his idea of creative work for national independence. This is one of his important literature which shows his thoughts. (C) India's Struggle for Independence- This book is a contribution of Bipan Chandra and other writers, in which the history of India's freedom struggle is presented. (D) Why Socialism? This book is written by Jayaprakash Narayan. The book \"Why Socialism?\" was published in 1946 and is considered one of JP's important works. In this book, Jayaprakash Narayan discusses his thoughts on socialism and why he believes it is a necessary and just system for addressing the socio-economic problems of the time. The w",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-091",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the subject is not the part of concurrent list?",
+    "options": [
+      "Bankruptcy and insolvency.",
+      "Prevention of cruelty to animals.",
+      "Markets and fairs.",
+      "Economic and social planning."
+    ],
+    "correctIndex": 2,
+    "explanation": "A : Bankruptcy and insolvency: This subject is part of the Concurrent List. B : Prevention of cruelty to animals: This is also included in the Concurrent List. C : Markets and fairs: This subject comes only in the State List, so it is not a part of the Concurrent List. D : Economic and social planning: This is also included in the Concurrent List.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-092",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who introduced to organizations the concepts of the 40-hour week, time and motion studies and piece-rate compensation systems, as well as a fair day's work for a fair day's pay?",
+    "options": [
+      "Woodrow Wilson",
+      "Frederick Taylor",
+      "Max Weber",
+      "Elton Mayo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frederick Taylor introduced the theory of Scientific Management in the field of management. He promoted principles such as 40-hour work week, Time and Motion Studies, Piece-Rate Compensation System, and \"fair pay for a fair day's work\" in organizations. His ideas were aimed at increasing the productivity and efficiency of workers. Taylor believed that standardization of tasks, time management, and fair compensation to workers according to their performance is beneficial for both workers and organizations.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-093",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Choose the correct statements from the following: A. Weapons of Mass Destruction, inter alia include atomic explosive Weapons. B. Biological weapons are not included under the category of Weapons of Mass Destruction. C. Chemical Weapons Convention outlaws the Weapons of Mass Destruction. D. Chemical Weapons Convention entered into force in 1998.",
+    "options": [
+      "A & B only",
+      "C & D only",
+      "A & C only",
+      "B & C only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A: This statement is correct. Weapons of Mass Destruction (WMDs) include atomic (nuclear) weapons, along with biological, and chemical weapons. B: This statement is incorrect. Biological weapons are considered a type of Weapon of Mass Destruction (WMD). C: This statement is correct. The Chemical Weapons Convention (CWC) specifically outlaws the development, production, stockpiling, and use of chemical weapons, which are classified as WMDs. D: This statement is incorrect. The Chemical Weapons Convention entered into force in 29 april 1997, not 1998.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-094",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "In his book 'Adminstration in Developing Countnes- The Theory of Prismatic Society', Riggs mentioned the following points: A. The structures of a modern society are typically functionally specific. B. A structure is defined as any pattem of behaviour, which has become a standard feature of a social system. C. Industria will move towards Agraria through the process of transition in the society. D. Although the \"image\" of Agraria resembles the \"model\" of a fused society the two constructions are by no means identical. Choose the correct answer from the options given below.",
+    "options": [
+      "A, B & D only",
+      "A, B & C only",
+      "B, C & D only",
+      "A, C & D only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement A is Correct: Riggs has stated in Characteristics of Modern Society that structures in modern societies are typically functionally specific, which are meant to fulfill a single purpose. This statement is correct. Statement B is Correct: Riggs has defined structure as any pattern of behavior, which has become a standard feature of a social system. Riggs implies that when a type of behaviour is repeated again and again in a society and gradually becomes a regular part of that society, it is called a \"structure\". This structure helps in controlling and organizing the functions of the society in coordination with other parts of that society.In this view, structure is not just a physical element but a special type of pattern or arrangement, which plays an important role in running the processes of society.For example- Government Institutions, like in a society, the job of the police",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-095",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange the following administrative thinkers/theorists chronologically A. F.W. Willoughby B. Max Weber C. David Easton D. Elton Mayo",
+    "options": [
+      "A, B, C, D",
+      "D, C, B, A",
+      "B, A, D, C",
+      "C , B ,A ,D"
+    ],
+    "correctIndex": 2,
+    "explanation": "(B) Max Weber (1864-1920) : He was a German sociologist and administrative theorist, famous for bureaucracy theory. His theories have had a profound influence on the modern administrative system. (A) F.W. Willoughby (1867-1960): An American administrative theorist who contributed to government budgeting and administrative management. His major works include works on government budgeting and administrative reform. (D) Elton Mayo (1880-1949): He was an Australian sociologist who made significant contributions to industrial sociology. His Hawthorne Studies drew attention to organizational behavior and human relations. (C) David Easton (1917-2014): He was an American political scientist, famous for Political System Theory. His work focused on viewing politics and administration as a comprehensive system.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-096",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Which of the following statements is/are not correct regarding ICT based e-governance? A. E-governance reduces government expenditure (cost). B. E-governance reduces government transparency. C. E-governance increases citizen investment (effort) in government. D. E-governance increases bureaucratic Red- tapism.",
+    "options": [
+      "Only A, B and C",
+      "Only B and D",
+      "Only B, C and D",
+      "Only A and C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Statement A: E-governance reduces government expenditure as it increases efficiency by automating processes. This statement is correct. Statement B: E-governance does not reduce transparency of government but it promotes transparency as information can be made easily available on digital platforms. This statement is incorrect. Statement C: E-governance makes citizens more invested in government as it provides them easy access to various services and information. This statement is correct. Statement D: E-governance does not increase bureaucracy and red-tapism but it reduces it as processes are faster and transparent. This statement is incorrect. Hence, only B and D are not correct.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-097",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "What is true about the following statement related to Ram Manohar Lohiya: A. He discusses seven types of revolution. B. He talks about ' Partyless Democracy'. C. He is an author of the 'Aspects of socialist policy'. D. He did not give the concept of 'Four Pillar State'. E. He said that'the history of the growth of freedom is the history of the perfection of human relationship'.",
+    "options": [
+      "A, B and E only",
+      "A, C and E only",
+      "B, D and E only",
+      "B, C and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Statement A is correct: Ram Manohar Lohia had seven dreams of social transformation, which is also known as Sapt Kranti. Those seven revolutions were- 1. For equality of men and women 2. Against political, economic and mental inequality based on skin colour 3. Against cultural, inborn caste system and for special opportunities to the backwards 4. Against foreign slavery and for freedom and world democracy 5. Against the inequalities of private capital and for economic equality and for increasing production through planning 6. Against unjust interference in private life and for democratic system 7. Against arms and for Satyagraha. Statement B is incorrect:The main supporter of the idea of party-less democracy was Jai Prakash Narayan, not Ram Manohar Lohia. Jai Prakash Narayan believed that political parties work for their own self-interest and power, which weakens the true democracy. Stat",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-098",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who wrote the book- Management: Tasks, Responsibilities, Practices?",
+    "options": [
+      "John Dorr",
+      "Peter Drucker",
+      "Gillian Tett",
+      "Brene Brown"
+    ],
+    "correctIndex": 1,
+    "explanation": "The author of the book \"Management: Tasks, Responsibilities, Practices\" is Peter Drucker. Peter Drucker is considered the father of modern management theory, and his contribution in this field is highly influential. He systematically presented the principles of management, which can increase organizational efficiency. His book discusses in detail the functions, responsibilities and practical approaches of management. This book helps managers not only to understand the techniques of management but also reflects the ethics and leadership perspectives. Drucker's approach considers management not just a business skill but a means of serving society.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-099",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Which of the following statements are correct in the arena of administrative theories: A. Ideal type bureaucracy was formulated by Max Weber. B. Frederick Taylor is considered as the father of Scientific Management Theory. C. Henry Fayol is considered to be the father of Human Relations Theory. D. The Hawthorne experiment is associated with Bureaucratic theory.",
+    "options": [
+      "A ,C & D only",
+      "C & D only",
+      "A & B only",
+      "B , C & D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) The ideal type of bureaucracy was conceptualised by Max Weber- This statement is correct. Max Weber presented the theory of “ideal type of bureaucracy”, in which he viewed bureaucracy as an effective and rational organisational form. According to Weber, bureaucracy should be operated through professional staff, clear rules and constitutional procedures. (B) Frederic Taylor is considered the father of scientific management theory- This statement is also correct. Frederic Taylor developed the theory of scientific management, in which he suggested analysing the activities of workers and managing time scales to increase work efficiency. He presented the theory that work should be divided and analysed in a scientific manner. (C) Henri Fayol is considered the father of human relations theory-This statement is incorrect. Henri Fayol is considered the father of general management theory. He ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-100",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following aspects of Gandhi's theory of Satyagraha can help in the process of dialogue in plural societies threatened by mutual distrust? A. Attention to the preconditions of dialogue helps to establish the moral standing of the participants. B Knowledge that our grasp over truth is partial inculcates self-restraint. C. The Satyagrahi is not responsible for creating and recreating dialogical space. D. Commitment to non violence dissipates feelings of alienation and otherness. E. A readiness to compromise may negate the moral standing of participants.",
+    "options": [
+      "A , B ,C and D only",
+      "A , B and D only",
+      "B, C , D and E only",
+      "A , C , D and E only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Attention to the preconditions of dialogue helps to establish the moral standing of the participants: This is crucial, as recognizing moral principles establishes trust among participants, fostering a conducive environment for dialogue. B. Knowledge that our grasp over truth is partial inculcates self-restraint: Understanding that truth is multifaceted encourages humility and restraint, essential for constructive discussions in diverse societies. C. The Satyagrahi is not responsible for creating and recreating dialogical space: This statement is misleading; a Satyagrahi is indeed tasked with creating a dialogical space, promoting engagement and understanding. D. Commitment to non-violence dissipates feelings of alienation and otherness: Non- violence is a core principle of Satyagraha, and its practice can significantly reduce feelings of alienation, promoting unity. E. A readiness to ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-101",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match LIST I with LIST II List-I List-II (BOOKS) (AUTHORS) The Success of A. India's I. C.P. Bhambri Democracy Caste in Indian B. II. Atul Kohli Politics Political process C. in India,1947- III. Rajni Kothari 1991 The oxford Nirja Jayal and D. companion to IV. Pratap B. politics in India Mehta",
+    "options": [
+      "A-I, B-II,C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-II, B-III, C-I, D-IV",
+      "A-III, B-IV, C-II, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) The Success of India's Democracy- This book was originally published in 2001 by Atul Kohli. In this book, he explained about how has democracy taken root in India in the face of a low-income economy, poverty, illiteracy and ethnic diversity. Leading scholars explore this intriguing anomaly. Themes addressed include politics, ethnicity, federalism, caste, poverty, and Hindu nationalism. (B) Caste in Indian Politics- Rejecting the prevailing dichotomy between traditional society and modern polity, Caste in Indian Politics examines their interaction in given community and territorial settings. A critical introduction by Rajni Kothari provides the analytical framework of the nine studies that follow, four are based on detailed investigation of individual caste movements and structures and their induction into the political process. The other five focus on the macro dimensions of the poli",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-102",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which two countries' navies are jointly patrolling the Malacca Straits?",
+    "options": [
+      "India - Japan",
+      "India - United States",
+      "India - Australia",
+      "India - Singapore"
+    ],
+    "correctIndex": 3,
+    "explanation": "In 2006, Indonesia, Malaysia, Singapore, and Thailand formed the MSP to provide maritime security to the Straits of Malacca and Singapore. The MSP comprises of the Malacca Straits Sea Patrol (MSSP), the “Eyes- in-the-Sky” Combined Maritime Air Patrols, as well as the Intelligence Exchange Group. The Straits of Malacca is one of eight major oil chokepoints throughout the world, and the MSP was initiated in the wake of an upsurge in pirate attacks on ships in the region in the early 2000s. About 80 percent of China’s crude and oil imports from the Middle East and Africa passes through these. India and Singapore have a close partnership that includes maritime security and defense cooperation, particularly in the Malacca Strait. The Strait of Malacca is a vital maritime trade route and a chokepoint in the Indo- Pacific region. Here are some examples of their cooperation: - Joint naval exerci",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-103",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who among the following vice-president of India later became the president of the country?",
+    "options": [
+      "Dr. Sarvapalli Radhakrishnan",
+      "V.V. Giri",
+      "Dr. Shankar Dayal Sharma",
+      "B.D. Jatti"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Dr. Sarvapalli Radhakrishnan- Educationist and former diplomat. Elected as the first vice president of India on 13 May 1952 following the creation of the position and also became the first ex-officio Chairman of the Rajya Sabha. Re- elected for a second term in 1957 and continued to serve in office until being elected as the President in 1962. (B) V.V. Giri- Labour leader, former union minister and former governor. Elected as the third vice president in the 1967 election defeating Mohammad Habib. Became Acting President following the demise of President Zakir Husain on 3 May 1969 and thereupon resigned from the vice presidency. First vice president to not complete full term in office. (C) Dr. Shankar Dayal Sharma- Elected unopposed as the eighth vice president in 1987 to fill the vacancy caused by the election of then vice president Ramasamy Venkataraman as the President. Offered to ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-104",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match LIST I with LIST II List-I (BOOKS) List-II (WRITERS) A Plea for the V.D. A. Reconstruction of I. Savarkar Indian Polity Ram B. India of my Dreams II. Manohar Lohia The Indian War of M.K. C. Independence of III. Gandhi 1857 Marx, Gandhi and J.P. D. IV. Socialism Narayan",
+    "options": [
+      "A-I, B-III, C-II, D-IV",
+      "A-IV, B-III, C-I, D-II",
+      "A-I, B-II, C-IV, D-III",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Plea for the Reconstruction of Indian Polity was written by J.P. Narayan in 1959 India of my Dreams, originally published in 1947, was written by Mahatma Gandhi. The Indian War of Independence written by V.D. Savarkar was published in 1909. Marx, Gandhi and Socialism book was written by Ram Manohar Lohiya, published in 1963 Thus correct option is B",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-105",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Satyashodhak samaj was founded by",
+    "options": [
+      "Ayyankali",
+      "Jyotiba Phule",
+      "B.R. Ambedkar",
+      "Periyar"
+    ],
+    "correctIndex": 1,
+    "explanation": "(B) Satyashodhak Samaj (Truth-seekers' Society) was a social reform society founded by Jyotiba Phule in Pune, Maharashtra, on 24 September 1873. The society endeavoured to mitigate the distress and sufferings of Dalits and women. (A) Ayyankli- was an Indian politician, prominent social reformer, educator, economist, lawmaker, and revolutionary leader. He worked for the advancement of the oppressed people in the princely state of Travancore. His struggle",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-106",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which year did prime minister Manmohan Singh visit China?",
+    "options": [
+      "2006",
+      "2007",
+      "2008",
+      "2009"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prime Minister Manmohan Singh made several significant visits to China during his tenure. One notable visit was from January 13-15, 2008. During this visit, he aimed to strengthen bilateral relations and enhance economic cooperation between India and China. Key highlights of the visit included: Economic, Trade, and Investment Summit: PM Singh addressed the India-China Economic, Trade, and Investment Summit, emphasizing the importance of economic collaboration between the two nations. Bilateral Agreements: Several agreements were signed, including a shared vision for the 21st century, which aimed to enhance cooperation in various fields. Cultural and Academic Engagements: PM Singh delivered a speech at the Chinese Academy of Social Sciences, highlighting the historical and cultural ties between India and China. Olympic Village Visit: He also visited the Beijing Olympic Village, showcasing",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-107",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following was not the topic of debate between M.K. Gandhi and Rabindra Nath Tagore?",
+    "options": [
+      "English Language",
+      "Nationalism",
+      "Spinning of Charkha",
+      "Freedom from colonial rule"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tagore and Gandhi represented each other but also differed on many issues. Tagore did not agree to Gandhi's boycott of foreign cloth, spinning on charkha, English education, non-cooperation, science and industries, superstition and faith and caste system. Gandhi ji was against the use of modern culture which includes english language as well. Tagore criticized Gandhi for his parochial nationalism and described his nationalism as an aggressive nationalism. According to Tagore, the spinning of wheel solely can not bring independence to india. There is no much debate on freedom from colonial rule. Thus correct option is D",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-108",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who of the following described Kabir as 'Muktidoot'?",
+    "options": [
+      "Rabindra Nath Tagore",
+      "Mahatma Gandhi",
+      "Madan Mohan Malviya",
+      "Gopal Krishn Gokhale"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Rabindranath Tagore gave the title \"Muktidoot\" or \"messenger of liberation\" to the 15th-century Indian saint and poet Kabir. Tagore was inspired by Kabir's teachings and philosophies, which he believed provided a path to spiritual liberation. Tagore also translated a significant collection of Kabir's poems into English. (B) Mahatma Gandhi- Mahatma Gandhi is known for his political and social activism, and is considered the father of his country. He is also known by the titles \"Bapu\" (meaning \"Father\") and \"Mahatma\" (meaning \"Great Soul\") (C) Madan Mohan Malviya- Madan Mohan Malaviya (25 December 1861 — 12 November 1946) was an Indian scholar, educational reformer and politician notable for his role in the Indian independence movement. He was president of the Indian National Congress three times and the founder of Akhil Bharat Hindu Mahasabha. He was addressed as Pandit, a title of re",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-109",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "According to Manu, which of the following is not the foundation of diplomacy and statecraft?",
+    "options": [
+      "Hostility",
+      "Neutrality",
+      "Subordinate Alliance",
+      "Contract"
+    ],
+    "correctIndex": 3,
+    "explanation": "Contract stands out as not being a foundation of diplomacy and statecraft in the teachings of Manu. While treaties and agreements may have existed, the formal concept of a contract — as we understand it today (a legally binding written agreement) — was not a primary feature of ancient Indian diplomacy. Diplomatic relations in Manu's context were more focused on relations of power, alliances, neutrality, and the use of conflict (or hostility) when necessary.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-110",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which event led George W. Bush to transform his foreign policy into one of global power projection and interventionalsim?",
+    "options": [
+      "26th November",
+      "11th September",
+      "5th December",
+      "11th October"
+    ],
+    "correctIndex": 1,
+    "explanation": "The main event by far shaping the United States foreign policy during the presidency of George W. Bush (2001–2009) was the 9/11 terrorist attacks against the United States on September 11, 2001, and the subsequent war on terror. Thus correct option is B",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-111",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "In which year did the UN climate change conference commonly known as Copenhagen summit hold?",
+    "options": [
+      "2009",
+      "2006",
+      "2010",
+      "2012"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 2009 United Nations Climate Change Conference, commonly known as the Copenhagen Summit, was held at the Bella Center in Copenhagen, Denmark, between 7 and 18 December. The conference included the 15th session of the Conference of the Parties (COP 15) to the United Nations Framework Convention on Climate Change (UNFCCC) and the 5th session of the Conference of the Parties serving as the Meeting of the Parties (CMP 5) to the Kyoto Protocol. According to the Bali Road Map, a framework for climate change mitigation beyond 2012 was to be agreed there.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-112",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Aristotle criticized popular rule on the ground that masses would resent the wealth of the few, and too easily, fall under the sway of the following.",
+    "options": [
+      "The King",
+      "The Leading citizens",
+      "The Demagogue",
+      "None of the given options"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aristotle criticized popular rule, or democracy, because he feared that the masses would resent the wealth of the few and fall under the control of demagogues. Demagogues can make the people's decrees override the laws and refer everything to the popular assembly. Pitting the rich against the poor- Aristotle believed that democracy and oligarchy both pit the rich against the poor. Worst forms of government- Aristotle believed that the worst forms of government were those without the rule of law. Thus correct option is C .",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-113",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Citizens' charter was first articulated and implemented in UK as a national programme in which year?",
+    "options": [
+      "1989",
+      "1991",
+      "1993",
+      "1998"
+    ],
+    "correctIndex": 1,
+    "explanation": "Citizen Charter concept was first articulated and implemented in the United Kingdom in 1991 by the then P.M. John Major as a national Programme with a simple aim: to continuously improve the quality of public services for the people of the country so that these services respond to the needs and wishes of the users. The Programme was re-launched in 1998 by the Labour Government of Tony Blair which rechristened it Services First. The basic objective of the Citizens Charter is to empower the citizen in relation to public service delivery. Six principles of the Citizens Charter movement as originally framed, were: (i) Quality: Improving the quality of services; (ii) Choice : Wherever possible; (iii) Standards :Specify what to expect and how to act if standards are not met; (iv) Value: For the taxpayers money; (v) Accountability : Individuals and Organisations; and (vi) Transparency : Rules/ ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-114",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The theory that argues,\"countries are more likely both to become democratic and to stay democratic as they develope economically\", is known as",
+    "options": [
+      "Dependency theory",
+      "World System Theory",
+      "Classic modernization theory",
+      "Theory of underdevelopment"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Dependency theory- Dependency theory is a social science theory that explains how poor countries are exploited by wealthy countries, leading to underdevelopment. (B) World System theory- World-systems theory is a multidisciplinary theory that analyzes the world as a system of social, political, and economic interactions. It's used to study the rise and fall of states, social unrest, income inequality, and imperialism. (C) Classic modernization theory- Classical modernization theory is a set of theories that studies the process of social evolution and development of societies. It focuses on the idea that societies progress through a series of stages, and that internal forces like education, market- based economies, and democratic politics are the drivers of this progress. (D) Theory of underdevelopment- Underdevelopment theory is a broad concept that describes the condition of countri",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-115",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Choose the correct statement from the following",
+    "options": [
+      "Under chapter -VII of the UN charter, the security council can take action to maintain or restore international peace and security.",
+      "Under article 41 sanction measures do not involve the use of armed forces.",
+      "Sanction can be withdrawn by the UN General Assembly.",
+      "Sanctions have been applied by the Security Council to support peaceful transition, to deter non-constitutional changes etc."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Chapter VII of United Nations- The Security Council shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken in accordance with Articles 41 and 42, to maintain or restore international peace and security. (B) Article 41 of UN charter- The Security Council may decide what measures not involving the use of armed force are to be employed to give effect to its decisions, and it may call upon the Members of the United Nations to apply such measures. (C) UN sanctions- The United Nations Security Council can remove UN sanctions (not UNGA) when a conflict situation improves. This can happen when benchmarks set out in sanctions resolutions are met, or when peace processes achieve their desired outcome. (D) UN sanctions are restrictive measures imposed by the United Nations Securit",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-116",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following is a right characteristic of the composition of the public account committee?",
+    "options": [
+      "Public account committee is composed of only Loksabha members.",
+      "Public Accounts Committee is an annually elected body in accordance with the principle of the proportional representation followed by single transferable voting system.",
+      "Public account committee is composed of 30 members.",
+      "No member can be re-elected to the Public account committee."
+    ],
+    "correctIndex": 1,
+    "explanation": "This committee was set up first in 1921 under the provisions of GOI act of 1919. It consistes of 22 members. 15 members from Lok Sabha and 7 from the Rajya Sabha. The members are elected by the Parliament every year from amongst its members. Its an annually elected body by means of proportional representation voting system. Thus, correct option is B",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-117",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following is not a principle of Nozick's Entitlement theory?",
+    "options": [
+      "A principle of transfer - whatever is justly acquired can be freely transferred.",
+      "A principle of just initial acquisition- an account of how people come to initially own the things which can be transferred according with (1)",
+      "A principle of final acquisition- our account of how people come to finally own things which have been transferred in accordance with (1)",
+      "A principle of rectification of injustice- how to deal with holdings if they were unjustly acquired or transferred."
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Nozick's entitle ment theory of distributive justice is a libertarian theory that explains how people can justly acquire and transfer their possessions: - Principles The theory is based on three principles: Justice in acquisition: How people first come to own property, and what types of things can be held Justice in transfer: How people can acquire property from others, including through gifts and voluntary exchange Rectification: How to address injustices that arise when the first two principles are not followed . Thus correct option is C",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-118",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "What is correct about qualification and appointment of the Governor?",
+    "options": [
+      "He is a citizen of India.",
+      "He has completed the age of 25 years.",
+      "He is appointed by the Prime Minister.",
+      "He holds the office of Governer for the term of 6 years."
+    ],
+    "correctIndex": 0,
+    "explanation": "The office of the Governor of State has been envisaged by the Constitution of India as the Chief Executive Head of a State. Despite being only a nominal head of the Executive, the Governor of a State plays a significant role in the polity of a state through his/her diverse executive, legislative, and judicial powers. The Governor of State is appointed by the President of India by warrant under his hand and seal. Thus, the Governor is neither directly elected by the people nor indirectly elected by a specially constituted electoral college as is the case with the President of India. The Indian Constitution lays down only two qualifications for the appointment of a person as the Governor of State:(a) He should be a citizen of India, and (b) He should have completed the age of 35 years. The Governor holds office for a term of 5 years from the date on which he enters his office.However, his ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-119",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the correct one with regards to \"Failed States\".",
+    "options": [
+      "Sierra Leone is a failed state.",
+      "A failed state is unable to provide the functions that define them as states.",
+      "A failed state is able to coerce the inhabitants.",
+      "A failed state is able to successfully control the inhabitants."
+    ],
+    "correctIndex": 3,
+    "explanation": "The term \"Failed State\" originated in the 1990s, particularly in the context of Somalia's turmoil after the overthrow of its dictator, Siad Barre, in 1991. (A) It was used to express concerns about the potential collapse of poor states into chaotic anarchy after the end of the Cold War, as highlighted by Robert Kaplan's depiction of chaos in Liberia and Sierra Leone and his warning of a \"coming anarchy\" in various global regions. (B) Typically, the term means that the state has been rendered ineffective and is not able to enforce its laws uniformly or provide basic goods and services to its citizens.A failed state is a state that has lost its ability to fulfill fundamental security and development functions, lacking effective control over its territory and borders. (C) A failed state is able to coerce the inhabitants.This statement is misleading and is incorect. While coercion can occur,",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-120",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "The concept of accountability has got the following characteristics",
+    "options": [
+      "Accountability exists in a relationship when for the performance of functions an individual or a body is subject to another oversight, direction or request that the individual or the body should provide justification for the actions.",
+      "There are various types of accountability like legal accountability, social accountability political accountability and so on.",
+      "Accountability can be found only in the instituitions and processes of the developed countries.",
+      "The effectiveness of public officials cannot be evaluated through the process of accountability."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) This statement is correct. Accountability does indeed involve a relationship where one party (individual, body, or institution) is responsible for performing a function and is required to explain, justify, or defend its actions to another party, such as a superior, the public, or a governing authority. This forms the core of what accountability means in both public and private spheres. (B) This statement is also correct. Accountability can take many forms depending on the context. Some common types of accountability include: (i) Legal accountability: Holding individuals or organizations responsible according to the law (e.g., judicial oversight). (ii) Social accountability: Involves societal expectations and public scrutiny, often involving civil society organizations or citizens demanding accountability from public officials. (iii) Political accountability: When elected representati",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-121",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the agreements/accords signed between Indian governments and its provincial regional organisations given below in ascending order",
+    "options": [
+      "Assam Accord",
+      "Anandpur Sahib Resolution",
+      "Rajiv Gandhi - Longowal Accord",
+      "Shilong Agreement"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) The Assam Accord was a political agreement signed on August 15th, 1985 between the Government of India and the All Assam Students Union (AASU) and the All Assam Gana Sangram Parishad (AAGSP). The agreement was a response to a six-year- long protest against the influx of undocumented migrants from Bangladesh into Assam. The accord established a framework for granting Indian citizenship to migrants in Assam based on a cut-off date of March 25, 1971. (B) The Anandpur Sahib resolution (Oct 17, 1973), included both religious and political issues. It asked for recognising Sikhism as a religion separate from Hinduism. It also demanded that power be generally devoluted from the Central to state governments, and more autonomy to Punjab. (C) The Rajiv–Longowal Accord was an accord signed by Indian Prime Minister Rajiv Gandhi and the Akali leader, Harchand Singh Longowal, on 24 July 1985. The g",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-122",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "statements",
+    "question": "Find out the correct statements:",
+    "options": [
+      "On 1st April 1950, India was the first non- socialist bloc country to establish diplomatic relations with China.",
+      "Prime Minister Nehru never visited China during his premiership.",
+      "A phase of improvement in bilateral relations began in 1988.",
+      "Rajiv Gandhi as the Prime Minister of India visited China in 1993."
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) On 01 April 1950, India became the first non-socialist bloc country to establish diplomatic relations with the People's Republic of China. (B) In October 1954, India’s first prime minister Jawaharlal Nehru set off on what was described as the “most important foreign mission of his life”: A trip to China. (C) Although the border conflict of 1962 was a setback to bilateral ties, Prime Minister Rajiv Gandhi's 1988 visit marked a beginning in the improvement of bilateral relations. Rajiv Gandhi as the Prime Minister of India visited China in 1988. Thus correct option is B.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-123",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the different waves of democratic transition given below in ascending order.",
+    "options": [
+      "First reverse wave",
+      "First wave of democratization",
+      "Second wave of democratization",
+      "Second reverse wave"
+    ],
+    "correctIndex": 1,
+    "explanation": "The waves of democracy or waves of democratization are major surges of democracy that have occurred in history. Although the term appears at least as early as 1887. It was popularized by Samuel P. Huntington in his 1991 book, The Third Wave: Democratization in the Late Twentieth Century. Understanding the Waves of Democratic in ascending order: (B) First Wave of Democratization (Late 19th century to early 20th century):The First Wave began in the early 19th century and continued into the early 20th century. It was characterized by the spread of democracy in Europe and the Americas, beginning with the United States and France and later expanding to other parts of Europe. This wave was largely driven by the spread of liberal values, the decline of monarchies, and the expansion of suffrage. (A) First Reverse Wave (1920s to 1940s):The First Reverse Wave occurred between the 1920s and 1940s. ",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-124",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Find out the definition of different scholors on party systems",
+    "options": [
+      "Modern democracy is a party democracy (Katz).",
+      "Democracy is unthinkable save in terms of parties (Schumpeter).",
+      "Parties are the core institutions of democratic politics (Lipset).",
+      "The existence of political parties is often seen a necessary condition for the existence of modern democracy (Robert Dahl)."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Modern democracy is a party democracy(Katz) is correct because he has written extensively on the role of political parties in modern democracies. (B) Democracy is unthinkable save in terms of parties (Schumpeter) is not correct because this statement is given by E.E. Schattschneider in his work \"Party Government\" (1942). (C) Parties are the core institutions of democratic politics(Lipset) is correct because this statement is indeed given by S.M. Lipset. (D) The existence of political parties is often seen a necessary condition for the existence of modern democracy (Robert Dahl) is not correct.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-125",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following is not a function of estimate committee?",
+    "options": [
+      "To suggest alternative policies in order to bring about efficiency and economy in administration.",
+      "To examine whether the money is well laid out within the policies implied in the estimates.",
+      "To examine the report of the CAG with a view to find out that the money voted by the parliament has been utilized by the authority concerned.",
+      "To suggest the form in which estimates can be presented to parliament."
+    ],
+    "correctIndex": 2,
+    "explanation": "The Estimates Committee (India) is a committee of selected members of parliament, constituted by the Parliament of India (the Lok Sabha), for the purpose of scrutinising the functioning of government ministries and departments in terms of expenditure and utilisation of funds. The committee consists of thirty members, all elected from Lok Sabha, the lower house of the Parliament of India. The members are elected every year from amongst its members of the Lok Sabha, according to the principle of proportional representation by means of single transferable vote. The chairperson is appointed by the Lok Sabha speaker. The term of office of the members is one year. The functions of the committee are :-To report what economies, improvements in organisation, efficiency or administrative reform, consistent with the policy underlying the estimates may be effected. -To suggest alternative policies i",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-126",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who among the following has started the self- respect movement as part of social reform?",
+    "options": [
+      "Mahatma Gandhi",
+      "Pandit Deen Dayal Upadhyay",
+      "EV Ramaswami Naicker",
+      "Swami Vivekananda"
+    ],
+    "correctIndex": 2,
+    "explanation": "E.V. Ramaswami Naicker, popularly known as Periyar, started the Self-Respect Movement in Tamil Nadu in 1925. The movement aimed to eradicate caste discrimination and promote social equality, rationalism, and self-respect, particularly among marginalized communities. Periyar advocated for the rights of the oppressed and challenged the dominance of Brahmanical orthodoxy, which he saw as reinforcing social injustices. The Self-Respect Movement played a significant role in the social reform landscape of South India, promoting ideas of equality and anti-casteism.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-127",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange the following committees with regards to corruption and administrative reforms in India chronologically A. Gorwala committee B. First Administrative Reforms Commission C. Vohra committee D. Santhanam Committee",
+    "options": [
+      "A,B,C,D",
+      "B,A,C,D",
+      "A,D,B,C",
+      "B,A,D,C"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) Gorwala Committee (1951) - This was one of the earliest committees set up to examine issues in public administration and corruption, providing recommendations for administrative improvements post-independence. D) Santhanam Committee (1964) - This committee was specifically established to address corruption in public services, making it one of the first committees focused explicitly on tackling corruption in India. B) First Administrative Reforms Commission (ARC) (1966) - The ARC was tasked with comprehensively reviewing the structure and efficiency of Indian administration and recommended reforms for improved governance. C) Vohra Committee (1993) - The Vohra Committee examined the criminalization of politics and the influence of crime syndicates on political processes.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-128",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List-I with List-II (List-I) (List-II) A) Administration in I) Herbert Simon Developing Countries: The Theory of Prismistic Society Administrative B) II) Gerald E. Caiden Behaviour The Dynamics of Public Administration: C) Guidelines to III) Fred W. Riggs current transformation in theory and practice The Human Problem of an D) IV) Elton Mayo Industrial Civilization",
+    "options": [
+      "A-II, B-III, C-I, D-IV",
+      "A-III, B-II, C-I, D-IV",
+      "A-III, B-I, C-II, D-IV",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) Administration in Developing Countries: The Theory of Prismistic Society - III) Fred W. Riggs: Fred W. Riggs proposed the \"prismistic society\" concept, which analyzes the complexities of administrative structures in developing countries, emphasizing the interplay between traditional and modern practices. B) Administrative Behaviour - I) Herbert Simon: Herbert Simon's \"Administrative Behavior\" explores decision-making processes within organizations and introduces concepts such as bounded rationality, emphasizing the psychological and social aspects of administration. C) The Dynamics of Public Administration: Guidelines to Current Transformation in Theory and Practice - II) Gerald E. Caiden: Gerald E. Caiden's work focuses on the evolving nature of public administration and offers guidelines for adapting theories and practices to contemporary challenges in governance. D) The Human Probl",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-129",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Arrange the organizations in chronology according to the year of their establishment A. Tolstoy Farm B. Abhinav Bharat Society C. Ramkrishna Mission D. Sharda Sadan E. Bahishkrit Hitakarini Sabha",
+    "options": [
+      "C, D, E, B, A",
+      "D, A, C, B, E",
+      "D, C, B, A, E",
+      "C, D, A, B, E"
+    ],
+    "correctIndex": 2,
+    "explanation": "D) Sharda Sadan (1889)- Established by Pandita Ramabai in Mumbai, this institution provided shelter and education to widows, promoting women’s rights and education. C) Ramkrishna Mission (1897)- Founded by Swami Vivekananda, this organization aimed at religious, social, and educational reform based on the teachings of Sri Ramakrishna. B) Abhinav Bharat Society (1904)- Founded by Vinayak Damodar Savarkar and his brother, this revolutionary society aimed at promoting Indian independence through armed resistance. A) Tolstoy Farm (1910)- Established by Mahatma Gandhi in South Africa, it served as a self-sufficient community for his followers, where they practiced principles of non-violence and self-reliance. E) Bahishkrit Hitakarini Sabha (1924) - Founded by Dr. B.R. Ambedkar, this organization was dedicated to the upliftment of the \"Bahishkrit\" or the oppressed classes in India, focusing on",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-130",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who among the following came out with an innovative idea of 'constructive conflict'?",
+    "options": [
+      "Mary Parker Follett",
+      "Woodrow Wilson",
+      "Max Weber",
+      "Henry Fayol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Parker Follett, a pioneer in management and organizational theory, introduced the concept of \"constructive conflict.\" She believed that conflict, rather than being merely disruptive, could be a productive force when managed effectively. Follett argued that through open discussion and integrative negotiation, conflicting parties could achieve a \"win-win\" outcome, where each side's interests are respected and mutual understanding is developed. Her ideas on conflict were innovative for her time and have influenced modern management practices and conflict resolution strategies.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-131",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange chronologically India's association with the following international organization A. United Nations B. G77 C. NAM D. G20",
+    "options": [
+      "A, B, C, D",
+      "A, C, B, D",
+      "B, A, C, D",
+      "D, B, A, C"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) United Nations (1945) - India became a founding member of the United Nations in 1945, shortly before gaining independence. C) Non-Aligned Movement (NAM) (1961) - India was one of the founding members of NAM, an organization of states that chose not to align with any major power bloc during the Cold War. B) Group of 77 (G77) (1964)- India joined the G77, a coalition of developing countries established to promote collective economic interests and enhance negotiating capacity within the UN. D) Group of 20 (G20) (1999) - India became a member of the G20, an international forum for governments and central bank governors from 19 countries and the European Union, established to discuss policy related to global financial stability. Therefore, correct chronological order is A, C, B, D.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-133",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "match",
+    "question": "Match List-I with List-II List-I (Electoral System List-II (Meaning) Terminologies) An electoral system in which individuals cast a single vote A) Universal Suffrage I) for a candidate in a single member district. B) Majoritarian II) A form of Electoral System majoritarian electoral systems that involves preferential voting. The right to vote Single Member which is not C) District Plurality III) restricted by race, System gender, belief or social status. An electoral system in which the D) Alternative Vote IV) candidate or parties that receive the most votes win.",
+    "options": [
+      "A-III, B-IV, C-I, D-II",
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-II,B-I, C-III, D-IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) Universal Suffrage - III) The right to vote which is not restricted by race, gender, belief or social status: Universal suffrage ensures that all adult citizens have the right to vote, promoting inclusivity in the electoral process. B) Majoritarian Electoral System - IV) An electoral system in which the candidate or parties that receive the most votes win: Majoritarian systems focus on achieving a majority, where the winning candidate is the one with the highest number of votes, often without needing an absolute majority. C) Single Member District Plurality System - I) An electoral system in which individuals cast a single vote for a candidate in a single member district: In this system, each electoral district elects one representative, and the candidate with the most votes wins, often leading to a \"winner- takes-all\" scenario. D) Alternative Vote - II) A form of majoritarian elector",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-134",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which amendment overrode the Golaknath case decided in 1967?",
+    "options": [
+      "Twenty-third amendment",
+      "Twenty fourth amendment",
+      "Twenty fifth amendment",
+      "Twenty sixth amendment"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Golaknath case (1967) held that Parliament could not amend fundamental rights under the Indian Constitution. However, this decision was overridden by the Twenty-fourth Amendment Act (1971), which explicitly granted Parliament the power to amend any part of the Constitution, including fundamental rights. This amendment clarified Parliament's amending power under Article 368, allowing for constitutional changes deemed necessary for social and economic reforms.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-135",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "assertion-reason",
+    "question": "Given below are two statements one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: It is plausible to think that autonomy involves a kind of skill that individuals must develop, exercise and maintain. This ongoing process of planning and managing is not automatic but requires efforts and resources that are secured by social and material conditions provided by the state. Reason R: However, the commitment to individual autonomy cannot force the liberal state to provide the social and material conditions by which citizens could come to be autonomous. It must depend on the individuals to strive independently for achieving their autonomy. In the ight of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      "Both A and R are correct and R is the correct explanation of A",
+      "Both A and R are correct R is not t the correct explanation of A",
+      "A is correct but R is not correct",
+      "A is not correct but R is correct"
+    ],
+    "correctIndex": 2,
+    "explanation": "Assertion (A) is correct because autonomy is indeed a skill that individuals must actively develop and maintain. This process of achieving and sustaining autonomy requires resources, support, and certain social conditions, which are often facilitated by the state. Reason (R) is incorrect because, in a liberal democratic framework, the state often has a role in providing social and material conditions (like education, healthcare, and economic opportunities) that enable individuals to achieve autonomy. While individuals do strive for personal autonomy, the liberal state typically acknowledges the importance of providing a supportive environment to help citizens reach that goal. This reasoning does not align well with the Assertion (A), because Assertion (A) emphasizes that the state has an important role in providing the conditions for autonomy, whereas Reason (R) denies that the state sho",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-136",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange the following in their theoretical order according to the materialist concept of history: A) The proletariat seizes political power and makes the means of production the property of the nation. B) Ultimately the proletariat abolishes itself, abolishes all class distinctions and class struggles and abolishes the nation as a nation. C) The capitalist mode of production turns the vast majority of the population more and more into proletariat, yet it unleashes a power which inspires a revolution against capitalism. D) The present structure of society has been designed by the dominant class, the bourgeoisie. E) Steam machinery and the making of machines by machinery transformed the old manufacturing under feudalism into modern industry.",
+    "options": [
+      "A,B,C,D,E",
+      "E,D,C,A,B",
+      "D,A,B,C,E",
+      "C,A,B,E,D"
+    ],
+    "correctIndex": 1,
+    "explanation": "E) Steam machinery and the making of machines by machinery transformed the old manufacturing under feudalism into modern industry.This represents the initial technological and economic shift that paved the way for capitalism by transforming feudal production into industrial capitalism. D) The present structure of society has been designed by the dominant class, the bourgeoisie. This step reflects the emergence of a capitalist society, where the bourgeoisie (capitalist class) holds power and controls the means of production, shaping social and economic structures. C) The capitalist mode of production turns the vast majority of the population more and more into proletariat, yet it unleashes a power which inspires a revolution against capitalism. As capitalism advances, the working class (proletariat) grows in number and experiences exploitation, leading to increasing awareness and resentme",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-137",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Under which Article of the Constitution of India the State Legislature has the competence to make provisions with respect to elections to such Legislature?",
+    "options": [
+      "Article 324",
+      "Article 326",
+      "Article 328",
+      "Article 352"
+    ],
+    "correctIndex": 2,
+    "explanation": "Article 328 of the Indian Constitution specifically empowers the State Legislature to make provisions for the conduct of elections to the State Legislature and to the offices of Chairpersons of Panchayats at different levels. This article allows the state to legislate on matters related to the elections of its own legislature, thereby ensuring that states have the authority to determine the electoral processes within their jurisdiction. Article 324 deals with the supervision, direction, and control of elections by the Election Commission of India. Article 326 provides for the elections to the House of the People and to the Legislative Assemblies of the States to be based on universal adult franchise. Article 352 relates to the proclamation of emergency in case of war, external aggression, or armed rebellion and does not pertain to state elections.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-138",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2023",
+    "type": "chronological",
+    "question": "Arrange these life events of \"Aurobindo\" in a chronological order: A. Attended the Banaras session of the Congress. B. Became the vice-principal of Baroda college C. Moved to England D. Arrested for the Alipore bomb case E. Cleared the ICS exam",
+    "options": [
+      "C, A, D, B, E",
+      "E, C, A, B, D",
+      "A, B, E, C, D",
+      "C, E, B, A, D"
+    ],
+    "correctIndex": 3,
+    "explanation": "C) Moved to England(1879): Aurobindo went to England at the age of seven for his education. E) Cleared the ICS exam (1890): He cleared the Indian Civil Services (ICS) exam but did not take up the job. B) Became the vice-principal of Baroda College (1893): After returning to India, he became vice- principal of Baroda College, where he taught. A) Attended the Banaras session of the Congress (1905): Aurobindo attended the Banaras session of the Indian National Congress, where he began to advocate for more radical approaches to achieving independence. D) Arrested for the Alipore bomb case (1908): Aurobindo was arrested in connection with the Alipore bomb case, which was a significant event in the revolutionary movement against British rule in India.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2023-139",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Which of the following arguments can be related to right wing view? A) Are people poor not because of unequal opportunities but because of their own choices? B) If we redistribute wealth among the poor might this help victims of unequal circumstances? C) Has the welfare state helped the poor to overcome their poverty and participate in society? D) Is there a class of welfare dependents trapped in poverty in the welfare state? E) The sources of social problems like poverty, homelessness, high school drop out rates etc. are so numerous that whenever the state tries to solve them, it gradually fails and the problem gets further aggravated.",
+    "options": [
+      "Only A, B and C",
+      "Only A, D and E",
+      "Only A, C and E",
+      "Only A, B and D"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: Are people poor not because of unequal opportunities but because of their own choices? This argument reflects a common right-wing perspective that emphasizes personal responsibility and individual choice as primary factors in economic outcomes. Right-wing ideologies often critique the idea that systemic inequalities are the main reasons for poverty. B) is incorrect: If we redistribute wealth among the poor, might this help victims of unequal circumstances?: This statement leans more towards leftist ideology, which advocates for wealth redistribution to address inequalities and help those affected by systemic disadvantages. C) is incorrect: Has the welfare state helped the poor to overcome their poverty and participate in society?: This question is typically associated with a more leftist view that supports the welfare state as a means to alleviate poverty and promote socia",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2023-140",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2023",
+    "type": "mcq",
+    "question": "Who found eight distinct meanings for the term \"Balance of Power\"?",
+    "options": [
+      "Iris L. Claude, Jr.",
+      "Ernst B. Haas",
+      "Richard Coleden",
+      "Alfred Vagdt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ernst B. Haas, a prominent scholar in international relations, identified eight distinct meanings for the term \"Balance of Power\" in his work. His analysis provided a nuanced understanding of how the concept operates within different contexts and frameworks in international politics. This classification has been influential in both theoretical discussions and practical applications regarding power dynamics among states.",
+    "source": "PYQ Dec 2023",
+    "difficulty": "medium"
+  }
+]

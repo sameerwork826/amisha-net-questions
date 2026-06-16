@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "pw-jun2018-001",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "In a classroom, the probability of message reception can be enhanced by :",
+    "options": [
+      "Establishing a viewpoint",
+      "Exposing the ignorance of students",
+      "Increasing the information load",
+      "Using high decibel audio tools"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a classroom, establishing a viewpoint helps in ensuring that the message being communicated is clear, relevant, and easily understood by students. By creating a framework or perspective that students can relate to, the teacher improves the likelihood of the message being received effectively. Establishing a viewpoint helps in engaging students and guiding them toward the",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-002",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "In the series 1,6,15,28,45, __________ the next term will be :",
+    "options": [
+      "66",
+      "76",
+      "56",
+      "84"
+    ],
+    "correctIndex": 0,
+    "explanation": "The given series is: 1, 6, 15, 28, 45, ... To find the next term, let's observe the pattern by looking at the differences between consecutive terms: - 6 - 1 = 5 - 15 - 6 = 9 - 28 - 15 = 13 - 45 - 28 = 17 The differences are increasing by 4 each time (5, 9, 13, 17). Following this pattern, the next difference should be: - 17 + 4 = 21 Now, add this difference (21) to the last term (45): - 45 + 21 = 66 So, the next term in the series is 66. The correct answer is: A. 66",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-003",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The next term in the series ABD, DGK, HMS, MTB, _____ is :",
+    "options": [
+      "NSA",
+      "SBL",
+      "PSK",
+      "RUH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Looking at the first letters of each term: A → D → H → M → ... From A to D: +3 letters Solutions From D to H: +4 letters From H to M: +5 letters Following the pattern, the next step would be +6 letters: From M, adding 6 letters gives us S (M, N, O, P, Q, R, S). Now, the second letters: B → G → S → T → ... From B to G: +5 letters From G to S: +12 letters From S to T: +1 letter The next step seems to follow a +6 increment: From T, adding 6 letters gives us Z. Finally, the third letters: D → K → M → B → ... From D to K: +7 letters From K to M: +2 letters From M to B: -11 letters If we follow a +6 letter step, the next letter after B would be L (B, C, D, E, F, G, H, I, J, K, L). Thus, the next term would be SBL. So, the correct answer is: B. SBL",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-004",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "In certain code, \"COVALENT\" is coded as BWPDUOFM. The code of \"ELEPHANT\" will be :",
+    "options": [
+      "MFUIQRTW",
+      "QMUBIADH",
+      "QFMFUOBI",
+      "EPHNTEAS"
+    ],
+    "correctIndex": 2,
+    "explanation": "After analyzing the pattern from \"COVALENT\" → \"BWPDUOFM\", it appears that each letter of \"COVALENT\" is shifted by a certain amount: C → B (shift -1) O → W (shift +8) V → P (shift -4) A → D (shift +3) L → U (shift +9) E → O (shift +10) N → F (shift -8) T → M (shift -7) Now applying the same shifts to \"ELEPHANT\": E → Q (shift +10) L → F (shift -4) E → M (shift +8) P → F (shift -4) H → U (shift +9) A → O (shift +3) N → B (shift -8) T → I (shift +7) The coded word for \"ELEPHANT\" is \"QFMFUOBI\". So, the correct answer is: C. QFMFUOBI",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-005",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Ajay is a friend of Rakesh. Pointing to an old man Ajay asked Rakesh who is he ? Rakesh said \"His son is my son's uncle\". The old man is related to Rakesh as :",
+    "options": [
+      "Grandfather",
+      "Father-in-law",
+      "Father",
+      "Uncle"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"His son\" refers to the old man's son. \"My son's uncle\" refers to Rakesh's brother or brother-in-law. For Rakesh's son to have an \"uncle,\" Rakesh's son must have a male relative, which could be Rakesh's brother (if the old man is Rakesh's father) or Rakesh's brother-in-law (if the old man is Rakesh's father-in-law). Now, the key part is that \"His son is my son's uncle\". If the old man's son is Rakesh's son's uncle, it implies that the old man must be Rakesh's father because: If the old man is Rakesh's father, his son (Rakesh) would be the uncle of Rakesh's son. Thus, the old man is related to Rakesh as father. The correct answer is: C. Father",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-006",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "A postman walked 20 m straight from his office, turned right and walked 10 m . After turning left he walked 10 m and after turning right walked 20 m . He again turned right and walked 70 m . How far he is from his office?",
+    "options": [
+      "50 m .",
+      "40 m .",
+      "60 m .",
+      "20 m ."
+    ],
+    "correctIndex": 0,
+    "explanation": "1. The postman is 30 meters horizontally (along the x-axis) and 40 meters vertically (along the y- axis) away from his starting point. 2. Using the Pythagorean theorem: − −−−−−− − 302 402 Distance from office = √ + − −−−−−−− − −− −− = √ 900 + 1600 = √ 2500 = 50 m So, the postman is 50 meters away from his office. The correct answer is A. 50 m.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-007",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "It is Truism to say that no one was there when life first appeared on earth. Any assertion about life's origin, thus, should be treated as a theory. The above two statements constitute :",
+    "options": [
+      "A historical explanation",
+      "A narrative",
+      "An argument",
+      "A conjecture"
+    ],
+    "correctIndex": 2,
+    "explanation": "The two statements provided form an argument. The first statement mentions that \"no one was there when life first appeared on earth,\" which makes it difficult to assert anything definitively about life's origin. The second statement follows logically, asserting that because of this uncertainty, any claim about life's origin should be treated as a theory. An argument consists of a claim (the second statement) supported by reasons or premises (the first statement). In this case, the reasoning is that because we don't have definitive evidence, assertions about life's origin are best considered as theories. The correct answer is: C. An argument.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-008",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Given below are four statements. Among them two are related in such a way that they can both be true but they cannot both be false. Select the code that indicates those two statements : Statements : (a) Honest people never suffer. (b) Almost all honest people do suffer. (c) Honest people hardly suffer. (d) Each and every honest person suffers.",
+    "options": [
+      "(a) and (b)",
+      "(a) and (c)",
+      "(a) and (d)",
+      "(b) और (c)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) \"Honest people never suffer\" and (b) \"Almost all honest people do suffer\" are indeed contradictory. (c) \"Honest people hardly suffer\" doesn't directly conflict with (b), because while (b) suggests most honest people suffer, (c) suggests they do so rarely or minimally, which could allow both to be true in a specific context. Thus, (b) and (c) can both be true but cannot both be false at the same time. So, the correct answer is : B. (a) and (c)",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-009",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "A deductive argument is invalid if :",
+    "options": [
+      "Its premises and conclusion are all true.",
+      "Its premises and conclusion are all false.",
+      "Its premises are all false but its conclusion is true.",
+      "Its premises are all true but its conclusion is false."
+    ],
+    "correctIndex": 3,
+    "explanation": "A deductive argument is considered invalid if the premises do not guarantee the truth of the conclusion. This means that even if the premises are true, the conclusion could still be false, which makes the argument invalid. The correct condition for a deductive argument to be invalid is: D. Its premises are all true but its conclusion is false.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-010",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Given below are two premises ( a and b ). From those two premises four conclusions (i), (ii), (iii) and (iv) are drawn. Select the code that states the conclusion/conclusions drawn validly (taking the premises singularly or jointly). Premises : (a) All bats are mammals. (b) No birds are bats. Conclusions : (i) No birds are mammals. (ii) Some birds are not mammals. (iii) No bats are birds. (iv) All mammals are bats.",
+    "options": [
+      "(i) only",
+      "(i) and (ii) only",
+      "(iii) only",
+      "(iii) and (iv) only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Premises: (a) All bats are mammals. (b) No birds are bats. Conclusions: 1. (i) No birds are mammals: This conclusion does not follow from the premises. From the premises, we know that no birds are bats and all bats are mammals, but it doesn't follow that no birds could be mammals. For example, some birds could still be mammals, but they're not bats. So, (i) is invalid. 2. (ii) Some birds are not mammals: This conclusion does follow logically. Since no birds are bats (from premise b) and all bats are mammals (from premise a), it is valid to say that some birds are not mammals. 3. (iii) No bats are birds: This conclusion follows directly from premise (b), which states that no birds are bats, meaning no bats can be birds. So, (iii) is valid. 4. (iv) All mammals are bats: This is incorrect. Premise (a) states that all bats are mammals, but it does not say that all mammals are bats. Therefore",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-011",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Just as melting ice - cubes do not cause a glass of water to overflow, melting sea - ice does not increase oceanic volume. What type of argument is it?",
+    "options": [
+      "Analogical",
+      "Hypothetical",
+      "Psychological",
+      "Statistical"
+    ],
+    "correctIndex": 0,
+    "explanation": "The argument in the statement compares the melting of ice cubes in a glass of water with the melting of sea ice in the ocean to make a point about volume. It uses an analogy to draw a parallel between the two situations. This is an analogical argument because it is based on a comparison between two similar situations to draw a conclusion. Thus, the correct answer is: A. Analogical.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-017",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "What is the name for a webpage address ?",
+    "options": [
+      "Domain",
+      "Directory",
+      "Protocol",
+      "URL"
+    ],
+    "correctIndex": 3,
+    "explanation": "D. URL (Uniform Resource Locator) A URL is the address used to access a webpage or resource on the internet. It typically includes the protocol (such as http://), the domain name, and possibly a specific directory or file path.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-018",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The data storage hierarchy consists of :",
+    "options": [
+      "Bytes, bits, fields, records, files and databases",
+      "Bits, bytes, fields, records, files and databases",
+      "Bits, bytes, records, fields, files and databases",
+      "Bits, bytes, fields, files, records and databases"
+    ],
+    "correctIndex": 1,
+    "explanation": "of each: 1. Bits - The smallest unit of data, represented as 0 or 1. 2. Bytes - A group of 8 bits, used to represent a character or a piece of data. 3. Fields - A collection of bytes that represents a specific piece of information (e.g., a name or age). 4. Records - A collection of fields, typically representing a single entity, like a person or a product. 5. Files - A collection of records stored together, such as a text file or a database file. 6. Databases - A structured collection of files that organize data for easy retrieval and management. Thus, Option B is the correct answer.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-019",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following domains is used for - profit businesses ?",
+    "options": [
+      ".org",
+      ".net",
+      ".edu",
+      ".com"
+    ],
+    "correctIndex": 3,
+    "explanation": "D. .com The .com domain is traditionally used for commercial (profit-based) businesses. It stands for \"commercial\" and is the most widely used domain for businesses, e-commerce sites, and organizations seeking a global online presence.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-020",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "What is the full form of USB as used in computer related activities ?",
+    "options": [
+      "Ultra Security Block",
+      "Universal Security Block",
+      "Universal Serial Bus",
+      "United Serial Bus"
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct answer is: C. Universal Serial Bus USB (Universal Serial Bus) is a standard used for connecting computers and other devices for data transfer, charging, and communication.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-021",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following represents billion characters ?",
+    "options": [
+      "Terabytes",
+      "Megabytes",
+      "Kilobytes",
+      "Gigabytes"
+    ],
+    "correctIndex": 3,
+    "explanation": "D. Gigabytes 1 gigabyte (GB) is equivalent to approximately one billion bytes (characters). Therefore, gigabytes are the unit that represents a billion characters.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-022",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following pollutants is the major cause of respiratory diseases ?",
+    "options": [
+      "Suspended fine particles",
+      "Nitrogen oxides",
+      "Carbon monoxide",
+      "Volatile organic compounds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nitrogen oxides, including Nitrogen Dioxide (NO2), are indeed harmful to the respiratory system. They can irritate the lungs, exacerbate asthma, and increase susceptibility to respiratory infections. This makes them a leading cause of respiratory diseases, particularly in children and those living in areas with high levels of pollution.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-024",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Occurrence of natural hazards is affected by : (a) Land use changes (b) Drainage and construction (c) Ozone depletion (d) Climate change Choose the correct answer from the code given below:",
+    "options": [
+      "(a), (c) and (d)",
+      "(a), (b) and (c)",
+      "(a), (b) and (d)",
+      "(b), (c) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "(a) Land use changes: Changes in land use, such as deforestation, urbanization, and agriculture, can influence the occurrence and severity of natural hazards like floods, landslides, and droughts. (b) Drainage and construction: Poor drainage systems and construction in vulnerable areas can exacerbate the effects of floods and other natural disasters. (d) Climate change: Climate change is a major driver of extreme weather events such as hurricanes, heatwaves, floods, and droughts, influencing the frequency and intensity of natural hazards. Ozone depletion (option c) primarily affects UV radiation levels and is not directly linked to the occurrence of most natural hazards like floods or hurricanes. Thus, it is not included in the correct answer.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-025",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following pollutant gases is not produced both naturally and as a result of industrial activity?",
+    "options": [
+      "Chlorofluoro carbons",
+      "Nitrous oxide",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chlorofluorocarbons (CFCs): These are synthetic compounds created exclusively through industrial processes. They are not produced naturally. CFCs are used in refrigeration, air conditioning, and aerosol propellants, and they contribute to ozone depletion in the atmosphere.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-026",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Among the following fuels of energy, which is the most environment friendly ?",
+    "options": [
+      "Ethanol",
+      "Biogas",
+      "CNG",
+      "Hydrogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Biogas is a renewable and environmentally friendly energy source, produced from the decomposition of organic matter such as animal waste, agricultural residues, and food waste in an anaerobic environment (without oxygen). It is considered an eco-friendly fuel for several reasons: 1. Waste Utilization: Biogas helps in reducing waste by converting organic waste into useful energy. This reduces the need for landfills and the environmental harm caused by waste disposal. 2. Fewer Greenhouse Gases: The combustion of biogas",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-027",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are the goals of higher education in India ? (a) Access (b) Equity (c) Quality and Excellence (d) Relevance (e) Value based education (f) Compulsory and free education Select the correct answer from the code given below :",
+    "options": [
+      "(a), (b) and (e) only",
+      "(a), (b), (e) and (f)",
+      "(a), (b), (c), (d) and (e)",
+      "(a), (b), (c), (d), (e) and (f)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The goals of higher education in India focus on various aspects that ensure its development, inclusivity, and impact. These include: 1. Access (a): Ensuring that higher education is accessible to a wider population, especially marginalized and disadvantaged communities. 2. Equity (b): Promoting fairness in higher education by addressing inequalities and ensuring that all groups have equal opportunities to access quality education. 3. Quality and Excellence (c): Ensuring that the education provided is of high quality and meets global standards, fostering excellence in teaching, research, and innovation. 4. Relevance (d): Aligning higher education with the needs of the economy, society, and changing global trends, ensuring that the education system remains relevant to contemporary issues. 5. Value-based education (e): Fostering ethical values, social responsibility, and moral integrity in ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-028",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following has been ranked the best college in the country (2017) as per the National Institutional Ranking Framework (NIRF) ?",
+    "options": [
+      "Miranda House, Delhi",
+      "St. Stephen's College, Delhi",
+      "Fergusson College, Pune",
+      "Maharaja's College, Mysore"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the National Institutional Ranking Framework (NIRF) 2017, Miranda House in Delhi was ranked the best college in the country. It has consistently ranked at the top in the NIRF rankings for colleges, owing to its academic excellence, infrastructure, and overall contribution to higher education in India.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-029",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following universities has received the Visitor's Award for the best Central University in India in Feb. 2017?",
+    "options": [
+      "Jawaharlal Nehru University",
+      "Banaras Hindu University",
+      "Tezpur University",
+      "University of Hyderabad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option A: Jawaharlal Nehru University (JNU) was awarded the Visitor's Award for the Best Central University in India in February 2017.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-030",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following can be removed by the President without Parliament's resolution?",
+    "options": [
+      "Judge of a High Court",
+      "Governor of a State",
+      "Chief Election Commissioner",
+      "Comptroller and Auditor - General"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct answer isB) Governor of a State. The Governor of a State can be removed by the President without a resolution from Parliament. The President has the authority to remove a Governor at their discretion, based on the provisions of the Constitution, particularly under Article 156.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-031",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following come(s) within the ambit of the term 'corruption'? (a) Misuse of official position (b) Deviation from rules, laws and norms (c) Non-action when action is required (d) Harm to public good Select the correct answer from the code given below :",
+    "options": [
+      "(a) only",
+      "(a) and (b) only",
+      "(a), (b) and (d)",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct answer is D) (a), (b), (c) and (d). All the options listed are considered forms of corruption: (a) Misuse of official position: When an individual uses their position for personal gain or for favoring others improperly, it is a form of corruption. (b) Deviation from rules, laws, and norms: Corruption often involves violating established rules and norms, which undermines the integrity of institutions and governance. (c) Non-action when action is required: This is often referred to as \"willful neglect\" or \"dereliction of duty,\" which is also a form of corruption when a responsible person deliberately avoids taking action to fulfill their duties. (d) Harm to public good: Corruption typically leads to a distortion of resources, public services, or priorities, which harms the welfare of the public. Thus, all of the above are aspects of corruption.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-032",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "chronological",
+    "question": "In a Ph.D. thesis which one is the correct sequence for showing scheme of Chapterisation ?",
+    "options": [
+      "Survey of related studies, Introduction, Design of the study, Data-Analysis and interpretation, Conclusions and generalisations, suggested further study, References, Appendix",
+      "Introduction, Design of study, Data Analysis and Interpretation, Generalizations, Conclusions and Survey of related studies and suggestions for further research, References and Appendix",
+      "Introduction, Survey of related studies, Design of study, Data-presentation; analysis & Interpretation, Formulation of generalization & Conclusions, Suggestions for further research, References & Appendix",
+      "Survey of related studies, References, Introduction, Design of study, Data analysis and interpretation, Conclusions and generalizations, Suggestions for further research, Appendix"
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct answer is C) Introduction, Survey of related studies, Design of study, Data- presentation; analysis & Interpretation, Formulation of generalization & Conclusions, Suggestions for further research, References & Appendix. This sequence is logical and widely followed in the structure of a Ph.D. thesis: 1. Introduction: Overview of the research, objectives, and scope. 2. Survey of related studies: Literature review to show what has already been researched. 3. Design of study: Methodology and design choices made for conducting the research. 4. Data-presentation; analysis & interpretation: Presentation of collected data, followed by analysis and its interpretation. 5. Formulation of generalization & conclusions: Drawing conclusions based on the findings and formulating generalizations. 6. Suggestions for further research: Recommendations for future work in the field. 7. References:",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-033",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following is not the critical feature of qualitative research ?",
+    "options": [
+      "Actual settings are the direct source of data.",
+      "Data take the forms of words or pictures.",
+      "Seeking to establish relationships among measured social facts.",
+      "Researcher becomes immersed in the situation, present or past related to the phenomena."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct answer is C) Seeking to establish relationships among measured social facts. This option refers to a characteristic more commonly associated with quantitative research, which typically focuses on measuring variables and establishing relationships between those variables through statistical methods.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-034",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "A detailed description of methodology of research is required in",
+    "options": [
+      "Thesis/Dissertation",
+      "Symposium/Workshop",
+      "Seminar paper/Articles",
+      "Conference and Seminar Papers"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) Thesis/Dissertation. A thesis or dissertation typically requires a detailed description of the research methodology because it provides a comprehensive account of the methods used to collect and analyze data, ensuring the research is transparent, replicable, and scientifically rigorous. This level of detail is essential for validating the research process and",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-035",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Research ethics has a direct connection more often with which stages of research ?",
+    "options": [
+      "Defining and delimiting the scope of research.",
+      "Problem formulation and reporting of research findings.",
+      "Defining the population and deciding the sampling technique for research.",
+      "Deciding about statistical techniques and data analysis."
+    ],
+    "correctIndex": 1,
+    "explanation": "B) Problem formulation and reporting of research findings. Research ethics is primarily concerned with the integrity and transparency of the research process, particularly in two key stages: 1. Problem formulation: Ethical considerations in how a research problem is framed ensure that the research does not exploit vulnerable groups or lead to biased or misleading conclusions. 2. Reporting of research findings: This stage is critical for maintaining transparency and honesty. Ethical research requires that findings are reported accurately without fabrication, falsification, or selective reporting of data. Researchers must also ensure they acknowledge sources, avoid plagiarism, and disclose conflicts of interest.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-042",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Internal and external factors that affect message reception by the students in the classroom are referred to as",
+    "options": [
+      "feedback",
+      "fragmentation",
+      "channelisation",
+      "noise"
+    ],
+    "correctIndex": 3,
+    "explanation": "Noise in communication refers to any internal or external factors that interfere with the accurate reception or interpretation of a message. In a classroom setting, noise can take various forms: Internal noise includes psychological or physiological factors affecting the students, such as stress, lack of interest, fatigue, or preconceived notions. External noise refers to environmental disturbances, such as background sounds, distractions from other students, or poor acoustics in the classroom.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-043",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "A teacher in a classroom has immediate control over",
+    "options": [
+      "the self, selected methods of communication and the message.",
+      "the audience, the noise and the reception.",
+      "the feedback, the technology and the audience experience.",
+      "the communication channel, other communicators, and external factors."
+    ],
+    "correctIndex": 0,
+    "explanation": "In a classroom setting, a teacher has immediate control over: 1. The self: The teacher can control their tone, body language, attitude, and clarity in delivering the message. 2. Selected methods of communication: The teacher can choose teaching strategies and tools, such as lectures, discussions, visual aids, or interactive activities. 3. The message: The teacher can structure, organize, and modify the content of the lesson to make it more comprehensible and engaging.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-044",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "What do communicated words carry in a classroom situation ?",
+    "options": [
+      "Inspiration, controversy and introspection",
+      "Diversion, criticism and irrationality",
+      "Insipidity, irrationality, and non-acceptance",
+      "Power, structure and tradition"
+    ],
+    "correctIndex": 3,
+    "explanation": "In a classroom situation, communicated words often carry: 1. Power: The teacher's words have authority and influence over students, shaping their learning and understanding. 2. Structure: Words provide clarity, organization, and coherence to the lesson or subject matter. 3. Tradition: The language and methods of instruction are often rooted in established educational practices, reflecting cultural and institutional norms. This combination ensures that communication in the classroom serves its purpose in guiding, instructing, and influencing students in a structured learning environment.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-045",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "As a good classroom communicator, you are supposed to know your",
+    "options": [
+      "audience emotions",
+      "silent cues",
+      "artful pauses",
+      "counter arguments"
+    ],
+    "correctIndex": 2,
+    "explanation": "As a good classroom communicator, artful pauses are crucial because they: 1. Enhance emphasis: Pausing strategically can emphasize",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-046",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Figure out the components of non-verbal communication in a classroom from the following :",
+    "options": [
+      "Facial expression, cultural space and seating arrangement",
+      "Speed of utterance, feel good factor and acoustics",
+      "High sound, physical ambience and teacher- learner distance",
+      "Facial expression, kinesics and personal space"
+    ],
+    "correctIndex": 3,
+    "explanation": "Non-verbal communication in a classroom includes all forms of communication that do not involve spoken words. The components mentioned in Option D are essential aspects of non-verbal communication: 1. Facial Expression: The teacher's and students' facial expressions convey emotions, understanding, and engagement. 2. Kinesics (body language): This includes gestures, posture, and movements that express confidence, interest, or confusion. 3. Personal Space: The physical distance between the teacher and students affects comfort, interaction, and the level of engagement.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-047",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are the basic factors of effective listening ?",
+    "options": [
+      "Opinionation, stare and glare and interruptions",
+      "Aggressive questioning, continuous cues and frequent movement",
+      "Me-too-ism, glancing sideways, and offering advice",
+      "Acknowledgement of thoughts, reflection, and asking open-ended questions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Effective listening involves actively engaging with the speaker and demonstrating a genuine interest in understanding their message. The factors in Option D contribute to effective listening as follows: 1. Acknowledgement of thoughts: Showing that you value and recognize the speaker’s ideas fosters trust and open communication. 2. Reflection: Paraphrasing or summarizing what the speaker has said ensures understanding and demonstrates attentiveness. 3. Asking open-ended questions: These encourage deeper discussion, allowing the speaker to elaborate and clarify their thoughts.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-048",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "In a particular code, HOSPITALS is coded as HSOLSAPTI. The code of BIOLOGICALS will be",
+    "options": [
+      "BLICOALIOSG",
+      "BOLGICAILOS",
+      "SBLAOILOBCG",
+      "BSILOALCOIG"
+    ],
+    "correctIndex": 3,
+    "explanation": "1. Divide the word into two groups: First half: H O S P Second half: I T A L S 2. Rearrange within each group: First group: Swap 1st with 4th, and 2nd with 3rd: HOSP → HSOL Second group: Swap 1st with 5th, and 2nd with 4th: ITALS → SAPTI 3. Combine the rearranged groups: HSOL + SAPTI = HSOLSAPTI Applying the same logic to \"BIOLOGICALS\": 1. Divide \"BIOLOGICALS\" into two groups: First half: B I O L O Second half: G I C A L S 2. Rearrange within each group: First group: Swap 1st with 5th, and 2nd with 4th: BIOLO → BSILO Second group: Swap 1st with 6th, 2nd with 5th, and so on: GICALS → ALCOIG 3. Combine the rearranged groups: BSILO + ALCOIG = BSILOALCOIG Correct Answer: Option D: BSILOALCOIG",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-049",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "In the series 1, 5, 13, 25, 41, … … the next term is",
+    "options": [
+      "59",
+      "63",
+      "61",
+      "68"
+    ],
+    "correctIndex": 2,
+    "explanation": "To find the next term in the series 1, 5, 13, 25, 41, … , let's analyze the pattern step by step. Given series: 1, 5, 13, 25, 41, … Step 1: Find the differences between consecutive terms: 5 −1 = 4, 13 −5 = 8, 25 −13 = 12, 41 −25 = 16 Differences: 4, 8, 12, 16 Step 2: Find the differences between the differences: 8 −4 = 4, 12 −8 = 4, 16 −12 = 4 The second differences are constant ( 4 ), indicating that the series follows a quadratic pattern. Step 3: General form of a quadratic sequence: The n -th term of a quadratic sequence can be expressed as: Tn a n2 bn c = + + a b c Step 4: Use the given terms to find , , and : We know: T1 T2 T3 = 1, = 5, = 13 Substitute into the equation Tn a n2 bn c : = + + n 1. For = 1 : a(1 )2 + b(1) + c = 1 ⇒ a + b + c = 1 n 2. For = 2 : a(2 b(2) c 4a 2b c )2 + + = 5 ⇒ + + = 5 n 3. For = 3 : a(3 )2 + b(3) + c = 13 ⇒ 9a + 3b + c = 13 Step 5: Solve the system of eq",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-050",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "At present, a mother is 3 times older than her son. After 5 years, the sum of their ages will be 70 years. The age of the mother after 10 years will be",
+    "options": [
+      "40",
+      "55",
+      "45",
+      "60"
+    ],
+    "correctIndex": 1,
+    "explanation": "x Let the present age of the son be years. Since the mother is 3 times older than her son, 3x the present age of the mother is years. Step 1: Use the information about their ages after 5 years. In 5 years: - The son's age will be x . + 5 3x - The mother's age will be + 5 . The sum of their ages after 5 years is given as 70 years: (x (3x + 5) + + 5) = 70 Simplify the equation: x 3x + 5 + + 5 = 70 4x + 10 = 70 Subtract 10 from both sides: 4x = 60 Divide both sides by 4: x = 15 Step 2: Calculate the mother's present age. The present age of the mother is: 3x = 3(15) = 45 Step 3: Find the mother's age after 10 years. After 10 years, the mother's age will be: 45 + 10 = 55 Final Answer: B. 55",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-051",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Which one of the following statements is not correct in case of Kautilya ?",
+    "options": [
+      "He was the first to make political economy an independent subject.",
+      "He propounded a theory of politics which dealt with immediate practical concerns of polity.",
+      "He is credited with being the founder of nitisastra tradition.",
+      "For the first time he emphasised the need for a strong political control in India."
+    ],
+    "correctIndex": 3,
+    "explanation": "Option A is correct: Kautilya (also known as Chanakya) is credited with laying the foundations for political economy as a distinct area of study, blending politics and economics in his work, the Arthashastra. Option B is correct: Kautilya's Arthashastra focuses on practical, real-world political issues and offers advice on governance, economics, military strategy, and diplomacy, addressing immediate concerns of the state. Option C is incorrect: Kautilya did not technically found the nitisastra tradition; while he contributed significantly to it, the nitisastra tradition existed prior to him, with earlier thinkers discussing governance and ethics. Kautilya's contribution was in systematizing and expanding this tradition in his work. Option D is correct: Kautilya’s Arthashastra emphasizes the importance of a strong, centralized state, which was necessary for maintaining order and achieving",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-052",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following said that the Republic pictures a utopia not because it is a romance but because plato intended it to be the start of a scientific attack upon the \"idea of the good\" ?",
+    "options": [
+      "G.H. Sabine",
+      "Dunning",
+      "E. Barker",
+      "Ebenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dunning, a prominent historian of philosophy, argued that Plato's Republic is not a utopian romance, but rather a work meant to begin a scientific inquiry into the \"idea of the good.\" Dunning viewed Plato's Republic as a serious philosophical exploration, where Plato was attempting to ground political philosophy in rational inquiry and ethical analysis, rather than simply constructing an idealized or fictional society. Thus, Dunning is the one who made the statement regarding Plato's Republic and its connection to the scientific exploration of the \"idea of the good.\"",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-053",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following said that in order of time state is latter than the family or the individual, but in order of nature, prior to them ?",
+    "options": [
+      "Cephalus",
+      "Thrasymachus",
+      "Aristotle",
+      "Lacophon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aristotle argued that in terms of the order of nature, the state (or polis) is prior to the individual and the family, even though historically the family comes before the state. In his work \"Politics\", Aristotle discussed the natural origins of the state and claimed that it arises out of the need for human beings to live together and cooperate. He believed that the state exists to promote the common good and is a necessary institution for human flourishing, making it prior to the individual and the family in terms of its natural purpose, even if the family comes first in time.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-054",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "For Locke which of the following is not true in case of social contract?",
+    "options": [
+      "Contract, once made, is irrevocable",
+      "Contract to which each generation must not consent",
+      "Contract in which men give up some of the rights they possessed in the state of nature",
+      "Contract does not put an end to the Law of Nature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Option A is correct: He emphasized that the social contract is binding, but if the government fails to protect natural rights, the people have the right to withdraw their consent and revolt. Therefore, the contract is revocable under certain conditions. Option B is incorrect: Locke believed that tacit consent binds future generations. Individuals are considered to have agreed to the social contract by living within the society and benefiting from its laws and protections. Each generation does not need to explicitly consent to the contract. Option C is correct: In Locke’s view, individuals give up certain rights they had in the state of nature (e.g., the right to enforce the Law of Nature themselves) in exchange for the protection and benefits of a governed society. Option D is correct: Locke believed that the Law of Nature remains in effect even after the establishment of a government.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-055",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "For Rousseau which one of the following is not true ?",
+    "options": [
+      "For man's self-love, which satisfies his real needs, is only too apt to become pride.",
+      "Pride becomes incompatible with sympathy.",
+      "From pride all evil has grown.",
+      "Pride does not seduce reason."
+    ],
+    "correctIndex": 3,
+    "explanation": "Option A is correct: Rousseau distinguishes between amour de soi (natural self-love) and amour-propre (pride).Amour de soi is focused on self-preservation and fulfilling basic needs, but as society develops, it transforms into amour- propre, which is competitive and rooted in the desire for recognition.Thus, self-love can easily become pride due to societal influences. Option B is correct: In Rousseau’s state of nature, humans naturally possess compassion (pitié) and sympathy.However, pride (amour- propre) leads to jealousy, competition, and selfishness, which undermine natural sympathy.Therefore, pride and sympathy are incompatible in Rousseau’s view. Option C is correct: Rousseau argued that pride is the root of societal evils such as inequality, greed, and corruption.Pride leads to artificial desires and conflicts, replacing the simplicity and harmony of the state of nature.Therefore,",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-057",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Match the List - I (Sources) and List - II (Ideas) which influenced Gandhi and select the correct answer from the code given below: List - I (Sources) List - II (Ideas) Catholicity of (a) Jainism (i) outlook Contempt for industrial (b) Vaishnavism (ii) civilization and ideas on passive resistance Idealism and (c) Ruskin and Tolstoy (iii) concern for moral values Emphasis on Non- (d) Plato (iv) violence",
+    "options": [
+      "(a)-(i),(b)-(iii),(c)-(ii),(d)-(iv)",
+      "(a)-(iv),(b)-(i),(c)-(ii),(d)-(iii)",
+      "(a)-(ii),(b)-(iii),(c)-(iv),(d)-(i)",
+      "(a)-(iii),(b)-(ii),(c)-(iv),(d)-(i)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) Jainism → (iv) Emphasis on Non-violence: Jainism is known for its core principle of Ahimsa (non-violence), which had a profound influence on Gandhi's philosophy of non-violent resistance (Satyagraha). (b) Vaishnavism → (i) Catholicity of outlook: Vaishnavism promotes devotion to Lord Vishnu and encourages an inclusive, broad approach to spirituality. This influenced Gandhi's catholicity of outlook, promoting tolerance and unity across various religions. (c) Ruskin and Tolstoy → (ii) Contempt for industrial civilization and ideas on passive resistance: Ruskin and Tolstoy both criticized industrialization and emphasized a simple, moral life. They inspired Gandhi's ideas of passive resistance, self-reliance, and rejecting materialism. (d) Plato → (iii) Idealism and concern for moral values: Plato, with his emphasis on justice, ethics, and the role of philosophers in governance, influenc",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-058",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following had started two weeklies, the Karmayogin and the Dharma ?",
+    "options": [
+      "Mahatma Gandhi",
+      "Aurobindo",
+      "Ranade",
+      "Tilak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sri Aurobindo started two significant weeklies, Karmayogin and Dharma, during his involvement in the Indian freedom struggle. Karmayogin (1909): This was a weekly published by Aurobindo in which he discussed issues of nationalism, self-rule, and the development of an independent India. It was aimed at inspiring the masses to take up the cause of freedom. Dharma (1909): This was another publication by Aurobindo that dealt with various social and philosophical issues, promoting the idea of spiritual awakening alongside political and social activism.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-060",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following said in the context of States Reorganisation Commission Report : “The Lambs are shorn of the wool” and “They are feeling the intensity of cold” ?",
+    "options": [
+      "J. Nehru",
+      "B. R. Ambedkar",
+      "B. N. Rau",
+      "K. T. Shah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dr. B. R. Ambedkar made the statement \"The lambs are shorn of the wool\" and \"They are feeling the intensity of cold\" in the context of the States Reorganisation Commission Report. Ambedkar used this metaphor to express the discontent and the sense of loss felt by the smaller, less powerful states or communities that were affected by the reorganization. The reference to \"lambs\" symbolized the vulnerable groups, and \"shorn of the wool\" implied they had lost something important, leaving them exposed to difficulties.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-061",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Which of the following statements is not correct ?",
+    "options": [
+      "Traditional political theory is prescriptive and normative.",
+      "Behavioural political theory concerned with uniformities and regularities.",
+      "Post-behavioural political theory is tied to action and relevancy.",
+      "Post-behavioural political theory is not holistic."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Traditional political theory is prescriptive and normative: This statement is correct. Traditional political theory emphasizes prescribing how political systems should work (prescriptive) and focuses on moral judgments and values (normative). (B) Behavioural political theory concerned with uniformities and regularities: This statement is correct. Behaviouralism in political science focuses on empirical observation, aiming to uncover patterns, regularities, and uniformities in political behavior using quantitative methods. (C) Post-behavioural political theory is tied to action and relevancy: This statement is correct. Post-behaviouralism emerged as a response to behaviouralism, emphasizing the practical relevance of political science and its commitment to addressing real-world issues, such as social justice and political action. (D) Post-behavioural political theory is not holistic: ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-062",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following contentions of Isaiah Berlin is not true in the context of resurgence of political theory (political philosophy) ?",
+    "options": [
+      "Politics exists in a society where ends collide. In a liberal order political theory can never see its end.",
+      "The responsibility for causing decline of political theory should be laid on rank empiricists who have displaced classical tradition.",
+      "Political theory shall continue to exist as a result of the inquisitive and rational inquiry of man",
+      "He is sheptical about the resurgence of political theory (philosophy)."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Politics exists in a society where ends collide. In a liberal order, political theory can never see its end: This statement is true. Isaiah Berlin argued that politics arises from the collision of different ends or values in society. In a liberal order, where pluralism is emphasized, political theory remains relevant to mediate between competing values. (B) The responsibility for causing the decline of political theory should be laid on rank empiricists who have displaced classical tradition: This statement is true. Berlin criticized the rise of empiricism and positivism for sidelining the normative and value-based concerns of classical political theory. (C) Political theory shall continue to exist as a",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-063",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following conceived society as a ‘Cooperative venture for mutual advantage’, more or less self-sufficient, and necessarily governed by rules ?",
+    "options": [
+      "Robert Nozick",
+      "Friedrich Hayek",
+      "John Rawls",
+      "Karl Marx"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Rawls, in his seminal work \"A Theory of Justice\" (1971), described society as a \"cooperative venture for mutual advantage\". He emphasized that society is formed to benefit all its members, but it requires rules of justice to ensure fairness and equity, particularly in distributing benefits and burdens. These rules are essential for maintaining the stability and functioning of a society, which Rawls viewed as a self-sufficient association. The concept aligns with his theory of justice as fairness, which is grounded in principles chosen under the original position and behind a veil of ignorance. Analysis of other options: (A) Robert Nozick: While Nozick, in \"Anarchy, State, and Utopia\" (1974), advocated for a minimal state and emphasized individual rights, his focus was on libertarian principles rather than conceiving society as a cooperative venture. (B) Friedrich Hayek: Hayek emphas",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-064",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following has written the article “The Zigzag of Politics” ?",
+    "options": [
+      "John Rawls",
+      "H.A. Hayek",
+      "R. Nozick",
+      "J. Habermas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Nozick authored the article \"The Zigzag of Politics,\" which appears in his book 'The Examined Life' (1989). In this essay, Nozick reflects on democratic institutions and liberties, emphasizing their role in expressing and symbolizing our equal human dignity, autonomy, and powers of self-direction. Notably, in \"The Zigzag of Politics,\" Nozick revisits and critiques his earlier libertarian positions, acknowledging that his previous views did not adequately incorporate humane considerations and the importance of joint cooperative activities. Therefore, the correct answer is: R. Nozick",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-065",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following is not a proponent of commuritarianism ?",
+    "options": [
+      "Alasdair Macintyre",
+      "Michael Sandel",
+      "Michael Walzer",
+      "Friedrich Hayek"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Alasdair MacIntyre: A prominent proponent of communitarianism, MacIntyre's work, especially in \"After Virtue\", emphasizes the importance of traditions, community, and shared moral frameworks in shaping ethical life. (B) Michael Sandel: Another leading communitarian thinker, Sandel critiques liberalism's emphasis on individual autonomy, arguing for the role of community and shared values in shaping identity and justice, as seen in \"Liberalism and the Limits of Justice\". (C) Michael Walzer: Walzer, in works like \"Spheres of Justice\", advances communitarian ideas by emphasizing the importance of social contexts and community-specific understandings of justice. (D) Friedrich Hayek: Hayek was not a communitarian but a proponent of libertarianism and classical liberalism. He emphasized individual freedom, spontaneous order, and the importance of markets in organizing society, making him fu",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-066",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are the features of democracy ? (a) Democracy requires political equality. (b) All citizens must be entitled to stand for election regardless of race, sex, colour or religion. (c) All citizens must possess a vote (universal adult franchise). (d) Political equality means ‘one person one vote, one vote one value’. Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (c)",
+      "(a), (c) and",
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(a) Democracy requires political equality. Correct. Political equality ensures that all individuals have equal rights and opportunities to participate in the political process. (b) All citizens must be entitled to stand for election regardless of race, sex, colour, or religion. Correct. Democracy guarantees equal access to political participation, including the right to run for office without discrimination. (c) All citizens must possess a vote (universal adult franchise). Correct. Universal adult franchise is a hallmark of democracy, ensuring that all adults have the right to vote irrespective of their identity. (d) Political equality means ‘one person one vote, one vote one value’. Correct. This principle underpins the democratic process, ensuring fairness and equality in elections.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-067",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Match the List - I with List - Il: List - I (Authors) List - II (Books) (a) Brian Berry (i) Justice Susan Moller (b) (ii) Idea of Justice Okin Justice, Gender and (c) Amartya K. Sen (iii) Family The Liberal Theory of (d) Tom Campbell (iv) Justice Select the correct answer from the code given below :",
+    "options": [
+      "a-iv, b-iii, c-ii, d-i",
+      "a-iv, b-i, c-ii, d-iii",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-i, b-iii, c-ii, d-iv"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Brian Barry – The Liberal Theory of Justice. Brian Barry’s work focuses on liberal political philosophy, emphasizing justice as fairness in the context of Rawlsian liberalism. (b) Susan Moller Okin – Justice, Gender and Family. Okin critiques traditional theories of justice for neglecting gender and family issues, arguing for the inclusion of gender equality in discussions of justice. (c) Amartya K. Sen – Idea of Justice. Sen’s Idea of Justice provides a critique of Rawlsian theories and presents an alternative framework focusing on realizable justice and human capabilities. (d) Tom Campbell – Justice. Campbell explores the concept of justice broadly, providing an analysis of its philosophical and practical dimensions.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-068",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are features of Marx's theory of surplus value ? (a) It is an extension of Ricardo’s theory. (b) Labour power equals the brain, muscle and nerve of the labourer. (c) The value of every commodity is not proportional to the quantity or labour contained in it. (d) The worker must be paid a price proportional to the number of Labour hours that entered into its production. Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (b)",
+      "(b) and (d)",
+      "(a), (b) and (d)",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "(a) It is an extension of Ricardo’s theory. Marx extended Ricardo's labor theory of value by analyzing how surplus value arises in a capitalist economy. Marx focused on exploitation and the difference between the value created by labor and the wages paid to workers. (b) Labour power equals the brain, muscle, and nerve of the laborer. Marx defined labor power as the worker’s capacity to perform work, which includes their physical and mental faculties. This is fundamental to his analysis of surplus value. (c) The value of every commodity is not proportional to the quantity or labor contained in it. This statement is false in the context of Marx's theory. According to Marx, the value of a commodity is indeed determined by the amount of socially necessary labor time required for its production. Marx argues that commodities may seem to have different values, but this value is ultimately roote",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-069",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Which of the following are Lenin's contribution to Marxist theory ? (a) His theory of the party as ‘the vanguard of the proletariat’ which guides the masses both before and after the revolution. (b) His theory or capitalist imperialism, which he held to constitute the intermediary stage of capitalism. (c) His version for the reconstruction of the world’s first proletarian state. (d) His theory of the strategy and tactics of revolution. Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (d)",
+      "(a), (c) and (d)",
+      "(a), (b) and (c)",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) His theory of the party as ‘the vanguard of the proletariat’ which guides the masses both before and after the revolution. correct. Lenin emphasized the need for a disciplined, centralized party to lead the working class. The vanguard party was tasked with guiding and educating the proletariat, ensuring the success of both the revolution and the subsequent establishment of socialism. (b) His theory of capitalist imperialism, which he held to constitute the intermediary stage of capitalism. Incorrect. In his work 'Imperialism, the Highest Stage of Capitalism' (1917), Lenin argued that imperialism represents the final stage of capitalism, characterized by monopoly capitalism, exploitation of colonies, and inter- imperialist rivalries leading to global conflict. (c) His vision for the reconstruction of the world’s first proletarian state. correct. Lenin’s leadership during the Bolshevik",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-070",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following is not a feature of ideology ?",
+    "options": [
+      "A political belief system",
+      "An action-oriented set of political ideas",
+      "The world view of a particular social class or social group",
+      "The political ideas that do not embody or articulate class or social interests"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) A political belief system. This is a feature of ideology. Ideologies provide a structured set of political beliefs and values that guide individuals and groups in understanding and engaging with the political world. (B) An action-oriented set of political ideas. This is also a feature of ideology. Ideologies are not merely theoretical; they are action-oriented, aiming to inspire political action and influence policy-making. (C) The worldview of a particular social class or social group. Ideologies often reflect the interests, values, and perspectives of specific social classes or groups, making this a key feature. (D) The political ideas that do not embody or articulate class or social interests. This is not a feature of ideology. Ideologies are inherently tied to class or social interests, as they provide a framework for understanding and addressing the economic, political, and soci",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-071",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following described comparative politics as primarily concerned with “parties, interests and leadership structure” ?",
+    "options": [
+      "Gabriel Almond",
+      "Sigmund Neuman",
+      "Roy C. Macridis and Ward",
+      "M.G. Smith"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Gabriel Almond: Almond is associated with the structural-functional approach in comparative politics, focusing on political systems, their structures, and the functions they perform, rather than specifically on parties, interests, and leadership structures. (B) Sigmund Neumann- Sigmund Neuman was known for his work on political theory and comparative analysis but did not specifically use this description. (C) Roy C. Macridis and Ward: Roy C. Macridis and Ward described comparative politics as primarily concerned with \"parties, interests, and leadership structure,\" emphasizing the key elements of political systems such as political parties, social groups, and leadership dynamics. This approach focuses on how these elements interact within different political systems, particularly in terms of how political power is structured and exercised. (D) M.G. Smith: Smith’s work is more associat",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-072",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who was the author of the book “The Presidential Republic” ?",
+    "options": [
+      "Jean Blondel",
+      "Dorothy Pickles",
+      "Walter Bagehot",
+      "E.H. Carr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jean Blondel is the author of the book \"The Presidential Republic\". In this work, Blondel examines the functioning of presidential systems, comparing them with parliamentary systems and analyzing their dynamics, advantages, and challenges. His contributions to the field of political science focus on comparative government and political institutions.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-074",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Arrange the interest groups as given by Gabriel Almond in sequential order : (a) Institutional groups (b) Non-associational groups (c) Associational groups (d) Anomic groups",
+    "options": [
+      "(c), (b). (d), (a)",
+      "(a), (c), (d), (b)",
+      "(b), (d), (a), (c)",
+      "(d), (a), (c), (b)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almond says that there can be four different types of groups. This classification has generally been supported by Hitchner and Levine also. According to Almond, the interest groups are of following types: 1. Institutional Interest Groups; 2. Anomic Interest Groups; 3. Associational Interest Groups; and 4. Non-Associational Interest Groups. The institutional interest groups are closely connected with various institution, and even political parties. These groups also exist with in the legislatures, bureaucracies, churches, corporations and even armed forces. This question was dropped because there exists differences in answer among various sources.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-075",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following pairs is not correctly matched ?",
+    "options": [
+      "Chartist Movement - Demand for Manhood suffrage in England.",
+      "Philadelphia Convention -Declaration of independence and signing of the Constitution in US.",
+      "Mayflower Compact - Abolition of Slavery in US.",
+      "1832 Reform Act - Changes in the electoral system of Britain."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Chartist Movement - Demand for Manhood Suffrage in England. Correct. The Chartist Movement (1838–1857) in England was a working-class movement advocating for political reforms, including manhood suffrage (the right to vote for all adult males). (B) Philadelphia Convention - Declaration of Independence and signing of the Constitution in the US. correct. The Philadelphia Convention (1787) was convened to draft the US Constitution, after which the signing of the Constitution in the US was done. (C) Mayflower Compact - Abolition of Slavery in US. Incorrect. The Mayflower Compact (1620) was an agreement signed by the Pilgrims to establish a self-governing community based on mutual consent. It had no connection to the abolition of slavery, which was achieved later through the 13th Amendment to the US Constitution in 1865. (D) 1832 Reform Act - Changes in the Electoral System of Britain. Co",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-077",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following pair is not correctly matched ?",
+    "options": [
+      "Political Continuity and change - Peter H. Merkil",
+      "Comparative Politics Today - S.P. Huntington",
+      "The Man on the Horseback - Samuel Finer",
+      "Modern Political Systems : Asia - R.C. Macridis"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Political Continuity and Change - Peter H. Merkl. This is correctly matched. Peter H. Merkl wrote the book Political Continuity and Change, which deals with the analysis of political systems, focusing on the balance between stability and change. (B) Comparative Politics Today - S.P. Huntington. This is incorrectly matched. Comparative Politics Today is actually written by G. Bingham Powell (not S.P. Huntington). Samuel P. Huntington is known for his work on political development and his famous theory of the \"Clash of Civilizations,\" but not for Comparative Politics Today. (C) The Man on the Horseback - Samuel Finer. This is correctly matched. Samuel Finer's The Man on the Horseback analyzes the role of military figures in politics, particularly focusing on military dictatorships. (D) Modern Political Systems: Asia - R.C. Macridis. This is correctly matched. R.C. Macridis wrote Modern",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-078",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are true regarding a revolution ? (a) Change of Constitution (b) One ruling elite is replaced by another (c) Transformation in Political Institutions (d) Fundamental change in the Socio-economic and political structures",
+    "options": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(a) and (d)",
+      "(a), (b), (c), (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "All the statements provided are true regarding the nature of a revolution: (a) Change of Constitution- Revolutions often lead to the replacement or significant alteration of a nation's constitution, reflecting the new political order that arises after the upheaval. (b) One ruling elite is replaced by another- This is true for many revolutions. In many cases, a revolution does not simply remove an entire political structure but replaces the ruling elite (e.g., from monarchs to elected leaders, or from one authoritarian regime to another). (c) Transformation in Political Institutions- Revolutions generally lead to a profound transformation of political institutions. This can include the establishment of new forms of governance, legal systems, or electoral processes, reflecting the revolutionary changes. (d) Fundamental change in the Socio-economic and political structures- Revolutions are ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-079",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are true regarding a Unitary System of Government ? (a) It is most effective in protecting the unity and integrity of the nation. (b) Power is delegated to the local units for administrative convenience. (c) There is single law making body. (d) The local administrative units do not derive their power from the Constitution. Choose the correct answer :",
+    "options": [
+      "(a) and (c) only",
+      "(a), (b), (c) and (d)",
+      "(c) and (d) only",
+      "(b), (c) and (d) only"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) It is most effective in protecting the unity and integrity of the nation. True. In a unitary system, the central government holds the majority of the power, making it more efficient in maintaining national unity and integrity, as there is less likelihood of local units asserting regional independence or autonomy. (b) Power is delegated to the local units for administrative convenience. True. In a unitary system, local governments may be granted administrative powers by the central government, but these powers are not constitutionally guaranteed. They are often delegated for efficiency or convenience in managing local affairs. (c) There is a single law-making body. True. In a unitary system, the central government typically has the authority to make laws, and there is usually one national legislature or law-making body. Local units, if they exist, do not have independent law-making po",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-080",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following amendments of American Constitution laid down “Due process of law” relating to judicial scrutiny of legislative and executive actions : 4th (a) Amendment (b) 5th Amendment 14th (c) Amendment (d) 16th Amendment Choose the correct answer from the below :",
+    "options": [
+      "(b) and (c)",
+      "(a) and (b)",
+      "(a) and (d)",
+      "(c) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) 4th Amendment: The 4th Amendment protects against unreasonable searches and seizures and does not specifically address \"due process of law.\" (b) 5th Amendment: The 5th Amendment to the U.S. Constitution contains the due process clause: \"No person shall... be deprived of life, liberty, or property, without due process of law.\" This applies to federal actions, requiring that all federal laws be applied fairly and justly in legal proceedings. (c) 14th Amendment: The 14th Amendment extends the due process clause to state actions: \"No state shall... deprive any person of life, liberty, or property, without due process of law.\" It ensures that state governments also follow fair procedures before depriving an individual of their rights. (d) 16th Amendment: The 16th Amendment grants Congress the power to levy an income tax and does not relate to \"due process of law.\"",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-081",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following pairs is not correctly matched ?",
+    "options": [
+      "Administrative Law - France",
+      "Appointment of Judges for life - Switzerland",
+      "Equal Representation of States in the House of Senate - USA",
+      "Rule of Law - England"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Administrative Law - France. This is correctly matched. France has a well-developed system of administrative law and its Council of State (Conseil d'État) plays a key role in administrative jurisprudence. B. Appointment of Judges for life - Switzerland. This is incorrectly matched. In Switzerland, judges are not appointed for life. Judges are elected for fixed terms (usually six years) and can be re-elected. In contrast, the United States has life appointments for federal judges, including Supreme Court justices. C. Equal Representation of States in the House of Senate - USA. This is correctly matched. In the U.S. Senate, each state is represented equally, with two senators per state, regardless of population size. D. Rule of Law - England. This is correctly matched. The Rule of Law is a key principle in the English legal system, emphasizing the supremacy of law and the equality of al",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-082",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following described political development as “administrative and legal development” ?",
+    "options": [
+      "Paul Baron",
+      "James S. Coleman",
+      "Edward Shills",
+      "Max Weber"
+    ],
+    "correctIndex": 3,
+    "explanation": "Max Weber, a German sociologist, is known for describing political development in terms of \"administrative and legal development.\" He emphasized the importance of rationalization in political institutions, where bureaucracy and legal systems play key roles in the governance process. Weber viewed political development as a process of increasing administrative efficiency and legal rationality within the state. Paul Baron, James S. Coleman, and Edward Shils also contributed to the study of political development, but they did not specifically describe it in terms of \"administrative and legal development\" as Weber did.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-084",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Which of the following statements are correct regarding Max Weber's theory of bureaucracy ? (a) It is an iron cage of rule-based rational control. (b) It is a key part of the “rational-legal authority.” (c) Bureaucracy means “domination through knowledge” in the form of merit. (d) It enjoys popular acceptability in a democracy. Choose the correct answer from the below ;",
+    "options": [
+      "(a) and (d)",
+      "(a), (b) and (c)",
+      "(c) and (d)",
+      "(b), (c) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) It is an iron cage of rule-based rational control. True. Weber famously described bureaucracy as an \"iron cage\" of rationality, where individuals become trapped in a system of rigid rules and procedures that prioritize efficiency and control over personal freedom and creativity. (b) It is a key part of the \"rational-legal authority.\" True. Weber's concept of \"rational- legal authority\" refers to the legitimacy of authority derived from established laws, rules, and procedures. Bureaucracy is a key manifestation of this authority, where power is exercised through impersonal, rule-based systems. (c) Bureaucracy means \"domination through knowledge\" in the form of merit. True. Weber argued that bureaucracy is based on meritocratic principles, where individuals are appointed and promoted based on their technical knowledge and expertise. This leads to \"domination through knowledge,\" where e",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-085",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Match the items of List - I with items of List - II by selecting the correct code : List I (Authors) List II (Books) Legality and (a) Robert Dahl (i) Legitimacy Polyarchy : (b) S.M. Lipset (ii) Participation And Opposition (c) Schmittearl (iii) Political Man Political Realities : (d) Roger Charlton (iv) Comparative Government",
+    "options": [
+      "a-ii, b-iii, c-i, d-iv",
+      "a-iii, b-i, c-iv, d-ii",
+      "a-i, b-iv, c-ii, d-iii",
+      "a-iv, b-ii, c-iii, d-i"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Robert Dahl - Polyarchy: Participation and Opposition- Robert Dahl is known for his work on democracy and political participation, and \"Polyarchy\" is one of his significant contributions, exploring the concept of participatory democracy and opposition within a democratic framework. (b) S.M. Lipset - Political Man- S.M. Lipset's \"Political Man\" is a foundational work that examines the relationship between social structure and political behavior, focusing on how social and economic conditions affect political life. (c) Schmitter - Legality and Legitimacy- \"Legality and Legitimacy\" by Schmitter deals with the legal and normative aspects of political authority, particularly the relationship between legality and the legitimacy of political systems. (d) Roger Charlton - Political Realities: Comparative Government- \"Political Realities: Comparative Government\" by Roger Charlton discusses th",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-087",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match the items of List - I with items of List - II by selecting the correct answer from code : List - I List - II Islamic (a) (i) Led by Bolshevik Party Revolution Russian Anti-Modernization (b) (ii) Revolution Movement in Iran 1649 Revolution to limit Glorious (c) (iii) the arbitrary power of Revolution Charles II Establishing Puritan (d) (iv) Constitutional Revolution government in England",
+    "options": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-i, b-iii, c-ii, d-iv",
+      "a-iv, b-ii, c-iii, d-i",
+      "a-iii, b-iv, c-i, d-ii"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Islamic Revolution - (ii) Anti-Modernization Movement in Iran. The Islamic Revolution of 1979 in Iran was primarily an anti-modernization movement, as it sought to overthrow the Shah's regime and reject Western influences, leading to the establishment of an Islamic republic under Ayatollah Khomeini. (b) Russian Revolution - (i) Led by Bolshevik Party. The Russian Revolution of 1917 was led by the Bolshevik Party, under the leadership of Vladimir Lenin, which",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-088",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Modernization is commonly understood as being analogous to: (a) Westernization (b) Europeanization (c) Rise of Nation State System (d) Industrialization Choose the correct answer from the below ;",
+    "options": [
+      "(c), (d)",
+      "(b), (c)",
+      "(a), (b), (c)",
+      "(a), (b), (c), (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(a) Westernization- Modernization is often associated with Westernization, as many modernization theories originally emphasized the adoption of Western political, economic, and cultural practices. This includes the spread of democracy, industrial capitalism, individualism, and technological advancements, which were seen as central to modernization. (b) Europeanization- Similarly, Europeanization is another concept often linked to modernization, particularly in the context of adopting European norms, especially those concerning governance, economic systems, and cultural practices. The influence of European countries in shaping modern political and economic systems in other parts of the world can also be understood as part of the modernization process. (c) Rise of Nation State System- Modernization often involves the development and transformation of societies through various processes suc",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-089",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Examine the following statements regarding the media : (a) Print media is witnessing a marginalised role in contemporary democracies. (b) Electronic media assumes a decisive role. (c) Media is dispassionate and objective in all political systems. (d) Instruments of media are controlled by the industrial and corporate groups. Choose the correct answer from the below :",
+    "options": [
+      "(a), (b), (c), (d)",
+      "(a) and (c)",
+      "(a), (b), (c)",
+      "(a), (b) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(a) Print media is witnessing a marginalised role in contemporary democracies. True. With the rise of digital and electronic media, print media has seen a decline in influence and readership in many contemporary democracies. Digital platforms, including social media and online news outlets, have become the dominant sources of information. (b) Electronic media assumes a decisive role. True. In the modern media landscape, electronic media (including television, radio, and the internet) plays a significant role in shaping public opinion, disseminating news, and influencing political decisions. It has become the primary mode of communication for many people worldwide. (c) Media is dispassionate and objective in all political systems. False. Media is not always dispassionate and objective. In many political systems, media can be biased, whether due to political affiliations, corporate interes",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-090",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match the items of List - I with items of List - II: List - I List - II (Concepts) (Writers) (a) Dicey (i) Anomic interest groups S.P. (b) Huntington (ii) Judicial Review (c) Almond (iii) Political decay Marbury Vs (d) (iv) Rule of law Madison Select the correct answer from the given code below:",
+    "options": [
+      "a-iv, b-iii, c-i, d-ii",
+      "a-ii, b-iv, c-iii, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-i, b-ii, c-iv, d-iii"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Dicey - (iv) Rule of law- A.V. Dicey is best known for his contributions to the concept of the rule of law. He argued that the rule of law is fundamental to the British constitution and that it requires equality before the law and protection of individual rights. (b) S.P. Huntington - (iii) Political decay- S.P. Huntington discussed the concept of political decay in his work, particularly in relation to the failure of political institutions to adapt to changing social or economic conditions, leading to instability and decline. (c) Almond - (i) Anomic interest groups- Gabriel Almond studied anomic interest groups, which are interest groups that emerge suddenly in response to crises or unorganized societal movements, as opposed to organized, institutionalized interest groups. (d) Marbury Vs Madison - (ii) Judicial Review- The Marbury vs. Madison case (1803) is famous for establishing t",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-091",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following was not a feature of the Government of India Act, 1919 ?",
+    "options": [
+      "Provision for a bicameral legislature at the centre.",
+      "The Legislative Assembly would have an elected majority and control over ministers.",
+      "Communal representation was not only retained but extended.",
+      "Enlarged the electorates both for provinces and emperial legislature."
+    ],
+    "correctIndex": 1,
+    "explanation": "Option A is correct: The Government of India Act, 1919, introduced a bicameral legislature at the central level, marking a significant constitutional development. It established two houses: the Council of State (Upper House) and the Legislative Assembly (Lower House). This was the first time India had a bicameral structure, reflecting a gradual move toward representative governance. Option B is incorrect: It does not align with the provisions of the Government of India Act, 1919. While the Legislative Assembly did include elected members, they were not in the majority. Furthermore, the Assembly lacked significant control over ministers, as the real executive authority remained with the Governor-General and his council, dominated by British officials. The dyarchy system limited Indian ministers to \"transferred\" subjects, leaving critical areas under British control. Option C is correct: T",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-092",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who amongst the following provided a link between pre and post independence institutional framework to study Indian politics ?",
+    "options": [
+      "Rajni Kothari",
+      "Myron Weiner",
+      "Morries Jones",
+      "Paul R. Brass"
+    ],
+    "correctIndex": 2,
+    "explanation": "W. H. Morris-Jones is renowned for his work on Indian politics and for providing a conceptual link between the institutional frameworks of pre- independence and post-independence India. He analyzed how colonial political institutions, such as the parliamentary system and electoral politics, influenced the democratic framework of independent India. His notable contributions include the classification of Indian politics into three idioms: the modern, traditional, and saintly idioms, which provided a framework for understanding the continuity and change in Indian politics.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-093",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following is true about the fundamental rights under Indian Constitution ? (a) It is protected and enforced by the Constitution. (b) It can be changed by the common legislative process. (c) Supreme Court is the guardian of fundamental rights. (d) All Constitutional rights are fundamental rights. Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (c) only",
+      "(a) and (b) only",
+      "(a) and (b) only",
+      "(a), (c) and (d) only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement (a) is True: Fundamental rights are enshrined in Part III of the Indian Constitution and are protected by the Constitution. These rights are enforceable through courts, ensuring that individuals can seek redressal in case of violations. Statement (b) is False: Fundamental rights cannot be altered by a simple legislative process. They can only be amended through a constitutional amendment under Article 368, which requires a special procedure and, in some cases, ratification by half of the state legislatures. Statement (c) is True: The Supreme Court, under Article 32, is the guardian of fundamental rights and has the power to issue writs (like habeas corpus, mandamus, prohibition, quo warranto, and certiorari) for their enforcement. Similarly, High Courts have this power under Article 226. Statement (d) is False: Not all constitutional rights are fundamental rights. Fundamental r",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-094",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match List - I with List - II and select the correct answer from the code given below : List - I (Idea/ List - II (Person Concept) Associated) (a) Soft state (i) Atul Kohli Politics of Scarcity (b) (ii) Subrata K. Mitra Crisis of (c) (iii) Gunnar Myrdal Governability Contentious (d) (iv) Myron Weiner Democracy",
+    "options": [
+      "(a)-(iii),(b)-(iv),(c)-(i),(d)-(ii)",
+      "(a)-(ii),(b)-(iii),(c)-(i),(d)-(iv)",
+      "(a)-(iv),(b)-(ii),(c)-(iii),(d)-(i)",
+      "(a)-(i),(b)-(iv),(c)-(ii),(d)-(ii)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) Soft State → (iii) Gunnar Myrdal: Myrdal introduced the concept of the \"soft state\" in his work Asian Drama. It refers to the lack of societal discipline and weak enforcement of policies in developing countries like India. (b) Politics of Scarcity → (iv) Myron Weiner: Myron Weiner used this term to explain how resource constraints in developing countries shape political behavior and decision-making. (c) Crisis of Governability → (i) Atul Kohli: Atul Kohli discussed this concept in the context of India's challenges in maintaining stable governance due to economic and political pressures. (d) Contentious Democracy → (ii) Subrata K. Mitra: Subrata K. Mitra described India's democracy as \"contentious,\" reflecting the conflict and competition among various social groups while maintaining democratic norms.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-095",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following is not true about the amendment of the Constitution under Article 368 ?",
+    "options": [
+      "The Bill may be introduced in either House of Parliament.",
+      "The Bill must be passed by special majority (2/34 present and voting and more than 50% of the total membership).",
+      "In case of disagreement between the Houses joint sitting may be called.",
+      "The President is bound to give assent to the Bill duty passed and ratified."
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (A) is True: A constitutional amendment bill can be introduced in either the Lok Sabha or the Rajya Sabha. Unlike ordinary bills, it does not require prior recommendation from the President. Statement (B) is True: At least two-thirds of the members present and voting.More than 50% of the total membership of the House. Statement (C) is False: A joint sitting of Parliament, as provided under Article 108, cannot be called to resolve disagreements on a constitutional amendment bill. Both Houses must independently approve the bill with the required special majority for it to proceed. Statement (D) is True: Once the bill is passed by both Houses and, where required, ratified by at least half of the state legislatures, the President is obligated to give assent. The President cannot withhold or return the bill for reconsideration.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-096",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "chronological",
+    "question": "Put the following Presidents of India since 1989 in their chronological order and select the correct answer from the code given below : K.R. Narayanan, A.P.J. Abdul Kalam, R. Venkatraman, Shankar Dayal Sharma, Pratibha Patil Code :",
+    "options": [
+      "KR. Narayanan, R. Venkatraman, Pratibha Patil, A.P.J. Abdul Kalam, Shankar Dayal Sharma.",
+      "R. Venkatraman, A.P.J. Abdul Kalam, Shankar Dayal Sharma, Pratibha Patil, K.R. Narayanan.",
+      "Pratibha Patil, K.R. Narayanan, Shankar Dayal Sharma, R. Venkatraman, A.P.J. Abdul Kalam.",
+      "&. Venkatraman, Shankar Dayal Sharma, K.R. Narayanan, A.P.J. Abdul Kalam, Pratibha Patil."
+    ],
+    "correctIndex": 3,
+    "explanation": "R. Venkatraman (1987–1992): Served as the 8th President of India. Shankar Dayal Sharma (1992–1997): Became the 9th President of India, succeeding R. Venkatraman. K.R. Narayanan (1997–2002): Served as the 10th President of India and the first Dalit to hold the office. A.P.J. Abdul Kalam (2002–2007): Known as the \"Missile Man of India,\" he served as the 11th President. Pratibha Patil (2007–2012): Became the 12th President and the first woman to hold the office.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-097",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which article of the Indian Constitution empower the Parliament to make provisions for a contingency when the offices of both the President and the Vice-President fall vacant by reasons of death, resignation, removal or otherwise ?",
+    "options": [
+      "Article 123",
+      "Article 72",
+      "Article 70",
+      "Article 58"
+    ],
+    "correctIndex": 2,
+    "explanation": "Option C is correct: Article 70 of the Indian Constitution empowers the Parliament to make provisions for handling a contingency where both the President and the Vice-President's offices fall vacant due to reasons such as death, resignation, removal, or any other reason.The Parliament can legislate to ensure the continuity of governance during such extraordinary situations. Other Options: Option A is incorrect: Article 123- Relates to the President's ordinance-making power during recesses of Parliament. Option B is incorrect: Article 72- Grants the President the power to grant pardons, reprieves, respites, or remissions of punishment. Option D is incorrect: Article 58- Specifies the qualifications required for election as President, such as age, citizenship, and eligibility.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-098",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "“India since 1989 has witnessed fewer abuses of power by Prime Ministers than the United Kingdom experienced under either Margaret Thatcher or Tony Blair”. Whose statement is this ?",
+    "options": [
+      "Atul Kohli",
+      "Granville Austin",
+      "James Manor",
+      "Christophe Jafferlot"
+    ],
+    "correctIndex": 2,
+    "explanation": "“India since 1989 has witnessed fewer abuses of power by Prime Ministers than the United Kingdom experienced under either Margaret Thatcher or Tony Blair”. The above statement is associated with James Manor, a prominent scholar of Indian politics and comparative politics, made the observation that India since 1989 has witnessed fewer abuses of power by Prime Ministers than the United Kingdom experienced under either Margaret Thatcher or Tony Blair. His analysis highlights the fragmented nature of coalition politics in India post-1989, which constrained the centralization of power in the office of the Prime Minister, unlike the more centralized political systems in the UK during Thatcher and Blair's tenure.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-099",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who of the following regard the Supreme Court of India as having a dual personality - a legal institution and a public institution ?",
+    "options": [
+      "Granville Austin",
+      "Upendra Baxi",
+      "Madhav Khosla and Ananth Padmanabhan",
+      "N. Robinson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Madhav Khosla and Ananth Padmanabhan regard the Supreme Court of India as having a dual personality: As a legal institution, it performs its constitutional duty of adjudicating disputes and interpreting the law. As a public institution, it plays a significant role in influencing public discourse, societal values, and even policy-making, especially through Public Interest Litigation (PIL). Their analysis emphasizes how the Court has transitioned into a dynamic body engaging with public concerns, reflecting its evolving role in India’s democracy.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-100",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who calls Election Commission of India as an effective “bulwork of free and fair elections’ ?",
+    "options": [
+      "Alistair McMillan",
+      "Lloyd and Susanne Rudolph",
+      "R.P. Bhalla",
+      "M. Katju"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lloyd and Susanne Rudolph, in their analysis of Indian democracy, praised the Election Commission for its pivotal role in maintaining the credibility of India's electoral process. They emphasized that the ECI ensures free and fair elections by: Upholding electoral integrity: Preventing malpractices and ensuring impartiality. Empowering citizens: Enabling universal adult suffrage and fair representation. Maintaining independence: Operating without undue influence from political parties or the government.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-101",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match List - I with List - II and select the correct answer from the code given below : List - I (Book) List - II (Authors) An undocumented wonder : The (a) Making of the (i) BS. Rao Great Indian Election The Framing of (b) India’s Constitution (ii) Granville Austin : A study Working a Democratic (c) (iii) S.Y. Quraishi Constitution : The Indian Experience The politics of (d) India since (iv) Paul R. Brass Independence Code: (a) (b) (c) (d)",
+    "options": [
+      "(a)-(ii),(b)-(iii),(c)-(iv),(d)-(i)",
+      "(a)-(iii),(b)-(i),(c)-(ii),(d)-(iv)",
+      "(a)-(iv),(b)-(ii),(c)-(iii),(d)-(i)",
+      "(a)-(i),(b)-(iv),(c)-(ii),(d)-(iii)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) An Undocumented Wonder: The Making of the Great Indian Election → (iii) S.Y. Quraishi: Written by S.Y. Quraishi, former Chief Election Commissioner of India, this book provides an in- depth account of the electoral process in India. (b) The Framing of India’s Constitution: A Study → (i) B.S. Rao: This book by B. Shiva Rao is a detailed study of the making of the Indian Constitution. (c) Working a Democratic Constitution: The Indian Experience → (ii) Granville Austin: Written by Granville Austin, this book examines the functioning of India’s Constitution and its democratic processes. (d) The Politics of India Since Independence → (iv) Paul R. Brass: Paul R. Brass authored this comprehensive book on Indian politics post- independence, covering key events and developments.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-102",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match List - I with List - II and select the correct answer from the code given below : List - II (Chief List - I (State) Minister) (a) Uttar Pradesh (i) Jairam Thakur Sarbananda (b) Assam (ii) Sonowal (c) Kerala (iii) Yogi Adityanath (d) Himachal Pradesh (iv) Pinarayi Vijayan Code : (a) (b) (c) (d)",
+    "options": [
+      "(a)-(iii),(b)-(iv),(c)-(i),(d)-(ii)",
+      "(a)-(iii),(b)-(ii),(c)-(iv),(d)-(i)",
+      "(a)-(ii),(b)-(iii),(c)-(iv),(d)-(i)",
+      "(a)-(iv),(b)-(i),(c)-(iii),(d)-(ii)"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a) Uttar Pradesh → (iii) Yogi Adityanath: Yogi Adityanath has been the Chief Minister of Uttar Pradesh since 2017. (b) Assam → (ii) Sarbananda Sonowal: Sarbananda Sonowal served as the Chief Minister of Assam from 2016 to 2021. (c) Kerala → (iv) Pinarayi Vijayan: Pinarayi Vijayan has been the Chief Minister of Kerala since 2016, representing the Left Democratic Front (LDF). (d) Himachal Pradesh → (i) Jairam Thakur: Jairam Thakur served as the Chief Minister of Himachal Pradesh from 2017 until December 2022.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-103",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who describes Indian federation as a “holding together federation and not a “coming together federation” ?",
+    "options": [
+      "P. Bardhan",
+      "R.L. Watts",
+      "Douglas Verney",
+      "D.D. Basu"
+    ],
+    "correctIndex": 0,
+    "explanation": "P. Bardhan, a renowned economist and political analyst, described India as a \"holding together federation\" in his analysis of the country's political and economic structure. He highlighted that India's federal system evolved to manage its vast diversity within a unified political framework, with a strong central government holding significant powers over the states. In contrast to \"coming together federations\" (like the USA), where states voluntarily join to create a union, a \"holding together federation\" involves an already existing large and diverse polity that decentralizes power to maintain unity and accommodate regional differences.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-104",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which committee on Panchayati Raj in India takes of three phases : “The phase of ascendency The phase of stagnation and The phase of decline” ?",
+    "options": [
+      "Sadiq Ali",
+      "L.M. Singhvi",
+      "Asoka Mehta",
+      "B.R. Mehta"
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct answer is option C (Ashok Mehta) The Ashok Mehta Committee (1977) was constituted to review the Panchayati Raj system and suggest measures to strengthen it. The committee's observations regarding the evolution of Panchayati Raj in India are as follows: The Phase of Ascendency: Refers to the period after the introduction of Panchayati Raj following the recommendations of the Balwantrai Mehta Committee (1957). During this phase, the system was actively implemented and gained prominence. The Phase of Stagnation: This phase occurred as the initial enthusiasm for Panchayati Raj began to decline. Challenges like financial and administrative inefficiency, coupled with political neglect, led to a stagnation in the system's development. The Phase of Decline: By the mid-1970s, Panchayati Raj institutions had lost their importance and relevance, mainly due to centralization of power, re",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-105",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The grounds on which President's Rule has been imposed on the states in India are : (a) If no stable government can be formed. (b) If the Cabinet has lost majority and no other ministry commanding a majority in the Assembly can be formed at once. (c) If the state government does not obey the directives given by the Union government or breakdown of federal structure. (d) Corruption. Select the correct answer from the codes given below :",
+    "options": [
+      "(a) and (b) only",
+      "(a), (b) and (c) only",
+      "(a), (b) and (d) only",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under Article 356 of the Indian Constitution, President's Rule can be imposed on a state when there is a failure of the constitutional machinery. The grounds for its imposition include: Statement (a) is correct: This situation arises when no political party or coalition can command a majority in the state legislature. Statement (b) is correct: If the ruling government loses majority support in the Assembly and no alternative arrangement is possible, President's Rule can be imposed. Statement (c) is correct: This could include defiance of the Constitution, lawlessness, or refusal to implement Union government directives essential for maintaining constitutional governance. Statement (d) is incorrect: Corruption is not a direct ground for imposing President's Rule. While corruption can lead to instability and breakdown of the state government, it's not a standalone reason for invoking Artic",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-106",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match List - I with List - If and select the correct answer from the code given below : List - I (Movement) List - II (State) Tebhaga (a) (i) Odisha Movement Silent Valley (b) (ii) Uttar Pradesh Project Banwasi Seva (c) (iii) Kerala Andolan Chilka Bachao (d) (iv) West Bangal Andolan Code (a) (b) (c) (d)",
+    "options": [
+      "(a)-(ii),(b)-(iv),(c)-(i),(d)-(iii)",
+      "(a)-(i),(b)-(iii),(c)-(ii),(d)-(iv)",
+      "(a)-(iv),(b)-(iii),(c)-(ii),(d)-(i)",
+      "(a)-(iii),(b)-(ii),(c)-(iv),(d)-(i)"
+    ],
+    "correctIndex": 2,
+    "explanation": "(a) Tebhaga Movement – (iv) West Bengal: The Tebhaga Movement was a peasant uprising in Bengal in the 1940s, where sharecroppers demanded two-thirds of the produce instead of the customary one-third share. (b) Silent Valley Project – (iii) Kerala: This was an environmental movement in Kerala in the 1970s and 1980s to protect the Silent Valley forest from being submerged due to a proposed hydroelectric dam. (c) Banwasi Seva Andolan – (ii) Uttar Pradesh: This movement focused on the rights and welfare of forest-dwelling tribal communities in the region of Uttar Pradesh. (d) Chilka Bachao Andolan – (i) Odisha: This movement was aimed at protecting Chilka Lake, Asia's largest brackish water lagoon, in Odisha from environmental degradation and commercial exploitation.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-107",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following have been discussed as crisis of India’s national unity by Paul R. Brass in his book The Politics of India since Independence ? (a) Punjab (b) The North East (c) Casteism (d) Kashmir Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (d) only",
+      "(b) and (c) only",
+      "(a), (b) and (c) only",
+      "(a), (b) and (d) only"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paul R. Brass, in his book, \"The Politics of India Since Independence,\" extensively discusses the challenges to India's national unity. He identifies several regions and issues as crises for national integration, with a focus on: (a) Punjab: The rise of Sikh separatism in the 1980s, culminating in the demand for Khalistan and the violent insurgency in Punjab, posed a significant challenge to India's national unity. (b) The North East: The region has experienced various insurgencies and separatist movements (e.g., in Nagaland, Manipur, and Assam), often driven by demands for autonomy or independence. (d) Kashmir: The territorial and political conflict in Jammu and Kashmir, exacerbated by external factors (e.g., Pakistan's involvement) and internal dissatisfaction, has been a long-standing issue affecting India's unity. (c) Casteism (Not a crisis of unity as per Brass): While caste-related",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-109",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following Commissions was not related to Backward Classes ?",
+    "options": [
+      "Bakshi Commission",
+      "Mandal Commission",
+      "Havnoor Commission",
+      "Tapan Raychaudhuri"
+    ],
+    "correctIndex": 3,
+    "explanation": "Option A is incorrect- Bakshi Commission (1975): Formed in Jammu and Kashmir to identify backward classes for reservation benefits. Option B is incorrect- Mandal Commission (1979): Set up under B.P. Mandal to identify socially and educationally backward classes (SEBCs) in India. Its recommendations led to the implementation of 27% reservation for OBCs in central government jobs and educational institutions. Option C is incorrect- Havnoor Commission (1975): Karnataka State Backward Classes Commission, chaired by L.G. Havnoor, focused on identifying backward classes within the state. Option D is correct- Tapan Raychaudhuri is an historian and economist, not associated with any commission related to backward classes. His work primarily focused on Indian economic and social history.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-110",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "“If Hume and other English liberals hoped to use Congress as a safety-valve, the Congress leaders hoped to use Hume as a lightening-conductor”. Who said this ?",
+    "options": [
+      "S.R. Mehrotra",
+      "Sumit Sarkar",
+      "Bipan Chandra",
+      "Tapan Raychaudhuri"
+    ],
+    "correctIndex": 2,
+    "explanation": "“If Hume and other English liberals hoped to use Congress as a safety-valve, the Congress leaders hoped to use Hume as a lightening- conductor” The above statement is associated with Bipan Chandra.He used this metaphor to describe the early dynamics between the British and Indian leaders in the Indian National Congress (INC). Safety-valve theory: The British believed that the formation of the Congress would allow them to contain Indian unrest by providing a platform for political dialogue, thus preventing more radical movements. Lightning-conductor metaphor: Indian leaders, on the other hand, hoped to use the Congress to mobilize the masses while using Hume as a means to shield the movement from direct British suppression.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-111",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following was the first to advance the idea of worker's participation in management ?",
+    "options": [
+      "Henry Fayol",
+      "Herbert Simon",
+      "F.W. Taylor",
+      "Mary Parker Follet"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Henry Fayol (1849-1925): French management theorist, emphasized organizational hierarchy and command. B. Herbert Simon (1906-1991): Nobel laureate, focused on administrative behavior, decision- making, and organizational design. C. F.W. Taylor (1856-1915): American mechanical engineer, pioneered scientific management, emphasizing efficiency and specialization. D. Mary Parker Follett (1868-1933) was an American management theorist and philosopher. She pioneered the concept of \"worker participation in management\" or \"industrial democracy.\" Her ideas, outlined in her works: Key Contribution Of M.P. Follett 1. The New State (1918): Follett advocated for collaborative management, emphasizing worker involvement. 2. Creative Experience (1924): She proposed decentralized decision-making and shared responsibility. 3. Management Theory (1941, published posthumously): Follett's work influenced m",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-112",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Match List I with List II: List I List II Administrative system as a A. Behavioural I. sub-system of the society Agrarian - Bureaucratic B. II. Transitia - Industria Legal - C. Ecological III. Rational authority Analysis of human General D. IV. behaviour in system administrative settings Choose the correct answer from the options given below",
+    "options": [
+      "A-(IV), B-(III), C-(II), D-(I)",
+      "A-(III), B-(IV), C-(II), D-(I)",
+      "A-(IV), B-(I), C-(III), D-(II)",
+      "A-(III), B-(II), C-(IV), D-(I)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Behavioural - (IV) Analysis of human behaviour in administrative settings - It focuses on studying human behavior, decision-making, and interpersonal dynamics within administrative systems. Example: Herbert Simon's work on decision- making and organizational behavior. B. Bureaucratic - (III) Legal - Rational authority - Max Weber's concept of bureaucracy emphasizes hierarchy, formal rules, and rational-legal authority as the basis of efficient administration. C. Ecological: Agrarian - (II) Transitia - Industria - F.W. Riggs' model describes how administration evolves with societal changes (Agrarian = traditional, Transitia = transitional, Industria = modern). D. General system - (I) Administrative system as a sub-system of the society - It views administration as part of the broader societal system, highlighting interactions with political, economic, and social factors. Thus, the corr",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-114",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following has criticized classical theory as ‘homely proverbs, myths, slogans and pompous identities’ ?",
+    "options": [
+      "W.F. Willougbhy",
+      "Luther Gulick",
+      "Henri Fayol",
+      "Herbert Simon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Herbert Simon criticized the classical theories of management and administration for their lack of empirical rigor and scientific basis. He referred to concepts like Fayol’s principles of management as “homely proverbs, myths, slogans, and pompous identities”, highlighting that they were often contradictory and lacked systematic evidence. Simon emphasized the need for a more scientific and analytical approach to decision- making in organizations, leading to his development of the concept of bounded rationality and contributions to the field of behavioral decision theory. Thus, the correct option is D.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-115",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following said that behaviour in administration should be studied through psycho-analysis ?",
+    "options": [
+      "Alex Bavelas",
+      "Orway Tead",
+      "Abraham Maslow",
+      "Chester Banard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ordway Tead emphasized the importance of understanding human behavior in administrative contexts and suggested using psycho-analysis as a tool to study and manage such behavior. He believed that the psychological aspects of human behavior, including emotions and subconscious influences, play a crucial role in organizational dynamics and decision-making processes. This approach highlighted the need for a deeper analysis of human motivation and behavior in administrative settings, paving the way for more human-centric management theories. Thus, the correct option is B.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-116",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The Hawthorne experiments belong to the era of :",
+    "options": [
+      "Mid 1930's",
+      "Late 1930's",
+      "Early 1920’s",
+      "Late 1920's"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Hawthorne Experiments, conducted by the Western Electric Company, took place from 1924 to 1932. These groundbreaking studies explored the impact of social factors on worker productivity. Key Phases of the Experiments 1. Relay Experiment (1924-1927): Studied the effect of lighting on productivity. 2. Hawthorne Studies (1927-1932): Investigated social factors, including supervision, incentives, and work environment. Key Findings 1. Social Factor Effect: Workers' productivity increased due to attention and interest, not just physical working conditions. 2. Human Relations Approach: Emphasized the importance of social interactions, motivation, and job satisfaction. 3. Organizational Behavior: Laid the foundation for modern organizational behavior theories. Thus, the correct option is D.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-117",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who among the following described bureaucracy as “The continental nuisance” ?",
+    "options": [
+      "Max Weber",
+      "Thomas Carlyle",
+      "M. Crozier",
+      "Karl Marx"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Max Weber: Developed the concept of bureaucratic rationalization. B. Thomas Carlyle (1795-1881), a Scottish historian, philosopher and sociologist, described bureaucracy as \"The Continental Nuisance\". He critiqued the rigid, inefficient and dehumanizing aspects of bureaucratic systems. Carlyle's criticism emerged during the 19th century, when bureaucratic structures were expanding in Europe. He argued that bureaucracy: 1. Stifled individual creativity and initiative. 2. Created red tape and inefficiency. 3. Undermined personal relationships and community. Influential Works: 1. \"The French Revolution: A History\" (1837) 2. \"Past and Present\" (1843) C. M. Crozier: Analyzed bureaucratic pathologies in \"The Bureaucratic Phenomenon\" (1964). D. Karl Marx: Critiqued bureaucracy as a tool of capitalist oppression. Thus, the correct option is B.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-118",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "‘Unity of Command’ means :",
+    "options": [
+      "That the subordinate will have only one supervisor.",
+      "That the subordinate will have more than one supervisor.",
+      "That all the units are put under one head.",
+      "That the work is divided among all the subordinates."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct opttion is A. Explanattion: A.That the subordinate will have only one supervisor - \"Unity of Command\" is a fundamental principle of organizational management, stating that each subordinate should report directly to only one supervisor, avoiding dual or multiple reporting relationships. Key Implications: 1. Clear lines of authority 2. Unambiguous responsibility 3. Efficient communication 4. Reduced confusion and conflict 5. Easier performance evaluation The other options are incorrect because: B.That the subordinate will have more than one supervisor - This is not correct because dual reporting can lead to: 1. Confusion and conflicting priorities 2. Decreased accountability 3. Inefficient communication 4. Increased stress for subordinates C.That all the units are put under one head - Unity of Direction refers to grouping related tasks under a single manager. D.That the work is",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-119",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The Governor of a state in his capacity as Administrator of an adjoining Union Territory discharges his functions independently of :",
+    "options": [
+      "The President of India",
+      "The Union Cabienet",
+      "The Union Home Minister",
+      "The State Council of Ministers"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. The President of India - The Governor acts under the ultimate authority of the President while administering a Union Territory and cannot act independently of the President. B. The Union Cabinet - The Union Cabinet formulates policies for Union Territories, which the Governor as Administrator must follow, making the Governor not independent of the Union Cabinet. C. The Union Home Minister - The administration of Union Territories is supervised by the Union Home Ministry, so the Governor coordinates with and follows its directions. D. The State Council of Ministers - When acting as Administrator of a Union Territory, the Governor functions separately from their role as head of the state government and does not depend on the advice of the State Council of Ministers. Thus, the correct option is D.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-120",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are the factors determining the length of span of control ? (a) Age of the organisation (b) Personality of the supervisor (c) Calibre of the subordinates (d) Organisational structure Select the correct answer from the code given below :",
+    "options": [
+      "(b) and (c) only",
+      "(a) and (c) only",
+      "(b), (c) and (d) only",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The factors determining the length of span of control typically include various aspects that influence how effectively a supervisor can manage their subordinates. Let's evaluate the options given: (a) Age of the organisation: The age or maturity of an organization can impact the span of control, as more established organizations may have more structured processes in place. (b) Personality of the supervisor: The ability of a supervisor to effectively manage and communicate with their team can significantly influence the span of control. (c) Calibre of the subordinates: The competence and skill level of subordinates are crucial, as more capable subordinates may require less direct supervision. (d) Organisational structure: The overall structure of the organization, including its hierarchy and complexity, can affect the span of control. Thus, the correct option is D.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-121",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following are the benefits of E- governance ? (a) It makes government more accountable. (b) It minimises people's participation in government affairs. (c) It encourages bureaucratic tendencies. (d) It lowers transaction costs. (e) It helps in building trust between government and citizen. Select the correct answer from the code given below :;",
+    "options": [
+      "(a), (b), (c), (d) and (e)",
+      "(a), (b), (c) and (d) only",
+      "(a), (b), (d) and (e) only",
+      "(a), (d) and (e) only"
+    ],
+    "correctIndex": 3,
+    "explanation": "(a) It makes government more accountable (Correct) - E-governance enhances transparency and accountability as it enables better monitoring of government activities and facilitates public access to information. (b) It minimizes people's participation in government affairs (Incorrect) - E-governance often increases people's participation by providing more avenues for citizens to engage with the government, such as online forums, e- petitions, and digital feedback systems. (c) It encourages bureaucratic tendencies (Incorrect) - E-governance aims to reduce bureaucratic inefficiencies by streamlining processes and reducing the need for physical paperwork and in-person interactions. (d) It lowers transaction costs (Correct) - E- governance reduces transaction costs by making services more accessible online, thus saving time and resources for both the government and the public. (e) It helps in ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-124",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "match",
+    "question": "Match List - I with List - II: List I List II Span of A. I. Supervision Contol One single B. Hierarchy II. boss Through Delegation C. III. proper channel Unity of Flow of D. IV. Command authority Choose the correct answer from the options given below:",
+    "options": [
+      "A-(II), B-(I), C-(III), D-(IV)",
+      "A-(I), B-(IV), C-(III), D-(II)",
+      "A-(III), B-(I), C-(IV), D-(II)",
+      "A-(III), B-(II), C-(I), D-(IV) 73rd 74th"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Span of Control - (I) Supervision - The span of control refers to the number of subordinates that a manager can effectively supervise. It is directly linked to supervision, as the span determines the scope of a manager’s responsibility for overseeing and guiding subordinates. B. Hierarchy - (IV) Flow of authority - Hierarchy in an organization refers to the levels of authority within the organization. This creates a flow of authority from top to bottom, where each level has authority over the level below it. C. Delegation - (III) Through proper channel - Delegation is the process of transferring responsibility and authority from one person to another. This process happens through proper channels, ensuring that the tasks are delegated in an organized and clear manner. D. Unity of Command - (II) One single boss - The principle of unity of command states that a subordinate should report ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2018-125",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The and Amendment Acts have resulted in : (a) Transparency in the governance (b) Accountability in governance (c) Gender empowerment (d) Deepening of democracy Select the correct answer from the code given below :",
+    "options": [
+      "(c) and (a) only",
+      "(a) and (c) only",
+      "(b), (c) and (d) only",
+      "(a), (b), (c) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 73rd and 74th Amendment Acts of the Indian Constitution have significantly contributed to the following aspects: (a) Transparency in governance: The amendments made it mandatory to hold regular elections and ensured a greater degree of transparency in local governance. The process of decentralization, with clear responsibilities for local bodies, encouraged transparency. (b) Accountability in governance: Local bodies are now more accountable to the people, as the amendments provided for elections at the grassroots level, enabling citizens to hold their representatives accountable for their actions. (c) Gender empowerment: The 73rd and 74th Amendments reserved 33% of the seats for women in Panchayats and Municipalities, providing a direct avenue for gender empowerment and encouraging women's participation in governance. (d) Deepening of democracy: By promoting participation at the gra",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-126",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "After independence, the role of the District Magistrate has undergone a substantial change mainly due to :",
+    "options": [
+      "Political awakening",
+      "The role of mass media",
+      "Democratic decentralisation",
+      "Periodical elections"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Political Awakening : Political awakening, while important, has not directly led to a substantial change in the role of the District Magistrate. It has, however, led to greater political participation and awareness, which is an indirect factor. B. The Role of Mass Media : The mass media has influenced public opinion and government accountability, but it is not the primary factor for the substantial change in the role of the District Magistrate. C. Democratic decentralisation : The District Magistrate (DM), traditionally a key administrative figure in the British colonial era, has seen a substantial shift in responsibilities after India’s independence. This change is primarily due to the emphasis on democratic decentralization. After independence, the 73rd and 74th Amendment Acts (1992) introduced democratic decentralization by empowering local self-governments such as Panchayats and M",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-127",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The report “Right to Information : Master key to Good Governance’ was submitted by :",
+    "options": [
+      "The Sarkaria Commission",
+      "Punchhi Commission",
+      "First Administrative Reforms Commission",
+      "Second Administrative Reforms Commission"
+    ],
+    "correctIndex": 3,
+    "explanation": "D.The Second Administrative Reforms Commission (ARC), chaired by Veerappa Moily, submitted the report titled \"Right to Information: Master key to Good Governance\". This report focused on the need for greater transparency and accountability in the government through the implementation of the Right to Information (RTI) Act, which is considered a vital tool for ensuring good governance. Why the other options are not correct: A. The Sarkaria Commission: The Sarkaria Commission (1983) primarily focused on the relationship between the Centre and the States, and did not specifically address issues related to the Right to Information. B. Punchhi Commission: The Punchhi Commission (2007) was set up to review the Centre-State relations, not to focus on the Right to Information. C. First Administrative Reforms Commission: The First Administrative Reforms Commission (1966), chaired by M. R. Masani, ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-128",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following Commissions/Committees/ Thinkers has identified 27 modes of corruption ?",
+    "options": [
+      "Kautilya",
+      "Vohra Committee",
+      "Santhanam Committee",
+      "Central Vigilance Commission"
+    ],
+    "correctIndex": 2,
+    "explanation": "; C. The Santhanam Committee (1964) identified 27 modes of corruption in public offices, highlighting various forms of corrupt practices. This committee, chaired by Justice N. Santhanam, was set up by the Government of India to examine the problem of corruption. Key Findings of the Santhanam Committee 1. 27 modes of corruption: Embezzlement, bribery, nepotism, favoritism, and other forms. 2. Corruption as a systemic issue: Highlighted need for institutional reforms. 3. Role of bureaucracy: Emphasized accountability and transparency. Other Relevant Committees/Commissions A. Kautilya (Ancient Indian thinker): Discussed administrative ethics and corruption prevention. B. Vohra Committee (1993): Focused on organized crime and corruption. D. Central Vigilance Commission (CVC): Monitors and investigates corruption cases. Thus, the correct option is C.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-129",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "The Joint Consultative Machinery in India was established on the recommendation of :",
+    "options": [
+      "Fisrt Pay Commission",
+      "Second Pay Commission",
+      "First Administrative Reforms Commission",
+      "Paul Appleby Report"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. First Pay Commission (1948): Laid groundwork for JCM. B. Second pay commission: Joint Consultative Machinery (JCM) was established in 1973, following the recommendations of the Second Pay Commission (1973). It aims to promote harmonious industrial relations, resolve grievances and facilitate collective bargaining. Objectives 1. Promote industrial peace and harmony. 2. Resolve grievances and disputes. 3. Facilitate collective bargaining. 4. Improve industrial relations. C. First Administrative Reforms Commission (1966): Emphasized participative governance. D. Paul Appleby Report (1961): Recommended administrative reforms. Thus, the correct option is B.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-130",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which of the following Commissions/Committees has identified ‘weak governance’ as the main reason for corruption in India ?",
+    "options": [
+      "First Administrative Reforms Commission",
+      "Second Administrative Reforms Commission",
+      "Vohra Committee",
+      "Santhanam Committee"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. First Administrative Reforms Commission: The First Administrative Reforms Commission (1966), chaired by M. M. Sankhdher, focused on improving administrative efficiency and addressing governance issues, but it did not specifically identify \"weak governance\" as the main cause of corruption in India. B.The Second Administrative Reforms Commission (ARC), chaired by Veerappa Moily, identified \"weak governance\" as one of the main reasons for corruption in India. The Commission emphasized that the lack of transparency, accountability, and ineffective administrative structures created an environment conducive to corruption. It also highlighted the need for structural reforms, improved governance, and stronger anti- corruption mechanisms to address the problem effectively. C. Vohra Committee: The Vohra Committee (1993) examined the nexus between criminals, politicians, and bureaucrats in India",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-131",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following is the sequential order of the following states becoming acknowledged nuclear powers ?",
+    "options": [
+      "America, Britain, Soviet Union, France and China",
+      "America, Soviet Union, France, Britain and China",
+      "Soviet Union, America, Britain, China and France",
+      "America, Soviet Union, Britain, France and China"
+    ],
+    "correctIndex": 3,
+    "explanation": "The sequence of countries becoming acknowledged nuclear powers is based on the timeline of their first successful nuclear weapons tests: 1. United States (1945): The United States was the first country to develop and test a nuclear weapon, during World War II, as part of the Manhattan Project. The first test, named \"Trinity,\" occurred on July 16, 1945. The U.S. used nuclear weapons in Hiroshima and Nagasaki in August 1945. 2. Soviet Union (1949): The Soviet Union conducted its first successful nuclear test, \"RDS- 1\" (nicknamed Joe-1 by the U.S.), on August 29, 1949. This marked the beginning of the nuclear arms race during the Cold War. 3. United Kingdom (1952) : The UK became the third nuclear power after testing its first atomic bomb, \"Hurricane,\" on October 3, 1952, on the Montebello Islands in Western Australia. 4. France (1960) : France conducted its first nuclear test, \"Gerboise Bl",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-132",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which Chapter of the United Nations deals with the ‘Pacific Settlement of Disputes’ ?",
+    "options": [
+      "Chapter II",
+      "Chapter III",
+      "Chapter VI",
+      "Chapter I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chapter VI of the United Nations Charter is titled \"Pacific Settlement of Disputes\" and specifically deals with methods to resolve international disputes peacefully to avoid escalation into armed conflicts. Key Provisions of Chapter VI: 1. Article 33: Encourages parties to a dispute that may endanger international peace and security to seek a resolution through negotiation, mediation, arbitration, judicial settlement, or other peaceful means. 2. Article 34: Allows the UN Security Council to investigate disputes to determine if they might threaten international peace. 3. Article 35: Permits any UN member state, or even non-members under certain conditions, to bring disputes to the attention of the Security Council or General Assembly. 4. Article 36: Authorizes the Security Council to recommend procedures or methods of settlement. 5. Article 37: States that if a dispute cannot be resolved ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-134",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "India has signed strategic partnership agreements with :",
+    "options": [
+      "France, Russia, Iran and South Africa",
+      "China, America, Britain and Argentina",
+      "ASEAN, Japan, Australia and Tanzania",
+      "Vietnam, Seychelles, Mongolia and Singapore"
+    ],
+    "correctIndex": 0,
+    "explanation": "India has signed strategic partnership agreements with several countries, aiming to deepen bilateral cooperation across defense, trade, energy, and geopolitics. Among the options provided, France, Russia, Iran, and South Africa have strategic agreements with India. Option A: France, Russia, Iran, and South Africa France: India and France have a long-standing strategic partnership, established in 1998, focusing on defense (e.g., Rafale jets), space technology, nuclear energy, and counter- terrorism. Russia: India and Russia have a strategic partnership dating back to the Cold War, formally established in 2000. The partnership includes arms trade, nuclear cooperation (e.g., Kudankulam Nuclear Plant), and energy security. Iran : India and Iran established a strategic partnership in 2003. India and Iran share strategic ties, particularly due to their cooperation on energy security and the Ch",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-135",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Consider the following statements with regard to India and ASEAN. (a) India became Sectoral partner of ASEAN in 1992. (b) Delhi Dialogue is on Politico-economic issues between ASEAN and India. (c) India became Dialogue partner of ASEAN in 1996. (d) India became summit level partner of ASEAN in 2000. Select the correct answer from the code given below :",
+    "options": [
+      "(a) and (d)",
+      "(a) and (c)",
+      "(b) and (d)",
+      "(a) and (b)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Statement (a). India became Sectoral Partner of ASEAN in 1992 (Correct) India’s formal engagement with ASEAN began in 1992 when it became a Sectoral Dialogue Partner, focusing initially on trade, investment, and tourism. This marked the start of India's \"Look East Policy.\" Statement (b). Delhi Dialogue is on Politico- economic issues between ASEAN and India (Correct) The Delhi Dialogue, launched in 2009, is an annual Track 1.5 event focusing on strengthening ASEAN-India relations. It covers a range of politico-economic and socio-cultural issues. It provides a platform for policy discussions among stakeholders. Statement (c).India became Dialogue Partner of ASEAN in 1996 (Correct) India became a full Dialogue Partner of ASEAN in 1996, expanding cooperation beyond trade to cover political, security, and cultural domains. Statement (d). India became Summit-level Partner of ASEAN in 2000 (In",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-136",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Which of the following statements are true about SAARC ? (a) Australia, America, Japan and Russia are observers. (b) Promote and strengthen collective defense among member states. (c) Indian become Secretary General of SAARC twice. (d) The Second Summit of SAARC was held in India. Choose the correct statement from code given below :",
+    "options": [
+      "(a), (c) and (d)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(b),(c) and (d)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Australia, America, Japan, and Russia are observers (Incorrect) While Japan and the United States are observers of SAARC, Australia and Russia are not. Other observers include China, the EU, Iran, South Korea, Mauritius, and Myanmar. B. Promote and strengthen collective defense among member states (Incorrect) SAARC (South Asian Association for Regional Cooperation) is focused on economic, social, and cultural development and cooperation, not military or defense. The organization explicitly avoids defense-related matters in its charter. C. India has had a Secretary General of SAARC twice (Correct) India has had a Secretary General of SAARC on two occasions: K. K. Bhargava (1989–1991) Arjun Bahadur Thapa (2014–2017) D. The Second Summit of SAARC was held in India (Correct) The second SAARC summit took place in Bengaluru, India, in 1986.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-137",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Who have argued that far from an objective reality, international politics is a “World of our making’ ?",
+    "options": [
+      "Realists",
+      "Feminists",
+      "Idealists",
+      "Constructivists"
+    ],
+    "correctIndex": 3,
+    "explanation": "The statement \"far from an objective reality, international politics is a ‘World of our making’\" reflects the Constructivist perspective in international relations.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-138",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Consider the following statements : (a) India’s ‘Link West Policy’ is an attempt to reconnect to the Western World. (b) “Project Mausam’ is an Indian initiative for maritime cooperation in Indian ocean region. (c) ‘Operation Rahat’ was conducted by India to rescue Indians from Libya. (d) India has become member of Shanghai’ cooperation organisation. Choose the correct statements from the code given below :",
+    "options": [
+      "(c), (d) and (b)",
+      "(a), (b) and (c)",
+      "(a) (b) (c) and (d)",
+      "(b) and (d)"
+    ],
+    "correctIndex": 3,
+    "explanation": "1. Statement (a) : India’s ‘Link West Policy’ is an attempt to reconnect to the Western World. This statement is incorrect. The Link West Policy refers to India's strategy to deepen ties with the Middle East/West Asia region, not the Western World (Europe or North America). It focuses on improving energy security, diaspora engagement, and economic ties with countries like Saudi Arabia, UAE, and Iran. 2. Statement (b) : 'Project Mausam’ is an Indian initiative for maritime cooperation in the Indian Ocean region. This statement is correct. Project Mausam is an initiative by India to revive its historical maritime links and cultural ties with countries along the Indian Ocean littoral. It emphasizes maritime cooperation, cultural heritage, and connectivity in the Indian Ocean Region. 3. Statement (c) : ‘Operation Rahat’ was conducted by India to rescue Indians from Libya. This statement is i",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-140",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Consider the following statements : (a) OPEC was created at Riyadh conference in 1960. (b) The charter of OAS was signed in 1948. (c) Indonesia is a member of OPEC. (d) Cuba is a member of OAS. Choose the correct answer from the code given below :",
+    "options": [
+      "Only (b)",
+      "(a) and (d)",
+      "(b) , (c) and (d)",
+      "(c) and (d)"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a) OPEC was created at Riyadh conference in 1960 : This is incorrect .OPEC (Organization of the Petroleum Exporting Countries) was created at the Baghdad Conference in 1960, not Riyadh. (b) The charter of OAS was signed in 1948:This is correct .The Organization of American States (OAS) was established in 1948 with the signing of the Charter of the OAS at the Bogotá Conference. (c) Indonesia is a member of OPEC :This is incorrect . Indonesia suspended its membership in January 2009, reactivated it again in January 2016, but decided to suspend its membership once more at the 171st Meeting of the OPEC Conference on 30 November 2016. (d) Cuba is a member of OAS : This is incorrect . Cuba was suspended from the OAS in 1962 due to ideological differences during the Cold War. Although the suspension was lifted in 2009, Cuba has not returned to active membership.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-141",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Neo Liberals, from their Lockean Universe Seek to create international regimes that optimize the :",
+    "options": [
+      "Rational exploitation of nature",
+      "Rational functioning of the state system",
+      "Rational application of power",
+      "Rational utilisation of weapons"
+    ],
+    "correctIndex": 0,
+    "explanation": ": Rational exploitation of nature aligns with the neo-liberal emphasis on optimizing resources and environmental governance. Neo-liberals, influenced by the Lockean perspective, focus on creating international regimes that ensure rational and efficient management of resources, including natural resources, in a way that avoids overexploitation while benefiting all parties. This approach reflects Locke's philosophy of property and natural rights, where nature is to be utilized rationally and productively. Why A fits: Neo-liberals advocate for international cooperation and institutions to address global issues like climate change, sustainable development, and the efficient use of natural resources. They aim to establish regimes (e.g., the Paris Agreement) that promote the rational exploitation of nature by setting rules and norms for sustainable resource management. Why not the others? B (R",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-142",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Democratic peace theory has been largely associated with the writings of :",
+    "options": [
+      "Immanuel Kant and Voltaire",
+      "Michael Doyle and Bruce Russett",
+      "Thomas Christensen and Thomas Schelling",
+      "Mahatma Gandhi and Jawaharlal Nehru"
+    ],
+    "correctIndex": 1,
+    "explanation": "Democratic Peace Theory suggests that democracies are less likely to go to war with one another compared to other forms of government. This theory is rooted in both philosophical and empirical work. 1. Historical Roots: The theoretical foundation of democratic peace theory can be traced back to Immanuel Kant's essay \"Perpetual Peace: A Philosophical Sketch\" (1795). Kant argued that a world of republics (or democracies) would be more peaceful because of shared norms, institutional constraints, and public accountability. 2. Modern Development: Michael Doyle revitalized the theory in the 1980s, presenting systematic empirical evidence to support the claim that democracies rarely, if ever, engage in war with each other. Doyle's work focused on Kantian ideas and analyzed historical patterns of wars and peace. Bruce Russett, a prominent political scientist, further expanded the empirical resea",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-143",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following is not part of the four main criteria set out by 1933 Montevideo Convention on the Rights and Duties of the state ?",
+    "options": [
+      "Capacity to enter into relations with other states",
+      "A defined territory",
+      "Strength to wage a war",
+      "A permanent population"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 1933 Montevideo Convention on the Rights and Duties of States is a key treaty in international law that defines the criteria for statehood. Article 1 of the Convention outlines four essential criteria that a political entity must meet to be recognized as a state: 1. A Permanent Population: A state must have people who inhabit the territory permanently. 2. A Defined Territory: A state must have defined geographical boundaries, even if there are disputes over some borders. 3. Government: A state must have an organized political authority capable of governing the territory and population. 4. Capacity to Enter into Relations with Other States: A state must have the legal independence and ability to engage in diplomatic and foreign relations. Why the Statement of option C is Incorrect: The strength to wage war is not one of the criteria for statehood under the Montevideo Convention. This ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-144",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Match List - I with List - II and select the correct answer from the code given below : List - I List - IT (Treaty) (Purpose of agreement) (a) Geneva protocol (i) Bans multiple independent reentry vehicles (b) START 2 (ii) Bans use of chemical weapons (c) INF (iii) Reduces strategic arms (d) START 1 (iv) Bans two categories of land based missiles",
+    "options": [
+      "(a) (b) (c) (d) (i) (iii) (iv) (ii)",
+      "(iii) (ii) (iv) (i)",
+      "(iv) (i) (iii) (ii)",
+      "(ii) (i) (iv) (Iii)"
+    ],
+    "correctIndex": 3,
+    "explanation": "(a) Geneva Protocol – (ii) Bans use of chemical weapons The Geneva Protocol of 1925 is an international treaty that prohibits the use of chemical and biological weapons in war. It was one of the earliest attempts to regulate the use of weapons of mass destruction. (b) START 2 – (i) Bans multiple independent reentry vehicles The Strategic Arms Reduction Treaty 2 (START 2) was signed in 1993 between the United States and Russia. Its main objective was to reduce and eliminate strategic nuclear weapons, including the banning of MIRVs (Multiple Independent Reentry Vehicles) on intercontinental ballistic missiles. (c) INF – (iv) Bans two categories of land-based missiles The Intermediate-Range Nuclear Forces (INF) Treaty was signed in 1987 between the United States and the Soviet Union. It banned two categories of land-based missiles: intermediate- range and shorter-range missiles (500–5,500 k",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-145",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Which one of the following statement is incorrect ?",
+    "options": [
+      "Collective Security aims to defend the Status quo.",
+      "Collective Security Operates in an institutional framework.",
+      "The diffusion of Gulf crisis 1990-91 is a successful experiment of Collective Security.",
+      "Collective Security and balance of power policy are compatible under usual circumstances,"
+    ],
+    "correctIndex": 3,
+    "explanation": "Collective Security Collective Security is an international system where states agree to take collective action against any aggressor to ensure peace and stability. It focuses on cooperation among states and treats aggression against one state as aggression against all. Evaluation of Statements: A) \"Collective Security aims to defend the Status quo.\" Correct. Collective Security seeks to maintain the existing international order by deterring or punishing acts of aggression that challenge the current state of affairs. B) \"Collective Security operates in an institutional framework.\" Correct. Collective Security systems work within international organizations like the League of Nations or the United Nations, which provide institutional mechanisms for coordination and response. C) \"The diffusion of Gulf crisis 1990-91 is a successful experiment of Collective Security.\" Correct. The Gulf War ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-146",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Morgenthau’s classification of ideologies doesn’t include :",
+    "options": [
+      "Ideology of status quo",
+      "Ideology of imperialism",
+      "Ambiguous ideologies",
+      "Ideology of hegemony"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hans J. Morgenthau, a key figure in classical realism, categorized ideologies into distinct types in his seminal work \"Politics Among Nations\" (1948) to explain the motivations behind state behavior in international politics. His classification focuses on how states use ideologies to justify their foreign policy goals and actions. The three categories Morgenthau identified are: A. Ideology of Status Quo: This refers to ideologies that seek to maintain the existing international order. States promoting this ideology aim to preserve their position of power and resist changes that could disrupt the balance. B. Ideology of Imperialism: This refers to ideologies used to expand a state's influence and power, often at the expense of other states. Imperialistic ideologies justify aggression, territorial expansion, or domination. C. Ambiguous Ideologies: These ideologies are vague or flexible and",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-147",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following is not part of five global commons ?",
+    "options": [
+      "The High Seas",
+      "The Climate System",
+      "The Deep Ocean floor",
+      "The Arctic region"
+    ],
+    "correctIndex": 3,
+    "explanation": "The concept of global commons refers to natural resources or areas that are not owned by any single nation and are accessible to all humanity. These commons are governed by international treaties and agreements to ensure their sustainable use. The five global commons typically recognized in international law are: 1. The High Seas: Areas of the ocean beyond any country's exclusive economic zone (EEZ), which are governed by international agreements like the United Nations Convention on the Law of the Sea (UNCLOS). 2. The Atmosphere: Essential for life on Earth, the atmosphere is a shared resource affected by activities such as pollution and climate change. 3. The Climate System: Often included as part of the atmosphere, this refers to the regulation of Earth's climate, which is a shared responsibility of all nations. 4. Outer Space: Governed by treaties like the Outer Space Treaty (1967), ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-148",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2018",
+    "type": "statements",
+    "question": "Consider the following statements about arms control : (a) It's meant to build the security dilemma. (b) It's a defensive strategy in principle. (c) It does take a peace without weapons stance. (d) It aims at mutual security between partners and over stability. Choose the correct statements from the code given below :",
+    "options": [
+      "(b), (c) and (d)",
+      "(b) and (d)",
+      "(b) and (c)",
+      "(a), (c) and (d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arms Control refers to international agreements or treaties between states to regulate the production, stockpiling, deployment, or use of weapons. Its primary objective is to enhance mutual security and stability while minimizing the risks of conflict or escalation. (a) \"It's meant to build the security dilemma.\" – Incorrect. The security dilemma refers to a situation where actions taken by one state to enhance its security (e.g., building arms) make other states feel insecure, prompting an arms race. Arms control, on the contrary, seeks to reduce the security dilemma by fostering trust and limiting arms buildups through agreements. (b) \"It's a defensive strategy in principle.\" – Correct. Arms control is inherently defensive as it focuses on preventing escalation, reducing offensive weapon capabilities, and promoting peace and stability. It discourages unnecessary arms races and prioriti",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-149",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the pairs is not correctly matched ?",
+    "options": [
+      "Realism - States",
+      "Globalizm - Non state actors",
+      "Dependency - Economic interests",
+      "Feminism - Gender"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each of these theoretical approaches in international relations emphasizes specific actors or factors influencing global politics. A) Realism - States Correctly matched. Realism focuses on the state as the primary actor in international relations, emphasizing the pursuit of power, national interest, and survival in an anarchic international system. B) Globalizm - Non-state actors Not correctly matched. While Globalizm considers interconnectedness and interdependence among states, it does not exclusively focus on non-state actors. Instead, it highlights the influence of states, multinational corporations, international organizations, and global markets in shaping world politics. The emphasis is broader and not limited to non-state actors. C) Dependency - Economic interest Correctly matched. Dependency theory emphasizes the economic dependence of developing countries on developed nations, ",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2018-150",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2018",
+    "type": "mcq",
+    "question": "Which one of the following pairs is mismatched ? Books Author",
+    "options": [
+      "The wretched of the earth - Frantz Fanon",
+      "World order - Henry Kissinger",
+      "Implosion of Capitalism - Samir Amin",
+      "Neo-Colonialism : The last stage of Imperialism —- Julius Nyerere"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. The Wretched of the Earth - Written by Frantz Fanon, this book focuses on the psychological and social impacts of colonization. B. World Order - Written by Henry Kissinger, this book examines global diplomacy and international relations. C. Implosion of Capitalism - Authored by Samir Amin, it critiques the global capitalist system. D. Neo-Colonialism: The Last Stage of Imperialism - Authored by Kwame Nkrumah, it addresses the continued economic control by former colonial powers even after political independence.",
+    "source": "PYQ Jun 2018",
+    "difficulty": "medium"
+  }
+]
