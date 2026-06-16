@@ -14,19 +14,22 @@ export default function Progress() {
 
   if (overall.attempted === 0 && progress.mocks.length === 0) {
     return (
-      <div className="rounded-2xl bg-white p-10 text-center shadow-sm ring-1 ring-slate-200">
-        <p className="text-lg font-semibold text-slate-700">No progress yet</p>
-        <p className="mt-2 text-sm text-slate-500">
+      <div className="card p-10 text-center animate-pop">
+        <p className="text-4xl">📊</p>
+        <p className="mt-3 text-lg font-bold heading">No progress yet</p>
+        <p className="mt-2 text-sm muted">
           Answer some practice questions or take a mock test, and your stats will
-          show up here.
+          appear here.
         </p>
       </div>
     );
   }
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-xl font-bold text-slate-900">Your progress</h1>
+    <div className="space-y-6 animate-pop">
+      <h1 className="text-2xl font-black heading">
+        Your <span className="gradient-text">progress</span>
+      </h1>
 
       <section className="grid grid-cols-3 gap-3">
         <Stat label="Attempted" value={overall.attempted} />
@@ -38,15 +41,12 @@ export default function Progress() {
         const ps = statsForPaper(progress, p.paper);
         if (ps.attempted === 0) return null;
         return (
-          <section
-            key={p.paper}
-            className="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"
-          >
+          <section key={p.paper} className="card p-5">
             <div className="flex items-center justify-between">
-              <h2 className="font-semibold text-slate-800">
+              <h2 className="font-bold heading">
                 Paper {p.paper}: {p.title}
               </h2>
-              <span className="text-sm text-slate-500">
+              <span className="chip bg-indigo-100 text-indigo-700 dark:bg-indigo-400/15 dark:text-indigo-300">
                 {ps.correct}/{ps.attempted} · {Math.round(ps.accuracy * 100)}%
               </span>
             </div>
@@ -56,8 +56,8 @@ export default function Progress() {
       })}
 
       {progress.mocks.length > 0 ? (
-        <section className="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200">
-          <h2 className="mb-3 font-semibold text-slate-800">Mock test history</h2>
+        <section className="card p-5">
+          <h2 className="mb-3 font-bold heading">Mock test history</h2>
           <div className="space-y-2">
             {[...progress.mocks]
               .reverse()
@@ -65,12 +65,12 @@ export default function Progress() {
               .map((m, i) => (
                 <div
                   key={i}
-                  className="flex items-center justify-between rounded-lg bg-slate-50 px-3 py-2 text-sm"
+                  className="flex items-center justify-between rounded-xl bg-slate-100/70 px-3 py-2 text-sm dark:bg-white/5"
                 >
-                  <span className="text-slate-600">
+                  <span className="muted">
                     {new Date(m.ts).toLocaleDateString()} · Paper {m.paper}
                   </span>
-                  <span className="font-semibold text-slate-800">
+                  <span className="font-bold heading">
                     {m.correct}/{m.total} ({Math.round((m.correct / m.total) * 100)}
                     %)
                   </span>
@@ -87,7 +87,7 @@ export default function Progress() {
             progressActions.reset();
           }
         }}
-        className="text-sm font-medium text-rose-600 hover:text-rose-700"
+        className="text-sm font-semibold text-rose-600 hover:text-rose-700 dark:text-rose-400"
       >
         Reset all progress
       </button>
@@ -113,16 +113,16 @@ function UnitBars({
           pct >= 70 ? "bg-emerald-500" : pct >= 40 ? "bg-amber-500" : "bg-rose-500";
         return (
           <div key={u.unit}>
-            <div className="mb-1 flex justify-between text-xs text-slate-600">
+            <div className="mb-1 flex justify-between text-xs muted">
               <span className="truncate pr-2">
                 U{u.unit}. {name}
               </span>
-              <span className="shrink-0 font-medium">
+              <span className="shrink-0 font-bold">
                 {u.correct}/{u.attempted} · {pct}%
               </span>
             </div>
-            <div className="h-2 w-full overflow-hidden rounded-full bg-slate-200">
-              <div className={`h-full ${color}`} style={{ width: `${pct}%` }} />
+            <div className="h-2.5 w-full overflow-hidden rounded-full bg-slate-200/70 dark:bg-white/10">
+              <div className={`h-full rounded-full ${color}`} style={{ width: `${pct}%` }} />
             </div>
           </div>
         );
@@ -133,9 +133,9 @@ function UnitBars({
 
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
-    <div className="rounded-2xl bg-white p-4 text-center shadow-sm ring-1 ring-slate-200">
-      <div className="text-2xl font-bold text-indigo-700">{value}</div>
-      <div className="mt-1 text-xs text-slate-500">{label}</div>
+    <div className="card p-4 text-center">
+      <div className="text-2xl font-black gradient-text">{value}</div>
+      <div className="mt-1 text-xs muted">{label}</div>
     </div>
   );
 }

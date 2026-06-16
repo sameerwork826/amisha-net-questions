@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p2-u4-0001",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Democratisation & Development",
+    "type": "mcq",
+    "question": "The phrase 'third wave of democratization' to describe the spread of democracy from the mid-1970s was coined by:",
+    "options": ["Samuel P. Huntington", "Francis Fukuyama", "Robert Dahl", "Guillermo O'Donnell"],
+    "correctIndex": 0,
+    "explanation": "Samuel P. Huntington, in 'The Third Wave: Democratization in the Late Twentieth Century' (1991), described the wave of transitions to democracy beginning with Portugal in 1974.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u4-0002",
+    "paper": 2,
+    "unit": 4,
+    "topic": "State theory & Political regimes",
+    "type": "mcq",
+    "question": "Robert Dahl's term for a realistic, really-existing democracy characterised by contestation and participation is:",
+    "options": ["Polyarchy", "Consociationalism", "Corporatism", "Praetorianism"],
+    "correctIndex": 0,
+    "explanation": "Robert Dahl used 'polyarchy' to describe actually-existing democracies, defined by two dimensions: public contestation (competition) and the right to participate (inclusiveness).",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u4-0003",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Approaches & Comparative Methods",
+    "type": "mcq",
+    "question": "The 'behavioural approach' in political science, which emphasised empirical, value-free study of political behaviour, is most associated with:",
+    "options": ["David Easton", "Leo Strauss", "Karl Marx", "Edmund Burke"],
+    "correctIndex": 0,
+    "explanation": "David Easton was a leading proponent of behaviouralism and later post-behaviouralism; he also gave the systems analysis of politics ('inputs', 'outputs', feedback) and defined politics as the 'authoritative allocation of values'.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u4-0004",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Democratisation & Development",
+    "type": "mcq",
+    "question": "Dependency theory, which argued that underdevelopment of the periphery is produced by its relations with the developed core, is associated with scholars like:",
+    "options": ["A.G. Frank and Cardoso", "Almond and Powell", "Easton and Dahl", "Huntington and Lipset"],
+    "correctIndex": 0,
+    "explanation": "Dependency theory is associated with Andre Gunder Frank ('development of underdevelopment') and Fernando Henrique Cardoso, among others, largely emerging from Latin American scholarship.",
+    "source": "Practice",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p2-u4-0005",
+    "paper": 2,
+    "unit": 4,
+    "topic": "State theory & Political regimes",
+    "type": "mcq",
+    "question": "'World Systems Theory', dividing the world into core, periphery and semi-periphery, was developed by:",
+    "options": ["Immanuel Wallerstein", "Barrington Moore", "Theda Skocpol", "Gabriel Almond"],
+    "correctIndex": 0,
+    "explanation": "Immanuel Wallerstein's World Systems Theory analyses the capitalist world-economy in terms of a hierarchy of core, semi-periphery and periphery zones.",
+    "source": "Practice",
+    "difficulty": "hard"
+  }
+]

@@ -72,11 +72,13 @@ export default function Practice() {
   // ---------- SETUP ----------
   if (phase === "setup") {
     return (
-      <div className="space-y-5">
-        <h1 className="text-xl font-bold text-slate-900">Topic-wise practice</h1>
+      <div className="space-y-5 animate-pop">
+        <h1 className="text-2xl font-black heading">
+          Topic-wise <span className="gradient-text">practice</span>
+        </h1>
 
         <Field label="Paper">
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             {([2, 1] as Paper[]).map((p) => (
               <Choice
                 key={p}
@@ -104,7 +106,7 @@ export default function Practice() {
                 onClick={() => setUnit(u.number)}
               >
                 {u.number}. {u.name}
-                <span className="ml-1 text-xs opacity-70">
+                <span className="ml-1 opacity-70">
                   ({countByUnit(paper, u.number)})
                 </span>
               </Choice>
@@ -114,25 +116,26 @@ export default function Practice() {
 
         <div className="flex flex-col gap-2">
           <Toggle checked={pyqOnly} onChange={setPyqOnly}>
-            Previous-year questions only
+            ⭐ Previous-year questions only
           </Toggle>
           <Toggle checked={skipAttempted} onChange={setSkipAttempted}>
             Skip questions I’ve already attempted
           </Toggle>
         </div>
 
-        <div className="rounded-xl bg-slate-100 p-4 text-sm text-slate-600">
-          {available} matching question{available === 1 ? "" : "s"} available.
-          A session uses up to 20, in random order.
+        <div className="rounded-2xl border border-slate-200/70 bg-white/50 p-4 text-sm muted dark:border-white/10 dark:bg-white/5">
+          <span className="font-bold gradient-text">{available}</span> matching
+          question{available === 1 ? "" : "s"} available · a session uses up to
+          20, in random order.
         </div>
 
         <button
           type="button"
           onClick={start}
           disabled={available === 0}
-          className="w-full rounded-xl bg-indigo-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-700 disabled:opacity-40 sm:w-auto sm:px-10"
+          className="btn-primary w-full sm:w-auto sm:px-12"
         >
-          Start
+          Start →
         </button>
       </div>
     );
@@ -141,24 +144,19 @@ export default function Practice() {
   // ---------- DONE ----------
   if (phase === "done") {
     const pct = Math.round((correctCount / queue.length) * 100);
+    const msg = pct >= 70 ? "Brilliant! 🎉" : pct >= 40 ? "Good going 💪" : "Keep practising 🌱";
     return (
-      <div className="space-y-5 text-center">
-        <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-slate-200">
-          <p className="text-sm font-medium text-slate-500">Session complete</p>
-          <p className="mt-2 text-5xl font-bold text-indigo-700">
+      <div className="space-y-5 text-center animate-pop">
+        <div className="card p-8">
+          <p className="text-sm font-medium muted">Session complete</p>
+          <p className="mt-2 text-6xl font-black gradient-text">
             {correctCount}/{queue.length}
           </p>
-          <p className="mt-1 text-slate-600">{pct}% correct</p>
+          <p className="mt-1 muted">{pct}% correct · {msg}</p>
         </div>
-        <div className="flex justify-center gap-3">
-          <button
-            type="button"
-            onClick={() => setPhase("setup")}
-            className="rounded-xl bg-indigo-600 px-6 py-2.5 font-semibold text-white transition hover:bg-indigo-700"
-          >
-            New session
-          </button>
-        </div>
+        <button type="button" onClick={() => setPhase("setup")} className="btn-primary px-8">
+          New session
+        </button>
       </div>
     );
   }
@@ -167,9 +165,9 @@ export default function Practice() {
   const current = queue[pos];
   return (
     <div className="space-y-4">
-      <div className="h-2 w-full overflow-hidden rounded-full bg-slate-200">
+      <div className="h-2.5 w-full overflow-hidden rounded-full bg-slate-200/70 dark:bg-white/10">
         <div
-          className="h-full bg-indigo-600 transition-all"
+          className="h-full rounded-full bg-gradient-to-r from-indigo-500 to-fuchsia-500 transition-all duration-300"
           style={{ width: `${((pos + (answered ? 1 : 0)) / queue.length) * 100}%` }}
         />
       </div>
@@ -184,11 +182,7 @@ export default function Practice() {
       />
 
       {answered ? (
-        <button
-          type="button"
-          onClick={next}
-          className="w-full rounded-xl bg-slate-900 px-4 py-3 font-semibold text-white transition hover:bg-slate-700 sm:w-auto sm:px-10"
-        >
+        <button type="button" onClick={next} className="btn-dark w-full sm:w-auto sm:px-10">
           {pos + 1 >= queue.length ? "Finish" : "Next question →"}
         </button>
       ) : null}
@@ -199,7 +193,7 @@ export default function Practice() {
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div>
-      <div className="mb-2 text-sm font-semibold text-slate-700">{label}</div>
+      <div className="mb-2 text-sm font-bold heading">{label}</div>
       {children}
     </div>
   );
@@ -218,10 +212,10 @@ function Choice({
     <button
       type="button"
       onClick={onClick}
-      className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition ${
+      className={`rounded-xl border px-3 py-1.5 text-sm font-semibold transition ${
         active
-          ? "border-indigo-500 bg-indigo-600 text-white"
-          : "border-slate-200 bg-white text-slate-700 hover:border-indigo-300"
+          ? "border-transparent bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-md shadow-indigo-600/30"
+          : "border-slate-200/80 bg-white/60 text-slate-700 hover:border-indigo-300 dark:border-white/10 dark:bg-white/5 dark:text-slate-200 dark:hover:border-indigo-400/50"
       }`}
     >
       {children}
@@ -239,7 +233,7 @@ function Toggle({
   children: React.ReactNode;
 }) {
   return (
-    <label className="flex cursor-pointer items-center gap-2 text-sm text-slate-700">
+    <label className="flex cursor-pointer items-center gap-2 text-sm text-slate-700 dark:text-slate-200">
       <input
         type="checkbox"
         checked={checked}

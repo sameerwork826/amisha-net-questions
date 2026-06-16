@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p2-u2-0001",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Early Modern (Machiavelli, Hobbes, Locke, Rousseau)",
+    "type": "mcq",
+    "question": "The idea that 'covenants without the sword are but words' and the resulting need for an absolute sovereign (the Leviathan) belongs to:",
+    "options": ["John Locke", "Thomas Hobbes", "J.J. Rousseau", "Montesquieu"],
+    "correctIndex": 1,
+    "explanation": "Thomas Hobbes, in 'Leviathan' (1651), argued that in the state of nature life is 'solitary, poor, nasty, brutish and short', so people contract to create an absolute sovereign to enforce order — 'covenants, without the sword, are but words'.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u2-0002",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Early Modern (Machiavelli, Hobbes, Locke, Rousseau)",
+    "type": "mcq",
+    "question": "The concept of the 'General Will' as the basis of legitimate political authority is central to the thought of:",
+    "options": ["John Locke", "Jean-Jacques Rousseau", "Thomas Hobbes", "Edmund Burke"],
+    "correctIndex": 1,
+    "explanation": "Rousseau, in 'The Social Contract' (1762), held that sovereignty lies in the 'General Will' (volonté générale), which aims at the common good and is distinct from the mere 'will of all'.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u2-0003",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Ancient (Confucius, Plato, Aristotle)",
+    "type": "mcq",
+    "question": "Aristotle described which form of government as the perverted (corrupt) form of democracy?",
+    "options": ["Tyranny", "Oligarchy", "Polity is the perversion of democracy", "Democracy itself is a perverted form"],
+    "correctIndex": 3,
+    "explanation": "In Aristotle's classification, the 'pure' forms are Monarchy, Aristocracy and Polity; their perversions are Tyranny, Oligarchy and Democracy respectively. Thus democracy is the perverted form of polity (rule of the many).",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u2-0004",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Marx, Gramsci",
+    "type": "mcq",
+    "question": "The concept of 'organic intellectuals' and the role of 'civil society' in maintaining hegemony was developed by:",
+    "options": ["Karl Marx", "Antonio Gramsci", "V.I. Lenin", "Louis Althusser"],
+    "correctIndex": 1,
+    "explanation": "Antonio Gramsci, in the 'Prison Notebooks', developed the concepts of hegemony, civil society and 'organic intellectuals' who articulate the worldview of a class.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u2-0005",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Hegel, J.S. Mill, Wollstonecraft",
+    "type": "mcq",
+    "question": "'A Vindication of the Rights of Woman' (1792), an early classic of feminist political thought, was written by:",
+    "options": ["Mary Wollstonecraft", "Hannah Arendt", "Simone de Beauvoir", "John Stuart Mill"],
+    "correctIndex": 0,
+    "explanation": "Mary Wollstonecraft's 'A Vindication of the Rights of Woman' (1792) argued for women's education and equality, making it a foundational text of liberal feminism.",
+    "source": "Practice",
+    "difficulty": "easy"
+  }
+]

@@ -11,19 +11,11 @@ const TYPE_LABEL: Record<Question["type"], string> = {
 
 interface Props {
   question: Question;
-  /** Question N of M (optional, for headers) */
   index?: number;
   total?: number;
-  /**
-   * Practice mode: reveal correctness + explanation immediately after the user
-   * submits. Test mode: just record the selection, no reveal.
-   */
   mode: "practice" | "test";
-  /** Pre-selected option (e.g. when reviewing a submitted test). */
   initialSelected?: number | null;
-  /** In test mode (or review), force showing the answer. */
   revealAnswer?: boolean;
-  /** Called when the user locks in an answer. */
   onAnswered?: (selectedIndex: number, correct: boolean) => void;
 }
 
@@ -41,21 +33,18 @@ export default function QuestionCard({
   const [selected, setSelected] = useState<number | null>(initialSelected);
   const [submitted, setSubmitted] = useState(revealAnswer);
 
-  // Reset internal state when the question changes.
   useEffect(() => {
     setSelected(initialSelected);
     setSubmitted(revealAnswer);
   }, [question.id, initialSelected, revealAnswer]);
 
   const reveal = submitted || revealAnswer;
+  const isRight = selected === question.correctIndex;
 
   function choose(i: number) {
     if (reveal) return;
     setSelected(i);
-    if (mode === "test") {
-      // In a test, selecting records the answer (changeable until submit).
-      onAnswered?.(i, i === question.correctIndex);
-    }
+    if (mode === "test") onAnswered?.(i, i === question.correctIndex);
   }
 
   function submit() {
@@ -65,27 +54,27 @@ export default function QuestionCard({
   }
 
   return (
-    <div className="rounded-2xl bg-white shadow-sm ring-1 ring-slate-200 p-5 sm:p-6">
-      <div className="mb-3 flex items-center gap-2 text-xs">
+    <div className="card animate-pop p-5 sm:p-6">
+      <div className="mb-3 flex flex-wrap items-center gap-2 text-xs">
         {index && total ? (
-          <span className="font-semibold text-slate-500">
-            Q{index} / {total}
+          <span className="font-bold muted">
+            Q{index}/{total}
           </span>
         ) : null}
-        <span className="rounded-full bg-indigo-50 px-2 py-0.5 font-medium text-indigo-700">
+        <span className="chip bg-indigo-100 text-indigo-700 dark:bg-indigo-400/15 dark:text-indigo-300">
           {TYPE_LABEL[question.type]}
         </span>
-        <span className="rounded-full bg-slate-100 px-2 py-0.5 font-medium text-slate-600">
+        <span className="chip bg-slate-100 text-slate-600 dark:bg-white/10 dark:text-slate-300">
           Unit {question.unit}
         </span>
         {/^PYQ/i.test(question.source) ? (
-          <span className="rounded-full bg-amber-100 px-2 py-0.5 font-medium text-amber-800">
-            {question.source}
+          <span className="chip bg-amber-100 text-amber-800 dark:bg-amber-400/15 dark:text-amber-300">
+            ⭐ {question.source}
           </span>
         ) : null}
       </div>
 
-      <p className="whitespace-pre-line text-base leading-relaxed text-slate-900">
+      <p className="whitespace-pre-line text-base leading-relaxed heading">
         {question.question}
       </p>
 
@@ -95,15 +84,18 @@ export default function QuestionCard({
           const isChosen = i === selected;
 
           let cls =
-            "border-slate-200 bg-white hover:border-indigo-300 hover:bg-indigo-50/40";
+            "border-slate-200/80 bg-white/60 hover:border-indigo-400 hover:bg-indigo-50/60 dark:border-white/10 dark:bg-white/5 dark:hover:border-indigo-400/60 dark:hover:bg-indigo-400/10";
           if (reveal) {
             if (isCorrect)
-              cls = "border-emerald-400 bg-emerald-50 ring-1 ring-emerald-300";
+              cls =
+                "border-emerald-400 bg-emerald-50 ring-1 ring-emerald-300 dark:border-emerald-400/60 dark:bg-emerald-400/10 dark:ring-emerald-400/40";
             else if (isChosen)
-              cls = "border-rose-400 bg-rose-50 ring-1 ring-rose-300";
-            else cls = "border-slate-200 bg-white opacity-70";
+              cls =
+                "border-rose-400 bg-rose-50 ring-1 ring-rose-300 dark:border-rose-400/60 dark:bg-rose-400/10 dark:ring-rose-400/40";
+            else cls = "border-slate-200/70 bg-white/40 opacity-60 dark:border-white/10 dark:bg-white/5";
           } else if (isChosen) {
-            cls = "border-indigo-500 bg-indigo-50 ring-1 ring-indigo-300";
+            cls =
+              "border-indigo-500 bg-indigo-50 ring-1 ring-indigo-300 dark:border-indigo-400 dark:bg-indigo-400/10 dark:ring-indigo-400/40";
           }
 
           return (
@@ -112,19 +104,23 @@ export default function QuestionCard({
               type="button"
               onClick={() => choose(i)}
               disabled={reveal}
-              className={`flex w-full items-start gap-3 rounded-xl border px-4 py-3 text-left transition ${cls}`}
+              className={`flex w-full items-start gap-3 rounded-2xl border px-4 py-3 text-left transition ${cls}`}
             >
-              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-slate-100 text-sm font-semibold text-slate-700">
+              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-lg bg-slate-100 text-sm font-bold text-slate-700 dark:bg-white/10 dark:text-slate-200">
                 {OPTION_LETTERS[i]}
               </span>
-              <span className="whitespace-pre-line text-sm leading-relaxed text-slate-800">
+              <span className="whitespace-pre-line text-sm leading-relaxed text-slate-800 dark:text-slate-100">
                 {opt}
               </span>
               {reveal && isCorrect ? (
-                <span className="ml-auto text-emerald-600">✓</span>
+                <span className="ml-auto font-bold text-emerald-600 dark:text-emerald-400">
+                  ✓
+                </span>
               ) : null}
               {reveal && isChosen && !isCorrect ? (
-                <span className="ml-auto text-rose-600">✕</span>
+                <span className="ml-auto font-bold text-rose-600 dark:text-rose-400">
+                  ✕
+                </span>
               ) : null}
             </button>
           );
@@ -136,7 +132,7 @@ export default function QuestionCard({
           type="button"
           onClick={submit}
           disabled={selected === null}
-          className="mt-5 w-full rounded-xl bg-indigo-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-40 sm:w-auto sm:px-8"
+          className="btn-primary mt-5 w-full sm:w-auto sm:px-10"
         >
           Check answer
         </button>
@@ -144,23 +140,23 @@ export default function QuestionCard({
 
       {reveal ? (
         <div
-          className={`mt-5 rounded-xl border p-4 ${
-            selected === question.correctIndex
-              ? "border-emerald-200 bg-emerald-50"
-              : "border-rose-200 bg-rose-50"
+          className={`mt-5 rounded-2xl border p-4 ${
+            isRight
+              ? "border-emerald-200 bg-emerald-50/80 dark:border-emerald-400/30 dark:bg-emerald-400/10"
+              : "border-rose-200 bg-rose-50/80 dark:border-rose-400/30 dark:bg-rose-400/10"
           }`}
         >
-          <p className="text-sm font-semibold">
+          <p className="text-sm font-bold heading">
             {selected === null
-              ? "Not answered"
-              : selected === question.correctIndex
-                ? "Correct!"
-                : "Incorrect"}
-            <span className="font-normal text-slate-600">
-              {"  "}Answer: {OPTION_LETTERS[question.correctIndex]}
+              ? "⏳ Not answered"
+              : isRight
+                ? "✅ Correct!"
+                : "❌ Incorrect"}
+            <span className="font-medium muted">
+              {"  "}· Answer: {OPTION_LETTERS[question.correctIndex]}
             </span>
           </p>
-          <p className="mt-2 whitespace-pre-line text-sm leading-relaxed text-slate-700">
+          <p className="mt-2 whitespace-pre-line text-sm leading-relaxed text-slate-700 dark:text-slate-200">
             {question.explanation}
           </p>
         </div>

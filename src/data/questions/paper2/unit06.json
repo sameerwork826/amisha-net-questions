@@ -1,0 +1,77 @@
+[
+  {
+    "id": "p2-u6-0001",
+    "paper": 2,
+    "unit": 6,
+    "topic": "Non-Alignment & Nuclear policy",
+    "type": "mcq",
+    "question": "The first Non-Aligned Movement (NAM) Summit was held in 1961 at:",
+    "options": ["Belgrade", "Bandung", "Cairo", "Havana"],
+    "correctIndex": 0,
+    "explanation": "The first NAM Summit was held in Belgrade in 1961. (The 1955 Bandung Conference of Asian-African states was a precursor that laid the groundwork for NAM.)",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u6-0002",
+    "paper": 2,
+    "unit": 6,
+    "topic": "Perspectives & determinants",
+    "type": "mcq",
+    "question": "The Panchsheel Agreement (1954), embodying the Five Principles of Peaceful Coexistence, was signed between India and:",
+    "options": ["China", "USSR", "USA", "Nepal"],
+    "correctIndex": 0,
+    "explanation": "The Panchsheel (Five Principles of Peaceful Coexistence) were articulated in the 1954 Agreement between India and China on trade and intercourse with the Tibet region.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u6-0003",
+    "paper": 2,
+    "unit": 6,
+    "topic": "Neighbourhood policy (SAARC, Act East)",
+    "type": "mcq",
+    "question": "India's 'Look East Policy', later upgraded to 'Act East Policy', primarily aims at strengthening ties with:",
+    "options": [
+      "Southeast and East Asia (ASEAN and beyond)",
+      "The Gulf states",
+      "Central Asian Republics",
+      "Latin America"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Look East Policy (launched in the early 1990s by P.V. Narasimha Rao) sought closer ties with Southeast and East Asia; it was rebranded 'Act East' in 2014 to emphasise proactive engagement with ASEAN and the wider Indo-Pacific.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u6-0004",
+    "paper": 2,
+    "unit": 6,
+    "topic": "Non-Alignment & Nuclear policy",
+    "type": "mcq",
+    "question": "India's nuclear doctrine is officially built around which core principle?",
+    "options": [
+      "No First Use (NFU) with credible minimum deterrence",
+      "First-use against any threat",
+      "Complete nuclear disarmament with no arsenal",
+      "Launch-on-warning posture"
+    ],
+    "correctIndex": 0,
+    "explanation": "India's declared nuclear doctrine (2003) rests on 'credible minimum deterrence' and a 'No First Use' posture, with massive retaliation if deterrence fails.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u6-0005",
+    "paper": 2,
+    "unit": 6,
+    "topic": "Neighbourhood policy (SAARC, Act East)",
+    "type": "mcq",
+    "question": "The 'Gujral Doctrine', emphasising non-reciprocal accommodation of smaller neighbours, is named after which Indian leader?",
+    "options": ["I.K. Gujral", "Atal Bihari Vajpayee", "P.V. Narasimha Rao", "Manmohan Singh"],
+    "correctIndex": 0,
+    "explanation": "The Gujral Doctrine, associated with Foreign Minister/PM I.K. Gujral, proposed that India should not seek reciprocity from smaller South Asian neighbours but give what it can in good faith.",
+    "source": "Practice",
+    "difficulty": "medium"
+  }
+]

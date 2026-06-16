@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pyq-2024jun-081",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Liberalism & Conservatism",
+    "type": "statements",
+    "question": "Which of the following statements are related to Liberalism?\nA. It is an ideology of the industrialised West\nB. It advocated the virtues of laissez-faire\nC. It reflects the aspirations of rising industrial/commercial classes\nD. Liberalism and Communism are closely linked\nE. Locke was a key thinker of liberalism\n\nChoose the correct answer:",
+    "options": [
+      "A, C, D and E only",
+      "B, C, D and E only",
+      "A, B, C and E only",
+      "D, E, A and B only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A, B, C and E are true of liberalism. Statement D is false — liberalism and communism are ideologically opposed, not closely linked.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2024jun-082",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Philosophy of the Constitution (FR, DPSP)",
+    "type": "mcq",
+    "question": "The 'Uniform Civil Code' is a part of which section of the Indian Constitution?",
+    "options": [
+      "Preamble of the Constitution",
+      "Fundamental Duties",
+      "Fundamental Rights",
+      "Directive Principles of State Policy"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Uniform Civil Code is contained in Article 44, which falls under the Directive Principles of State Policy (Part IV) — and is therefore not enforceable by courts.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "easy"
+  },
+  {
+    "id": "pyq-2024jun-083",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Making of the Constitution & Constituent Assembly",
+    "type": "match",
+    "question": "Match List-I (Book) with List-II (Author):\n\nList-I\nA. The Framing of India's Constitution: A Study\nB. The Indian Constitution: Cornerstone of a Nation\nC. The Transfer of Power in India\nD. Kashmir: A Study in India-Pakistan Relations\n\nList-II\nI. V.P. Menon\nII. Sisir K. Gupta\nIII. B. Shiva Rao\nIV. Granville Austin",
+    "options": [
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-I, C-IV, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "B. Shiva Rao wrote 'The Framing of India's Constitution'; Granville Austin wrote 'The Indian Constitution: Cornerstone of a Nation'; V.P. Menon wrote 'The Transfer of Power in India'; Sisir K. Gupta wrote 'Kashmir: A Study in India-Pakistan Relations'. So A-III, B-IV, C-I, D-II.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-084",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Conflict, Peace & WMD",
+    "type": "match",
+    "question": "Match List-I (International Event) with List-II (Year):\n\nList-I\nA. Gorbachev became Soviet leader\nB. Soviet invasion of Afghanistan\nC. Cuban Missile Crisis\nD. Soviet invasion of Hungary\n\nList-II\nI. 1962\nII. 1956\nIII. 1985\nIV. 1979",
+    "options": [
+      "A-III, B-IV, C-I, D-II",
+      "A-II, B-III, C-IV, D-I",
+      "A-IV, B-I, C-II, D-III",
+      "A-I, B-II, C-III, D-IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gorbachev became Soviet leader in 1985; the Soviet invasion of Afghanistan was in 1979; the Cuban Missile Crisis in 1962; and the Soviet invasion of Hungary in 1956. So A-III, B-IV, C-I, D-II.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-085",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Federalism & State institutions",
+    "type": "match",
+    "question": "Match List-I (Former Chief Minister) with List-II (State):\n\nList-I\nA. Karpoori Thakur\nB. Ram Naresh Yadav\nC. Ravi Shankar Shukla\nD. Prem Kumar Dhumal\n\nList-II\nI. Himachal Pradesh\nII. Madhya Pradesh\nIII. Bihar\nIV. Uttar Pradesh",
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-II, C-I, D-IV",
+      "A-I, B-IV, C-III, D-II",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Karpoori Thakur was CM of Bihar; Ram Naresh Yadav of Uttar Pradesh; Ravi Shankar Shukla was the first CM of Madhya Pradesh; Prem Kumar Dhumal of Himachal Pradesh. So A-III, B-IV, C-II, D-I.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-086",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Theories of Organization",
+    "type": "match",
+    "question": "Match List-I (Theory) with List-II (Propounder):\n\nList-I\nA. Scientific Management\nB. Linking Pin Model\nC. Alienation of Bureaucracy\nD. New Public Administration\n\nList-II\nI. Karl Marx\nII. Frederick W. Taylor\nIII. Dwight Waldo\nIV. Rensis Likert",
+    "options": [
+      "A-II, B-IV, C-I, D-III",
+      "A-III, B-II, C-IV, D-I",
+      "A-IV, B-III, C-I, D-II",
+      "A-I, B-II, C-IV, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Scientific Management – F.W. Taylor; the Linking Pin Model – Rensis Likert; alienation (and the critique of bureaucracy) – Karl Marx; New Public Administration – associated with Dwight Waldo (Minnowbrook). So A-II, B-IV, C-I, D-III.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2024jun-087",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Public policy (MNREGA, RTE, social audit)",
+    "type": "mcq",
+    "question": "The National Rural Employment Guarantee Act (NREGA) came into force / was implemented in the year:",
+    "options": ["2002", "2006", "2008", "2009"],
+    "correctIndex": 1,
+    "explanation": "NREGA was enacted in 2005 and came into force in February 2006 (later renamed MGNREGA in 2009).",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  }
+]

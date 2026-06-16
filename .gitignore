@@ -10,3 +10,9 @@ dist-ssr
 pyq-pdfs/
 pyq-pages/
 *.pdf
+
+.vercel
+.env*.local
+
+# secrets
+.env

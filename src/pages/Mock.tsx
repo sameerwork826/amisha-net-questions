@@ -38,7 +38,6 @@ export default function Mock() {
     setPhase("test");
   }
 
-  // Countdown timer.
   useEffect(() => {
     if (phase !== "test") return;
     const id = setInterval(() => {
@@ -94,54 +93,36 @@ export default function Mock() {
   // ---------- SETUP ----------
   if (phase === "setup") {
     return (
-      <div className="space-y-5">
-        <h1 className="text-xl font-bold text-slate-900">Timed mock test</h1>
-        <p className="text-sm text-slate-600">
-          Exam-style: no feedback until you submit. A timer counts down; the test
-          auto-submits when time runs out.
+      <div className="space-y-5 animate-pop">
+        <h1 className="text-2xl font-black heading">
+          Timed <span className="gradient-text">mock test</span>
+        </h1>
+        <p className="text-sm muted">
+          Exam-style: no feedback until you submit. A timer counts down and the
+          test auto-submits when time runs out.
         </p>
 
-        <div>
-          <div className="mb-2 text-sm font-semibold text-slate-700">Paper</div>
-          <div className="flex gap-2">
-            {([2, 1] as Paper[]).map((p) => (
-              <button
-                key={p}
-                type="button"
-                onClick={() => setPaper(p)}
-                className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition ${
-                  paper === p
-                    ? "border-indigo-500 bg-indigo-600 text-white"
-                    : "border-slate-200 bg-white text-slate-700 hover:border-indigo-300"
-                }`}
-              >
-                Paper {p}: {getPaper(p)!.title}
-              </button>
-            ))}
-          </div>
-        </div>
+        <Block label="Paper">
+          {([2, 1] as Paper[]).map((p) => (
+            <Pick key={p} active={paper === p} onClick={() => setPaper(p)}>
+              Paper {p}: {getPaper(p)!.title}
+            </Pick>
+          ))}
+        </Block>
 
-        <div>
-          <div className="mb-2 text-sm font-semibold text-slate-700">Length</div>
-          <div className="flex flex-wrap gap-2">
-            {PRESETS.map((pr) => (
-              <button
-                key={pr.count}
-                type="button"
-                onClick={() => setPreset(pr)}
-                className={`rounded-lg border px-4 py-2 text-sm font-medium transition ${
-                  preset.count === pr.count
-                    ? "border-indigo-500 bg-indigo-600 text-white"
-                    : "border-slate-200 bg-white text-slate-700 hover:border-indigo-300"
-                }`}
-              >
-                {pr.count} Q · {pr.minutes} min
-              </button>
-            ))}
-          </div>
-        </div>
+        <Block label="Length">
+          {PRESETS.map((pr) => (
+            <Pick
+              key={pr.count}
+              active={preset.count === pr.count}
+              onClick={() => setPreset(pr)}
+            >
+              {pr.count} Q · {pr.minutes} min
+            </Pick>
+          ))}
+        </Block>
 
-        <div className="rounded-xl bg-slate-100 p-4 text-sm text-slate-600">
+        <div className="rounded-2xl border border-slate-200/70 bg-white/50 p-4 text-sm muted dark:border-white/10 dark:bg-white/5">
           {maxAvailable < preset.count
             ? `Only ${maxAvailable} questions available for this paper right now — the test will use all of them.`
             : `This test will have ${count} questions.`}
@@ -151,9 +132,9 @@ export default function Mock() {
           type="button"
           onClick={start}
           disabled={maxAvailable === 0}
-          className="w-full rounded-xl bg-indigo-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-700 disabled:opacity-40 sm:w-auto sm:px-10"
+          className="btn-primary w-full sm:w-auto sm:px-12"
         >
-          Start test
+          Start test →
         </button>
       </div>
     );
@@ -164,26 +145,25 @@ export default function Mock() {
     const pct = Math.round((score / questions.length) * 100);
     const attempted = answers.filter((a) => a !== null).length;
     return (
-      <div className="space-y-5">
-        <div className="rounded-2xl bg-white p-8 text-center shadow-sm ring-1 ring-slate-200">
-          <p className="text-sm font-medium text-slate-500">Test submitted</p>
-          <p className="mt-2 text-5xl font-bold text-indigo-700">
+      <div className="space-y-5 animate-pop">
+        <div className="card p-8 text-center">
+          <p className="text-sm font-medium muted">Test submitted</p>
+          <p className="mt-2 text-6xl font-black gradient-text">
             {score}/{questions.length}
           </p>
-          <p className="mt-1 text-slate-600">
-            {pct}% · {attempted} attempted ·{" "}
-            {questions.length - attempted} skipped
+          <p className="mt-1 muted">
+            {pct}% · {attempted} attempted · {questions.length - attempted} skipped
           </p>
           <button
             type="button"
             onClick={() => setPhase("setup")}
-            className="mt-5 rounded-xl bg-indigo-600 px-6 py-2.5 font-semibold text-white transition hover:bg-indigo-700"
+            className="btn-primary mt-5 px-8"
           >
             New test
           </button>
         </div>
 
-        <h2 className="pt-2 font-semibold text-slate-800">Review</h2>
+        <h2 className="pt-2 font-bold heading">Review</h2>
         <div className="space-y-4">
           {questions.map((q, i) => (
             <QuestionCard
@@ -209,16 +189,18 @@ export default function Mock() {
 
   return (
     <div className="space-y-4">
-      <div className="sticky top-[92px] z-10 flex items-center justify-between rounded-xl bg-white px-4 py-2 shadow-sm ring-1 ring-slate-200">
-        <span className="text-sm font-medium text-slate-600">
+      <div className="card sticky top-20 z-10 flex items-center justify-between px-4 py-2.5">
+        <span className="text-sm font-bold muted">
           Q{pos + 1} / {questions.length}
         </span>
         <span
-          className={`rounded-lg px-3 py-1 font-mono text-sm font-bold ${
-            lowTime ? "bg-rose-100 text-rose-700" : "bg-slate-100 text-slate-700"
+          className={`rounded-xl px-3 py-1 font-mono text-sm font-black ${
+            lowTime
+              ? "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300"
+              : "bg-slate-100 text-slate-700 dark:bg-white/10 dark:text-slate-200"
           }`}
         >
-          {mm}:{ss}
+          ⏱ {mm}:{ss}
         </span>
       </div>
 
@@ -237,7 +219,7 @@ export default function Mock() {
           type="button"
           onClick={() => setPos((p) => Math.max(0, p - 1))}
           disabled={pos === 0}
-          className="rounded-xl border border-slate-300 px-5 py-2.5 font-semibold text-slate-700 transition hover:bg-slate-100 disabled:opacity-40"
+          className="btn-ghost"
         >
           ← Prev
         </button>
@@ -245,7 +227,7 @@ export default function Mock() {
           <button
             type="button"
             onClick={() => setPos((p) => Math.min(questions.length - 1, p + 1))}
-            className="rounded-xl bg-slate-900 px-5 py-2.5 font-semibold text-white transition hover:bg-slate-700"
+            className="btn-dark"
           >
             Next →
           </button>
@@ -253,26 +235,25 @@ export default function Mock() {
           <button
             type="button"
             onClick={finish}
-            className="rounded-xl bg-emerald-600 px-6 py-2.5 font-semibold text-white transition hover:bg-emerald-700"
+            className="btn bg-emerald-600 text-white hover:bg-emerald-700"
           >
             Submit test
           </button>
         )}
       </div>
 
-      {/* Question navigator */}
-      <div className="flex flex-wrap gap-1.5 rounded-xl bg-white p-3 shadow-sm ring-1 ring-slate-200">
+      <div className="card flex flex-wrap gap-1.5 p-3">
         {questions.map((_, i) => (
           <button
             key={i}
             type="button"
             onClick={() => setPos(i)}
-            className={`h-8 w-8 rounded-lg text-xs font-semibold transition ${
+            className={`h-8 w-8 rounded-lg text-xs font-bold transition ${
               i === pos
-                ? "bg-indigo-600 text-white"
+                ? "bg-gradient-to-r from-indigo-600 to-violet-600 text-white"
                 : answers[i] !== null
-                  ? "bg-emerald-100 text-emerald-700"
-                  : "bg-slate-100 text-slate-500 hover:bg-slate-200"
+                  ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300"
+                  : "bg-slate-100 text-slate-500 hover:bg-slate-200 dark:bg-white/10 dark:text-slate-400 dark:hover:bg-white/20"
             }`}
           >
             {i + 1}
@@ -283,10 +264,43 @@ export default function Mock() {
       <button
         type="button"
         onClick={finish}
-        className="w-full rounded-xl border border-emerald-300 bg-emerald-50 px-4 py-2.5 font-semibold text-emerald-700 transition hover:bg-emerald-100"
+        className="btn w-full border border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 dark:border-emerald-400/30 dark:bg-emerald-500/10 dark:text-emerald-300"
       >
         Submit test now
       </button>
     </div>
+  );
+}
+
+function Block({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div>
+      <div className="mb-2 text-sm font-bold heading">{label}</div>
+      <div className="flex flex-wrap gap-2">{children}</div>
+    </div>
+  );
+}
+
+function Pick({
+  active,
+  onClick,
+  children,
+}: {
+  active: boolean;
+  onClick: () => void;
+  children: React.ReactNode;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className={`rounded-xl border px-4 py-2 text-sm font-semibold transition ${
+        active
+          ? "border-transparent bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-md shadow-indigo-600/30"
+          : "border-slate-200/80 bg-white/60 text-slate-700 hover:border-indigo-300 dark:border-white/10 dark:bg-white/5 dark:text-slate-200 dark:hover:border-indigo-400/50"
+      }`}
+    >
+      {children}
+    </button>
   );
 }

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "p2-u10-0001",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Governance & good governance",
+    "type": "statements",
+    "question": "Consider the following as commonly listed attributes of 'good governance':\n1. Transparency\n2. Accountability\n3. Rule of law\n4. Arbitrariness\n\nWhich of the above are attributes of good governance?",
+    "options": ["1, 2 and 3 only", "1, 2 and 4 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+    "correctIndex": 0,
+    "explanation": "Transparency, accountability and the rule of law (along with participation, responsiveness, equity and effectiveness) are core attributes of good governance. Arbitrariness is the opposite of good governance.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u10-0002",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Good governance mechanisms (RTI, Lokpal)",
+    "type": "mcq",
+    "question": "The institution of an ombudsman at the national level in India to inquire into allegations of corruption against public functionaries is the:",
+    "options": ["Lokpal", "Lokayukta", "Central Vigilance Commission", "Comptroller and Auditor General"],
+    "correctIndex": 0,
+    "explanation": "The Lokpal (established under the Lokpal and Lokayuktas Act, 2013) is the national-level anti-corruption ombudsman; the Lokayukta is its state-level counterpart.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u10-0003",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Planning & Development (NITI Aayog, e-governance)",
+    "type": "mcq",
+    "question": "NITI Aayog, which replaced the Planning Commission in 2015, functions primarily as a:",
+    "options": [
+      "Think-tank and policy advisory body",
+      "Fund-allocating body with statutory powers",
+      "Constitutional body",
+      "Regulatory authority for states"
+    ],
+    "correctIndex": 0,
+    "explanation": "NITI Aayog (National Institution for Transforming India) is a policy think-tank promoting cooperative federalism; unlike the erstwhile Planning Commission, it does not allocate funds to states.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u10-0004",
+    "paper": 2,
+    "unit": 10,
+    "topic": "Public policy (MNREGA, RTE, social audit)",
+    "type": "mcq",
+    "question": "MGNREGA guarantees how many days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work?",
+    "options": ["100 days", "50 days", "200 days", "365 days"],
+    "correctIndex": 0,
+    "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (2005) guarantees at least 100 days of wage employment in a financial year to every rural household whose adults are willing to do unskilled manual work.",
+    "source": "Practice",
+    "difficulty": "easy"
+  }
+]

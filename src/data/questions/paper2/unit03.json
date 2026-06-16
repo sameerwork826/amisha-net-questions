@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p2-u3-0001",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Nationalist (Tilak, Gandhi, Aurobindo, Tagore)",
+    "type": "mcq",
+    "question": "The slogan 'Swaraj is my birthright and I shall have it' is associated with:",
+    "options": ["Bal Gangadhar Tilak", "Mahatma Gandhi", "Lala Lajpat Rai", "Bipin Chandra Pal"],
+    "correctIndex": 0,
+    "explanation": "Bal Gangadhar Tilak gave the rallying cry 'Swaraj is my birthright and I shall have it', becoming a key figure of the extremist (Garam Dal) phase of the national movement.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u3-0002",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Ambedkar, Nehru, M.N. Roy",
+    "type": "mcq",
+    "question": "The book 'Annihilation of Caste' was written by:",
+    "options": ["M.K. Gandhi", "B.R. Ambedkar", "Jyotirao Phule", "Periyar E.V. Ramasamy"],
+    "correctIndex": 1,
+    "explanation": "'Annihilation of Caste' (1936) was written by Dr. B.R. Ambedkar; it was originally an undelivered speech and offers a powerful critique of the caste system and of Hindu social order.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u3-0003",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Nationalist (Tilak, Gandhi, Aurobindo, Tagore)",
+    "type": "mcq",
+    "question": "For Mahatma Gandhi, the ideal non-violent, self-sufficient village-based political order was captured by which concept?",
+    "options": ["Sarvodaya / Gram Swaraj", "Dvaita", "Hind Swaraj as industrial modernity", "Antyodaya alone"],
+    "correctIndex": 0,
+    "explanation": "Gandhi's vision of Gram Swaraj (village self-rule) and Sarvodaya (welfare/upliftment of all) envisaged decentralised, self-sufficient villages as the basis of a non-violent social order.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u3-0004",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Lohia, JP Narayan, Upadhyaya",
+    "type": "mcq",
+    "question": "The concept of 'Integral Humanism' (Ekatma Manavavad) was propounded by:",
+    "options": ["Ram Manohar Lohia", "Deendayal Upadhyaya", "Jayaprakash Narayan", "M.N. Roy"],
+    "correctIndex": 1,
+    "explanation": "Deendayal Upadhyaya propounded 'Integral Humanism' (1965) as an indigenous socio-economic philosophy emphasising the integrated development of body, mind, intellect and soul.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u3-0005",
+    "paper": 2,
+    "unit": 3,
+    "topic": "Lohia, JP Narayan, Upadhyaya",
+    "type": "mcq",
+    "question": "The idea of 'Total Revolution' (Sampoorna Kranti), given in 1974, is associated with:",
+    "options": ["Jayaprakash Narayan", "Ram Manohar Lohia", "Vinoba Bhave", "Acharya Narendra Dev"],
+    "correctIndex": 0,
+    "explanation": "Jayaprakash Narayan (JP) gave the call for 'Total Revolution' in 1974, a movement for comprehensive social, economic and political transformation that became a focal point of opposition to the Emergency.",
+    "source": "Practice",
+    "difficulty": "medium"
+  }
+]

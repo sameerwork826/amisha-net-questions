@@ -101,6 +101,30 @@ export const progressActions = {
     state = EMPTY;
     persist();
   },
+  /** Union remote history into local (dedup by timestamp), then persist. */
+  mergeRemote(remote: Partial<ProgressState>) {
+    const seenA = new Set(state.attempts.map((a) => `${a.id}@${a.ts}`));
+    const mergedAttempts = [...state.attempts];
+    for (const a of remote.attempts ?? []) {
+      const key = `${a.id}@${a.ts}`;
+      if (!seenA.has(key)) {
+        seenA.add(key);
+        mergedAttempts.push(a);
+      }
+    }
+    const seenM = new Set(state.mocks.map((m) => m.ts));
+    const mergedMocks = [...state.mocks];
+    for (const m of remote.mocks ?? []) {
+      if (!seenM.has(m.ts)) {
+        seenM.add(m.ts);
+        mergedMocks.push(m);
+      }
+    }
+    mergedAttempts.sort((a, b) => a.ts - b.ts);
+    mergedMocks.sort((a, b) => a.ts - b.ts);
+    state = { attempts: mergedAttempts, mocks: mergedMocks };
+    persist();
+  },
 };
 
 export function useProgress(): ProgressState {

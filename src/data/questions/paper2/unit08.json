@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p2-u8-0001",
+    "paper": 2,
+    "unit": 8,
+    "topic": "State, Economy & Development",
+    "type": "mcq",
+    "question": "India's New Economic Policy of liberalisation, privatisation and globalisation (LPG) was launched in:",
+    "options": ["1991", "1981", "1971", "2001"],
+    "correctIndex": 0,
+    "explanation": "Facing a balance-of-payments crisis, India launched the New Economic Policy of liberalisation, privatisation and globalisation in 1991 (Finance Minister Manmohan Singh under PM P.V. Narasimha Rao).",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u8-0002",
+    "paper": 2,
+    "unit": 8,
+    "topic": "Identity Politics & Social Movements",
+    "type": "mcq",
+    "question": "The Chipko Movement of the 1970s is best classified as an example of a:",
+    "options": [
+      "Environmental / new social movement",
+      "Peasant tax revolt",
+      "Industrial trade-union strike",
+      "Linguistic reorganisation movement"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Chipko Movement (Uttarakhand, 1970s), in which villagers hugged trees to prevent felling, is a classic environmental and 'new social movement' with strong participation by women.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u8-0003",
+    "paper": 2,
+    "unit": 8,
+    "topic": "Political Parties & Electoral Politics",
+    "type": "mcq",
+    "question": "In India's party system, a party that secures recognition and a reserved symbol across several states is classified by the Election Commission as a:",
+    "options": ["National party", "State party only", "Registered unrecognised party", "Regional front"],
+    "correctIndex": 0,
+    "explanation": "The Election Commission classifies parties as 'National' or 'State' parties based on criteria of vote share and seats; a party meeting the threshold across multiple states is recognised as a National party.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u8-0004",
+    "paper": 2,
+    "unit": 8,
+    "topic": "Civil Society & Regionalisation",
+    "type": "mcq",
+    "question": "The States Reorganisation Act, 1956 reorganised Indian states primarily on the basis of:",
+    "options": ["Language", "Religion", "Population size", "River basins"],
+    "correctIndex": 0,
+    "explanation": "Following the report of the States Reorganisation Commission (Fazl Ali Commission), the States Reorganisation Act, 1956 reorganised states largely on linguistic lines.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u8-0005",
+    "paper": 2,
+    "unit": 8,
+    "topic": "Gender and Politics",
+    "type": "mcq",
+    "question": "The 73rd and 74th Constitutional Amendments (1992) advanced women's political representation by providing reservation for women in Panchayati Raj and urban local bodies of not less than:",
+    "options": ["One-third (33%)", "One-tenth (10%)", "One-half (50%)", "One-fourth (25%)"],
+    "correctIndex": 0,
+    "explanation": "The 73rd and 74th Amendments reserved not less than one-third of seats (and chairperson posts) for women in Panchayats and municipalities — a landmark for women's grassroots political participation.",
+    "source": "Practice",
+    "difficulty": "medium"
+  }
+]

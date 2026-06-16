@@ -1,0 +1,108 @@
+[
+  {
+    "id": "pyq-2025jun-051",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Leadership & Motivation",
+    "type": "statements",
+    "question": "Rensis Likert considers 'Management Systems 1–4' as a model of management. These are:\nA. Participative System\nB. Consultative System\nC. Benevolent-Authoritative\nD. Exploitative-Authoritative\nE. Maturity-Immaturity\n\nChoose the most appropriate answer:",
+    "options": [
+      "A, B, E and D only",
+      "B, C, E and D only",
+      "A, C, D and E only",
+      "A, B, C and D only"
+    ],
+    "correctIndex": 3,
+    "explanation": "Likert's four management systems are System 1 (Exploitative-Authoritative), System 2 (Benevolent-Authoritative), System 3 (Consultative) and System 4 (Participative) — i.e. A, B, C and D. 'Maturity-Immaturity' (E) is Chris Argyris's theory, not Likert's.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2025jun-053",
+    "paper": 2,
+    "unit": 7,
+    "topic": "Philosophy of the Constitution (FR, DPSP)",
+    "type": "statements",
+    "question": "In the Preamble of the Constitution of India, 'Justice' means:\nA. Social\nB. Absolute Equality\nC. Economic\nD. Political\nE. Military Service\n\nChoose the most appropriate answer:",
+    "options": ["A, C and D only", "A, B and C only", "A, B, C and D only", "A, C, D and E only"],
+    "correctIndex": 0,
+    "explanation": "The Preamble promises Justice — social, economic and political (A, C, D). These three dimensions of justice are borrowed from the Russian Revolution.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pyq-2025jun-054",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Meaning, evolution & approaches",
+    "type": "match",
+    "question": "Match List-I (Author) with List-II (Book):\n\nList-I\nA. Dwight Waldo\nB. Peter Drucker\nC. Rensis Likert\nD. Frederick Herzberg\n\nList-II\nI. Management Challenges for the 21st Century\nII. The Study of Public Administration\nIII. The Motivation to Work\nIV. The Human Organization",
+    "options": [
+      "A-II, B-I, C-IV, D-III",
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-IV, C-I, D-II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dwight Waldo – 'The Study of Public Administration'; Peter Drucker – 'Management Challenges for the 21st Century'; Rensis Likert – 'The Human Organization'; Frederick Herzberg – 'The Motivation to Work'. So A-II, B-I, C-IV, D-III.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2025jun-055",
+    "paper": 2,
+    "unit": 2,
+    "topic": "Marx, Gramsci",
+    "type": "mcq",
+    "question": "Which Russian Marxist was assassinated in Mexico in 1940?",
+    "options": ["Nikita Khrushchev", "Karl Marx", "Joseph Stalin", "Leon Trotsky"],
+    "correctIndex": 3,
+    "explanation": "Leon Trotsky, the Russian Marxist revolutionary and rival of Stalin, was assassinated in Mexico in 1940 by a Soviet agent.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "easy"
+  },
+  {
+    "id": "pyq-2025jun-056",
+    "paper": 2,
+    "unit": 5,
+    "topic": "Regional organisations & Contemporary challenges",
+    "type": "mcq",
+    "question": "In which year did the referendum to leave the European Union ('Brexit') take place in Great Britain?",
+    "options": ["2013", "2014", "2016", "2018"],
+    "correctIndex": 2,
+    "explanation": "The Brexit referendum was held on 23 June 2016, with a majority voting to leave the European Union.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "easy"
+  },
+  {
+    "id": "pyq-2025jun-057",
+    "paper": 2,
+    "unit": 4,
+    "topic": "Power structures, Parties & Movements",
+    "type": "chronological",
+    "question": "Arrange the following political parties in chronological order by their year of formation (earliest first):\nA. Servant of the People (Ukraine)\nB. Liberal Party of Canada\nC. Awami League (Bangladesh)\nD. Democratic Party (USA)\nE. Biju Janata Dal (India)",
+    "options": [
+      "D, B, E, C, A",
+      "B, C, A, D, E",
+      "B, D, C, A, E",
+      "D, B, C, E, A"
+    ],
+    "correctIndex": 3,
+    "explanation": "Years of formation: Democratic Party USA (1828), Liberal Party of Canada (1867), Awami League (1949), Biju Janata Dal (1997), Servant of the People (2017) — i.e. D, B, C, E, A.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pyq-2025jun-058",
+    "paper": 2,
+    "unit": 1,
+    "topic": "Feminism & Ecologism",
+    "type": "mcq",
+    "question": "Who used the term 'Ecology' for the first time?",
+    "options": ["Dipankar Sengupta", "Ernst Haeckel", "Karl Marx", "Adam Smith"],
+    "correctIndex": 1,
+    "explanation": "The German biologist Ernst Haeckel coined the term 'ecology' (Ökologie) in 1866 to describe the study of relationships between organisms and their environment.",
+    "source": "PYQ Jun 2025",
+    "difficulty": "medium"
+  }
+]

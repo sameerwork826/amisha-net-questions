@@ -1,0 +1,789 @@
+[
+ {
+  "id": "pyq-jun2025-061",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "match",
+  "question": "Matchthe LIST-Iwith LIST-II UN Peacekeeping Operations List I LIST-II United Nations Truce Supervision A. 2005 Organisation United Nations Mission in the Sudan B. 1948 Under Resolution 1590 United Nations Interim Forcein Lebanon C. 1964 United Nations Peacekeeping Forcein IV. D. 1978 Cyprus Choose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-I, C-IV, D-II",
+   "A-III, B-II, C-I, D-IV",
+   "A-IV, B-I, C-III, D-II",
+   "A-I, B-IV, C-II, D-II"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-062",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II State List I Legislative Assembly Strength List II Andhra Pradesh 182 Gujarat B. 294 Mizoram C. 175 West Bengal D. Iv. 40 Choose the correct answerfrom the options given below:",
+  "options": [
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-IV, C-III, D-I",
+   "A-IV, B-III, C-I, D-II",
+   "A-I, B-II, C-III, D-IV"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-065",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "The book, \"Sexual Politics'is written by-",
+  "options": [
+   "Rabindranath Tagore",
+   "Karl Marx",
+   "Kate Millett",
+   "Immanuel Kant"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-066",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Act List I Year List II Stateof Mizoram Act 2000 B. Goa, Daman and Diu Reorganistaion Act 1986 Bihar Reorganistaion Act 1966 Punjab Reorganisation Act IV. 1987 Choose the correct answerfrom the options given below:",
+  "options": [
+   "A-I, B-II, C-II, D-IV",
+   "A-IV, B-III, C-I, D-I",
+   "A-II, B-IV, C-I, D-III",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-069",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who developed \"a humanist critique of the Western Enlightenment that uncovered its links to colonialismand highlighted'narrativeof oppression', cultural and ideological biasesthat disempowered colonized peoples byrepresenting them as the non-western other\"?",
+  "options": [
+   "Aristotle",
+   "Edward Said",
+   "Woodrow Wilson",
+   "Subash Chandra Bose"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-070",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Which river demarcates the border between Bangladesh and Myanmar?",
+  "options": [
+   "Naf",
+   "Brahmaputra",
+   "Mekong",
+   "Indus"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-073",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who wrote the book Development Administration: Concepts, Goals, Methods'? Zh 2 eppy",
+  "options": [
+   "George F. Gant",
+   "Sabu Thomas",
+   "Fred Riggs",
+   "Michel Crozier"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-075",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Which Article of the Indian Constitution vests legislative power in Parliament to make laws related to elections?",
+  "options": [
+   "Article 267",
+   "Article 277",
+   "Article 285",
+   "Article 327"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-076",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Pandita Ramabai was associated with- I. Indian National Army",
+  "options": [
+   "Mukti Mission",
+   "The Land Holder's Society",
+   "Dharma Sabha"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-078",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who wrote the book Termites in the Trading System'?",
+  "options": [
+   "Amartya Sen",
+   "Thomas Hobbes",
+   "Susan George",
+   "Jagdish Bhagwati"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-079",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "match",
+  "question": "Match the LIST-Iwith LIST-II Chief Minister List I States List II Ram Krishna Hegde Uttarakhand B. Bhagat Singh Koshyari Karnataka C. Karpoori Thakur Uttar Pradesh Sucheta Kriplani IV. Bihar Choose the correct answerfromthe options given below:",
+  "options": [
+   "A-I, B-II, C-II, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-III, B-IV, C-II, D-I",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-083",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II States List I Numberof Lok Sabha Seats List II Assam 28 Karnataka IH. B. 14 Odisha III. C. a 247 Delhi D. I. Choose thecorrect answer from the options givenbelow:",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-IV, C-II, D-I"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-085",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "mcq",
+  "question": "When was the G-20 Summit held in New Delhi, India?",
+  "options": [
+   "March 2024",
+   "April 2023",
+   "September 2023",
+   "March 2023"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-087",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Theterm The Washington Consensus'was coinedby-",
+  "options": [
+   "Hannah Arendt",
+   "Max Weber",
+   "Milton Friedman",
+   "John Williamson"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-090",
+  "paper": 2,
+  "unit": 1,
+  "topic": "Political Theory",
+  "type": "mcq",
+  "question": "Who argued that \"property rights should be strictly upheld, provided that wealth has been justly acquired inthefirstplace, or hasbeen justlytransferredfromonepersontoanother?",
+  "options": [
+   "Mahatma Gandhi",
+   "Antonio Gramsci",
+   "Robert Nozick",
+   "Thomas Hobbes"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-095",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "statements",
+  "question": "Choose the correct Ministries/Departments under the jurisdiction of the Parliament's Committee on Home Affair- A. Ministryof Home Affairs B. Ministryof Lawand Justice C. Ministry of Space D. Ministry of Defence E. Ministry of Atomic Energy Choose the correct answerfrom the options given below:",
+  "options": [
+   "A, C, E Only",
+   "A, B Only",
+   "B, C, D, E Only",
+   "A, D, E Only"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-102",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Events List I Year List II Soviet Atomic Bomb Exploded A. 1989 Soviet Invasion of Hungry B. 1979 Islamic Revolution in Iran C. 1949 Berlin Wall Falls IV. D. 1956 Choose the correct answer from the options given below: I. A-I, B-II, C-III, D-IV",
+  "options": [
+   "A-IV, B-I, C-II, D-II",
+   "A-III, B-IV, C-II, D-I",
+   "A-II, B-III, C-I, D-IV"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-105",
+  "paper": 2,
+  "unit": 1,
+  "topic": "Political Theory",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Human Rights Documents List I Year List II Conventionon the Rights ofthe Child A. 1990 B. Declaration on Torture 1951 Vienna Conventionon Human Rights C. 1993 Genocide Convention D. 1975 Choosethe correct answer from theoptionsgiven below: I. A-II, B-III, C-IV, D-I",
+  "options": [
+   "A-I, B-IV, C-III, D-II",
+   "A-IV, B-I, C-II, D-II",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-106",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who became the leading exponent of the 'Second Generation' of the Frankfurt School of Critical Theory?",
+  "options": [
+   "Fredrick Hegel",
+   "Karl Marx",
+   "Validimir Lenin",
+   "Jurgen Habermas"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-108",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "The name 'Simone de Beauvoir'is associated with I. Radical Islamism",
+  "options": [
+   "Feminism",
+   "Anarchism",
+   "Environmentalism"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-110",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Who was the first speaker of the Lok Sabha?",
+  "options": [
+   "K. S. Hegde",
+   "G. V. Mavalankar",
+   "M. A. Ayyangar",
+   "G. S. Dhillon"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-111",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Lok Sabha List I Tenure List II Rabi Ray January 1985-December 1989 Dr. Bal Ram Jakhar I. B. December 1989-July 1991 Shivraj Patil C. July 1991-May 1996 Meira Kumar D. IV June 2009-June 2014 Choose the correct answerfrom the options given below:",
+  "options": [
+   "A-I, B-II, C-IV, D-III",
+   "A-III, B-IV, C-II, D-I",
+   "A-IV, B-III, C-I, D-II",
+   "A-II, B-I, C-III, D-IV"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-112",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "The book, \"Six Glorious Epochs of Indian History'was written by -",
+  "options": [
+   "Mahatma Gandhi",
+   "Karl Marx",
+   "Swami Vivekananda",
+   "V. D. Savarkar"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-113",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "match",
+  "question": "Matchthe LIST-Iwith LIST-II List I List II (State) (Reserved Seats in Lok Sabha for Scheduled Tribes) West Bengal A. B. Maharashtra Jharkhand C. Rajasthan IV. Choose thecorrectanswerfrom the options givenbelow:",
+  "options": [
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-IV, C-I, D-III",
+   "A-IV, B-II, C-III, D-I",
+   "A-I, B-III, C-II, D-IV"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-118",
+  "paper": 2,
+  "unit": 6,
+  "topic": "India's Foreign Policy",
+  "type": "statements",
+  "question": "Which of the following were written by Swami Vivekananda? A. India and Her Problems B. Modern India C. The Evils of Adhikarvad D. India in Transition E. The Problem of Freedom Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C Only",
+   "B, C, D Only",
+   "A, D, E Only",
+   "B, D, E Only"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-119",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Finance Commission List I Year of Constitution List II The First Finance Commission 1951 The Second Finance Commission B. 1968 C. The Fifth Finance Commission 1960 The Third Finance Commission IV. 1956 Choosethecorrectanswerfromtheoptionsgivenbelow: I. A-IV, B-III, C-I, D-II",
+  "options": [
+   "A-II, B-I, C-III, D-IV",
+   "A-I, B-IV, C-II, D-III",
+   "A-III, B-II, C-IV, D-I"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-122",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who wrote the book The General Theory of Employment, Interest and Money'?",
+  "options": [
+   "John Maynard Keynes",
+   "Milton Friedman",
+   "Raj Kumar Mittal",
+   "Thomas Hobbes"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-124",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II High Court List I Year of Establishment List II Allahabad A. 1916 Andhra Pradesh B. 1862 Bombay III. C. 1866 IV. Patna D. 1954 Choose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-I, C-III, D-IV",
+   "A-III, B-IV, C-II, D-I",
+   "A-I, B-II, C-IV, D-III",
+   "A-IV, B-III, C-I, D-II"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-125",
+  "paper": 2,
+  "unit": 9,
+  "topic": "Public Administration",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Author List I Concepts List II Woodrow Wilson Principles of Scientific Management Importanceof Studyof Administrationas B. Frederick Taylor Science Luther Gulick C. a 247 Hierarchy of Needs Structure based Principles of Abraham Maslow IV. Organisation Choose the correct answer from the options givenbelow:",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-IV, C-II, D-I",
+   "A-IV, B-III, C-I, D-II"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-127",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "statements",
+  "question": "Which among the following President(s) of India died in office? A. Neelam Sanjeeva Reddy B. Dr. Zakir Hussain C. V. V Giri de 247 D. Fakhruddin Ali Ahmad E. B. D. Jatti Choosethecorrectanswrerfromtheoptionsgiven below:",
+  "options": [
+   "A, C, D Only",
+   "B, D Only",
+   "B, D, E Only",
+   "B, C, D Only"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-128",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Article 370 was abrogated from the Indian Constitution in -",
+  "options": [
+   "March 2017",
+   "August 2019",
+   "November 2017",
+   "July 2018"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-133",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who stated, \"There is nothing... absolute in management ffairs. Seldom do we have to apply the same principle twice as in identical conditions; allowance must be made for different changing circumstances\"?",
+  "options": [
+   "Henri Fayol",
+   "Woodrow Wilson",
+   "Adam Smith",
+   "Tridiv Chakrabarty"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-134",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "statements",
+  "question": "Under the rules of the Lok Sabha, choose the correct statements about Parliamentary Committees- A. Every committee consisting of members of Parliament is a Parliamentary Committee. B. It works under thedirection of the Speaker/Chairman. C. It is appointed or elected by the House or nominated by the Speaker/Chairman. D. Presentsitsreporttothe Presidentof India. E. Has a Secretariat provided by the Lok Sabha/Rajya Sabha Secretariat. Choosethe correct answerfrom the options given below:",
+  "options": [
+   "A, B, D, E Only",
+   "A, B, C, D Only",
+   "B, C, E Only",
+   "A, E, D Only"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-135",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Individual List I Positions Held List II K. P. S Menon Chairmanof the United Nations Commissionon Korea Chairman of the Neutral Nations Justice Fazl Ali B. Repatriation Commission General K. S. Thimayya II. Chairman of the States Reorganisation Commission Nalini Ranjan Sarkar The Presidentofthe Federationof Indian Chambers of Commerceand Industry Choosethecorrectanswerfromtheoptionsgivenbelow:",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-II, C-III, D-I",
+   "A-II, B-IV, C-I, D-III",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-137",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who wrote the book Roman Agrarian History and its Significance for Public and Private Law?",
+  "options": [
+   "Jawaharlal Nehru",
+   "Max Weber",
+   "Adam Smith",
+   "Woodrow Wilson"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-138",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "match",
+  "question": "Match the LIST-I with LIST-II Event List I Year List II Battle of Stalingrad A. 1942 -1943 B. Munich Agreement 1938 Armenian Genocide C. 1915 European Union Created IV. D. 1993 Choosethecorrect answerfromtheoptions givenbelow:",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-142",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "As per thepassage, who is the author of Hindu Pad-Padshahi?",
+  "options": [
+   "Banda Bahadur",
+   "Shankar",
+   "Vinayak Damodar Savarkar",
+   "Panini"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-143",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Which among the following book is not written by Vinayak Damodar Savarkar?",
+  "options": [
+   "Hindutva",
+   "ANation in Making",
+   "An Echofrom Andamans",
+   "The Indian Warof Independence"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-144",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "As per the passage, Vinayak Damodar Savarkar was kept in prison by the Britishers at-",
+  "options": [
+   "Pune",
+   "Sabarmati",
+   "Andamans",
+   "Calcutta"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-145",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "As per the passage, the two grammarians of ancient India were :-",
+  "options": [
+   "Patanjali and Guru Govind",
+   "Shivaji and Bhavabhooti",
+   "Paniniand Patanjali",
+   "Kalidasand Kanad"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-147",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "As per the passage, which organization/institution linked development assistance with human rights and democratization?",
+  "options": [
+   "OECD",
+   "SAARC",
+   "APEC",
+   "QUED"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-148",
+  "paper": 2,
+  "unit": 1,
+  "topic": "Political Theory",
+  "type": "mcq",
+  "question": "As per the passage, the work Developing Democracy'is associated with :-",
+  "options": [
+   "John Locke",
+   "J. S. Mill",
+   "Larry Diamond",
+   "J. Bentham"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-149",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "As per the passage, who linked civil society to democracy in the mid-18 o 0 s?",
+  "options": [
+   "Thomas Hobbes",
+   "Alexis De Tocqueville",
+   "Larry Diamond",
+   "Robert Putnam"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-jun2025-150",
+  "paper": 2,
+  "unit": 10,
+  "topic": "Governance and Public Policy in India",
+  "type": "mcq",
+  "question": "As per the passage, which region was the focus of concept of governance in 1989?",
+  "options": [
+   "South Asia",
+   "Europe",
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Jun 2025 Political Science paper.",
+  "source": "PYQ Jun 2025",
+  "difficulty": "medium"
+ }
+]

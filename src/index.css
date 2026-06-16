@@ -1,7 +1,17 @@
 @import "tailwindcss";
 
+/* Class-based dark mode: toggled by adding `.dark` on <html>. */
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  color-scheme: light;
+  --bg: #f1f5f9;
+  --fg: #0f172a;
+}
+
+html.dark {
+  color-scheme: dark;
+  --bg: #060814;
+  --fg: #e2e8f0;
 }
 
 html,
@@ -12,7 +22,136 @@ body,
 
 body {
   margin: 0;
-  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  background: #f8fafc;
-  color: #0f172a;
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, sans-serif;
+  color: var(--fg);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Animated aurora background — sits behind everything. */
+.aurora {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  background:
+    radial-gradient(40rem 40rem at 10% 0%, rgba(99, 102, 241, 0.18), transparent 60%),
+    radial-gradient(35rem 35rem at 90% 10%, rgba(217, 70, 239, 0.15), transparent 60%),
+    radial-gradient(45rem 45rem at 50% 100%, rgba(14, 165, 233, 0.14), transparent 60%);
+}
+
+.dark .aurora {
+  background:
+    radial-gradient(40rem 40rem at 10% 0%, rgba(99, 102, 241, 0.28), transparent 60%),
+    radial-gradient(35rem 35rem at 90% 10%, rgba(217, 70, 239, 0.22), transparent 60%),
+    radial-gradient(45rem 45rem at 50% 100%, rgba(14, 165, 233, 0.20), transparent 60%);
+}
+
+.aurora::before,
+.aurora::after {
+  content: "";
+  position: absolute;
+  width: 38rem;
+  height: 38rem;
+  border-radius: 9999px;
+  filter: blur(80px);
+  opacity: 0.5;
+  animation: float 18s ease-in-out infinite;
+}
+.aurora::before {
+  top: -10rem;
+  left: -8rem;
+  background: linear-gradient(135deg, #6366f1, #d946ef);
+}
+.aurora::after {
+  bottom: -12rem;
+  right: -8rem;
+  background: linear-gradient(135deg, #06b6d4, #6366f1);
+  animation-delay: -9s;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(4rem, 3rem) scale(1.12);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aurora::before,
+  .aurora::after {
+    animation: none;
+  }
+}
+
+@keyframes pop {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+.animate-pop {
+  animation: pop 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* ---------- reusable component classes ---------- */
+@layer components {
+  .card {
+    @apply rounded-3xl border border-white/60 bg-white/70 shadow-xl shadow-slate-900/5 backdrop-blur-xl;
+  }
+  .dark .card {
+    @apply border-white/10 bg-slate-900/60 shadow-black/40;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center rounded-2xl px-5 py-2.5 text-sm font-semibold transition active:scale-[0.97] disabled:cursor-not-allowed disabled:opacity-40;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-2xl px-5 py-2.5 text-sm font-semibold transition active:scale-[0.97] disabled:cursor-not-allowed disabled:opacity-40 bg-gradient-to-r from-indigo-600 via-violet-600 to-fuchsia-600 text-white shadow-lg shadow-indigo-600/30 hover:brightness-110;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center rounded-2xl px-5 py-2.5 text-sm font-semibold transition active:scale-[0.97] disabled:cursor-not-allowed disabled:opacity-40 border border-slate-300/70 bg-white/60 text-slate-700 hover:bg-white;
+  }
+  .dark .btn-ghost {
+    @apply border-white/15 bg-white/5 text-slate-200 hover:bg-white/10;
+  }
+  .btn-dark {
+    @apply inline-flex items-center justify-center rounded-2xl px-5 py-2.5 text-sm font-semibold transition active:scale-[0.97] disabled:cursor-not-allowed disabled:opacity-40 bg-slate-900 text-white hover:bg-slate-800;
+  }
+  .dark .btn-dark {
+    @apply bg-white text-slate-900 hover:bg-slate-200;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-indigo-500 via-violet-500 to-fuchsia-500 bg-clip-text text-transparent;
+  }
+
+  .muted {
+    @apply text-slate-500 dark:text-slate-400;
+  }
+  .heading {
+    @apply text-slate-900 dark:text-white;
+  }
+}
+
+/* Slim, themed scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.4);
+  border-radius: 9999px;
 }

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "p2-u9-0001",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Meaning, evolution & approaches",
+    "type": "mcq",
+    "question": "The essay 'The Study of Administration' (1887), often regarded as marking the beginning of Public Administration as a discipline, was written by:",
+    "options": ["Woodrow Wilson", "Max Weber", "Frederick Taylor", "Luther Gulick"],
+    "correctIndex": 0,
+    "explanation": "Woodrow Wilson's 1887 essay 'The Study of Administration' argued for a politics-administration dichotomy and is widely seen as the founding text of the discipline.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u9-0002",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Theories of Organization",
+    "type": "mcq",
+    "question": "The principles of bureaucracy — hierarchy, rules, impersonality and a career service — were systematically theorised by:",
+    "options": ["Max Weber", "Elton Mayo", "Herbert Simon", "Mary Parker Follett"],
+    "correctIndex": 0,
+    "explanation": "Max Weber developed the classic 'ideal type' of rational-legal bureaucracy, characterised by hierarchy, written rules, impersonality, and selection/promotion on merit.",
+    "source": "Practice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p2-u9-0003",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PA theories (NPA, NPM, Development Admin)",
+    "type": "mcq",
+    "question": "The acronym POSDCORB, summarising the functions of the executive, was given by:",
+    "options": ["Luther Gulick", "Henri Fayol", "F.W. Taylor", "Dwight Waldo"],
+    "correctIndex": 0,
+    "explanation": "Luther Gulick coined POSDCORB — Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting — to describe the work of a chief executive.",
+    "source": "Practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p2-u9-0004",
+    "paper": 2,
+    "unit": 9,
+    "topic": "Leadership & Motivation",
+    "type": "mcq",
+    "question": "The 'hierarchy of needs' theory of motivation (physiological → safety → social → esteem → self-actualisation) was proposed by:",
+    "options": ["Abraham Maslow", "Douglas McGregor", "Frederick Herzberg", "Rensis Likert"],
+    "correctIndex": 0,
+    "explanation": "Abraham Maslow proposed the five-level 'hierarchy of needs', arguing that lower needs must be largely satisfied before higher ones motivate behaviour.",
+    "source": "Practice",
+    "difficulty": "easy"
+  }
+]
