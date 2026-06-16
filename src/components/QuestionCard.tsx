@@ -71,7 +71,11 @@ export default function QuestionCard({
           <span className="chip bg-amber-100 text-amber-800 dark:bg-amber-400/15 dark:text-amber-300">
             ⭐ {question.source}
           </span>
-        ) : null}
+        ) : (
+          <span className="chip bg-violet-100 text-violet-700 dark:bg-violet-400/15 dark:text-violet-300">
+            ✨ AI-generated
+          </span>
+        )}
       </div>
 
       <p className="whitespace-pre-line text-base leading-relaxed heading">

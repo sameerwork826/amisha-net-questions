@@ -2,4 +2,6 @@ node_modules
 dist
 pyq-pdfs
 pyq-pages
-*.pdf
+*.output
+Political Science_English.pdf
+Paper-I_ugc-net.pdf

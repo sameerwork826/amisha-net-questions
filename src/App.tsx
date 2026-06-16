@@ -4,6 +4,7 @@ import Dashboard from "./pages/Dashboard";
 import Practice from "./pages/Practice";
 import Mock from "./pages/Mock";
 import Progress from "./pages/Progress";
+import Papers from "./pages/Papers";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
         <Route index element={<Dashboard />} />
         <Route path="practice" element={<Practice />} />
         <Route path="mock" element={<Mock />} />
+        <Route path="papers" element={<Papers />} />
         <Route path="progress" element={<Progress />} />
         <Route path="*" element={<Dashboard />} />
       </Route>

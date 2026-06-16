@@ -8,6 +8,20 @@ Heuristics:
 - light text cleanup for OCR's missing spaces
 """
 import json, re, os
+import wordninja
+
+
+def demerge(s):
+    """Re-split OCR-merged words (e.g. 'Whowrotethebook' -> 'Who wrote the book').
+    Only long alpha runs are split, so normal words/proper nouns are untouched."""
+    out = []
+    for tok in s.split():
+        core = re.sub(r"[^A-Za-z]", "", tok)
+        if len(core) >= 12:
+            out.append(" ".join(wordninja.split(tok)))
+        else:
+            out.append(tok)
+    return " ".join(out)
 
 SESSIONS = {
     "jun2025": "PYQ Jun 2025",
@@ -46,6 +60,7 @@ P1_UNITS = [
 
 def clean(s):
     s = s.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+    s = demerge(s)                                      # fix OCR-merged words
     s = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", s)         # ThomasHobbes -> Thomas Hobbes
     s = re.sub(r"(?<=[A-Za-z])(?=\d)", " ", s)          # Article249 -> Article 249
     s = re.sub(r"(?<=\d)(?=[A-Za-z])", " ", s)          # 1924in -> 1924 in
@@ -61,8 +76,17 @@ COMMON = {"the", "of", "and", "which", "who", "is", "are", "was", "were",
           "between", "during", "their", "this", "these", "correct", "answer"}
 
 
+CTX_DEP = re.compile(r"as per the (passage|paragraph|above|table|graph)|"
+                     r"according to the (passage|paragraph|above|table|graph)|"
+                     r"in the (passage|paragraph|given table)|from the (table|graph|data) (above|given)",
+                     re.I)
+
+
 def is_usable(stem, options):
-    """Reject OCR gibberish (bilingual/garbled). Keep clean English stems."""
+    """Reject OCR gibberish (bilingual/garbled) and passage/data-dependent items.
+    Keep clean, self-contained English stems."""
+    if CTX_DEP.search(stem):                        # needs a passage/figure we don't have
+        return False
     words = re.findall(r"[A-Za-z]+", stem)          # letter runs, ignore punctuation
     long = [w for w in words if len(w) >= 3]
     tokens = stem.split()
@@ -74,8 +98,11 @@ def is_usable(stem, options):
         return False
     if sum(1 for c in stem if ord(c) > 127) > 4:     # Devanagari/garble
         return False
-    if sum(1 for o in options if re.search(r"[A-Za-z]{2,}", o)) < 2:
-        return False
+    # options may be numeric (years), letter-combos (C,A,D,E,B) or text — just
+    # reject ones that are garbled (heavy non-ASCII).
+    for o in options:
+        if sum(1 for c in o if ord(c) > 127) > 2:
+            return False
     return True
 
 

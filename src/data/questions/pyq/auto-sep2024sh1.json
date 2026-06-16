@@ -1,1 +1,376 @@
-[]
+[
+ {
+  "id": "pyq-sep2024sh1-058",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who has given the concept of \"Managerial Revolution\" ? (1) James Burnham (2) C. Wright Mills (3) Robert Michel s (4) Karl Mannheim Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-070",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "India's diaspora is a strategic asset for the country. (A) India receives largest volume of remittances (B) Illegal Indian migrants have given a bad name to India (C) Indian Americans played key role in the passing of Indo US nuclear deal (D) India trained Engineers were instrumental in ushering in IT revolution inthe US and then bringing it to India (E) Indian Diaspora is a source of soft power for India Choose the correct answer from the options given below (1) (A), (C), (D) and (E) Only (2) (A), (B), (C) and (D) Only (3) (A) and (B) Only (4) (A), (B) and (C) Only Zh 2 eppy Options",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-073",
+  "paper": 2,
+  "unit": 10,
+  "topic": "Governance and Public Policy in India",
+  "type": "mcq",
+  "question": "Which is the nodal agency to achieve Sustainable Development Goals in India? (1) Niti Aayog (2) Ministry of Environment, Forests and Climate change (3) National Environment Engineering Institute (4) Indian Institute of Sustainable Development Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-079",
+  "paper": 2,
+  "unit": 6,
+  "topic": "India's Foreign Policy",
+  "type": "mcq",
+  "question": "Which of the following statements are correct ? (A) India will not use its nuclear weapons against non nuclear states (B) India is committed to no-first use of nuclear weapons (C) India will transfer nuclear technology to friendly countries (D) India will extend its nuclear umbrella to its friendly neighbouring countries in South Asia (E) India will develop credible nuclear deterrent capability Choose the correct answer from the options given below : () (A), (B) and (E) Only (2) (A), (B), (C) and (E) Only (3) (A), (B) and (C) Only (4) (A), (B), (D) and (E) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-081",
+  "paper": 2,
+  "unit": 10,
+  "topic": "Governance and Public Policy in India",
+  "type": "mcq",
+  "question": "Ministry of Panchayati Raj, Government of India has initiated measures to make the Panchayats vibrant. Arrange the following in sequential order, from earlier to later time. (A) SV AM ITV A Scheme Property Survey (B) Multi Bijli Yojana to install rooftop solar and provide free electricity upto 300 monthly units (C) Revamped Rash tri ya Gram Swaraj Abhi yan RG S A with focus on localization of Sustainable Development Goals (D) Release of a standard operating procedure (SOP) regarding e-gram Swaraj to bring in better transparency Choose the correct answer from the options given below : (1) (A), (C), (B) and (D) (2) (B), (C), (A) and (D) (3) (D), (A), (C) and (B) (4) (C), (D), (A) and (B) Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-085",
+  "paper": 2,
+  "unit": 9,
+  "topic": "Public Administration",
+  "type": "mcq",
+  "question": "Which does not come under All India Service (A) Indian Administrative Services (B) Indian Police Service (C) Indian Foreign Service (D) Indian Forest Service (E) Indian Custom Service Choosethe correct answer from the options givenbelow: (1) (A), (B), (C) Only (A), (B), (C), (D), (E) (3) (B), (C), (D), (E) Only (4) (C) and (E) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-097",
+  "paper": 2,
+  "unit": 8,
+  "topic": "Political Processes in India",
+  "type": "mcq",
+  "question": "Which statement are incorrect with reference to the Election Campaign in India ? (A) Government provides resources for the election campaign (B) No party or candidate can bribe or threaten voters (C) Nopartyor candidate can use anyplace of worship for election propaganda (D) No party or candidate can appeal tovoters in thenameof caste or religion (E) Once elections are announced ministers shall not lay the foundation stone of any projector make any promise to the voters Choose the correct answer from the options given below : (1) (A) Only (2) (A), (B) and (C) Only (3) (B) and (D) Only (4) (A), (D) and (E) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-101",
+  "paper": 2,
+  "unit": 2,
+  "topic": "Political Thought (Western)",
+  "type": "mcq",
+  "question": "Which of the following statement is not correct about Constitutional is m (1) Totalitarian Government (2) Responsible G over m ment (3) Limited Government (4) Constitutional Monarchy Options",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-106",
+  "paper": 2,
+  "unit": 1,
+  "topic": "Political Theory",
+  "type": "mcq",
+  "question": "Match List -I with List-Il. List-I List-II (A) Heartland Theory () A. T. Mahan (B) Rimland Theory () Halford Mac kinder (C) Sea Power Theory (I) Alexander Seversky Air Power Theory N Nicholas Spy kman (D) (V) 17 Choosethe correct answer from the options given below (1) (A)-(II),(B)-(IV), (C)-(),(D)-(III) (2) (A)-(IV), (B)-(I), (C)-(I), (D)-(III) (3) (A)-(II), (B)-(IV), (C)-(III), (D)-(I) (4) (A)-(I), (B)-(II), (C)-(IV), (D)-(II) Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-110",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "mcq",
+  "question": "Match List -I with List-II. List-I List -II (A) Shimla Agreement () Jawahar Lal Nehru (B) Tashkent Agreement () Indira Gandhi Indus Water Treaty (C) (II) Manmoham Singh Indo-US Nuclear Agreement (D) (IV) Lal Bahadur Shashtri Choose the correct answer from the options givenbelow: (1) (A)-(II), (B)-(IV), (C)-(), (D)-(I) (2) (A)-(IV), (B)-(ID), (C)-(D), (D)-(III) (3) (A)-(IV), (B)-(III), (C)-(II), (D)-(I) (4) (A)-(II), (B)-(IV), (C)-(III), (D)-(D) Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-112",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Arrange the following events incidents related to Sino-lndia relations chronologically (A) Chinese Invasion of India (B) Wuhan Spirit (C) Galwan Valley Incident (D) Chennai Connect (E) Nathu La Skirmishes Choose the correct answer from the options given below : (1) (A), (E), (B), (D), (C) (2) (E), (A), (B),(D), (C) (3) (A), (E), (D), (B), (C) (4) (A), (E), (C), (B), (D) Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-116",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Match List -I with List -II. List -I List-II (A) Doklam Confrontation Atal Bihari Vajpayee (B) Bangladesh War () Lal Bahadur Shastri Kargil War (C) (II) Narendra Modi 1965 Indo Pakistan War (D) (IV) Indira Gandhi Choosethe correct answer from the options given below: (1) (A)-(III), (B)-(IV), (C)-(I), (D)-(II) (2) (A)-(IV), (B)-(III), (C)-(),(D)-(II) (A)-(III), (B)-(IV), (C)-(II), (D)-() (4) (A)-(II), (B)-(I),(C)-(III), (D)-(IV) Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-123",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Consider the statements about Constitutional Government (A) It is a form of limited government (B) One where Constitution is the basis of public authority (C) One where Prime Minister is the formal head of thestate (D) One where there is always universal adult franchise (E) One where there is always limited adult franchise Choose the correct answer from the options givenbelow: () (A) and (B) Only (2) (A), (B) and (C) Only (3) (A), (B) and (E) Only (4) (A), (B), and (D) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-130",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Which of the following statements are correct regarding conservatism ? (A) Conservatism postulates collective leadership, promotes treaties to achieve peace and order (B) Sympathises with free-market ideology, greater emphasis on nationalism and the authority ofthestate (C) A disposition or an 'attitude of mind' placing their faith in pragmatism, tradition and history (D) Provides a model for change, improves freedom of thought and take steps to improve happiness ofmasses (E) Conservatives believe inequality and they work towards reducing various kinds of inequalities Choose the correct answer from the options given below : Zh 2 eppy (1) (B) and (C) Only (2) (A), (B) and (D) Only (3) (A), (B) and (E) Only (4) (C) and (D) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-131",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Indian National Movement had many streams. One of them was Extremist From the following identify which is correct. (A) Bal Gangadhar Tilak (B) Lala Lajpat Rai (C) Bipin Chandra Pal (D) Gopal Krishna Gokhale (E) Dada Bhai Naoroji Choose the correct answer from the options given below (1) (A), (B), (C) Only (2) (A), (B), (C), (D), (E) (3) (A), (B), (C), (D) Only (4) (B), (C), (D), (E) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-132",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Match List I with List Il List - 1 List-II (A) Vedvyasa () Political Guru of Gandhi (B) () Kautilya Mahabharat Raja Ram Mohan Roy (C) () Saptang (D) Gopal Krishna Gokhale IV Pioneer of Indian Renaissance Choose the correct answer from theoptions givenbelow: a 247 (1) (A)-(II),(B)-(III), (C)-(IV),(D)-(I) (2) (A)-(II), (B)-(II), (C)-(), (D)-(IV) (3) (A)-(II), (B)-(), (C)-(III),(D)-(IV) (4) (A)-(I), (B)-(II), (C)-(II), (D)-(IV) Option!",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-133",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Match List I with List Il List - I List-II (A) () First Lok Sabha Election 1950 (B) () Adoption of the Constitution 1949 First Republic Day () (C) 1975 Promulgation of Emergency (IV) (D) 1952 Choosethe correct answer from the options givenbelow: (1) (A)-(IV), (B)-(II), (C)-(), (D)-(II) (2) (A)-(II),(B)-(IID), (C)-(), (D)-(IV) (3) (A)-(III), (B)-(ID), (C)-(), (D)-(IV) (4) (A)-(I), (B)-(II),(C)-(II), (D)-(IV) Optior",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-138",
+  "paper": 2,
+  "unit": 6,
+  "topic": "India's Foreign Policy",
+  "type": "mcq",
+  "question": "Choose the correct statements given below : (A) NATOis a security pact created for the defence of USs led Western Countries (B) Warsaw pact was created by Soviet Union and its allies in response to NATO (C) SAARC was created for the security of South Asia 247 (D) ASEAN is a Security Organisation (E) European Union was created for the securityof Europe Choose the correct answer from the options given below (1) (A) and (B) Only (2) (A), (B) and (C) Only (3) (A), (B), (C) and (D) Only (4) (C), (D) and (E) Only Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-140",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "Who has given the concept of Integral Humanism? (1) Pandit Deendayal Upadhyay (2) Swami Vivekanand (3） Aurobindo Ghosh Rabindranath Tagore Adda 247 Optior",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-143",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who has written thebook Man, the State and war? (1) Kenneth Waltz (2) E. H. Carr (3) Morgenthau (4) Edward Said Optior",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-147",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Which Article instructs the government to incorporate directions given under the Directive Principles in formulating the policies ? (1) Article 37 (2) Article 365 (3) Article 35 (4) Article 51 Options",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh1-148",
+  "paper": 2,
+  "unit": 10,
+  "topic": "Governance and Public Policy in India",
+  "type": "mcq",
+  "question": "Which article of Directive Principles was brought into fundamental rights through 86 th amendment of the Constitution (1) Right to Education of Children Art 45 (2) Article 48 Slaughter of Cows (3) Article 47 Prohibition of Alcohol (4) Article 51 International Peace Option",
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 1) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 1)",
+  "difficulty": "medium"
+ }
+]

@@ -13,9 +13,16 @@ export default function Practice() {
   const initialPaper = (Number(params.get("paper")) === 1 ? 1 : 2) as Paper;
   const progress = useProgress();
 
+  const initialSource =
+    params.get("source") === "ai"
+      ? "ai"
+      : params.get("source") === "pyq"
+        ? "pyq"
+        : "all";
+
   const [paper, setPaper] = useState<Paper>(initialPaper);
   const [unit, setUnit] = useState<number | "all">("all");
-  const [pyqOnly, setPyqOnly] = useState(false);
+  const [source, setSource] = useState<"all" | "pyq" | "ai">(initialSource);
   const [skipAttempted, setSkipAttempted] = useState(false);
 
   const [phase, setPhase] = useState<Phase>("setup");
@@ -30,18 +37,18 @@ export default function Practice() {
     return buildPracticeSet({
       paper,
       unit: unit === "all" ? undefined : unit,
-      pyqOnly,
+      source: source === "all" ? undefined : source,
       excludeIds: skipAttempted ? attemptedIds(progress) : undefined,
     }).length;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [paper, unit, pyqOnly, skipAttempted, progress.attempts.length]);
+  }, [paper, unit, source, skipAttempted, progress.attempts.length]);
 
   function start() {
     const set = buildPracticeSet(
       {
         paper,
         unit: unit === "all" ? undefined : unit,
-        pyqOnly,
+        source: source === "all" ? undefined : source,
         excludeIds: skipAttempted ? attemptedIds(progress) : undefined,
       },
       20
@@ -114,10 +121,21 @@ export default function Practice() {
           </div>
         </Field>
 
+        <Field label="Question source">
+          <div className="flex flex-wrap gap-2">
+            <Choice active={source === "all"} onClick={() => setSource("all")}>
+              All
+            </Choice>
+            <Choice active={source === "pyq"} onClick={() => setSource("pyq")}>
+              ⭐ Previous-year
+            </Choice>
+            <Choice active={source === "ai"} onClick={() => setSource("ai")}>
+              ✨ AI-generated
+            </Choice>
+          </div>
+        </Field>
+
         <div className="flex flex-col gap-2">
-          <Toggle checked={pyqOnly} onChange={setPyqOnly}>
-            ⭐ Previous-year questions only
-          </Toggle>
           <Toggle checked={skipAttempted} onChange={setSkipAttempted}>
             Skip questions I’ve already attempted
           </Toggle>

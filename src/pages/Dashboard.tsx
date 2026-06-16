@@ -1,12 +1,13 @@
 import { Link } from "react-router-dom";
 import { SYLLABUS } from "../data/syllabus";
-import { ALL_QUESTIONS, countByPaper, isPyq } from "../data/questionBank";
+import { ALL_QUESTIONS, countByPaper, countBySource } from "../data/questionBank";
 import { overallStats, useProgress } from "../hooks/useProgress";
 
 export default function Dashboard() {
   const progress = useProgress();
   const stats = overallStats(progress);
-  const pyqCount = ALL_QUESTIONS.filter(isPyq).length;
+  const pyqCount = countBySource("pyq");
+  const aiCount = countBySource("ai");
 
   return (
     <div className="space-y-7 animate-pop">
@@ -50,6 +51,40 @@ export default function Dashboard() {
         />
         <Stat label="Mock tests" value={progress.mocks.length} icon="🏆" />
       </section>
+
+      {/* Practice by source */}
+      <section className="grid gap-3 sm:grid-cols-2">
+        <Link
+          to="/practice?source=pyq"
+          className="group relative overflow-hidden rounded-3xl bg-gradient-to-br from-amber-500 to-orange-600 p-5 text-white shadow-lg transition hover:-translate-y-0.5"
+        >
+          <div className="text-2xl">⭐</div>
+          <div className="mt-1 text-lg font-extrabold">Previous-year questions</div>
+          <div className="text-sm text-amber-50/90">
+            {pyqCount} real questions from past papers →
+          </div>
+        </Link>
+        <Link
+          to="/practice?source=ai"
+          className="group relative overflow-hidden rounded-3xl bg-gradient-to-br from-violet-600 to-fuchsia-600 p-5 text-white shadow-lg transition hover:-translate-y-0.5"
+        >
+          <div className="text-2xl">✨</div>
+          <div className="mt-1 text-lg font-extrabold">AI-generated practice</div>
+          <div className="text-sm text-violet-50/90">
+            {aiCount} questions across the full syllabus →
+          </div>
+        </Link>
+      </section>
+
+      <Link
+        to="/papers"
+        className="card flex items-center justify-between p-4 transition hover:-translate-y-0.5"
+      >
+        <span className="flex items-center gap-2 font-semibold heading">
+          📄 Past papers
+        </span>
+        <span className="text-sm muted">view &amp; download PDFs →</span>
+      </Link>
 
       {/* Question bank */}
       <section className="card p-5">

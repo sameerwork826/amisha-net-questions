@@ -24,8 +24,8 @@ export interface QuestionFilter {
   unit?: number;
   topic?: string;
   difficulty?: Difficulty;
-  /** Only verified previous-year questions */
-  pyqOnly?: boolean;
+  /** "pyq" = previous-year only, "ai" = AI-generated only, undefined = all */
+  source?: "pyq" | "ai";
   /** Exclude ids the user has already attempted */
   excludeIds?: Set<string>;
 }
@@ -37,7 +37,8 @@ export function filterQuestions(filter: QuestionFilter = {}): Question[] {
     if (filter.topic !== undefined && q.topic !== filter.topic) return false;
     if (filter.difficulty !== undefined && q.difficulty !== filter.difficulty)
       return false;
-    if (filter.pyqOnly && !isPyq(q)) return false;
+    if (filter.source === "pyq" && !isPyq(q)) return false;
+    if (filter.source === "ai" && isPyq(q)) return false;
     if (filter.excludeIds && filter.excludeIds.has(q.id)) return false;
     return true;
   });
@@ -45,6 +46,11 @@ export function filterQuestions(filter: QuestionFilter = {}): Question[] {
 
 export function isPyq(q: Question): boolean {
   return /^PYQ/i.test(q.source.trim());
+}
+
+export function countBySource(kind: "pyq" | "ai"): number {
+  return ALL_QUESTIONS.filter((q) => (kind === "pyq" ? isPyq(q) : !isPyq(q)))
+    .length;
 }
 
 /** Fisher–Yates shuffle returning a new array. */

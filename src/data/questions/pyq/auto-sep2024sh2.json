@@ -5,7 +5,7 @@
   "unit": 3,
   "topic": "Indian Political Thought",
   "type": "mcq",
-  "question": "Who was the President ofthe Parliament of the World's Religions at Chicagoin which Swami Vivekanandadelivered hisfamousaddress?",
+  "question": "Who was the President of the Parliament of the World's Religions at Chicagoin which Swami Vivekananda delivered his famous address",
   "options": [
    "Woodrow Wilson",
    "Paul Deusen",
@@ -23,7 +23,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "mcq",
-  "question": "Under which Prime-Minister, 73 rd and 74 th Constitution Amendment Act was passed?",
+  "question": "Under which Prime Minister 73 rd and 74 th Constitution Amendment Act was passed?",
   "options": [
    "V. P. Singh",
    "Morarji Desai",
@@ -41,7 +41,7 @@
   "unit": 9,
   "topic": "Public Administration",
   "type": "statements",
-  "question": "Find out the correct statements from thefollowing- A. NITI Aayog like Planning Commission was also created by an executive resolution of the Governmentof India. B. The Consumer Protection Act, 2023 has repealed and replaced the earlier Consumer Protection Act, 1986 C. The earliest democratic institution in the world for the redressal of citizen's grievance is the Russianinstitutionof Ombudsman. D. The First Administrative Reforms Commission (ARC)of India recommended the setting up of Lokpal and Loakyukta. E. The First ARC of India was headed by Morarji Desai. Choose the correct answer from the options given below: Zh 2 eppy",
+  "question": "Find out the correct statements from the following A. NITI Aayog like Planning Commission was also created by an executive resolution of the Government of India. B. The Consumer Protection Act, 2023 has repealed and replaced the earlier Consumer Protection Act 1986 C. The earliest democratic institution in the world for the redressal of citizen's grievance is the Russian institution of Ombudsman D The First Administrative Reforms Commission (ARC)of India recommended the setting up of Lokpal and Loakyukta. E. The First ARC of India was headed by Morarji Desai. Choose the correct answer from the options given below: Zh 2 eppy",
   "options": [
    "A, B, C, E Only",
    "A, C, D, E Only",
@@ -59,12 +59,48 @@
   "unit": 6,
   "topic": "India's Foreign Policy",
   "type": "statements",
-  "question": "Identify the correct statements- A. Eightth SAARC Summitheldat New Delhi in 1995. B. 19 s 9 was designated as SAARC yearof Combating Drug Abuse and Drug Trafficking C. There was an assassination attempt on US President-Barack Obama while he was in office. D. Bilawal Bhutto Zardari became Prime Minister of Pakistan in March, 2024. E. The Agreement on SAARC Preferential Trading Arrangement was signed on Il April, 1993. Choose the correctanswerfrom the options given below:",
+  "question": "Identify the correct statements- A. Eightth SAARC Summit held at New Delhi in 1995. B. 19 s 9 was designated as SAARC yearof Combating Drug Abuse and Drug Trafficking C. There was an assassination attempt on US President Barack Obama while he was in office. D. Bilawal Bhutto Zardari became Prime Minister of Pakistan in March, 2024. E. The Agreement on SAARC Preferential Trading Arrangement was signed on Il April, 1993. Choose the correct answer from the options given below:",
   "options": [
    "A, B, C Only",
    "B, C, D Only",
    "C and D Only",
    "A, B and E Only"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-055",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "statements",
+  "question": "Consider the Article 15 of Constitution of India- The State shall not discriminate against any citizen on grounds only of- A. Religion B. Race C. Caste D. Sex E. Place of birth Choose the correct answer from the options given below",
+  "options": [
+   "B, C Only",
+   "A, C, D Only",
+   "B, D Only",
+   "A, B, C, D, E"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-056",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following Indian Constitutional Amendments in the chronological order A. Amendment in the Preamble and addition of 'unity and integrity of the nation'. B. Maithili added as a language in the Sth Schedule of the Indian Constitution C. Konkani added as a language in the 8 th Schedule ofthe Indian Constitution D The Co operative Societies inserted as Art 243 ZH E. Women Reservation Act Choosethe correct answer from theoptions givenbelow:",
+  "options": [
+   "A, B, C, D, E",
+   "B, C, A, E, D",
+   "C, D, E, B, A",
+   "A, C, B, D, E"
   ],
   "correctIndex": 3,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
@@ -95,7 +131,7 @@
   "unit": 10,
   "topic": "Governance and Public Policy in India",
   "type": "statements",
-  "question": "Identify the incorrect statements- A. Jacques Derrida wrote thebook'Spectersof Marx' B. Deendayal Upadhyay opposed the idea of Integral Humanism. C. Federalism was borrowed by the framers of Indian Constitution from British Constitution D. Asif Ali Zardari is the President of Pakistan, E. Panchayati Raj system in India provided 45% reservation for women. Choose the correct answerfrom the options given below:",
+  "question": "Identify the incorrect statements- A. Jacques Derrida wrote the book ' Specters of Marx' B. Deendayal Upadhyay opposed the idea of Integral Humanism. C. Federalism was borrowed by the framers of Indian Constitution from British Constitution D. Asif Ali Zardari is the President of Pakistan, E. Panchayati Raj system in India provided 45% reservation for women. Choose the correct answerfrom the options given below:",
   "options": [
    "A, B, C, D Only",
    "B, C, D, E Only",
@@ -131,7 +167,7 @@
   "unit": 1,
   "topic": "Political Theory",
   "type": "statements",
-  "question": "Identify the correct statements- A. Chinese Communist Party (CCP) is an example of a cadre based party. B. Otto Kirchheimer argues for a category of'catch-all parties'. C. O. Kirchheimer puts the US Republican and Democratic parties in the category of catch-all parties. D. Anthony Downs portray politicians as power-seeking creatures who 'are willing' to adopt \"whatever'policies are likely to bring them electoral success. E. Thomas Jefferson was the principal author of UK Declaration of freedom. Choose the correctanswerfrom the optionsgivenbelow:",
+  "question": "Identify the correct statements- A. Chinese Communist Party (CCP) is an example of a cadre based party. B. Otto Kirchheimer argues for a category of'catch-all parties'. C. O Kir ch he i mer puts the US Republican and Democratic parties in the category of catch-all parties. D. Anthony Downs portray politicians as power seeking creatures who 'are willing' to adopt whatever ' policies are likely to bring them electoral success. E. Thomas Jefferson was the principal author of UK Declaration of freedom. Choose the correct answer from the options given below",
   "options": [
    "A, B, C, E Only",
    "B, C, D, E Only",
@@ -149,7 +185,7 @@
   "unit": 8,
   "topic": "Political Processes in India",
   "type": "statements",
-  "question": "Choose the correct statements regarding elite theory: A. Robert Dahl advocated the Concept of polyrchial democracy. B. John Plamenatz argued that if the will of the people is a myth, then'will of the minority' also belongs to the same category. C. Gaetano Mosca advocated the idea of elite theory in his classical work The Political Parties'. D. Robert Michels advocated the idea of 'Iron law of Oligarchy'. E. C Right Mills advocated his idea of elite power in his book 'The Managerial Revolution'. Choose the correctanswerfromtheoptionsgiven below:",
+  "question": "Choose the correct statements regarding elite theory: A. Robert Dahl advocated the Concept of polyrchial democracy. B. John Plamenatz argued that if the will of the people is a myth, then'will of the minority' also belongs to the same category. C. Gaetano Mosca advocated the idea of elite theory in his classical work The Political Parties'. D. Robert Michels advocated the idea of 'Iron law of Oligarchy'. E. C Right Mills advocated his idea of elite power in his book 'The Managerial Revolution'. Choose the correct answer from the options given below:",
   "options": [
    "A, B, C Only",
    "A, B, D Only",
@@ -167,7 +203,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "mcq",
-  "question": "Who proposed the 'Chaukhamba Model' of decentralization? Zh 2 ep P",
+  "question": "Who proposed the 'Chaukhamba Model' of decentralization Zh 2 ep P",
   "options": [
    "Ram Manohar Lohia",
    "Jayaprakash Narayan",
@@ -203,7 +239,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LIST I LIST II Regional Organisation Establishment Year North American Free Trade Agreement A. 1991 B. Asia Pacific Economic Cooperation 1994 C. Mercosur I. 1993 IV. D. Free Trade Area of Americas 1989 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LIST I LIST II Regional Organisation Establishment Year North American Free Trade Agreement A. 1991 B. Asia Pacific Economic Cooperation 1994 C. Mercosur I. 1993 IV. D. Free Trade Area of Americas 1989 Choose the correct answer from the options given below:",
   "options": [
    "A-IV, B-II, C-III, D-I",
    "A-III, B-IV, C-I, D-II",
@@ -239,7 +275,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Matchthe List-I with List-II LISTI LIST II President of India Tenures Dr. Zakir Hussain 25 July 1977-25 July 1982 B. Fakhrudin Ali Ahmed 13 May 1967-3 May 1969 C. Neelam Sanjiva Reddy 25 July 1987-25 July 1992 R. Venkataraman IV. 24 August 1974-11 February 1977 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List-II LISTI LIST II President of India Tenures Dr. Zakir Hussain 25 July 1977-25 July 1982 B. Fa kh rud in Ali Ahmed 13 May 1967-3 May 1969 C. Neelam Sanjiva Reddy 25 July 1987-25 July 1992 R Ven katara man IV. 24 August 1974 11 February 1977 Choose the correct answer from the options given below:",
   "options": [
    "A-I, B-II, C-III, D-IV",
    "A-IV, B-III, C-II, D-I",
@@ -257,7 +293,7 @@
   "unit": 2,
   "topic": "Political Thought (Western)",
   "type": "statements",
-  "question": "Choose the correct statements regarding political theorists- A. Mary Wollstonecraft emphasized the equal rights of women. B. Hannah Arendt examined the nature of both Nazism and Stalinism in The Origins of Totalitarianism'. C. Antonio Gramsei wrote thefamous book On People's Democratic Dictatorship'. D. Franz Fanon wrote thefamous book Black Skin White Masks'. E. In hisfamous book,'Politics among Nations', Aristotle advocated a system ofmixed govermment. Choosethecorrectanswerfromtheoptions givenbelow:",
+  "question": "Choose the correct statements regarding political theorists- A Mary Wollstonecraft emphasized the equal rights of women. B. Hannah Arendt examined the nature of both Nazism and Stalinism in The Origins of Totalitarianism ' C. Antonio Gramsei wrote thefamous book On People's Democratic Dictatorship ' D. Franz Fanon wrote thefamous book Black Skin White Masks'. E. In hisfamous book ' Politics among Nations ' Aristotle advocated a system ofmixed govermment. Choose the correct answer from the options givenbelow:",
   "options": [
    "A, B, C, D, E",
    "A, B, C, E Only",
@@ -270,12 +306,48 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-068",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "In which year, Swami Vivekananda founded the periodical Brahmayadin' to teach the Vedanta?",
+  "options": [
+   "1895",
+   "1897",
+   "1890",
+   "1901"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-070",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "chronological",
+  "question": "Arrange the UN Secretary- General as per their tenures in the chronological order: A. Boutros Boutros Ghali B. Ban-Ki-Moon C. U Thant D. Kofi A. Annan E. Kurt Waldheim Zh 2 Choose the correct answerfrom the options givenbelow:",
+  "options": [
+   "C, A, E, B, D",
+   "A, B, C, D, E",
+   "C, E, A, D, B",
+   "E, B, C, D, A"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-071",
   "paper": 2,
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "mcq",
-  "question": "Under which Article of the Indian Constitution, formation of the Finance Commission is laid down?",
+  "question": "Under which Article of the Indian Constitution formation of the Finance Commission is laid down?",
   "options": [
    "Article 269",
    "Article 271",
@@ -296,7 +368,7 @@
   "question": "Which Chief Minister was removed first time in India by the use/misuse of Article 356?",
   "options": [
    "N. IT. Rama Rao",
-   "E. M. S. Namboodripad",
+   "E. M. S. Nam boo dr ipad",
    "Ram Krishna Hedge",
    "Bhagat Singh Koshyari"
   ],
@@ -311,7 +383,7 @@
   "unit": 3,
   "topic": "Indian Political Thought",
   "type": "mcq",
-  "question": "Who stated- Sri Aurobindohas appropriated Hegel's notionofan Absolute Spirit and employed ittoradically restructure the architectonic framework of the ancient Hindu Vedanta system in contemporary terms?",
+  "question": "Who stated- Sri Aurobindo has appropriated Hegel's notion of an Absolute Spirit and employed it to radically restructure the architect onic framework of the ancient Hindu Vedanta system in contemporary terms?",
   "options": [
    "Mahatma Gandhi",
    "Rabindranath Tagore",
@@ -329,7 +401,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "statements",
-  "question": "Choosethecorrect statements regarding Constitution of India- A. The Governor is appointed by the Prime Minister. B. The Attorney general is appointed by the President. C. The Chairman of UPSC is appointed by the President. D. The Judgesof the Supreme Court areappointedbythe President. E. The Judges of the High Court are appointed by the Governor. Choose the correct answerfrom the options given below dda 247",
+  "question": "Choose the correct statements regarding Constitution of India- A. The Governor is appointed by the Prime Minister. B. The Attorney general is appointed by the President. C. The Chairman of UPSC is appointed by the President. D The Judges of the Supreme Court are appointed by the President E. The Judges of the High Court are appointed by the Governor. Choose the correct answerfrom the options given below dda 247",
   "options": [
    "B, C, D, E Only",
    "B, C, D Only",
@@ -347,7 +419,7 @@
   "unit": 6,
   "topic": "India's Foreign Policy",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LIST I LISTI Secretary General of SAARC Tenures Abul Ahsan January 16, 1987-October 15, 1989 B. Yadav Kant Silwal January 1, 1994-December 31. 1995 C. Naeem U. Hasan January 1, 1996-December 31. 1998 D. Sheel Kant Sharma IV. March 1, 2008-February 28. 2011 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LIST I LISTI Secretary General of SAARC Tenures Abul Ahsan January 16 1987 October 15 1989 B. Yadav Kant Silwal January 1 1994 December 31 1995 C. Naeem U. Hasan January 1 1996 December 31 1998 D. Sheel Kant Sharma IV. March 1 2008 February 28 2011 Choose the correct answer from the options given below:",
   "options": [
    "A-IV, B-III, C-II, D-I",
    "A-I, B-II, C-III, D-IV",
@@ -360,12 +432,102 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-077",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following High Courts with their year of establishment in the chronological order: A. Manipur B. Gujarat C. Madhya Pradesh D. Rajasthan E. Sikkim Choose the correct answer from theoptions given below: Adda 247",
+  "options": [
+   "A, B, C, D, E",
+   "D, B, A, C, E",
+   "E, A, B, C, D",
+   "D, C, B, E, A"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-078",
+  "paper": 2,
+  "unit": 6,
+  "topic": "India's Foreign Policy",
+  "type": "chronological",
+  "question": "Arrange the following Treaties and Agreements in the chronological order: A. India and Bangladesh signed the Farakka Treaty for sharing of the Ganga water. B. India and Pakistan signedthe Shimla Agreement C. India and Pakistan signed the Indus Water Treaty. D. Prime Minister Atal Bihari Vajpayee under took bus journey to Lahore and signed a declaration. E. India and Pakistan signed the Tushkant Agreement. Choosethe correct answer from the options given below:",
+  "options": [
+   "A, B, C, D, E",
+   "C, E, B, A, D",
+   "C, B, A, E, D",
+   "E, C, B, A, D"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-079",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following Cases related to Indian Constitution in the chronological order: A. The Golknath Case B The Kes a vanand a Bharati Case C. The Minerva Mills Case D. The A. K. Gopalan Case E. The Indra Sawhney Case Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C, D, E",
+   "D, A, B, C, E",
+   "E, A, B, D, C",
+   "E, C, D, B, A"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-081",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "After Jawaharlal Nehru which one of the following leader became Prime Minister of India third time in row after completing two full tenures",
+  "options": [
+   "Indira Gandhi",
+   "Dr. Manmohan Singh",
+   "Narendra Modi",
+   "Morarji Desai"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-082",
+  "paper": 2,
+  "unit": 8,
+  "topic": "Political Processes in India",
+  "type": "chronological",
+  "question": "Arrange the following Political Parties (as pertheir year of formation in the chronological order: A. Janata Dal (U) B All India Tri namo ol Congress C. Telugu Desam Party D. Asom Gana Parishad E Dravida Mun net ra Ka zha gam Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C, D, E",
+   "B, E, C, D, A",
+   "E, C, D, B, A",
+   "D, A, B, C, E"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-084",
   "paper": 2,
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Match the List-I with List-II LISTI LISTI Authors Books David Apter A. Comparative Politics: ADevelopmental Approach B. Walter Bagehot An Introductionto Comparative Government C. Jean Blondel English Constitution D. Almond and Powell The Politics of Modernisation Choose the correct answer from the options given below:",
+  "question": "Match the List-I with List-II LISTI LISTI Authors Books David Apter A. Comparative Politics A Developmental Approach B. Walter Bagehot An Introduction to Comparative Government C. Jean Blondel English Constitution D. Almond and Powell The Politics of Modernisation Choose the correct answer from the options given below:",
   "options": [
    "A-I, B-II, C-III, D-IV",
    "A-II, B-I, C-IV, D-III",
@@ -383,14 +545,50 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "mcq",
-  "question": "Which oneof the following US President survived the American Congress impeachment proceedingsbyasinglevotein 1868?",
+  "question": "Which oneof the following US President survived the American Congress impeachment proceedings by a single vote in 1868",
   "options": [
    "Andrew Johnson",
-   "Abraham Linchon",
+   "Abraham L inchon",
    "James Madison",
    "Woodrow Wilson"
   ],
   "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-086",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following Prime Minister of India in the chronological order as per their tenure: A. Chandra Shekhar B. H. D. Deve Gowda C Vishwanath Pratap Singh D. Charan Singh E. Morarji Desai Choose the correct answer from the options given below:",
+  "options": [
+   "E, D, A, B, C",
+   "E, D, C, A, B",
+   "A, B, C, D, E",
+   "E, C, D, B, A"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-088",
+  "paper": 2,
+  "unit": 6,
+  "topic": "India's Foreign Policy",
+  "type": "chronological",
+  "question": "Arrange the following designated SAARC years in the chronological order: A SAAR C year of the Youth B. SAARC year of Girl-Child C. SAARC year of Environment D SAAR C year of Disabled Persons E SAAR C year of Poverty Eradication Choose the correct answer from the options given below:",
+  "options": [
+   "B, D, C, E, A",
+   "C, A, D, E, B",
+   "B, C, D, A, E",
+   "A, B, C, D, E"
+  ],
+  "correctIndex": 2,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
   "source": "PYQ Sep 2024 (Shift 2)",
   "difficulty": "medium"
@@ -401,7 +599,7 @@
   "unit": 1,
   "topic": "Political Theory",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LIST I LISTI Author Book George Soros A. The Conscience of a Liberal B. Paul Krugman Open Society C. Herman Daly Declineof American Power D. Immanual Wallerstein IV. Forthe Common Good Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LIST I LISTI Author Book George Soros A. The Conscience of a Liberal B. Paul Krugman Open Society C. Herman Daly Decline of American Power D. Im manual Waller stein IV. For the Common Good Choose the correct answer from the options given below:",
   "options": [
    "A-II, B-I, C-IV, D-III",
    "A-I, B-II, C-III, D-IV",
@@ -419,7 +617,7 @@
   "unit": 9,
   "topic": "Public Administration",
   "type": "statements",
-  "question": "Choosethe incorrectanswerrelatedtothe Indian Constitution- A. Provisions related to'All India Services'are mentioned in Article 312. B. Provisions related to Administrative tribunals are mentioned in Article 342 A. C. Provisions related to Inter-State council are mentioned in Article 244. D. Provisions related to facilities for instruction in mother-tongue at primary stage is not mentioned in Indian Constitution. E. Provisions related tolanguages arementioned in Article 368. Choosethecorrectanswerfromtheoptionsgivenbelow:",
+  "question": "Choosethe incorrect answer related to the Indian Constitution A. Provisions related to'All India Services'are mentioned in Article 312. B. Provisions related to Administrative tribunals are mentioned in Article 342 A. C. Provisions related to Inter-State council are mentioned in Article 244. D. Provisions related to facilities for instruction in mother tongue at primary stage is not mentioned in Indian Constitution E. Provisions related tolanguages are mentioned in Article 368. Choose the correct answer from the options given below",
   "options": [
    "A, B, C Only",
    "A, C, D, E Only",
@@ -432,12 +630,48 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-092",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "In which year, Planning Commission was converted into Niti Ayog'?",
+  "options": [
+   "2013",
+   "2015",
+   "2017",
+   "2016"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-093",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "chronological",
+  "question": "Arrange the following languages conferred with classical language status by Govenment of India in the chronological order: A. Kannada B. Odia C. Tamil D. Sanskrit E. Malayalam Choose the correct answer from the options given below: Zh 2 eppy",
+  "options": [
+   "E, D, C, B, A",
+   "D, C, A, E, B",
+   "C, D, A, E, B",
+   "B, A, D, E, C"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-095",
   "paper": 2,
   "unit": 9,
   "topic": "Public Administration",
   "type": "statements",
-  "question": "Identify the correct statements regarding administrative ideas: A. Fred Riggs advocated the sala model of administration. B. Abraham Maslow advanced theidea of hierarchy of needs. C. Chester Barnard advanced the idea of Hawthorne effect. D. Max Weber gave the idea of legal-rational authority. E. Luther Gulick and Lyndall Urwick are associated with the concept of POSDCORB. Choose the correct answer from the options given below: 247 Addal",
+  "question": "Identify the correct statements regarding administrative ideas: A. Fred Riggs advocated the sala model of administration B. Abraham Maslow advanced theidea of hierarchy of needs. C. Chester Barnard advanced the idea of Hawthorne effect. D. Max Weber gave the idea of legal rational authority. E Luther Gulick and Lyndall Urwick are associated with the concept of POSDCORB. Choose the correct answer from the options given below: 247 Addal",
   "options": [
    "A, B, C, E Only",
    "B, C, E Only",
@@ -455,7 +689,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "mcq",
-  "question": "Who stated- \"There is nothing absoluteinmanagementaffairs. Seldomdowehavetoapplythe same principle twice as in identical conditions; allowance must be made for different changing circumstances?",
+  "question": "Who stated- \"There is nothing absolute in management affairs Seldom do we have to apply the same principle twice as in identical conditions; allowance must be made for different changing circumstances",
   "options": [
    "Max Weber",
    "Peter Drucker",
@@ -463,6 +697,24 @@
    "Henri Fayol"
   ],
   "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-099",
+  "paper": 2,
+  "unit": 9,
+  "topic": "Public Administration",
+  "type": "statements",
+  "question": "Fred Riggs developed ideal models to analyse the administrative systems of different countries. Choose the correct ones from the following A. Fused B. Focussed C. Prismatic D. Rainbow E. Diffracted Choose the correct answer from the options givenbelow: Zh 2 eppy",
+  "options": [
+   "A, B, C Only",
+   "A, B, C, D Only",
+   "A, C, E Only",
+   "A, B, C, D, E"
+  ],
+  "correctIndex": 2,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
   "source": "PYQ Sep 2024 (Shift 2)",
   "difficulty": "medium"
@@ -477,10 +729,28 @@
   "options": [
    "Kanaklata Baruah",
    "Rani Gaidilieu",
-   "Chandraprava Saikaini",
+   "Chandra p rava Saikaini",
    "Lalnu Ropuiliani"
   ],
   "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-101",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "In which year, Burma was bifurcated from British India?",
+  "options": [
+   "1915",
+   "1917",
+   "1923",
+   "1937"
+  ],
+  "correctIndex": 2,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
   "source": "PYQ Sep 2024 (Shift 2)",
   "difficulty": "medium"
@@ -491,7 +761,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "mcq",
-  "question": "\"The state shalltake steps to organize village Panchayats and endow them with high powers and authority as maybe necessary to enable them tofunction as units of self-government\" Which Article ofthe Indian Constitution mention it?",
+  "question": "\"The state shalltake steps to organize village Panchayats and endow them with high powers and authority as maybe necessary to enable them tofunction as units of self government Which Article ofthe Indian Constitution mention it?",
   "options": [
    "Article 40",
    "Article 37",
@@ -509,7 +779,7 @@
   "unit": 2,
   "topic": "Political Thought (Western)",
   "type": "statements",
-  "question": "Choose the correct statements regarding political ideas- A. John Locke championed the cause of constitutional government. B. Montesquieu proposed a system of checks and balances in the form of separation of powers which became the important feature of British Constitution. C. Jeremy Bentham developed his idea of utilitarianism. D. J. S. Mill arguedfor broadening of popular participation with inclusion of women. E. Thomas Hobbes discussed thegrounds of political obligation in his classical work \"Philosophy of Right'. Choose the correct answer from the options given below: Zh 2 eppv",
+  "question": "Choose the correct statements regarding political ideas- A. John Locke championed the cause of constitutional government. B Montesquieu proposed a system of checks and balances in the form of separation of powers which became the important feature of British Constitution C Jeremy Bentham developed his idea of utilitarianism D. J. S. Mill arguedfor broadening of popular participation with inclusion of women. E. Thomas Hobbes discussed thegrounds of political obligation in his classical work \"Philosophy of Right'. Choose the correct answer from the options given below: Zh 2 eppv",
   "options": [
    "B, C, D, E Only",
    "A, C, D Only",
@@ -527,7 +797,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LIST I LIST II Creation of States Years of Creation Jharkhand 2014 B. Telengana 1987 Goa C. 2000 D. Sikkim IV. 1975 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LIST I LIST II Creation of States Years of Creation Jharkhand 2014 B. Telengana 1987 Goa C. 2000 D. Sikkim IV. 1975 Choose the correct answer from the options given below:",
   "options": [
    "A-II, B-III, C-IV, D-I",
    "A-III, B-I, C-II, D-IV",
@@ -581,7 +851,7 @@
   "unit": 6,
   "topic": "India's Foreign Policy",
   "type": "statements",
-  "question": "Identifythecorrectstatements: A. A consensus on poverty eradication was adopted at the Seventh SAARC Summit B. Giuseppe Mazzini wrote the book'On Nationality. C. V. D. Savarkar did not establish the Abhinav Bharat Society. D. Jurgen Habermas is the leading exponent of the'Second Generation' of the Frankfurt School. E. India adopted planningprocess from United States of America. Choosethecorrectanswerfrom theoptions givenbelow:",
+  "question": "Identify the correct statements A. A consensus on poverty eradication was adopted at the Seventh SAARC Summit B. Giuseppe Mazzini wrote the book'On Nationality. C. V. D. Savarkar did not establish the Abhinav Bharat Society. D. Jurgen Habermas is the leading exponent of the'Second Generation' of the Frankfurt School. E. India adopted planning process from United States of America. Choose the correct answer from theoptions givenbelow:",
   "options": [
    "B, C, D, E Only",
    "C, E Only",
@@ -599,7 +869,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "statements",
-  "question": "Considerthefollowing correct statements- A. Anthony Smithwrotethebook The Ethnic Originsof Nations' B. Ernest Gellner emphasised his idea of nationalism in book Nations and Nationalism. 17 C. Malcom X argued for rediscovery of Africa as a spiritual and cultural homeland. D. John Loke's idea of General Will was the seed from which nationalist doctrines sprang duringthe French Revolutionof 1789. E. Eric Hobsbawn highlighted theideaof invented traditions. Choose the correct answer from the options given below:",
+  "question": "Consider the following correct statements- A. Anthony Smith wrote the book The Ethnic Origins of Nations' B. Ernest Gellner emphasised his idea of nationalism in book Nations and Nationalism. 17 C. Malcom X argued for rediscovery of Africa as a spiritual and cultural homeland. D. John Loke's idea of General Will was the seed from which nationalist doctrines sprang during the French Revolution of 1789 E. Eric Hobsbawn highlighted theideaof invented traditions. Choose the correct answer from the options given below:",
   "options": [
    "A, B, D, E Only",
    "B, D, E Only",
@@ -617,7 +887,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "statements",
-  "question": "Choose the correct statements regarding Comparative Politics. A. In traditional approach, emphasis is on value-laden study of politics. B. Behavioural approach is one of theimportant traditional approach. C. David Easton is one of the leading theorist of Behaviouralism. D. David Easton's input-output analysis has three main variables in the form of demands, supports and feedbacks. E. Political assasination is one of the important positive indices of political development. Choose the correct answer from the options given below:",
+  "question": "Choose the correct statements regarding Comparative Politics. A. In traditional approach, emphasis is on value-laden study of politics. B Behavioural approach is one of the important traditional approach. C. David Easton is one of the leading theorist of Behavioural is m D. David Easton's input-output analysis has three main variables in the form of demands, supports and feedbacks. E. Political as s as i nation is one of the important positive indices of political development. Choose the correct answer from the options given below:",
   "options": [
    "B, C, E Only",
    "A, B, C, D, E",
@@ -635,7 +905,7 @@
   "unit": 2,
   "topic": "Political Thought (Western)",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LISTI LIST II Book Author ATheory of Justice A. John Rawls B. Philosophy of Right Jurgen Habermas Towards a Rational Society C. Vladimir Ilyich Lenin D. State and Revolution IV. Fridrich Hegal Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LISTI LIST II Book Author ATheory of Justice A. John Rawls B. Philosophy of Right Jurgen Habermas Towards a Rational Society C. Vladimir Ilyich Lenin D. State and Revolution IV. Fridrich He gal Choose the correct answer from the options given below:",
   "options": [
    "A-I, B-II, C-III, D-IV",
    "A-IV, B-III, C-II, D-I",
@@ -653,7 +923,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "mcq",
-  "question": "Who set up the Bahishkrit Hitakarini Sabha'in 1924?",
+  "question": "Who set up the Bah ish kr it Hitakarini Sabha'in 1924?",
   "options": [
    "V. D. Savarkar",
    "Dada Bhai Naoroji",
@@ -689,7 +959,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LISTI LIST I Books Authors Government by Committee A. WHMorris Jones B. Parliament in India Ramsey Muir C. How Britain is Governed KCWheare D. Musolini's Italy IV. Herman Finer Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LISTI LIST I Books Authors Government by Committee A. WHMorris Jones B. Parliament in India Ramsey Muir C. How Britain is Governed KCWheare D. Musolini's Italy IV. Herman Finer Choose the correct answer from the options given below:",
   "options": [
    "A-I, B-III, C-IV, D-II",
    "A-II, B-IV, C-III, D-I",
@@ -725,7 +995,7 @@
   "unit": 1,
   "topic": "Political Theory",
   "type": "mcq",
-  "question": "Who proposed the ideas of Pitribhu'(fatherland)and Punybhu (holyland) in the classical text on the ideology of Hindutva?",
+  "question": "Who proposed the ideas of Pit rib hu ' fatherland and Punybhu (holyland) in the classical text on the ideology of Hindutva?",
   "options": [
    "M. N. Roy",
    "Jai Prakash Narayan",
@@ -746,7 +1016,7 @@
   "question": "Which one of the following organisation won the Nobel Peace Prize in 2017?",
   "options": [
    "The International Campaign to abolish nuclear weapons.",
-   "The International Campaign to counter-terrorism.",
+   "The International Campaign to counter terrorism",
    "The International Campaign to safeguard environment.",
    "The International Campaign to protect women and children."
   ],
@@ -761,7 +1031,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Matchthe List-I with List-II LISTI LISTI Statewise membership in the Constitutional Assembly Ason 31 December 1947 Madras A. 21 Bombay B. 49 West Bengal C. 55 United Province IV. D. 2917 19 Choose the correct answer from theoptions given below:",
+  "question": "Match the List I with List-II LISTI LISTI Statewise membership in the Constitutional Assembly As on 31 December 1947 Madras A. 21 Bombay B. 49 West Bengal C. 55 United Province IV. D. 2917 19 Choose the correct answer from theoptions given below:",
   "options": [
    "A-II, B-I, C-IV, D-III",
    "A-III, B-IV, C-I, D-II",
@@ -779,7 +1049,7 @@
   "unit": 5,
   "topic": "International Relations",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LISTI LISTI Events of the United Nations Year A. Trygve Lieappointed Secretary General 1964 Kofi Annan appointd Secretary General B. 1950 U. N Peace Keepers sent to Cyprus 1946 D. UNHigh Commissionerfor Refugeesestablished IV. 1997 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LISTI LISTI Events of the United Nations Year A. Trygve Lie appointed Secretary General 1964 Kofi Annan appointd Secretary General B. 1950 U. N Peace Keepers sent to Cyprus 1946 D. UN High Commissioner for Refugees established IV. 1997 Choose the correct answer from the options given below:",
   "options": [
    "A-IV, B-III, C-II, D-I",
    "A-I, B-IV, C-II, D-III",
@@ -797,7 +1067,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LISTI LIST I President's Rules States Tenures Andhra Pradesh 30. 6. 1981-13. 1. 1982 B. Assam 15. 12. 1992 -3. 12. 1993 C. Himachal Pradesh 18. 3. 2016-6. 5. 2016 D. Uttarakhand IV. 18. 1. 73-10. 12. 1973 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LISTI LIST I President's Rules States Tenures Andhra Pradesh 30. 6. 1981-13. 1. 1982 B. Assam 15. 12. 1992 -3. 12. 1993 C. Himachal Pradesh 18. 3. 2016-6. 5. 2016 D. Uttarakhand IV. 18. 1. 73-10. 12. 1973 Choose the correct answer from the options given below:",
   "options": [
    "A-IV, B-I, C-II, D-III",
    "A-III, B-II, C-I, D-IV",
@@ -810,12 +1080,66 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-121",
+  "paper": 2,
+  "unit": 5,
+  "topic": "International Relations",
+  "type": "chronological",
+  "question": "Arrange the following events related to United Nations in the chronological order: A. UN peacekeepers sentto Cyprus. B. UN Peace Keeping Commission was established. C First UN Peace Keeping Force sent to the Suez Canal D General Assembly adopts the Sustainable Development Goals(SDGs). E UN High Commissioner for Refugees UNHCR established Choose the correct answer from the options given below:",
+  "options": [
+   "E, D, C, B, A",
+   "B, D, A, E, C",
+   "E, C, A, B, D",
+   "C, A, D, E, B"
+  ],
+  "correctIndex": 2,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-122",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following Speakers of the Lok-Sabha as per their tenure in the chronological order: A Ganesh Vas ude v Ma val an kar dda 247 B. P. A. Sangma C. Om Birla D. Neelam Sanjiva Reddy E. Ms. Meira Kumar Choose the correct answerfrom theoptions given below",
+  "options": [
+   "A, B, C, D, E",
+   "A, D, B, E, C",
+   "E, A, B, C, D",
+   "D, A, B, E, C"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-123",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "chronological",
+  "question": "Arrange the following Commissions of India as pertheir year of formation in the chronological order: A National Commission for Minorities B. National Commission for Schedule Castes C. Central Information Commission D. National Commission for Protection of Child Rights E. National Commission for Women Choose the correct answer from the options given below",
+  "options": [
+   "E, A, B, C, D",
+   "E, B, A, D, C",
+   "A, B, C, D, E",
+   "C, B, A, D, E"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-124",
   "paper": 2,
   "unit": 5,
   "topic": "International Relations",
   "type": "match",
-  "question": "Matchthe List-I with List-II LISTI LIST II International Human Right Documents Enactment Years A. Convention Relatingtothe Statusof Refugees 1975 B. Declarationon Torture 1954 C. Convention on the Rights ofthe Child 1990 IV. Charter of Fundamental Rights of the European Union 2000 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List-II LISTI LIST II International Human Right Documents Enactment Years A. Convention Relating to the Status of Refugees 1975 B. Declaration on Torture 1954 C. Convention on the Rights ofthe Child 1990 IV. Charter of Fundamental Rights of the European Union 2000 Choose the correct answer from the options given below:",
   "options": [
    "A-II, B-I, C-III, D-IV",
    "A-IV, B-III, C-I, D-II",
@@ -833,7 +1157,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "statements",
-  "question": "Consider the following statements regarding judicial system and choose the correct answer- A. Supreme Court of Canada has three judges from the province of Quebec to ensure ethnic and religious balance. B. Some judges of the Federal Constitutional Court of Germany are elected by the Bundestag and Bundesrat. C. In United States, the judges are nominated by the House of Lords and ratified by the Senate. D. US Constitution of 1787 did not explicitly provide for judicial review. E. Thepowerof judicial revieworiginated in India in theleading caseof Marbury da 247 Madison.",
+  "question": "Consider the following statements regarding judicial system and choose the correct answer- A. Supreme Court of Canada has three judges from the province of Quebec to ensure ethnic and religious balance. B. Some judges of the Federal Constitutional Court of Germany are elected by the Bundestag and Bundesrat. C. In United States, the judges are nominated by the House of Lords and ratified by the Senate. D. US Constitution of 1787 did not explicitly provide for judicial review. E. Thepowerof judicial review originated in India in theleading caseof Marbury da 247 Madison.",
   "options": [
    "A, B, C, D Only",
    "B, C, D, E Only",
@@ -846,12 +1170,30 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-127",
+  "paper": 2,
+  "unit": 7,
+  "topic": "Political Institutions in India",
+  "type": "mcq",
+  "question": "Arrange the Acts relatedto implementation of Directive Principle of State Policy in the chronological order: A. The Bonded Labour System Abolition Act B. The Child Labour Prohibition and Regulation Act C. The Trade Unions Act D The Minimum Wages Act E. The Mines Act Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C, D,",
+   "C, E, D, B, A",
+   "B, E, D, C, A",
+   "C, D, E, A, B"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-128",
   "paper": 2,
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "statements",
-  "question": "Read carefully the following statements regarding Fundamental duties in Indian Constitution and choosetheincorrectanswer- A. Fundamental duties were insertedby the 44 th Constitution Amendment Act. 47 B. Parliament cannot amend the fundamental duties. C. Fundamental duties can be enforced by writs. D. Thereareeleven fundamental duties in Article 51 A E. Promotion of international peace and securities in oneof the important fundamental duty. Choose the correctanswerfrom the options given below:",
+  "question": "Read carefully the following statements regarding Fundamental duties in Indian Constitution and choose the incorrect answer A Fundamental duties were insertedby the 44 th Constitution Amendment Act. 47 B. Parliament cannot amend the fundamental duties. C. Fundamental duties can be enforced by writs. D There are eleven fundamental duties in Article 51 A E. Promotion of international peace and securities in oneof the important fundamental duty. Choose the correct answer from the options given below:",
   "options": [
    "B, C, D Only",
    "A, B, C, E Only",
@@ -859,6 +1201,24 @@
    "A, B, C, D, E"
   ],
   "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-129",
+  "paper": 2,
+  "unit": 3,
+  "topic": "Indian Political Thought",
+  "type": "mcq",
+  "question": "In which year, Visva b hart i was established by Rabindranath Tagore?",
+  "options": [
+   "1918",
+   "1920",
+   "1919",
+   "1922"
+  ],
+  "correctIndex": 3,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
   "source": "PYQ Sep 2024 (Shift 2)",
   "difficulty": "medium"
@@ -887,7 +1247,7 @@
   "unit": 3,
   "topic": "Indian Political Thought",
   "type": "statements",
-  "question": "Choosethe correctstatements- A. UNdeclared 1975 as International Women's Year B. B N Rau Committee prepared the first draft of the Hindu Code Bill. C. Kabir was a social reformer in ancient India. D. Sunderlal Bahuguna became popular in the Chipko-agitation. E. Subhash Chandra Bose formed Independent Labour Party in 1936. Choose the correct answer from the options given below:",
+  "question": "Choosethe correct statements A UNdeclared 1975 as International Women's Year B. B N Rau Committee prepared the first draft of the Hindu Code Bill. C. Kabir was a social reformer in ancient India. D. Sunderlal Bahuguna became popular in the Chip ko agitation E. Subhash Chandra Bose formed Independent Labour Party in 1936. Choose the correct answer from the options given below:",
   "options": [
    "A, B, C, D Only",
    "B, C, E Only",
@@ -905,7 +1265,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "match",
-  "question": "Matchthe List-Iwith List-II LISTI LISTII Legislatures Country House of Representatives A. 1. United States of America National Assembly B. Pakistan Houseof Commons C. United Kingdom D. Knesset IV. Israel Choose the correct answer from the options given below:",
+  "question": "Match the List I with List II LISTI LISTII Legislatures Country House of Representatives A. 1. United States of America National Assembly B. Pakistan Houseof Commons C. United Kingdom D. Knesset IV. Israel Choose the correct answer from the options given below:",
   "options": [
    "A-IV, B-III, C-I, D-II",
    "A-II, B-I, C-IV, D-III",
@@ -923,7 +1283,7 @@
   "unit": 9,
   "topic": "Public Administration",
   "type": "statements",
-  "question": "Identify the correct statements regarding Abraham Maslow's need of hierarchy. A. Esteem needs B. Self- actualisation C. Belonging needs D. Safety needs E. Entertaining needs Choose the correct answer from the options given below:",
+  "question": "Identify the correct statements regarding Abraham Maslow's need of hierarchy. A. Esteem needs B. Self- actual is ation C. Belonging needs D. Safety needs E. Entertaining needs Choose the correct answer from the options given below:",
   "options": [
    "A, B, C, E Only",
    "C, D, E Only",
@@ -941,7 +1301,7 @@
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "statements",
-  "question": "Gabriel Almond classified the Pressure group into different categories. Find the correct ones- A. Associational groups B. Non-associationalgroups C. Institutional groups D. Anomic groups E. Non-anomic groups Choose the correct answerfrom the options given below:",
+  "question": "Gabriel Almond classified the Pressure group into different categories Find the correct ones- A Association al groups B Non association al groups C. Institutional groups D. Anomic groups E. Non-anomic groups Choose the correct answerfrom the options given below:",
   "options": [
    "A, B, E Only",
    "A, B, C, E Only",
@@ -959,7 +1319,7 @@
   "unit": 7,
   "topic": "Political Institutions in India",
   "type": "match",
-  "question": "Matchthe List-Iwith List-Il LISTI LIST II Numberof Womenelectedin Lok Sabha Parliamentary Elections A. 22 Seventh (1980) B. 28 Fifth (1971) 28 C. Fifteenth (2009) 59 D. Nineth (1989) Choose the correct answer from the options given below:",
+  "question": "Match the List I with List Il LISTI LIST II Number of Women elected in Lok Sabha Parliamentary Elections A. 22 Seventh (1980) B. 28 Fifth (1971) 28 C. Fifteenth (2009) 59 D. Nineth (1989) Choose the correct answer from the options given below:",
   "options": [
    "A-I, B-III, C-II, D-IV",
    "A-II, B-I, C-IV, D-III",
@@ -972,12 +1332,66 @@
   "difficulty": "medium"
  },
  {
+  "id": "pyq-sep2024sh2-136",
+  "paper": 2,
+  "unit": 1,
+  "topic": "Political Theory",
+  "type": "chronological",
+  "question": "Arrange the following books in the chronological order (years of first publication A The End of History and the Last Man B. Man, the State and War C. Politics Among Nations: The Struggle for Power and Peace D. The Second Sex E. The Clash of Civilisations and the Remaking of World Order Choose the correct answer from the options given below:",
+  "options": [
+   "C, B, D, A, E",
+   "C, D, B, E, A",
+   "A, B, C, D, E",
+   "D, C, B, E, A"
+  ],
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-137",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Democratic Party of the United States was established in- Zh 2 eppy",
+  "options": [
+   "1779",
+   "1803",
+   "1828",
+   "1901"
+  ],
+  "correctIndex": 0,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-138",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "chronological",
+  "question": "Arrange the following events in the chronological order: A Non Cooperation Movement B Civil Disobedience Movement C. Purna Swaraj' accepted as Congress goal at the Lahore Congress D. Champaran Movement E. Peasant Movements in Kheda (Gujarat) and Worker's Movement in Ahmedabad Choose the correct answer from the options given below:",
+  "options": [
+   "B, D, A, E, C",
+   "A, B, C, D, E",
+   "E, D, A, B, C",
+   "D, E, A, C, B"
+  ],
+  "correctIndex": 3,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
   "id": "pyq-sep2024sh2-139",
   "paper": 2,
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "match",
-  "question": "Matchthe List-I with List-II LISTI LIST I Reginal Organisation Establishmentyear African Union 1980 B. Latin American Integration Association 2005 C. IH 1. East Asia Summit 2002 D. Eurasian Economic Community IV. 2000 Choose the correct answer from the options given below:",
+  "question": "Match the List I with List-II LISTI LIST I Reginal Organisation Establishment year African Union 1980 B. Latin American Integration Association 2005 C. IH 1. East Asia Summit 2002 D. Eurasian Economic Community IV. 2000 Choose the correct answer from the options given below:",
   "options": [
    "A-II, B-III, C-IV, D-I",
    "A-III, B-I. C-II, D-IV",
@@ -1008,19 +1422,37 @@
   "difficulty": "medium"
  },
  {
-  "id": "pyq-sep2024sh2-142",
+  "id": "pyq-sep2024sh2-141",
   "paper": 2,
   "unit": 4,
   "topic": "Comparative Political Analysis",
   "type": "mcq",
-  "question": "According to the passage, which one of the followinghelped China to consolidate its hold on Tibet?",
+  "question": "When was the Seventeen point Agreement signed?",
   "options": [
-   "Only British India",
-   "Only Independent India",
-   "Both British Indiaand Independent India",
-   "Only Russia"
+   "1950",
+   "1951",
+   "1955",
+   "1954"
   ],
-  "correctIndex": 2,
+  "correctIndex": 1,
+  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
+  "source": "PYQ Sep 2024 (Shift 2)",
+  "difficulty": "medium"
+ },
+ {
+  "id": "pyq-sep2024sh2-143",
+  "paper": 2,
+  "unit": 4,
+  "topic": "Comparative Political Analysis",
+  "type": "mcq",
+  "question": "Who facilitated the Tibetan delegation to proceed through India to Peking toformally accept to bean autonomous partof China?",
+  "options": [
+   "Pakistan",
+   "Bhutan",
+   "Myanmar",
+   "British India"
+  ],
+  "correctIndex": 3,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
   "source": "PYQ Sep 2024 (Shift 2)",
   "difficulty": "medium"
@@ -1037,24 +1469,6 @@
    "L M Singhvi",
    "Balwant Rai Mehta",
    "Ashok Sen"
-  ],
-  "correctIndex": 1,
-  "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
-  "source": "PYQ Sep 2024 (Shift 2)",
-  "difficulty": "medium"
- },
- {
-  "id": "pyq-sep2024sh2-149",
-  "paper": 2,
-  "unit": 7,
-  "topic": "Political Institutions in India",
-  "type": "mcq",
-  "question": "According to the paragraph, 73 rd Constititional Amendment Act introduced which kind ofrural structureattheintermediatelevel?",
-  "options": [
-   "Gram Panchayat",
-   "Panchayat Samiti",
-   "Zila Parishad",
-   "Town Planning Council"
   ],
   "correctIndex": 1,
   "explanation": "Recorded answer from the official UGC NET Sep 2024 (Shift 2) Political Science paper.",
