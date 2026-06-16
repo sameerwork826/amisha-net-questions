@@ -12,10 +12,7 @@ export default function AuthControls() {
     <>
       <SignedOut>
         <SignInButton mode="modal">
-          <button
-            type="button"
-            className="rounded-xl bg-gradient-to-r from-indigo-600 to-violet-600 px-3 py-1.5 text-sm font-semibold text-white shadow-md shadow-indigo-600/30 transition hover:brightness-110"
-          >
+          <button type="button" className="btn btn-primary px-3 py-1.5">
             Sign in
           </button>
         </SignInButton>

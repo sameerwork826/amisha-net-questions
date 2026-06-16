@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { Question } from "../types";
+import { IconCheck, IconSparkles, IconStar, IconX } from "./icons";
 
 const TYPE_LABEL: Record<Question["type"], string> = {
   mcq: "Multiple Choice",
@@ -40,6 +41,7 @@ export default function QuestionCard({
 
   const reveal = submitted || revealAnswer;
   const isRight = selected === question.correctIndex;
+  const isPyq = /^PYQ/i.test(question.source);
 
   function choose(i: number) {
     if (reveal) return;
@@ -54,53 +56,41 @@ export default function QuestionCard({
   }
 
   return (
-    <div className="card animate-pop p-5 sm:p-6">
-      <div className="mb-3 flex flex-wrap items-center gap-2 text-xs">
+    <div className="card rise p-5 sm:p-6">
+      <div className="mb-4 flex flex-wrap items-center gap-2">
         {index && total ? (
-          <span className="font-bold muted">
-            Q{index}/{total}
+          <span className="text-xs font-bold t-faint">
+            {String(index).padStart(2, "0")}
+            <span className="t-faint"> / {total}</span>
           </span>
         ) : null}
-        <span className="chip bg-indigo-100 text-indigo-700 dark:bg-indigo-400/15 dark:text-indigo-300">
-          {TYPE_LABEL[question.type]}
-        </span>
-        <span className="chip bg-slate-100 text-slate-600 dark:bg-white/10 dark:text-slate-300">
-          Unit {question.unit}
-        </span>
-        {/^PYQ/i.test(question.source) ? (
-          <span className="chip bg-amber-100 text-amber-800 dark:bg-amber-400/15 dark:text-amber-300">
-            ⭐ {question.source}
+        <span className="badge badge-neutral">{TYPE_LABEL[question.type]}</span>
+        <span className="badge badge-neutral">Unit {question.unit}</span>
+        {isPyq ? (
+          <span className="badge badge-amber">
+            <IconStar width={12} /> {question.source}
           </span>
         ) : (
-          <span className="chip bg-violet-100 text-violet-700 dark:bg-violet-400/15 dark:text-violet-300">
-            ✨ AI-generated
+          <span className="badge badge-violet">
+            <IconSparkles width={12} /> AI-generated
           </span>
         )}
       </div>
 
-      <p className="whitespace-pre-line text-base leading-relaxed heading">
+      <p className="display whitespace-pre-line text-[1.05rem] font-semibold leading-relaxed">
         {question.question}
       </p>
 
-      <div className="mt-4 space-y-2">
+      <div className="mt-5 flex flex-col gap-2.5">
         {question.options.map((opt, i) => {
           const isCorrect = i === question.correctIndex;
           const isChosen = i === selected;
-
-          let cls =
-            "border-slate-200/80 bg-white/60 hover:border-indigo-400 hover:bg-indigo-50/60 dark:border-white/10 dark:bg-white/5 dark:hover:border-indigo-400/60 dark:hover:bg-indigo-400/10";
+          let state = "";
           if (reveal) {
-            if (isCorrect)
-              cls =
-                "border-emerald-400 bg-emerald-50 ring-1 ring-emerald-300 dark:border-emerald-400/60 dark:bg-emerald-400/10 dark:ring-emerald-400/40";
-            else if (isChosen)
-              cls =
-                "border-rose-400 bg-rose-50 ring-1 ring-rose-300 dark:border-rose-400/60 dark:bg-rose-400/10 dark:ring-rose-400/40";
-            else cls = "border-slate-200/70 bg-white/40 opacity-60 dark:border-white/10 dark:bg-white/5";
-          } else if (isChosen) {
-            cls =
-              "border-indigo-500 bg-indigo-50 ring-1 ring-indigo-300 dark:border-indigo-400 dark:bg-indigo-400/10 dark:ring-indigo-400/40";
-          }
+            if (isCorrect) state = "opt-correct";
+            else if (isChosen) state = "opt-wrong";
+            else state = "opt-dim";
+          } else if (isChosen) state = "opt-selected";
 
           return (
             <button
@@ -108,23 +98,17 @@ export default function QuestionCard({
               type="button"
               onClick={() => choose(i)}
               disabled={reveal}
-              className={`flex w-full items-start gap-3 rounded-2xl border px-4 py-3 text-left transition ${cls}`}
+              className={`opt ${state}`}
             >
-              <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-lg bg-slate-100 text-sm font-bold text-slate-700 dark:bg-white/10 dark:text-slate-200">
-                {OPTION_LETTERS[i]}
-              </span>
-              <span className="whitespace-pre-line text-sm leading-relaxed text-slate-800 dark:text-slate-100">
+              <span className="opt-key">{OPTION_LETTERS[i]}</span>
+              <span className="whitespace-pre-line pt-0.5 text-sm leading-relaxed">
                 {opt}
               </span>
               {reveal && isCorrect ? (
-                <span className="ml-auto font-bold text-emerald-600 dark:text-emerald-400">
-                  ✓
-                </span>
+                <IconCheck width={18} className="ml-auto shrink-0" style={{ color: "var(--success)" }} />
               ) : null}
               {reveal && isChosen && !isCorrect ? (
-                <span className="ml-auto font-bold text-rose-600 dark:text-rose-400">
-                  ✕
-                </span>
+                <IconX width={18} className="ml-auto shrink-0" style={{ color: "var(--danger)" }} />
               ) : null}
             </button>
           );
@@ -136,7 +120,7 @@ export default function QuestionCard({
           type="button"
           onClick={submit}
           disabled={selected === null}
-          className="btn-primary mt-5 w-full sm:w-auto sm:px-10"
+          className="btn btn-primary mt-5 w-full sm:w-auto sm:px-9"
         >
           Check answer
         </button>
@@ -144,23 +128,29 @@ export default function QuestionCard({
 
       {reveal ? (
         <div
-          className={`mt-5 rounded-2xl border p-4 ${
-            isRight
-              ? "border-emerald-200 bg-emerald-50/80 dark:border-emerald-400/30 dark:bg-emerald-400/10"
-              : "border-rose-200 bg-rose-50/80 dark:border-rose-400/30 dark:bg-rose-400/10"
-          }`}
+          className="mt-5 rounded-2xl border p-4"
+          style={{
+            borderColor: isRight ? "var(--success)" : "var(--danger)",
+            background: isRight ? "var(--success-soft)" : "var(--danger-soft)",
+          }}
         >
-          <p className="text-sm font-bold heading">
-            {selected === null
-              ? "⏳ Not answered"
-              : isRight
-                ? "✅ Correct!"
-                : "❌ Incorrect"}
-            <span className="font-medium muted">
-              {"  "}· Answer: {OPTION_LETTERS[question.correctIndex]}
+          <p className="flex items-center gap-2 text-sm font-bold">
+            {selected === null ? (
+              "Not answered"
+            ) : isRight ? (
+              <>
+                <IconCheck width={16} style={{ color: "var(--success)" }} /> Correct
+              </>
+            ) : (
+              <>
+                <IconX width={16} style={{ color: "var(--danger)" }} /> Incorrect
+              </>
+            )}
+            <span className="font-medium t-muted">
+              · Answer {OPTION_LETTERS[question.correctIndex]}
             </span>
           </p>
-          <p className="mt-2 whitespace-pre-line text-sm leading-relaxed text-slate-700 dark:text-slate-200">
+          <p className="mt-2 whitespace-pre-line text-sm leading-relaxed t-muted">
             {question.explanation}
           </p>
         </div>

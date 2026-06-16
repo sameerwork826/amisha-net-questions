@@ -4,6 +4,7 @@ import { getPaper } from "../data/syllabus";
 import { buildMockSet, countByPaper } from "../data/questionBank";
 import { progressActions } from "../hooks/useProgress";
 import QuestionCard from "../components/QuestionCard";
+import { IconArrow, IconMock } from "../components/icons";
 
 type Phase = "setup" | "test" | "result";
 
@@ -93,38 +94,38 @@ export default function Mock() {
   // ---------- SETUP ----------
   if (phase === "setup") {
     return (
-      <div className="space-y-5 animate-pop">
-        <h1 className="text-2xl font-black heading">
-          Timed <span className="gradient-text">mock test</span>
-        </h1>
-        <p className="text-sm muted">
-          Exam-style: no feedback until you submit. A timer counts down and the
-          test auto-submits when time runs out.
-        </p>
+      <div className="space-y-7 rise">
+        <header>
+          <h1 className="display text-2xl font-extrabold">Timed mock test</h1>
+          <p className="mt-1 t-muted">
+            Exam-style: no feedback until you submit. The test auto-submits when
+            time runs out.
+          </p>
+        </header>
 
-        <Block label="Paper">
-          {([2, 1] as Paper[]).map((p) => (
-            <Pick key={p} active={paper === p} onClick={() => setPaper(p)}>
-              Paper {p}: {getPaper(p)!.title}
-            </Pick>
-          ))}
-        </Block>
+        <Field label="Paper">
+          <div className="seg">
+            {([2, 1] as Paper[]).map((p) => (
+              <Seg key={p} active={paper === p} onClick={() => setPaper(p)}>
+                Paper {p} · {getPaper(p)!.title}
+              </Seg>
+            ))}
+          </div>
+        </Field>
 
-        <Block label="Length">
-          {PRESETS.map((pr) => (
-            <Pick
-              key={pr.count}
-              active={preset.count === pr.count}
-              onClick={() => setPreset(pr)}
-            >
-              {pr.count} Q · {pr.minutes} min
-            </Pick>
-          ))}
-        </Block>
+        <Field label="Length">
+          <div className="seg">
+            {PRESETS.map((pr) => (
+              <Seg key={pr.count} active={preset.count === pr.count} onClick={() => setPreset(pr)}>
+                {pr.count} Q · {pr.minutes} min
+              </Seg>
+            ))}
+          </div>
+        </Field>
 
-        <div className="rounded-2xl border border-slate-200/70 bg-white/50 p-4 text-sm muted dark:border-white/10 dark:bg-white/5">
+        <div className="inset p-4 text-sm t-muted">
           {maxAvailable < preset.count
-            ? `Only ${maxAvailable} questions available for this paper right now — the test will use all of them.`
+            ? `Only ${maxAvailable} questions available for this paper — the test will use all of them.`
             : `This test will have ${count} questions.`}
         </div>
 
@@ -132,9 +133,9 @@ export default function Mock() {
           type="button"
           onClick={start}
           disabled={maxAvailable === 0}
-          className="btn-primary w-full sm:w-auto sm:px-12"
+          className="btn btn-primary w-full sm:w-auto sm:px-10"
         >
-          Start test →
+          <IconMock width={18} /> Start test
         </button>
       </div>
     );
@@ -145,25 +146,22 @@ export default function Mock() {
     const pct = Math.round((score / questions.length) * 100);
     const attempted = answers.filter((a) => a !== null).length;
     return (
-      <div className="space-y-5 animate-pop">
+      <div className="space-y-5 rise">
         <div className="card p-8 text-center">
-          <p className="text-sm font-medium muted">Test submitted</p>
-          <p className="mt-2 text-6xl font-black gradient-text">
-            {score}/{questions.length}
+          <p className="field-label">Test submitted</p>
+          <p className="display mt-3 text-6xl font-extrabold">
+            {score}
+            <span className="t-faint">/{questions.length}</span>
           </p>
-          <p className="mt-1 muted">
+          <p className="mt-2 t-muted">
             {pct}% · {attempted} attempted · {questions.length - attempted} skipped
           </p>
-          <button
-            type="button"
-            onClick={() => setPhase("setup")}
-            className="btn-primary mt-5 px-8"
-          >
+          <button type="button" onClick={() => setPhase("setup")} className="btn btn-primary mt-5 px-8">
             New test
           </button>
         </div>
 
-        <h2 className="pt-2 font-bold heading">Review</h2>
+        <h2 className="field-label">Review</h2>
         <div className="space-y-4">
           {questions.map((q, i) => (
             <QuestionCard
@@ -189,18 +187,18 @@ export default function Mock() {
 
   return (
     <div className="space-y-4">
-      <div className="card sticky top-20 z-10 flex items-center justify-between px-4 py-2.5">
-        <span className="text-sm font-bold muted">
-          Q{pos + 1} / {questions.length}
+      <div className="card sticky top-16 z-10 flex items-center justify-between px-4 py-2.5 lg:top-4">
+        <span className="text-sm font-bold t-muted">
+          Question {pos + 1} / {questions.length}
         </span>
         <span
-          className={`rounded-xl px-3 py-1 font-mono text-sm font-black ${
-            lowTime
-              ? "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300"
-              : "bg-slate-100 text-slate-700 dark:bg-white/10 dark:text-slate-200"
-          }`}
+          className="rounded-lg px-3 py-1 font-mono text-sm font-bold"
+          style={{
+            background: lowTime ? "var(--danger-soft)" : "var(--panel-2)",
+            color: lowTime ? "var(--danger)" : "var(--text)",
+          }}
         >
-          ⏱ {mm}:{ss}
+          {mm}:{ss}
         </span>
       </div>
 
@@ -219,69 +217,67 @@ export default function Mock() {
           type="button"
           onClick={() => setPos((p) => Math.max(0, p - 1))}
           disabled={pos === 0}
-          className="btn-ghost"
+          className="btn btn-secondary"
         >
-          ← Prev
+          Prev
         </button>
         {pos + 1 < questions.length ? (
           <button
             type="button"
             onClick={() => setPos((p) => Math.min(questions.length - 1, p + 1))}
-            className="btn-dark"
+            className="btn btn-secondary"
           >
-            Next →
+            Next <IconArrow width={18} />
           </button>
         ) : (
-          <button
-            type="button"
-            onClick={finish}
-            className="btn bg-emerald-600 text-white hover:bg-emerald-700"
-          >
+          <button type="button" onClick={finish} className="btn btn-success">
             Submit test
           </button>
         )}
       </div>
 
+      {/* Question navigator */}
       <div className="card flex flex-wrap gap-1.5 p-3">
-        {questions.map((_, i) => (
-          <button
-            key={i}
-            type="button"
-            onClick={() => setPos(i)}
-            className={`h-8 w-8 rounded-lg text-xs font-bold transition ${
-              i === pos
-                ? "bg-gradient-to-r from-indigo-600 to-violet-600 text-white"
-                : answers[i] !== null
-                  ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300"
-                  : "bg-slate-100 text-slate-500 hover:bg-slate-200 dark:bg-white/10 dark:text-slate-400 dark:hover:bg-white/20"
-            }`}
-          >
-            {i + 1}
-          </button>
-        ))}
+        {questions.map((_, i) => {
+          const done = answers[i] !== null;
+          const cur = i === pos;
+          return (
+            <button
+              key={i}
+              type="button"
+              onClick={() => setPos(i)}
+              className="h-8 w-8 rounded-lg text-xs font-bold transition"
+              style={
+                cur
+                  ? { background: "var(--brand)", color: "#fff" }
+                  : done
+                    ? { background: "var(--success-soft)", color: "var(--success)" }
+                    : { background: "var(--panel-2)", color: "var(--text-3)" }
+              }
+            >
+              {i + 1}
+            </button>
+          );
+        })}
       </div>
 
-      <button
-        type="button"
-        onClick={finish}
-        className="btn w-full border border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 dark:border-emerald-400/30 dark:bg-emerald-500/10 dark:text-emerald-300"
-      >
+      <button type="button" onClick={finish} className="btn btn-secondary w-full">
         Submit test now
       </button>
     </div>
   );
 }
 
-function Block({ label, children }: { label: string; children: React.ReactNode }) {
+function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div>
-      <div className="mb-2 text-sm font-bold heading">{label}</div>
-      <div className="flex flex-wrap gap-2">{children}</div>
+      <div className="field-label mb-2.5">{label}</div>
+      {children}
     </div>
   );
 }
 
-function Pick({
+function Seg({
   active,
   onClick,
   children,
@@ -291,15 +287,7 @@ function Pick({
   children: React.ReactNode;
 }) {
   return (
-    <button
-      type="button"
-      onClick={onClick}
-      className={`rounded-xl border px-4 py-2 text-sm font-semibold transition ${
-        active
-          ? "border-transparent bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-md shadow-indigo-600/30"
-          : "border-slate-200/80 bg-white/60 text-slate-700 hover:border-indigo-300 dark:border-white/10 dark:bg-white/5 dark:text-slate-200 dark:hover:border-indigo-400/50"
-      }`}
-    >
+    <button type="button" onClick={onClick} className={`seg-item ${active ? "seg-item-active" : ""}`}>
       {children}
     </button>
   );

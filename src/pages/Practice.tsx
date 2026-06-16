@@ -5,6 +5,7 @@ import { getPaper } from "../data/syllabus";
 import { buildPracticeSet, countByUnit } from "../data/questionBank";
 import { attemptedIds, progressActions, useProgress } from "../hooks/useProgress";
 import QuestionCard from "../components/QuestionCard";
+import { IconArrow } from "../components/icons";
 
 type Phase = "setup" | "session" | "done";
 
@@ -79,15 +80,16 @@ export default function Practice() {
   // ---------- SETUP ----------
   if (phase === "setup") {
     return (
-      <div className="space-y-5 animate-pop">
-        <h1 className="text-2xl font-black heading">
-          Topic-wise <span className="gradient-text">practice</span>
-        </h1>
+      <div className="space-y-7 rise">
+        <header>
+          <h1 className="display text-2xl font-extrabold">Topic-wise practice</h1>
+          <p className="mt-1 t-muted">Pick a paper, unit and source, then begin.</p>
+        </header>
 
         <Field label="Paper">
-          <div className="flex flex-wrap gap-2">
+          <div className="seg">
             {([2, 1] as Paper[]).map((p) => (
-              <Choice
+              <Seg
                 key={p}
                 active={paper === p}
                 onClick={() => {
@@ -95,65 +97,70 @@ export default function Practice() {
                   setUnit("all");
                 }}
               >
-                Paper {p}: {getPaper(p)!.title}
-              </Choice>
+                Paper {p} · {getPaper(p)!.title}
+              </Seg>
             ))}
+          </div>
+        </Field>
+
+        <Field label="Source">
+          <div className="seg">
+            <Seg active={source === "all"} onClick={() => setSource("all")}>
+              All
+            </Seg>
+            <Seg active={source === "pyq"} onClick={() => setSource("pyq")}>
+              ⭐ Previous-year
+            </Seg>
+            <Seg active={source === "ai"} onClick={() => setSource("ai")}>
+              ✨ AI-generated
+            </Seg>
           </div>
         </Field>
 
         <Field label="Unit">
           <div className="flex flex-wrap gap-2">
-            <Choice active={unit === "all"} onClick={() => setUnit("all")}>
+            <Pill active={unit === "all"} onClick={() => setUnit("all")}>
               All units
-            </Choice>
+            </Pill>
             {syllabus.units.map((u) => (
-              <Choice
+              <Pill
                 key={u.number}
                 active={unit === u.number}
                 onClick={() => setUnit(u.number)}
               >
                 {u.number}. {u.name}
-                <span className="ml-1 opacity-70">
-                  ({countByUnit(paper, u.number)})
-                </span>
-              </Choice>
+                <span className="t-faint"> ({countByUnit(paper, u.number)})</span>
+              </Pill>
             ))}
           </div>
         </Field>
 
-        <Field label="Question source">
-          <div className="flex flex-wrap gap-2">
-            <Choice active={source === "all"} onClick={() => setSource("all")}>
-              All
-            </Choice>
-            <Choice active={source === "pyq"} onClick={() => setSource("pyq")}>
-              ⭐ Previous-year
-            </Choice>
-            <Choice active={source === "ai"} onClick={() => setSource("ai")}>
-              ✨ AI-generated
-            </Choice>
-          </div>
-        </Field>
+        <label className="flex cursor-pointer items-center gap-2.5 text-sm">
+          <input
+            type="checkbox"
+            className="checkbox"
+            checked={skipAttempted}
+            onChange={(e) => setSkipAttempted(e.target.checked)}
+          />
+          Skip questions I’ve already attempted
+        </label>
 
-        <div className="flex flex-col gap-2">
-          <Toggle checked={skipAttempted} onChange={setSkipAttempted}>
-            Skip questions I’ve already attempted
-          </Toggle>
-        </div>
-
-        <div className="rounded-2xl border border-slate-200/70 bg-white/50 p-4 text-sm muted dark:border-white/10 dark:bg-white/5">
-          <span className="font-bold gradient-text">{available}</span> matching
-          question{available === 1 ? "" : "s"} available · a session uses up to
-          20, in random order.
+        <div className="inset flex items-center justify-between p-4">
+          <span className="text-sm t-muted">
+            <span className="font-bold" style={{ color: "var(--text)" }}>
+              {available}
+            </span>{" "}
+            question{available === 1 ? "" : "s"} match · session uses up to 20
+          </span>
         </div>
 
         <button
           type="button"
           onClick={start}
           disabled={available === 0}
-          className="btn-primary w-full sm:w-auto sm:px-12"
+          className="btn btn-primary w-full sm:w-auto sm:px-10"
         >
-          Start →
+          Start practice <IconArrow width={18} />
         </button>
       </div>
     );
@@ -162,17 +169,18 @@ export default function Practice() {
   // ---------- DONE ----------
   if (phase === "done") {
     const pct = Math.round((correctCount / queue.length) * 100);
-    const msg = pct >= 70 ? "Brilliant! 🎉" : pct >= 40 ? "Good going 💪" : "Keep practising 🌱";
+    const msg = pct >= 70 ? "Brilliant work 🎉" : pct >= 40 ? "Good going 💪" : "Keep practising 🌱";
     return (
-      <div className="space-y-5 text-center animate-pop">
-        <div className="card p-8">
-          <p className="text-sm font-medium muted">Session complete</p>
-          <p className="mt-2 text-6xl font-black gradient-text">
-            {correctCount}/{queue.length}
+      <div className="space-y-5 text-center rise">
+        <div className="card p-10">
+          <p className="field-label">Session complete</p>
+          <p className="display mt-3 text-6xl font-extrabold">
+            {correctCount}
+            <span className="t-faint">/{queue.length}</span>
           </p>
-          <p className="mt-1 muted">{pct}% correct · {msg}</p>
+          <p className="mt-2 t-muted">{pct}% correct · {msg}</p>
         </div>
-        <button type="button" onClick={() => setPhase("setup")} className="btn-primary px-8">
+        <button type="button" onClick={() => setPhase("setup")} className="btn btn-primary px-8">
           New session
         </button>
       </div>
@@ -183,11 +191,16 @@ export default function Practice() {
   const current = queue[pos];
   return (
     <div className="space-y-4">
-      <div className="h-2.5 w-full overflow-hidden rounded-full bg-slate-200/70 dark:bg-white/10">
-        <div
-          className="h-full rounded-full bg-gradient-to-r from-indigo-500 to-fuchsia-500 transition-all duration-300"
-          style={{ width: `${((pos + (answered ? 1 : 0)) / queue.length) * 100}%` }}
-        />
+      <div className="flex items-center gap-3">
+        <div className="track">
+          <div
+            className="fill"
+            style={{ width: `${((pos + (answered ? 1 : 0)) / queue.length) * 100}%` }}
+          />
+        </div>
+        <span className="text-xs font-bold t-faint">
+          {pos + 1}/{queue.length}
+        </span>
       </div>
 
       <QuestionCard
@@ -200,8 +213,9 @@ export default function Practice() {
       />
 
       {answered ? (
-        <button type="button" onClick={next} className="btn-dark w-full sm:w-auto sm:px-10">
-          {pos + 1 >= queue.length ? "Finish" : "Next question →"}
+        <button type="button" onClick={next} className="btn btn-secondary w-full sm:w-auto sm:px-9">
+          {pos + 1 >= queue.length ? "Finish session" : "Next question"}
+          <IconArrow width={18} />
         </button>
       ) : null}
     </div>
@@ -211,13 +225,29 @@ export default function Practice() {
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div>
-      <div className="mb-2 text-sm font-bold heading">{label}</div>
+      <div className="field-label mb-2.5">{label}</div>
       {children}
     </div>
   );
 }
 
-function Choice({
+function Seg({
+  active,
+  onClick,
+  children,
+}: {
+  active: boolean;
+  onClick: () => void;
+  children: React.ReactNode;
+}) {
+  return (
+    <button type="button" onClick={onClick} className={`seg-item ${active ? "seg-item-active" : ""}`}>
+      {children}
+    </button>
+  );
+}
+
+function Pill({
   active,
   onClick,
   children,
@@ -230,35 +260,14 @@ function Choice({
     <button
       type="button"
       onClick={onClick}
-      className={`rounded-xl border px-3 py-1.5 text-sm font-semibold transition ${
+      className="rounded-xl border px-3 py-1.5 text-sm font-semibold transition"
+      style={
         active
-          ? "border-transparent bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-md shadow-indigo-600/30"
-          : "border-slate-200/80 bg-white/60 text-slate-700 hover:border-indigo-300 dark:border-white/10 dark:bg-white/5 dark:text-slate-200 dark:hover:border-indigo-400/50"
-      }`}
+          ? { background: "var(--brand-soft)", borderColor: "transparent", color: "var(--brand-soft-text)" }
+          : { background: "var(--panel)", borderColor: "var(--border)", color: "var(--text-2)" }
+      }
     >
       {children}
     </button>
-  );
-}
-
-function Toggle({
-  checked,
-  onChange,
-  children,
-}: {
-  checked: boolean;
-  onChange: (v: boolean) => void;
-  children: React.ReactNode;
-}) {
-  return (
-    <label className="flex cursor-pointer items-center gap-2 text-sm text-slate-700 dark:text-slate-200">
-      <input
-        type="checkbox"
-        checked={checked}
-        onChange={(e) => onChange(e.target.checked)}
-        className="h-4 w-4 rounded border-slate-300 text-indigo-600 focus:ring-indigo-500"
-      />
-      {children}
-    </label>
   );
 }
