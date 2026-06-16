@@ -1,56 +1,54 @@
 import { PAST_PAPERS } from "../data/papers";
+import { IconDownload, IconExternal, IconPapers } from "../components/icons";
 
 export default function Papers() {
   return (
-    <div className="space-y-5 animate-pop">
-      <div>
-        <h1 className="text-2xl font-black heading">
-          Past <span className="gradient-text">papers</span>
-        </h1>
-        <p className="mt-1 text-sm muted">
-          Original UGC NET question papers. Open to read online or download the PDF.
+    <div className="space-y-6 rise">
+      <header>
+        <h1 className="display text-2xl font-extrabold">Past papers</h1>
+        <p className="mt-1 t-muted">
+          Original UGC NET question papers — read online or download the PDF.
         </p>
-      </div>
+      </header>
 
       <div className="grid gap-3 sm:grid-cols-2">
         {PAST_PAPERS.map((p) => (
-          <div key={p.file} className="card flex flex-col gap-3 p-5">
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="text-2xl">📄</span>
-                <span className="chip bg-indigo-100 text-indigo-700 dark:bg-indigo-400/15 dark:text-indigo-300">
-                  {p.session}
-                </span>
+          <div key={p.file} className="card flex flex-col gap-4 p-5">
+            <div className="flex items-start gap-3">
+              <span
+                className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl"
+                style={{ background: "var(--panel-2)" }}
+              >
+                <IconPapers width={20} />
+              </span>
+              <div>
+                <span className="badge badge-brand">{p.session}</span>
+                {p.solved && (
+                  <span className="badge badge-green ml-1.5">Answer key + solutions</span>
+                )}
+                <h2 className="display mt-1.5 font-bold leading-snug">{p.title}</h2>
+                <p className="text-xs t-faint">{p.paper}</p>
               </div>
-              <h2 className="mt-2 font-bold heading">{p.title}</h2>
-              <p className="text-xs muted">{p.paper}</p>
             </div>
             <div className="mt-auto flex gap-2">
               <a
                 href={p.file}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn-primary flex-1 text-center"
+                className="btn btn-primary flex-1"
               >
-                Open
+                <IconExternal width={17} /> Open
               </a>
-              <a
-                href={p.file}
-                download
-                className="btn-ghost flex-1 text-center"
-              >
-                Download
+              <a href={p.file} download className="btn btn-secondary flex-1">
+                <IconDownload width={17} /> Download
               </a>
             </div>
           </div>
         ))}
       </div>
 
-      <p className="text-center text-xs muted">
-        Tip: practise these as question sets in the{" "}
-        <span className="font-semibold">Practice</span> and{" "}
-        <span className="font-semibold">Mock</span> tabs — they already include
-        questions from these papers.
+      <p className="text-center text-xs t-faint">
+        These papers are also bundled into the Practice and Mock question banks.
       </p>
     </div>
   );

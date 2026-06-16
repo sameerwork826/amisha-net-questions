@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "pw-jun2022-006",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following tools are used by leamers and teachers for Asynchronous Interaction? A. Web conferencing B. E-mail C. Wikis and collaborative documents D. Discussion Boards E. Live Streaming. Choose the correct answer from the options given below:",
+    "options": [
+      "B, C and D only",
+      "C, D and E only",
+      "A, C, D and E only",
+      "A and B only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: a Asynchronous interaction refers to communication or interaction between individuals or systems that does not occur in real- time. In this type of interaction, there is a delay between the sending and receiving of messages, allowing participants to respond at their own convenience rather than immediately. Examples of asynchronous interaction include email communication, discussion forums, and messaging apps where participants can send messages and receive responses at different times without requiring simultaneous presence",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-007",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are the strategies of Cognitive Apprenticeship to develop higher order skills among learners? A. Mentoring, Collaboration and Socializing B. Modelling, Coaching and Scaffolding C. Augmentation, Retention and Explaining D. Articulation, Reflection and Exploration E. Memorization, Rehearsal and Identifying. Choose the correct answer from the options given below:",
+    "options": [
+      "A and D only",
+      "A, C and E only",
+      "B and D only",
+      "B and C only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cognitive apprenticeship is a model of instruction that work to make thinking visible. Cognitive apprenticeship focuses on the development of cognitive skills for complex professional practice. The strategies of cognitive Apprenticeship is as : Modelling, Coaching, Scaffolding, Articulation, Reflection, Exploration. First three, Modelling, Coaching, Scaffolding, are at the core of cognitive apprenticeship and help with cognitive and metacognitive development. The next two, Articulation, Reflection, are designed to help awareness of problem solving strategies. The final step, Exploration, intends to guide towards independence and the ability to solve and identify problems within the domain on their own.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-008",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The stimulus which does not require any conditioning for desired behaviour is called as",
+    "options": [
+      "Unconditional stimulus",
+      "Conditioned stimulus",
+      "Unconditioned response",
+      "Conditioned response"
+    ],
+    "correctIndex": 0,
+    "explanation": "An unconditional stimulus (UCS) is a stimulus that leads to an automatic response without any prior learning. The classic example of a UCS is food in Pavlov's experiments with dogs. When the dogs were presented with food, they naturally salivated (UCR). Through repeated pairings of the food (UCS) with a neutral stimulus, such as a bell, the dogs eventually learned to associate the bell with the food and began to salivate in response to the bell alone, even when the food was not present.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-009",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following curriculum development models come under Technical Scientific models? A. Taba's Model B. Open Classtoom Model C. Weinstien and Fantini Model D. Hunkin's Development Model E. Goodlad's Model. Choose the correct answer from the options given below :",
+    "options": [
+      "B, C and D only",
+      "A, C and E only",
+      "A, D and E only",
+      "A, B, D and E only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The curriculum development models come under Technical Scientific models follows: I. Taba's Model II. Hunkin's Development Model III. Goodlad's Model IV. Tyler Model V. Saylon Alexander model VI. Miller and seller model",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-010",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II LIST I LIST II (Swayam Prabha Channel (Name of the Number) channel) A Channel 01 I. Sanskriti B. Channel 02 II. Prabodh C. Channel 03 II. Saraswat D. Channel 04 IV. Vageesh Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-III, C-II. D-IV",
+      "A-III, B-II, C-IV, D-I",
+      "A-IV, B-I, C-II, D-III",
+      "A-II; B-III, C-IV, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "LIST I LIST II (Swayam Prabha Channel (Name of the Number) channel) A Channel 01 VI. Vageesh B. Channel 02 I. Sanskriti C. Channel 03 II. Prabodh D. Channel 04 III. Saraswat",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-011",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "When a researcher has no control over the variables; he she can only report what has happened or what is happening. Such research is called as :",
+    "options": [
+      "Clinical Research",
+      "Diagnostic Rescarch",
+      "Ex post facto research",
+      "De factn researsh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: c In social science and business research, we quite often use the term Ex post facto research for descriptive research studies. The main feature of this research is that a researcher has no control over the variables; he or she can only report what has happened or what is happening.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-012",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following relates mainly to the issue of causality?",
+    "options": [
+      "Measurement validity",
+      "Construct validity",
+      "Internal validity",
+      "External validity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: c Causality concerns relationships where a change in one variable necessarily",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-013",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "A sampling technique in which units are randomly sampled from a population that has been divided into categories, is called:",
+    "options": [
+      "Simple Random Sampling",
+      "Stratified Random Sampling",
+      "Cluster Random Sampling",
+      "Systematic Random Sampling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: b In stratified sampling, researchers divide subjects into subgroups called strata based on characteristics that they share (e.g., race, gender, educational attainment). Once divided, each subgroup is randomly sampled using another probability sampling method.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-014",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements: Statement-I : Debriefing involves revealing the purposes of the research to the participants. Statement-II : Debriefing of participants takes place at the beginning of a study, In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are correct.",
+      "Both Statement I and Statement II are incorrect.",
+      "Statement I is correct but Statement II is incorrect.",
+      "Statement I is incorrect but Statement II is correct."
+    ],
+    "correctIndex": 2,
+    "explanation": "of the hypothesis being tested, procedures to deceive participants and the reason(s) why it was necessary to deceive them. It involves revealing the purposes of the research to the participants.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-015",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "In which of the following scales of measurements ranking of observations is not possible?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correctIndex": 0,
+    "explanation": "In research studies, measurement scales are of various types. These include- A. Nominal Scale- In this scale, variables have one, two, or more subcategories depending on the extent of variation. This is the most basic scale of measurement, and there is no ranking involved here. An example of this can be marital status, which can be classified into unmarried and married, or gender, which can be categorized into male and female. B. Ordinal Scale- In this scale, the observations are ranked in a particular sequence or order. This includes satisfaction level to a test ranging from unsatisfied, neutral satisfied, or even into other ranking categories. C. Interval Scale- An interval scale has all the attributes of an ordinal scale, along with the addition that its unit of measurement has arbitrary starting and ending points. For example Temperature scale of measurement. D. Ratio Scale- It has t",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-016",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Critical readings in mediated communication are ________ in character.",
+    "options": [
+      "Emotional",
+      "Passive",
+      "Ineffectual",
+      "Cognitive"
+    ],
+    "correctIndex": 3,
+    "explanation": "In mediated communication, there is an active involvement in understanding, comprehension, and evaluation of the text or message. A. Emotional: Although emotions play an important role in how we communicate our feelings or ideas, it is not the case in mediated communication as there is a critical evaluation of our message and idea, so, not bounded by our emotional state of mind. B. Passive: This form of communication is not passive, as information or ideas are actively taken into consideration, with a deep understanding of the information-sharing process. C. Ineffectual: This is also not a characteristic of mediated communication, as active involvement makes the process more detailed and effective in terms of understanding the message, source, and medium. D. Cognitive: Critical readings in mediated communication are indeed cognitive, as they involve critical evaluation and interpretation",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-017",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The symbolic mode of communication is:",
+    "options": [
+      "Instrumental",
+      "Non-ritualistic",
+      "Socio-cultural",
+      "Mechanical"
+    ],
+    "correctIndex": 2,
+    "explanation": "Symbolic mode of communication is when we use symbols such as words, signs, or gestures to convey our feelings or ideas. A. Instrumental- Symbolic communication is not instrumental as it is not solely defined by its goal-oriented nature. There is the use of symbols and ideas in this. but that does not resonate effectively with the concept of a symbolic mode of communication. B. Non-ritualistic: Again, this notion is not applicable here. Rituals involve actions or behavior that relate to cultural or social significance. However symbolic communication does not always occur within ritualistic contexts. C. Socio-cultural: Symbolic communication takes place within a socio-cultural context. There is an intermingling of emotions, ideas, and views attached to individuals or people, and this is mediated by the sharing of signs and gestures. This",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-018",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Integrating communication with the educational system will A. Increase opportunitics for teachers to go abroad B. Inerease public awareness of educational rights C. Improve the quality of policy preparation D. Improve the educational service delivery E. Make teachers to have access to better perks. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C only",
+      "B, C, D only",
+      "C, D, E only",
+      "A, D, E only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Integrating communication with the educational system will- A. Increase opportunities for teachers to go abroad- This is not a suitable option to consider when we integrate communication with the educational system. The chances of increased opportunities for teachers to go abroad depend on many factors, and the integration model does not fulfill the given criteria. B. Increase public awareness of educational rights- Integrating communication with the education system increases public awareness of educational rights, as there is active participation of individuals in campaigns and public discussion forums, so, it broadens the knowledge base of the public. C. Improve the quality of policy preparation- This statement is true as an effective communication approach in the learning and education system helps foster good decision- making and collaboration skills, and brings about innovative str",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-019",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements : Statement-I : The Internet reflects the existence of a techno-science world of cyber-space. Statement-II: The cyberspace has necessitated the arrival of many sub-media like e-mail, www and many others. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true but Statement II is false.",
+      "Statement I is false but Statement II is true."
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: \"The Internet reflects the existence of a techno-science world of cyber- space.\"- This statement is true as the Internet is indeed driven by the existence of cyberspace, which is the virtual world of computers. All the services offered by the Internet are a part of various digital technologies and platforms that help us in communication, the transmission of knowledge, information-sharing, engagement, and entertainment across the world of cyberspace. Statement II: \"Cyberspace has necessitated the arrival of many sub-media like e-mail, www, and many others.\"- This statement is also true that the development of cyberspace has given rise to various media services like E-mail, WWW, and others, to facilitate communication, knowledge sharing and recreation purposes, that has helped us a lot in our daily lives. So, both Statement I and Statement II are true.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-020",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II LIST I LIST II (Communication (Characteristic) Effect) Increase in Instrumental A. I. self- effect approval Experience from the Prestige B. II. specimens effect of art and iterature Aesthetic Pleasant C. III. effect distraction Competence Respite to deal with D. IV. effect a practical problem. Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Instrumental Effect- Competence to deal with a practical problem- This communication effect indulges the competence to deal with any problem practically. B. Prestige Effect- Increase in self-approval- This is to increase one's power or reputation through communication, which will lead to increased self- approval in society. C, Aesthetic Effect- Experience from the specimens of art and Literature- This is to bring in an aesthetic appeal or pleasing quality in the specimens of art and literature, to bring in uniqueness and effectiveness in communication. D. Respite Effect- Pleasant distraction- This refers to using measures that can pleasantly distract you from other things, having a relaxed atmosphere over the way we communicate.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-021",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "A fruit seller has some stock of fruits to be sold in 50% three days period. Everyday he sells of the available fruits and 10% of the leftover fruits gets spoiled during every night. If the total number of fruits that got spoiled in three days in 1983, then find how many fruits were there with the seller in the beginning?",
+    "options": [
+      "22,000",
+      "21,000",
+      "19,000",
+      "24,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Let the initial number of total fruits be x. On the first day, the total number of fruits =x Sold = 50% of x= (50x/100) =x/2 So, remaining fruits left= (x-x/2) =x/2 Now, 10% of the leftover fruits get spoiled each night. So, spoiled fruits=10/100×x/2 =x/20 Therefore, remaining fruits after first night =x/2- x/20 =9x/20 Now, on the second day- Fruits sold =50% of (9x/20) =1/2×9x/20 =9x/40 Remaining half=9x/40 Also, spoiled fruits= 10/100×9x/40 =9x/400 So, fruits left for second night = (9x/40-9x/400)= (90x-9x)/400 =81x/400 Now, on the third day- Fruits sold =1/2×81x/400 =81x/800 So, Remaining half =81x/800 Spoiled fruits =10/100×81x/800 =81x/8000 From the question- (x/20) + (9x/400) + (81x/8000) =1983 Or (400x+180x+ 81x)/8000 =1983 Or 661x= 1983×8000 Or x=1983×8000/661 Or x=24000",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-022",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The difference between simple and compound interest on certain principal amount, for 2 years at the rate of 5% per annum, is ₹ 11.25 . Find the principal amount.",
+    "options": [
+      "₹ 4,500",
+      "₹ 5,500",
+      "₹ 4,000",
+      "₹ 4,300"
+    ],
+    "correctIndex": 0,
+    "explanation": "Given, Rate of interest = 5% per annum, Time = 2 years Difference between compound and simple interest = ₹11.25 Let the principal amount be ₹P . Now, we know that- Simple Interest=SI =P×R×T/100 =P×5×2/100 =P/10 n Also, ​compound interest=CI = P{(1 + r/100) – 1} =P(1+5/100) 2 -1 2 =P{(21/20) -1} =P(441/400-1) =41P/400 So, by the question- (41P/400-P/10)= 11.25 Or P/400= 11.25 Or P= 11.25×400 Or P=4500",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-024",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "In a certain coding language; Tour is written as 4156, Screw is written as 73698 and Tear is written is 4926. How the word Sweater will be written in that language?",
+    "options": [
+      "7849692",
+      "7892694",
+      "7829946",
+      "7892496"
+    ],
+    "correctIndex": 3,
+    "explanation": "Here, Tour is written as 4156, Screw is written as 73698, and Tear is written as 4926. So, we see that each alphabet in the given coding is assigned a particular number, like 4 for T, 6 for R, 9 for E, and so on, and this is on order. So, SWEATER will be named as=7892496.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-025",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "What number should replace question mark (?) in the below given series : 5,7,11,19,35,67, ?",
+    "options": [
+      "111",
+      "121",
+      "131",
+      "141"
+    ],
+    "correctIndex": 2,
+    "explanation": "+2 +4 +8 +16 +32 +64 5 → 7 → 11 → 19 −→ 35 −→ 67 −→ 131 The differences between consecutive terms are doubling: 2, 4, 8, 16, 32, 64",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-026",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which fallacy is committed in the following argument? \"As a society we have an obligation to support the needy, because people who do not have sufficient resources have a right to the resources of the community\".",
+    "options": [
+      "Begging the question",
+      "Equivocation",
+      "Fallacy of composition",
+      "Appeal to emotion"
+    ],
+    "correctIndex": 0,
+    "explanation": "The fallacy committed in the argument appears to be a form of begging the question. The argument assumes the conclusion it seeks to prove by stating that people who do not have sufficient resources have a right to the resources of the community, which then leads to the conclusion that society has an obligation to support the needy. This reasoning relies on the assumption of the conclusion (that the needy have a right to community resources) without providing independent support or justification for this claim. Therefore, it does not effectively establish why society has an obligation to support the needy; rather, it assumes this obligation based on a circular logic. The \"begging the question\" refers to a logical fallacy where the conclusion of an argument is assumed within one of the premises, often without sufficient evidence or justification. This fallacy is also known as \"circular rea",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-027",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II LIST I LIST II (Statement) (Logical Equivalent) No fishes are No fashes are non- A. 1. maimmals. marmals. All fishes are No mammals are B. II. mammals fishes. Some fishes are Some mammals are C. III mammals. non fishes. Some marmals are Some mammals are D IV. not fishes. fishes. Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-III, D-II",
+      "A-II, B-III, C-IV, D-I",
+      "A-II, B-I, C-IV, D-III",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. No fishes No mammals are mammals. are fishes. No fishes are B. All fishes non- are mammals. mammals. Some C. Some fishes mammals are are mammals. fishes. D. Some Some mammals are mammals are not fishes. non fishes.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-028",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "If the statement 'Some animals are birds', is given as false, then which of the following statements could be immediately inferred to be true? A. All animals are birds. B. No animals are birds. C. Some animals are not birds. D. All birds are animals. Choose the most appropriate answer from the options given below:",
+    "options": [
+      "B only",
+      "A and D only",
+      "C only",
+      "B and C only"
+    ],
+    "correctIndex": 3,
+    "explanation": "B. No animals are birds: This statement would be true if 'Some animals are birds' is false. If there are no animals that are birds, then it couldn't be possible for 'some' to be birds. C. Some animals are not birds: This would also be true if \"Some animals are birds' is false. If there are not 'some' animals that are birds, it implies that at least 'some' animals must not be birds.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-029",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "If the statement 'Some animals are birds', is given as false, then which of the following statements could be immediately inferred to be true? A. All animals are birds. B. No animals are birds. C. Some animals are not birds. D. All birds are animals. Choose the most appropriate answer from the options given below:",
+    "options": [
+      "B only",
+      "A and D only",
+      "C only",
+      "B and C only"
+    ],
+    "correctIndex": 3,
+    "explanation": "B. No animals are birds: This statement would be true if 'Some animals are birds' is false. If there are no animals that are birds, then it couldn't be possible for 'some' to be birds. C. Some animals are not birds: This would also be true if \"Some animals are birds' is false. If there are not 'some' animals that are birds, it implies that at least 'some' animals must not be birds.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-030",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "According to Nyaya (classical Indian school of logic) which of the following is an example of Badhit fallacy (non-inferentially contradicted middle)?",
+    "options": [
+      "Sound is quality because it is visible",
+      "Sound is eternal because it is produced",
+      "All things are non-eternal because they are knowable.",
+      "Fire is cold because it is a substance."
+    ],
+    "correctIndex": 3,
+    "explanation": "In Nyaya logic, the Badhit fallacy (non- inferentially contradicted middle) occurs when one part of a proposition contradicts another part, leading to an invalid argument. The statement \"Fire is cold because it is a substance\" exemplifies a Badhit fallacy. The assertion that fire is cold contradicts our knowledge and experience, and the reason provided for this assertion does not logically justify the conclusion.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-031",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Consider the following in MS-EXCEL spreadsheet: A B C D E Play Go 1 Day Weather Temp. Tennis? Running? 2 Monday Sunny High 3 Tuesday Windy High 4 Wednesday Raining Mediun 5 Thursday Sunny Low 6 Friday Sunny Medium Suppose the formula = IF(B2 = \"Sunny\", IF(C2○\"Low\", \"Yes\", \"No\"), \"No\") is entered into D2 and then the cell is copied and pasted to D3:D6. On what days does Column D report \"Yes\"?",
+    "options": [
+      "Monday and Friday only",
+      "Monday and Tuesday only",
+      "Thursday and Friday only",
+      "Monday, Thursday and Friday"
+    ],
+    "correctIndex": 0,
+    "explanation": "IF (B2 \"Sunny\", IF (C2 <> \"Low\", \"Yes\", \"No\"), \"No\"), is a nested IF statement that checks two conditions: 1. If the weather (B2) is \"Sunny\", then it checks the second condition. 2. If the temperature (C2) is not \"Low\", then it returns \"Yes\", otherwise \"No\". If the first condition (weather is \"Sunny\") is not met, it directly returns \"No\". Based on this formula and your provided table, we can determine the days on which column D reports \"Yes\". Monday: Sunny, High - Yes (Because it's sunny and the temperature is not low) Tuesday: Windy, High - No (Because it's not sunny) Wednesday: Raining, Medium - No (Because it's not sunny) Thursday: Sunny, Low - No (Because it's sunny, but the temperature is low) Friday: Sunny, Medium - Yes (Because it's sunny and the temperature is not low) Column D reports \"Yes\" on Monday and Friday",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-032",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which statement best describes data compression?",
+    "options": [
+      "The process of calculating the file size of a saved file.",
+      "The process of encoding characters into more than one language.",
+      "The process of encoding information to try and use fewer bits than the original data",
+      "The process of removing necessary data from a file."
+    ],
+    "correctIndex": 2,
+    "explanation": "In information theory, data compression, source coding, or bit-rate reduction is the process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-033",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements : Statement-I : Twitter is an example of a Web 2.0 application. Statement-II : Web 2.0 refers to static text-based information websites. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true but Statement II is false.",
+      "Statement I is false hut Statement II is true."
+    ],
+    "correctIndex": 2,
+    "explanation": "Twitter is an example of a Web 2.0 application. Web 2.0 applications allow users to interact and collaborate with each other in a social media dialogue, as creators of user-generated content in a virtual community. Web 2.0 does not refer to static text-based information websites. Web 2.0 refers to websites that encourage user interaction and participation, rather than static pages of the earlier \"Web 1.0\" era where users were limited to passive viewing of content.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-034",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following systems use synchronous communication? A. Skype video call B. Facebook Chat C. Email D. Messaging on Snap chat E. Telephone call Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and E only",
+      "A, B, D and E only",
+      "A, C, D and E only",
+      "B and C only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Synchronous communication is the exchange of information between 2 or more people in real- time. It may be in person but it certainly doesn't have to be. In addition to in-person conversations or meetings, phone calls and video meetings are also examples of synchronous communication. So except email all other are synchronous communication.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-035",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II LIST I LIST II (Storage (Description) device) Optical media that uses Solid State concentric tracks to A. Drive I. allow simultaneous read-write (SSD) operations. Volatile in nature that stores B. ROM II. programs and data in current use Has no moving part and is C. DVD-RAM III. therefore a very robust and reliable technology: Non-volatile in natuse that D. RAM IV. stores firmware Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-IV, C-III, D-II",
+      "A-III, B-IV, C-I, D-II",
+      "A-II,B-III,C-I, D-IV",
+      "A-IV, B-III, C-I, D-II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solid-state drives (SSDs) utilize flash memory for data storage, offering superior performance and reliability compared to traditional hard disk drives (HDDs). SSDs boast a lack of moving components,",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-036",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Chlorination of water is done to",
+    "options": [
+      "Remove microbes",
+      "Remove hardness",
+      "Inerease salt contents",
+      "Decrease turbidity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chlorination is a crucial water treatment process that involves adding chlorine or chlorine compounds like sodium hypochlorite or calcium hypochlorite to water. This method effectively disinfects water by eliminating bacteria and other microorganisms, making it safe for consumption.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-037",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "What is the average thickness of Ozone layer?",
+    "options": [
+      ">1 cm",
+      "<1 cm",
+      "1 cm to 1 meter",
+      ">1 meter"
+    ],
+    "correctIndex": 1,
+    "explanation": "The thickness of the ozone layer is measured in Dobson Units (DU) rather than traditional distance units. Dobson Units quantify the amount of ozone molecules in a column of air due to the uneven distribution and fluctuations of ozone in the atmosphere. Approximately 300 Dobson Units (DU) would create a layer about 3 millimeters thick if gathered together under standard temperature and pressure. This thickness is similar to stacking two pennies. However, natural variations and human activities, such as the use of ozone-depleting substances, can cause fluctuations in the ozone layer's thickness. The implementation of the Montreal Protocol in 1987 has contributed to the gradual recovery of the ozone layer by phasing out the production of substances that deplete ozone.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-038",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements : Statement-I: Ion exchange is an example of tertiary waste water treatment process. Statement-II: Ion exchange is used for the removal of residual suspended solids, In the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true but Statement II is false.",
+      "Statement I is false but Statement II is true."
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement I: Ion exchange is frequently employed in tertiary wastewater treatment to eliminate specific inorganic compounds and heavy metals. Additionally, it is utilized in water softening by substituting calcium and magnesium ions with sodium ions. Statement II: Ion exchange is not generally employed for the elimination of suspended solids. Instead, it is a method used to swap specific ions in a solution. Suspended solids are typically eliminated in primary or secondary treatment processes through physical methods like sedimentation or filtration.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-039",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements: Statement-I : Montreal Protocol was agreed in 1987 and came into force in 1990. Statement-II : Kyoto protocol was agreed in 1997 and came into force in 2005. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true but Statement II is false.",
+      "Statement I is false but Statement II is true."
+    ],
+    "correctIndex": 3,
+    "explanation": "Statement I: \"The Montreal Protocol, an international treaty aimed at protecting the ozone layer by phasing out substances responsible for ozone depletion, was agreed upon on September 16, 1987, at the United Nations headquarters in New York. It came into force on January 1, 1989, after being ratified by 26 countries and the European Economic Community.\" Statement II: \"The Kyoto Protocol, an international treaty that extends the 1992 United Nations Framework Convention on Climate Change (UNFCCC) by committing state parties to reduce greenhouse gas emissions, was adopted on December 11, 1997, in Kyoto, Japan, at the third Conference of the Parties (COP3) to the UNFCCC. It entered into force on February 16, 2005, after being ratified by enough countries.\"",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-041",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following critical dimensions of values and ethics must be focussed for promoting quality Higher Education? A. Accountability B. Participation C. Integrity D. Competency E. Transparency Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, D and E only",
+      "C and E only",
+      "B, C and D only",
+      "A, B, C, D and E"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Accountability: Institutions of higher education must be answerable to their students, faculty, staff, and the broader community. This entails meeting academic standards, delivering quality education, and ensuring efficient use of resources. B. Participation: All stakeholders in the educational process -- students, faculty, staff, and sometimes the broader community -- should be given opportunities to engage in decision- making. This fosters a sense of ownership and accountability. C. Integrity: Higher education institutions should operate with integrity, which includes honesty, fairness, and adherence to ethical standards. This applies to all aspects, including academic integrity (preventing cheating, plagiarism, etc.) and research integrity. D. Competency: Educators should demonstrate competence in their fields and in their teaching abilities. Students should be supported in develop",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-042",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The First Buddhist Council with an aim for education was constituted in:",
+    "options": [
+      "Mandalay in 1871 AD",
+      "Vaishali in 383 BC",
+      "Sattapani in 483 BC",
+      "Patliputra in 250 BC"
+    ],
+    "correctIndex": 2,
+    "explanation": "The First Buddhist Council took place in Sattapanni, located in Rajgir, Bihar, India, following Gautama Buddha's passing around 483 BC. It aimed to safeguard Buddha's teachings, encompassing both his spoken words (the Dhamma) and the monastic code of conduct (the Vinaya). Approximately 500 Arahats, or enlightened monks, are believed to have participated, with the senior monk Mahakasyapa leading the council. This gathering played a pivotal role in preserving and transmitting Buddha's teachings, which were initially transmitted orally and later recorded in writing during the Fourth Buddhist Council in Sri Lanka in the 1st century BCE. While not explicitly termed an \"educational\" council, its underlying objective was to impart Buddha's teachings to future Buddhist generations, thereby serving an educational purpose.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-043",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements: Statement-I: National Council for Teacher Education (NCTE) was made a statutory body by the Act of Parliament in 1993. Statement-II: Dr. S. Radhakrishnan was the Chairman of University Education Commission set up in 1948. In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      "Both Statement I and Statement II are correct.",
+      "Both Statement I and Statement II are incorrect.",
+      "Statement I is correct but Statement II is incorrect.",
+      "Statement I is incorrect but Statement II is correct."
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I: The National Council for Teacher Education (NCTE) became a statutory body through an Act of Parliament in 1993. This fact is accurate. The NCTE in India is responsible for planning and coordinating teacher education, regulating and maintaining norms and standards in the teacher education system, and related matters. Statement II: Dr. S. Radhakrishnan chaired the University Education Commission established in 1948. This statement is also correct. The University Education Commission, known as the Radhakrishnan Commission, was set up in 1948 to suggest improvements for university education in India. Dr. Sarvepalli Radhakrishnan, a renowned philosopher, statesman, and former President of India, led the commission.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-044",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following Engineering colleges were there in India in the year 1902? A. Roorkee B. Sibapur C. Poona D. Madras Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and D only",
+      "A, B, C and D",
+      "A and D only",
+      "A and C only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Roorkee: The Thomason College of Civil Engineering, now known as the Indian Institute of Technology Roorkee, was founded in 1847 as the first engineering college in the British Empire. B. Sibpur: The Civil Engineering College was established in Shibpur, Howrah in 1856, now known as the Indian Institute of Engineering Science and Technology (IIEST), Shibpur. C. Poona: The College of Engineering, Pune (COEP) was founded in 1854. D. Madras: The College of Engineering, Guindy in Madras (now Chennai) was established in 1794 as a Survey School and later became a college in 1859.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-045",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II LIST I LIST II A. Shastras I. Logic B. Varta II. Learned disciplines Agriculture, trade, commerce and C. Kavyas III. animal husbandry Imaginative and creative D. Anviksiki IV. literature. Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-I, C-III, D-IV",
+      "A-II, B-III, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shastras are ancient texts that provide instructions or theories on various learned disciplines, such as law, politics, sociology, etc. Varta in traditional Indian context refers to these areas of activity - agriculture, trade, commerce, and animal husbandry. Kavyas represent classical Sanskrit poetry, showcasing imaginative and creative literature. Anviksiki stands for the school of logic or analytical investigation in ancient Indian philosophy.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-051",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following authored the book 'The Rights of Man'?",
+    "options": [
+      "J. S. Mill",
+      "Thomas Paine",
+      "Thomas Hill Green",
+      "John Locke"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book \"The Rights of Man\" was authored by Thomas Paine. Published in two parts in 1791 and 1792, it defends the French Revolution and argues for individual rights, democracy, and social justice. Paine's work was influential in promoting revolutionary ideas and has been foundational in discussions of human rights and political philosophy.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-052",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following coined the term Ecofeminism?",
+    "options": [
+      "Francoise d'Eaubonne",
+      "Okin",
+      "Kate Millett",
+      "Germaine Greer"
+    ],
+    "correctIndex": 0,
+    "explanation": "The term \"Ecofeminism\" was coined by Francoise d'Eaubonne in her 1974 book \"Feminism or Death\". Ecofeminism combines ecological concerns with feminist ones, highlighting the connections between the exploitation of women and the degradation of the environment. D'Eaubonne argued that a feminist approach is essential for addressing environmental issues and critiqued patriarchal structures that contribute to both gender inequality and environmental destruction.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-053",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which theory of Rights claims that Rights are inalienable and cannot be separated or taken away from the individual as they are inherent and prior to society and state?",
+    "options": [
+      "Theory of Natural Rights",
+      "Theory of Legal Rights",
+      "Theory of Contractual Rights",
+      "Theory of Social-Welfare Rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "Theory of Natural Rights claims rights are inalienable and cannot be separated or taken away from the individual, as they are inherent and prior to society and the state. This theory holds that certain rights are fundamental and exist independently of any laws or social structures. Comparison with Other Theories: Theory of Legal Rights: These rights are established and enforced by legal systems. They can be changed or revoked by laws. Theory of Contractual Rights: This theory emphasizes rights that arise from agreements between individuals. These rights can be altered based on mutual consent. Theory of Social-Welfare Rights: These rights focus on social and economic rights, such as the right to education and healthcare, which are often contingent on societal conditions and state provisions.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-054",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "What does the idea of \"positive liberty\" mean?",
+    "options": [
+      "The state has the right to intervene in the hope of making people's life more fulfilling",
+      "People should just get out there and do whatever they want",
+      "Only self-confident people can be free",
+      "Freedom means absence of constraints deliberately imposed by other people"
+    ],
+    "correctIndex": 0,
+    "explanation": "The idea of \"positive liberty\" refers to the concept that true freedom involves not just the absence of constraints but also the ability and opportunity to realize one's potential and lead a fulfilling life. This often implies that the state or society has a role in facilitating this freedom by providing conditions that empower individuals. Therefore, the correct option is A-The state has the right to intervene in the hope of making people's life more fulfilling.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-055",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following is incorrect regarding Locke's political philosophy?",
+    "options": [
+      "The state of nature was one of peace and mutual assistance",
+      "The right to property is prior to the society",
+      "The first essay of the Two Treatises of Government was devoted to the refutation of Filmer",
+      "The final source of state is the right to self defence of human beings"
+    ],
+    "correctIndex": 3,
+    "explanation": "A is correct: Locke indeed described the state of nature as one of peace, where individuals generally acted in accordance with reason and mutual assistance assistance. B is correct: Locke argued that the right to property is natural and exists prior to the establishment of society; it originates from individual labour and ownership. C is correct: The first essay of \"Two Treatises of Government\" is focused on refuting the divine right of kings, particularly the arguments of Robert Filmer. D is incorrect: While Locke acknowledged the right to self-defense, he did not claim it as the \"final source\" of the state. Instead, he argued that the state is formed through a social contract to protect rights, including property, rather than solely as a mechanism for self-defense.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-056",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "'Apology' is a dialogue written by Plato. Which among the following are the characters of this dialogue?",
+    "options": [
+      "Socrates and Crito",
+      "Socrates and Polymarcus",
+      "Socrates and his accusers",
+      "Socrates and Plato"
+    ],
+    "correctIndex": 2,
+    "explanation": "The characters of Plato's dialogue \"Apology\" primarily include Socrates and his accusers. In \"Apology,\" Socrates defends himself against the charges brought by his accusers, which include impiety and corrupting the youth of Athens.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-057",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following book is NOT written by Machiavelli?",
+    "options": [
+      "Art of War",
+      "The Discourses on Livy",
+      "Discourses on Inequality",
+      "The Prince"
+    ],
+    "correctIndex": 2,
+    "explanation": "The book that is not written by Machiavelli is 'Discourses on Inequality'. A) is correct: Art of War: This is indeed written by Machiavelli and discusses military strategy and philosophy. B) is correct: The Discourses on Livy: Also written by Machiavelli, this work examines the Roman Republic and offers insights into governance and political theory. C) is incorrect: Discourses on Inequality: This book is written by Jean-Jacques Rousseau, not Machiavelli. It critiques social inequality and discusses the evolution of society. D) is correct: The Prince: This is Machiavelli's most famous work, focusing on political power and realpolitik.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-058",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following is NOT written by Mary Wollstonecraft?",
+    "options": [
+      "A Vindication of the Rights of Men",
+      "A Vindication of the Rights of Women",
+      "Thoughts of the Education of Daughters",
+      "Discourses on Education"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book that is not written by Mary Wollstonecraft is Discourses on Education. A) is correct: A Vindication of the Rights of Men: This is a work by Wollstonecraft, written as a response to Edmund Burke's \"Reflections on the Revolution in France.\" B) is correct: A Vindication of the Rights of Women: This is Wollstonecraft's most famous work, arguing for women's rights and education. C) is correct: Thoughts on the Education of Daughters: This is also written by Wollstonecraft, focusing on the education of girls and advocating for better educational opportunities. D) is incorrect: Discourses on Education: This book was written by other authors, such as John Quincy Adams, and is not attributed to Wollstonecraft.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-059",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Identify the first Ashram of Gandhi in India",
+    "options": [
+      "Sabarmati Ashram",
+      "Wardha Ashram",
+      "Kochrab Ashram",
+      "Phoenix Ashram"
+    ],
+    "correctIndex": 2,
+    "explanation": "The first Ashram of Gandhi in India is Kochrab Ashram. A) is incorrect: Sabarmati Ashram: This is one of Gandhi's most famous ashrams, established later in 1917 near Ahmedabad, but it is not the first. B) is incorrect: Wardha Ashram: Also known as Sevagram, this ashram was established in 1936 and became significant for Gandhi's work during the Indian independence movement. C) is correct: Kochrab Ashram: Established in 1915 near Ahmedabad, this was Gandhi's first ashram in India after returning from South Africa. It served as a base for his social and political activities. D) is incorrect: Phoenix Ashram: This was located in South Africa and established by Gandhi while he was living there, so it is not in India.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-060",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which work is NOT related to Barni?",
+    "options": [
+      "Fatwa-i-Jahandari",
+      "Tarikh-i-Firuz Shahi",
+      "Zawabi",
+      "Akbarnama"
+    ],
+    "correctIndex": 3,
+    "explanation": "The work that is not related to Barni is Akbarnama. This is a significant historical text written by Abu'l-Fazl ibn Mubarak, chronicling the life and reign of Emperor Akbar. It is not connected to Barni, who wrote about earlier periods and different rulers.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-061",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "In which year did Pandita Ramabai open her Sharda Sadan (Home for Learning)?",
+    "options": [
+      "1889",
+      "1798",
+      "1898",
+      "1857"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pandita Ramabai opened her Sharda Sadan (Home for Learning) in 1889. Sharda Sadan was established in Pune as a school for widows and girls, aiming to provide them with education and support. Ramabai was a pioneering social reformer and feminist who advocated for women's rights and education in India. The establishment of Sharda Sadan was a significant step in promoting the empowerment of women and challenging societal norms regarding female education and independence.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-062",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The book 'Six Glorious Epochs' of Indian History was written by:",
+    "options": [
+      "M.K. Gandhi",
+      "J.L. Nehru",
+      "V.D. Savarkar",
+      "M.N. Roy"
+    ],
+    "correctIndex": 2,
+    "explanation": "The book \"Six Glorious Epochs of Indian History\" was written by V.D. Savarkar. V.D. Savarkar, an Indian independence activist and politician, wrote this book to present a narrative of Indian history that emphasized periods of glory and achievement. His work aimed to inspire national pride and highlight the contributions of Indian civilization, contrasting them with colonial narratives that often depicted India in a negative light. Savarkar's interpretation of history was influential in shaping nationalist sentiments during the freedom struggle.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-063",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "The concept of political culture involves three components of individual orientations: (I) Cognitive orientations (II) Affective orientations and (III) Evaluative orientation. Whose statement is this?",
+    "options": [
+      "Alan R. Ball",
+      "Lucian Pye and Sydney Verba",
+      "Almond and Powell",
+      "Rose and Dogan"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statement about the concept of political culture involving cognitive, affective, and evaluative orientations is attributed to Almond and Powell. They identified these three components to describe how individuals understand, feel about, and evaluate their political systems. This framework helps in analyzing how cultural factors influence political behavior and attitudes in different societies, emphasizing the importance of political culture in shaping democratic governance.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-064",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following is the author of the book 'The Ideal of Nationalism'?",
+    "options": [
+      "R. Muir",
+      "G.P. Gooch",
+      "Hans Kohn",
+      "C.J.H. Hayes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The author of the book \"The Ideal of Nationalism\" is Hans Kohn. Hans Kohn was a prominent political theorist and historian known for his work on nationalism. In \"The Ideal of Nationalism,\" Kohn examines the philosophical and historical foundations of nationalism, differentiating between ethnic and civic nationalism. He explores how nationalism can shape political identities and its implications for modern states. Kohn's contributions are significant in understanding the complexities and dynamics of national identity and the role of nationalism in contemporary politics.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-065",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following envisaged that liberal democracy as a political apparatus would ensure the accountability of the governors to the governed?",
+    "options": [
+      "John Stuart Mill",
+      "John Locke",
+      "Jeremy Bentham",
+      "Jean-Jacques Rousseau"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jeremy Bentham, a key figure in the development of utilitarianism and political thought, emphasized the importance of democratic governance and accountability. He argued that a liberal democracy, with its mechanisms for representation and public participation, would ensure that the rulers remain accountable to the governed. Bentham believed in the principle of \"the greatest happiness for the greatest number,\" advocating for political systems that serve the needs and interests of the populace. His ideas contributed significantly to discussions on democratic reform and the importance of transparency and accountability in governance.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-066",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which among the following is NOT a type of orientation in a political culture in Robert Dahl's view?",
+    "options": [
+      "Orientation to problem solving",
+      "Orientation of public management",
+      "Orientation of political system",
+      "Orientation to collective action"
+    ],
+    "correctIndex": 1,
+    "explanation": "The option that is not a type of orientation in a political culture, according to Robert Dahl, is Orientation of public management. Robert Dahl, a prominent political theorist, focused on the characteristics of democratic political cultures. His framework typically includes orientations such as: A) Orientation to problem solving: How individuals approach political issues and seek solutions. C) Orientation of political system: Understanding how the political system operates and the roles within it. D) Orientation to collective action: The ways in which individuals come together to pursue common goals and interests. \"Orientation of public management\" does not fit into Dahl's categorization of political culture orientations. Instead, it relates more to the administrative aspects of governance rather than the cultural attitudes and behaviors towards politics that Dahl studied.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-067",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "India announced the Act East Policy in",
+    "options": [
+      "BIMSTEC Summit, 2004",
+      "ASEAN Summit, 2014",
+      "IORA Meet, 1997",
+      "SAARC Summit, 2014"
+    ],
+    "correctIndex": 1,
+    "explanation": "India announced the Act East Policy at the ASEAN Summit, 2014. The Act East Policy was formally articulated by Prime Minister Narendra Modi during the ASEAN-India Summit in 2014. This policy aims to strengthen India's relations with Southeast Asian nations and enhance economic and strategic ties in the region. It reflects India's commitment to engage more actively with ASEAN countries, promote regional stability, and foster trade and investment. The policy is a continuation and expansion of India's Look East Policy, which was initiated in the early 1990s, emphasizing the importance of the Asia-Pacific region for India's future.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-068",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who wrote, 'Neo-Colonialism: The Last Stage of Capitalism'?",
+    "options": [
+      "Lenin",
+      "Nelson Mandela",
+      "Joseph Nye",
+      "K. Nkrumah"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book \"Neo-Colonialism: The Last Stage of Capitalism\" was written by K. Nkrumah. Kwame Nkrumah, the first President of Ghana, wrote this influential work in 1965. In the book, he critiques the continued economic and political dominance of former colonial powers over newly independent nations in Africa and elsewhere. Nkrumah argues that neo- colonialism manifests through economic exploitation and political manipulation, hindering true independence and development. He emphasizes the need for African unity and self-reliance to combat these neo-colonial influences. Nkrumah's insights have been significant in post-colonial studies and discussions on global power dynamics.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-069",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "3C formula was associated with India's foreign policy under",
+    "options": [
+      "Dr. Man Mohan Singh",
+      "I.K. Gujaral",
+      "Narendra Modi",
+      "Rajiv Gandhi"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 3C formula is associated with India's foreign policy under Narendra Modi. Under Prime Minister Narendra Modi, the 3C framework —\"Cooperation, Coordination, and Collaboration\"—has been emphasized to enhance India's foreign relations, particularly in the context of its strategic partnerships with neighboring countries and beyond. This approach aims to strengthen diplomatic ties, enhance economic collaboration, and ensure regional security. Modi's government has focused on proactive engagement and multilateralism, aiming to position India as a significant player in global affairs. This framework has been particularly relevant in Modi's outreach to countries in Asia and the Indo-Pacific region.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-070",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Mekong Ganga Cooperation (MGC) was initiated by",
+    "options": [
+      "Rajiv Gandhi",
+      "Narasimha Rao",
+      "I.K. Gujaral",
+      "A.B. Vajpayee"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Mekong Ganga Cooperation (MGC) was initiated by A.B. Vajpayee. Mekong Ganga Cooperation was launched in 2000 during the Prime Ministership of A.B. Vajpayee. This regional cooperation framework aims to enhance collaboration among the six countries along the Mekong River—Cambodia, Laos, Myanmar, Thailand, Vietnam, and India— focusing on areas such as tourism, culture, education, and transportation. The initiative reflects India’s broader \"Look East\" policy, aiming to strengthen ties with Southeast Asia and promote regional connectivity and development. Rao's government played a pivotal role in fostering these diplomatic and economic relationships, emphasizing the importance of cultural and historical ties between India and the Mekong region.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-071",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Kenneth Waltz was a:",
+    "options": [
+      "Realist",
+      "Neo-realist",
+      "Idealist",
+      "Anarchist"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenneth Waltz was a prominent figure in international relations theory, best known for his development of structural realism, also referred to as neo-realism. In his influential book, \"Theory of International Politics\" (1979), Waltz argued that the structure of the international system, characterized by anarchy and the distribution of power among states, is crucial in shaping state behavior. Unlike classical realists, who focus more on human nature and individual state actions, neo-realists emphasize the systemic factors that drive state interactions. Waltz's work laid the foundation for modern realist theories in international relations, making him a key figure in the neo-realist tradition.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-072",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "'Orange Revolution' was associated with",
+    "options": [
+      "Poland",
+      "Ukraine",
+      "Russia",
+      "Moldova"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Orange Revolution took place in Ukraine between late 2004 and early 2005 in response to widespread allegations of electoral fraud during the presidential election. Supporters of opposition candidate Viktor Yushchenko rallied for fair elections and democratic reforms, adopting the color orange as their symbol. The protests were characterized by peaceful demonstrations, which ultimately led to a re- run of the election,",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-073",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The permanent secretariat of BIMSTEC is in",
+    "options": [
+      "Kathmandu",
+      "New Delhi",
+      "Colombo",
+      "Dhaka"
+    ],
+    "correctIndex": 3,
+    "explanation": "The permanent secretariat of BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) is located in Dhaka, Bangladesh. Established in 2014, the secretariat plays a crucial role in facilitating cooperation among member countries, which include Bangladesh, India, Myanmar, Sri Lanka, Thailand, Nepal, and Bhutan. The Dhaka secretariat coordinates various activities and initiatives aimed at promoting economic and technical collaboration across sectors such as trade, investment, and connectivity among the member states.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-074",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "India is a signatory of",
+    "options": [
+      "CTBT",
+      "SALT",
+      "CEPA",
+      "NPT"
+    ],
+    "correctIndex": 2,
+    "explanation": "; A) is incorrect. CTBT: India has not signed the Comprehensive Nuclear-Test-Ban Treaty, maintaining a stance of nuclear sovereignty. B) is incorrect. SALT: The Strategic Arms Limitation Talks were specific to U.S.-Soviet negotiations and did not involve India. C) is correct. CEPA: India has signed several CEPAs (Comprehensive Economic Partnership Agreement) with various countries, aiming to strengthen economic ties, enhance trade, and promote investment. These agreements facilitate reduced tariffs and improved market access, benefiting both parties involved. D) is incorrect. NPT: India has not signed the Non-Proliferation Treaty, as it prioritizes its own nuclear policy and security.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-075",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "In which Indian state's assembly election, Voter Verifiable Paper Audit Trail (VVPAT) was used for the first time?",
+    "options": [
+      "Manipur",
+      "Nagaland",
+      "Kerala",
+      "Sikkim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Voter Verifiable Paper Audit Trail (VVPAT) was used for the first time in the assembly elections of Nagaland in 2013. The introduction of VVPAT aimed to enhance the transparency and integrity of the electoral process by allowing voters to verify their votes through a paper trail. This was a significant step towards ensuring greater confidence in electronic voting machines (EVMs) and improving the overall electoral process in India.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-076",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who said, \"whether you call it a federal constitution or a unitary constitution or by any other name, it makes no difference as long as the Constitution serves our purpose.\"",
+    "options": [
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "P. Sitaramayya"
+    ],
+    "correctIndex": 2,
+    "explanation": "The quote \"whether you call it a federal constitution or a unitary constitution or by any other name, it makes no difference as long as the Constitution serves our purpose\" is attributed to Rajendra Prasad . He was a key leader in the Indian independence movement and later became the first President of India.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-077",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following is NOT correct about the Comptroller and Auditor General of India?",
+    "options": [
+      "The salary and other conditions of service of the CAG shall be determined by the Parliament, by law",
+      "The CAG shall not be eligible for further office either under the Government of India or under any state government, after retirement",
+      "The administrative expenses of the CAG office shall be charged upon the Consolidated Fund of India",
+      "The reports of the CAG relating to the accounts of the Union shall be submitted to the Parliament"
+    ],
+    "correctIndex": 3,
+    "explanation": "A) is correct. The salary and other conditions of service of the CAG are determined by Parliament by law. B) is correct. The CAG shall not be eligible for further office either under the Government of India or under any state government after retirement. C) is correct. The administrative expenses of the CAG office are charged upon the Consolidated Fund of India D) is incorrect.While it is true that the Comptroller and Auditor General (CAG) of India submits reports relating to the accounts of the Union, these reports are actually submitted to the President, who then causes them to be laid before each House of Parliament. So, the CAG doesn't directly submit the reports to Parliament. The reports of the Comptroller and Auditor- General of India relating to the accounts of the Union shall be submitted to the president, who shall cause them to be laid before each House of Parliament.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-078",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "How many new languages were added by the 92nd Constitutional Amendment, 2003?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 92nd Constitutional Amendment in 2003 added 4 new languages to the Eighth Schedule of the Indian Constitution. The languages added were: 1. Bodo 2. Dogri 3. Maithili 4. Santhali",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-079",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Eco feminism was a special feature of",
+    "options": [
+      "Silent Valley",
+      "Plachimada struggle",
+      "Chipko movement",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ecofeminism was a special feature of the Chipko movement. The Chipko movement, which began in the 1970s in Uttarakhand, India, focused on the protection of forests by hugging trees to prevent logging. It combined environmental concerns with women's rights, emphasizing the connection between the exploitation of nature and the oppression of women. Ecofeminism critiques the patriarchal structures that contribute to environmental degradation and social inequality, making the Chipko movement a significant example of ecofeminist activism.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-080",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "First Lokpal Bill was introduced in Parliament in the year",
+    "options": [
+      "1971",
+      "1967",
+      "1969",
+      "1968"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first Lokpal Bill was introduced in the Indian Parliament in 1968. The concept of the Lokpal (Ombudsman) emerged as a response to growing concerns over corruption in government and public administration in India.The need for an independent body to investigate complaints against public officials and to ensure accountability was recognized. The first Lokpal Bill was introduced by Shri H. R. Gokhale in the Lok Sabha on August 15, 1968.The aim was to establish a Lokpal to address grievances against public servants and ensure transparency and accountability in governance.The bill proposed the establishment of a Lokpal at the central level, with the authority to investigate allegations of corruption against members of Parliament and other public officials.The introduction of the bill sparked debates and discussions in Parliament and among the public regarding the need for such an instituti",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-081",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following has provided 'Revisionist Theory of Modernity'?",
+    "options": [
+      "Steven Wilkinson",
+      "Sudipta Kaviraj",
+      "Atul Kohli",
+      "Francine R. Frankel"
+    ],
+    "correctIndex": 1,
+    "explanation": "The individual who has provided the 'Revisionist Theory of Modernity' is Sudipta Kaviraj. Kaviraj’s work critiques traditional narratives of modernity, particularly in the context of India, arguing for a more nuanced understanding that considers the historical and cultural specificities of non-Western societies. He emphasizes that modernity cannot be viewed solely through a Western lens, as it involves diverse processes and interpretations across different regions.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-082",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Verrier Elwin is associated with",
+    "options": [
+      "Gender Studies",
+      "Gandhian Studies",
+      "Tribal Studies",
+      "Ecological Studies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Verrier Elwin is primarily associated with Tribal Studies. He was an anthropologist and a social activist who dedicated much of his life to the study and welfare of India’s tribal communities. Elwin worked to understand their cultures, practices, and challenges, and he advocated for their rights and integration into broader society while respecting their traditions. His work significantly contributed to the field of anthropology in India and highlighted the importance of indigenous cultures.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-083",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who is the author of The Study of Public Administration?",
+    "options": [
+      "E.N. Gladden",
+      "Woodrow Wilson",
+      "Dwight Waldo",
+      "R.A. Warner"
+    ],
+    "correctIndex": 2,
+    "explanation": "The author of The Study of Public Administration is Dwight Waldo. Waldo was a significant figure in the field of public administration and his work emphasized the importance of understanding public administration within the context of democratic governance and public policy. He explored the philosophical underpinnings of public administration, advocating for a more integrative and humanistic approach to the discipline.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-084",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "\"Leadership is the activity of influencing people to strive willingly for mutual objectives\". This was said by",
+    "options": [
+      "James Rost",
+      "Keith Davis",
+      "M.P. Follett",
+      "G.R. Terry"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct attribution for the statement \"Leadership is the activity of influencing people to strive willingly for mutual objectives\" is G.R. Terry. G.R. Terry's work emphasized the collaborative and motivational aspects of leadership, highlighting how effective leaders inspire their teams to work towards shared goals.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-085",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "\"Bureaucrats resist change.\" Who propounded this theory?",
+    "options": [
+      "Anthony Downs (1967)",
+      "Judith Gruber (1987)",
+      "D. Thompson (1967)",
+      "Robert K. Merton (1957)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The idea that \"bureaucrats resist change\" is indeed associated with Robert K. Merton (1957). Merton's work highlighted the concepts of bureaucracy, including the tendency of bureaucrats to adhere to established routines and procedures, which can lead to resistance against change and innovation. His analysis of bureaucratic behavior emphasized the impact of organizational structures on the willingness to adapt.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-086",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Who among the following brought logical positivism in the study of policy making and the relation of means and ends?",
+    "options": [
+      "P. H. Appleby",
+      "Yehezkel Dror",
+      "Herbert Simon",
+      "Dwight Waldo"
+    ],
+    "correctIndex": 2,
+    "explanation": "The individual who brought logical positivism into the study of policy-making and the relationship of means and ends is Herbert Simon. Simon introduced the concept of \"bounded rationality,\" emphasizing that decision-makers operate under constraints and limited information. He argued for a more scientific and systematic approach to understanding policy decisions, focusing on the relationships between goals (ends) and the means to achieve them. His work significantly influenced the field of public administration and policy analysis, integrating logical positivism into the study of how policies are formulated and evaluated.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-087",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Local Bodies' Ombudsman may be established to hear complaints of corruption against local bodies. This was the view of the",
+    "options": [
+      "Ashok Mehta Committee",
+      "Balvantrai Mehta Committee",
+      "L.M. Singhvi Committee",
+      "Second Administrative Reforms Commission"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct option regarding the establishment of a Local Bodies' Ombudsman to hear complaints of corruption against local bodies is the Second Administrative Reforms Commission.The Second Administrative Reforms Commission, established in 2005, recommended measures to enhance accountability in local governance, including the establishment of an ombudsman for local bodies to address issues of corruption and ensure transparency.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-088",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Central Vigilance Commission (1964) was set up on the recommendation of the",
+    "options": [
+      "Gorwala Committee",
+      "Santhanam Committee",
+      "Kripalani Committee",
+      "Administrative Reforms Commission"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Central Vigilance Commission (CVC) was set up in 1964 on the recommendation of the Santhanam Committee. The Santhanam Committee was established to examine the functioning of the administrative system and to suggest measures to combat corruption in public administration. The committee recommended the establishment of the CVC to oversee and promote integrity in the public sector, thus enhancing accountability and transparency.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-089",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which one of the following is NOT hallmark of Development Administration?",
+    "options": [
+      "Change Oriented",
+      "Goal Oriented",
+      "Status-quo Oriented",
+      "Result Oriented"
+    ],
+    "correctIndex": 2,
+    "explanation": "Development Administration is characterized by its focus on facilitating change, achieving specific goals, and delivering tangible",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-090",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "In which one of following years, the Beti Bachao Beti Padhao Yojana (BBBP) was launched?",
+    "options": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Beti Bachao Beti Padhao Yojana (BBBP) was launched in the year 2015. This initiative was introduced by the Government of India to address the declining child sex ratio and to promote the importance of education for girls. The program aims to create awareness and improve the efficiency of welfare services for girls, thereby encouraging their survival, protection, and education. It reflects the government's commitment to empowering girls and ensuring gender equality.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-091",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Consider the following, A. Socialism stands for equality B. Socialism stands for the collection of private property C. Socialism stands for the elimination of competition D. Socialism aims at the elimination of capitalism Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C Only",
+      "A, C and D only",
+      "B, C and D only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: Socialism emphasizes economic and social equality. B) is incorrect: Socialism advocates for collective or state ownership rather than \"collection\" of private property. C) is correct: Socialism tends to favor cooperation over competition, aiming to meet communal needs. D) is correct: Socialism seeks to replace capitalist structures.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-093",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which among the following are elements of Liberalism? A. Individual should have the right to develop his own personality. B. Man is a rational creature. C. Society should not be plural. D. It believes in constitutionalism. Choose the correct answer from the options given below",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "A, C and D only",
+      "A, B and D only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A) is correct: Individual should have the right to develop his own personality, this is a fundamental principle of liberalism, emphasizing personal freedom and self-development. B) is correct: Liberalism holds that individuals are rational beings capable of making informed decisions, which is a key tenet of liberal thought. C) is incorrect: Society should not be plural, this statement is not aligned with liberalism, as liberalism actually supports pluralism and diversity within society. D) is correct: Liberalism strongly advocates for constitutionalism, which ensures that government operates within a framework of laws and protects individual rights.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-094",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "According to Hegel : A. War is not to be regarded as an evil but a virtue. B. War effectively displays the \"irony of the divine idea\". C. War destroys the selfish egoism of the individual. D. \"The State of War', \"shows the omnipotence of the state in its individuality\". E. Humanity never needed war and the gun is a chance of invention. Choose the correct answer from the options given below:",
+    "options": [
+      "D, C, B and A only",
+      "E, C, B and A only",
+      "C, E, A and D only",
+      "C, A, E and B only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) is correct. War is not to be regarded as an evil but a virtue: Hegel viewed war as a necessary aspect of history and progress, seeing it as a means to resolve contradictions in society. B) is correct. War effectively displays the \"irony of the divine idea\": Hegel believed that war could reveal deeper truths about the development of the state and the unfolding of the World Spirit. C) is correct. War destroys the selfish egoism of the individual: Hegel argued that through war, individuals are compelled to transcend their personal interests for the sake of the collective, fostering a sense of duty to the state. D) is correct. \"The State of War\", \"shows the omnipotence of the state in its individuality\": This reflects Hegel's belief that the state represents the ultimate realization of freedom, even when expressed through conflict. E) is incorrect: Humanity never needed war and the gun is",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-095",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correct? A. Hannah Arendt - The Post-Modern Conditions B. Jacques Derrida - The Post Card C. Frantz Fanon - The Wretched of the Earth D. Antonio Gramsci - The Human Condition Choose the correct answer from the options given below:",
+    "options": [
+      "A and D only",
+      "B and C only",
+      "C and D only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) Hannah Arendt - The Post-Modern Conditions: This is incorrect. \"The Post-Modern Condition\" is actually by Jean-François Lyotard. Hannah Arendt is known for works like \"The Human Condition.\" B) Jacques Derrida - The Post Card: This is correct. Jacques Derrida wrote \"The Post Card: From Socrates to Freud and Beyond,\" which explores themes of communication and philosophy. C) Frantz Fanon - The Wretched of the Earth: This is correct. Frantz Fanon wrote \"The Wretched of the Earth,\" a seminal work discussing colonialism and its effects on identity and liberation. D) Antonio Gramsci - The Human Condition: This is incorrect. \"The Human Condition\" is also associated with Hannah Arendt, while Antonio Gramsci is known for his work on cultural hegemony and his \"Prison Notebooks.\"",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-096",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which ones are true about the Passive Resistance and Satyagraha? A. Passive Resistance is equivalent to Satyagraha. B. Passive Resistance is not afraid of the physical strength while Satyagraha is afraid of physical strength. C. Passive Resistance is negative in practice whereas Satyagraha is positive morality. D. Passive Resistance is weapon of the weaker sections, Satyagraha never desires to terrorise the opponent. Choose the correct answer from the options given below:",
+    "options": [
+      "A and D only",
+      "A and B only",
+      "C and D only",
+      "B and C only"
+    ],
+    "correctIndex": 2,
+    "explanation": "; A) is incorrect: While both involve nonviolent opposition, Satyagraha is a more comprehensive philosophy introduced by Mahatma Gandhi that emphasizes truth and moral integrity, while passive resistance may not necessarily embody these principles. B) is incorrect: Both concepts seek to counter physical strength with moral strength, but Satyagraha explicitly advocates for nonviolence and moral high ground in confronting oppression. C) is correct: Satyagraha promotes a proactive approach grounded in ethical principles, while passive resistance may not necessarily embody the same moral framework. D) is correct: Satyagraha aims to win over opponents through love and understanding rather than instilling fear, contrasting with the often defensive nature of passive resistance.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-097",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Lohia opined: A. Freedom and bread are inseparable B. The removal of inequality from human society was one of the seven revolutions C. If socialism is to be defined in two words then they are equality and prosperity D. The desire for equality in the modern world has become the desire for being similar and not equal Choose the correct answer from the options given below:",
+    "options": [
+      "C and D only",
+      "A and D only",
+      "B and D only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 0,
+    "explanation": ". A. Freedom and bread are inseparable: While Lohia emphasized the importance of both freedom and economic well-being, this statement is more closely associated with other thinkers. B. The removal of inequality from human society was one of the seven revolutions: Lohia did discuss revolutions for social change, but this specific phrasing may not directly reflect his main focus. C. If socialism is to be defined in two words then they are equality and prosperity: This aligns well with Lohia’s views on socialism as focusing on both social equality and economic well-being. D. The desire for equality in the modern world has become the desire for being similar and not equal: This critiques contemporary notions of equality, emphasizing Lohia’s perspective on true equity versus uniformity. Given that statements C and D accurately reflect Lohia's ideas,hence, option A is correct.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-098",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Which of the following statements are correct with regard to Aurobindo? A. He explains 'Nation State' theory B. He explains Spiritual Nationalism C. He sees Nationalism as a religious aspiration and moral attitude D. Nation as geographical entity only E. He never discussed Nationalism Choose the correct answer from the options given below:",
+    "options": [
+      "B and C only",
+      "A and C only",
+      "B and D only",
+      "D and E only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. He explains 'Nation State' theory: This statement is not entirely accurate as Aurobindo's focus was more on the spiritual and philosophical dimensions of nationalism rather than a formal 'Nation State' theory. B. He explains Spiritual Nationalism: This is correct. Aurobindo emphasized a spiritual approach to nationalism, advocating for a deeper, more meaningful connection to the nation. C. He sees Nationalism as a religious aspiration and moral attitude: This is also correct. Aurobindo viewed nationalism as intertwined with spiritual and moral values. D. Nation as geographical entity only: This is incorrect. Aurobindo's concept of the nation extends beyond geographical definitions to include cultural and spiritual dimensions. E. He never discussed Nationalism: This is incorrect; Aurobindo extensively discussed nationalism and its implications.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-099",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Which of the following statements are correct with regard to Swami Vivekanand? A. He was the disciple of Ramakrishna Paramhans B. In 1893, he proceeded to participate in the Chicago Parliament of Religions C. He never visited U.S.A. D. He said that Man is not higher than all animals E. He was the founder member of the Arya Samaj Choose the correct answer from the options given below:",
+    "options": [
+      "C and D only",
+      "D and E only",
+      "A and B only",
+      "A and E only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is True. Swami Vivekananda was indeed a disciple of Ramakrishna Paramhans. B) is True. In 1893, he participated in the Chicago Parliament of Religions, where he delivered a famous speech introducing Hinduism to the West. C) is False. He did visit the USA for the Parliament and other engagements. D) is False. Vivekananda emphasized the divinity of man and the potential for human greatness. E) is False. He was not a founder member of the Arya Samaj; that was founded by Swami Dayananda Saraswati.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-100",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following principles are correct with regard to liberal democracy? A. Government by consent B. Public Accountability C. Suitable for Socialism D. Constitutional Government Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and D only",
+      "A, C and D only",
+      "B, C and D only",
+      "A, B and C only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) is correct: Government by consent is a fundamental principle of liberal democracy, emphasizing that the authority of the government derives from the consent of the governed. B) is correct: Government officials are accountable to the public, a key aspect of democratic governance. C) is incorrect: While liberal democracy can coexist with some socialist ideas, they are not inherently aligned; liberal democracy typically focuses on individual rights and market economies. D) is correct: Constitutional Government is essential in liberal democracies, where the powers of government are limited by a constitution.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-101",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following functions should the state perform in the view of Individualist writers? A. Maintenance of internal law and order B. To make rules regarding property C. Protection from foreign aggression D. To implement such mutual agreements which are legally valid Choose the correct answer from the options given below:",
+    "options": [
+      "B, C and D only",
+      "A, C and D only",
+      "A, B and C only",
+      "A, B and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: Individualist writers argue that the state should maintain law and order to protect individual rights. B) is incorrect: While individualists recognize property rights, they often advocate for minimal state intervention in property matters, viewing this as a role best handled by individuals or private agreements. C) is correct: Individualists see this as a key function of the state to ensure the safety and freedom of individuals. D) is correct: While this is important, individualists typically prefer that the state minimize its role in enforcement unless necessary for maintaining order.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-102",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched? A. International Covenant on Civil and Political Rights - 1966 B. Convention on the Rights of Persons with Disabilities - 2000 C. Convention on the Rights of Child - 1989 D. Optional Protocol on Economic Social Rights - 2006 Choose the correct answer from the options given below:",
+    "options": [
+      "C and D only",
+      "A and C only",
+      "A and B only",
+      "A and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. International Covenant on Civil and Political Rights - 1966: Correct. B. Convention on the Rights of Persons with Disabilities - 2000: Incorrect.The text was adopted by the United Nations General Assembly on 13 December 2006. C. Convention on the Rights of Child - 1989: Correct. D. Optional Protocol on Economic Social Rights - 2006: Incorrect. There is no specific Optional Protocol titled \"Optional Protocol on Economic Social Rights\" rather, there is Optional Protocol to the International Covenant on Economic, Social and Cultural Rights. It was adopted by the UN General Assembly on 10 December 2008.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-103",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched? A. International Court of Justice - The Hague B. W.H.O - London C. International Criminal Court - Rome D. IAEA - New York Choose the correct answer from the options given below:",
+    "options": [
+      "A and B only",
+      "A and C only",
+      "C and D only",
+      "B and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: International Court of Justice - The Hague: The ICJ is located in The Hague, Netherlands. B) is incorrect: W.H.O - London: The World Health Organization (WHO) is based in Geneva, Switzerland. C) is correct: International Criminal Court - Rome, The ICC is located in Rome, Italy. D) is incorrect: IAEA - New York, the International Atomic Energy Agency (IAEA) is headquartered in Vienna, Austria, not New York.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-104",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched? A. Operation Raahat - Yemen B. Vande Bharat Mission - Sri Lanka C. Operation Maitri - Nepal D. Operation Sukoon - Iraq Choose the correct answer from the options given below:",
+    "options": [
+      "A and C only",
+      "B and C only",
+      "B and D only",
+      "A and B only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) is correct. Operation Raahat - Yemen: This operation was launched to evacuate Indian nationals from Yemen during the civil unrest in 2015. B) is incorrect. Vande Bharat Mission - Sri Lanka: The Vande Bharat Mission was primarily aimed at repatriating Indians stranded abroad during the COVID-19 pandemic, including from various countries, but it is not specifically tied to Sri Lanka. C) is correct. Operation Maitri - Nepal: This operation was conducted for humanitarian assistance and disaster relief in Nepal following the earthquake in 2015. D) is incorrect. Operation Sukoon - Iraq: Operation Sukoon was actually conducted in Lebanon to evacuate Indian nationals during the 2006 conflict, not Iraq.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-105",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched? A. ONGC Videsh - South China Sea B. War on Terror - GCC C. Military strength - Element of national power D. The Silent Spring - Kenneth Boulding Choose the correct answer from the options given below:",
+    "options": [
+      "A and B only",
+      "A and C only",
+      "C and D only",
+      "A and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct. ONGC Videsh is involved in exploration and production activities in the South China Sea. B) is incorrect. While the Gulf Cooperation Council (GCC) countries are involved in the War on Terror, the phrase \"War on Terror\" is not specifically tied to the GCC. C) is correct. Military strength is indeed one of the key elements of national power. D) is incorrect. \"Silent Spring\" is a famous book by Rachel Carson that focuses on environmental issues, not Kenneth Boulding.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-106",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched A. Clash of Civilizations - S. Huntington B. Classical Theory - J. Gaddis C. The End of History - F. Fukuyama D. Green Political Theory - A. Giddens Choose the correct answer from the options given below:",
+    "options": [
+      "C and D only",
+      "A and D only",
+      "A and C only",
+      "A and B only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is correct: Samuel P. Huntington wrote \"The Clash of Civilizations?\" which discusses cultural and religious conflicts post-Cold War. B) is incorrect: John Lewis Gaddis is known for his work on Cold War history, but he is not primarily associated with a work titled \"Classical Theory.\" C) is correct: Francis Fukuyama's book \"The End of History and the Last Man\" discusses the triumph of liberal democracy. D) is incorrect: While Anthony Giddens has written on environmental issues, \"Green Political Theory\" is primarily associated with other theorists like Andrew Dobson.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-107",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correctly matched? A. Fast-Track Diplomacy - Narendra Modi B. Project Mausam - Rajiv Gandhi C. Look East Policy - Narasimha Rao D. Act East Policy - Manmohan Singh Choose the correct answer from the options given below:",
+    "options": [
+      "A and B only",
+      "B and D only",
+      "A and C only",
+      "C and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is correct: Fast-track diplomacy is more associated with Narendra Modi. B) is incorrect: Project Mausam is an initiative launched in 2014 under Narendra Modi's government to enhance maritime cooperation and cultural links in the Indian Ocean region. C) is correct: Look East Policy was initiated by Prime Minister P.V. Narasimha Rao in the early 1990s to strengthen relations with Southeast Asian countries. D) is incorrect; Act East policy was articulated during Narendra Modi's tenure to deepen India's engagement with the East, building on the Look East Policy.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-108",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which among the following languages are conferred with classical language status? A. Sanskrit B. Tamil C. Kannada D. Hindi Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C and D",
+      "A, B and C only",
+      "B, C and D only",
+      "A and B only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: Sanskrit is recognized as a classical language of India due to its ancient heritage and extensive literature.Sanskrit was declared a classical language of India on November 25, 2005. B) is correct: Tamil was officially declared a classical language in 2004, recognized for its rich literary tradition and ancient origins. C) is correct: Kannada was given classical status in 2008, also for its ancient literature and historical significance. D) is incorrect: Hindi has not been conferred classical language status.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-109",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which among the following inter-state water disputes is correctly matched? A. Cauvery water dispute - Kerala, Tamil Nadu and Karnataka B. Narmada water dispute - Madhya Pradesh, Rajasthan, Gujarat and Maharashtra C. Krishna water dispute - Maharashtra, Karnataka and Andhra Pradesh D. Tungabhadra water dispute - Tamil Nadu and Kerala Choose the correct answer from the options given below:",
+    "options": [
+      "A and D only",
+      "A and B only",
+      "A, B and C only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is correct. Cauvery water dispute - Kerala, Tamil Nadu and Karnataka: The dispute primarily involves Tamil Nadu and Karnataka, but Kerala is also indirectly involved due to upstream and downstream considerations. B) is correct. Narmada water dispute - Madhya Pradesh, Rajasthan, Gujarat and Maharashtra: This dispute involves the sharing of water from the Narmada River among these states. C) is correct. Krishna water dispute - Maharashtra, Karnataka and Andhra Pradesh: This dispute concerns the allocation of Krishna River waters among these three states. D) is incorrect. Tungabhadra water dispute - Tamil Nadu and Kerala: The Tungabhadra River dispute primarily involves Karnataka and Andhra Pradesh, not Tamil Nadu and Kerala.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-110",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following functions have been laid down in the 12th Schedule of the Constitution of India for municipalities? A. Urban poverty alleviation B. Planning for economic and social development C. Roads and Bridges D. Public safety services Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C and D",
+      "A, B and C only",
+      "A, C and D only",
+      "A and B only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 12th Schedule of the Constitution of India specifies various functions for municipalities, including: A) is correct. Urban poverty alleviation: Included in the schedule as municipalities are tasked with addressing urban poverty. B) is correct. Planning for economic and social development: This function is explicitly mentioned in the 12th Schedule. C) is correct. Roads and Bridges: This is also a function that municipalities are responsible for managing. D) is incorrect. Public safety services: This specific term is not included in the 12th Schedule.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-111",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following is/are true? A. The Election Commission of India conducts elections to state assemblies B. The State Election Commission conducts Panchayats' and Municipal Bodies' elections C. If there is any dispute regarding election of the President, decision of the Election Commission would be final D. The Election Commission is responsible for Polling, Counting and Declaration of results of the Election Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and D only",
+      "B, C and D only",
+      "A, B, C and D",
+      "A and B only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) is correct: The Election Commission oversees the conduct of elections at both the national and state levels. B) is correct: State Election Commissions are responsible for overseeing elections to local bodies such as Panchayats and Municipalities. C) is incorrect: Disputes regarding the election of the President are settled by the Supreme Court, not solely by the Election Commission. D) is correct: The Election Commission manages all aspects of the electoral process, including polling and counting.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-112",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are the common 73rd 74th compulsory provisions of the and Constitutional Amendment Act? A. Five-yearly elections B. Reservation for Backward Classes C. Reservation for women D. Nagar Panchayats Choose the correct answer from the options given below:",
+    "options": [
+      "B and C only",
+      "A and D only",
+      "A, B and C only",
+      "A and C only"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 73rd and 74th Constitutional Amendment Acts include several common compulsory provisions for local self-governments in rural and urban areas: A) is correct: Both amendments mandate the holding of elections to local bodies every five years. B) is incorrect: Both acts provide for the reservation of seats for Scheduled Castes, Scheduled Tribes, and other backward classes in local bodies but it is not a compulsory provision. C) is correct: Both amendments ensure a certain percentage of seats are reserved for women in local bodies. D) is incorrect: While Nagar Panchayats are indeed part of the structure established under the 74th Amendment for urban local bodies, it is not a compulsory provision.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-113",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "The rise and growth of the concept of New Public Administration can be traced to: A. Honey Report on Higher Education for Public Services - 1967 B. Minnowbrook Conference II - 1988 C. Philadelphia Conference on the Theory and Practice of Public Administration - 1967 D. Public Administration in a Time of Turbulence - 1971 Choose the correct answer from the options given below:",
+    "options": [
+      "B, C and D only",
+      "A, B and C only",
+      "A, B and D only",
+      "A, C and D only"
+    ],
+    "correctIndex": 3,
+    "explanation": "; A) is correct: Honey Report on Higher Education for Public Services - 1967: This report addressed the need for reform in public administration education, laying groundwork for the New Public Administration movement. B) is incorrect: Minnowbrook Conference II (1988): This conference focused on social equity and ethics in public administration, and New Public Management. Minnobrook Conference I (1968) focused on New Public Administration not Minnobrook Conference II (1988). C) is correct: Philadelphia Conference on the Theory and Practice of Public Administration - 1967: This conference contributed to the evolution of public administration theories, promoting a more engaged and accountable approach. D) is correct: Public Administration in a Time of Turbulence - 1971: This work emphasized the need for adaptability and responsiveness in public administration, aligning closely with New Publ",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-114",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following are correct about Comparative Public Administration (CPA)? A. CPA focuses on the structure, process, behaviour, roles and impact of public administrative system at the international level. B. Comparative Administrative Group (CAG) was set up in 1963. C. CAG was funded by American Political Science Association. D. F.W. Riggs was the chairman of CAG from its inception till the end of 1970. Choose the correct answer from the options given below:",
+    "options": [
+      "A, C and D only",
+      "A, B and C only",
+      "A, B and D only",
+      "B, C and D only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is correct: Comparative Public Administration examines how different countries manage their public administration. B) is correct: The CAG was indeed established in 1963 to advance the study of comparative public administration. C) is incorrect: While the CAG was supported by various organizations, it was primarily funded by the Ford Foundation, not the American Political Science Association. D) is correct: F.W. Riggs played a significant role in leading the CAG during this period.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-115",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which of the following idea(s)/concept(s) is/are given by Chester Barnard? A. Acceptance theory of authority and 'Zone of Indifference' B. Contribution satisfaction equilibrium C. Functions of the executive D. Bounded rationality Choose the correct answer from the options given below:",
+    "options": [
+      "A and B only",
+      "A, B and C only",
+      "A only",
+      "A, B and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) is correct: Chester Barnard introduced the acceptance theory of authority, which posits that authority is only effective if it is accepted by subordinates, and he discussed the \"zone of indifference,\" where employees accept orders without questioning them. B) is correct: Contribution satisfaction equilibrium refers to the balance between the contributions made by employees and the satisfaction they receive from their work, which Barnard emphasized in his management theories. C) is correct: Barnard outlined the functions of executives in organizations, focusing on their roles in decision-making and leadership. D) is incorrect: Bounded rationality is associated with Herbert Simon, not Chester Barnard. It refers to the limitations of human decision- making capabilities due to cognitive constraints.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-116",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II List-I List-II (Thinker) (Concept/ideas) A. Egalitarian I. J.J. Rousseau B. Libertarian II. John Rawls C. Popular Sovereignty III. Robert Nozick Pluralist Theory of D. IV. Karl Mannheim Democracy Choose the correct answer from the options given below:",
+    "options": [
+      "A -III, B-IV, C-I, D-II",
+      "A-II, B-III, C-I, D-IV",
+      "A -I, B-II, C-III, D-IV",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) Egalitarian - II) John Rawls B) Libertarian - III) Robert Nozik C) Popular Sovereignty - I) J.J Rousseau D) Pluralist Theory of Democracy - IV) Karl Mannheim",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-117",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Books/Works) (Thinkers) Representative A) I) Friedrich Hegel Government Outlines of the B) II) John Stuart Mill Philosophy of Right The German C) III) John Locke Ideology D) Letter on Toleration IV) Karl Marx Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-I, C-IV, D-III",
+      "A-III, B-II, C-I, D-IV",
+      "A-I, B-III, C-II, D-IV",
+      "A-IV, B-III, C-I, D-II"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) Representative Government - II) John Stuart Mill B) Outlines of the Philosophy of Rights - I) Friedrich Hegel C) The German Ideology - IV) Karl Marx D) Letter on Toleration - III) John Locke",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-118",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Books) (Authors) Jay Prakash A) Hindutva I) Narayan A Plea for the B) Reconstruction of II) Savarkar Indian Polity Marx, Gandhi and C) III) B.R Ambedkar Socialism Caste in India: Their D) Mechanism Genesis IV) Lohia and Development Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-III, C-IV, D-II",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-I, D-II",
+      "A-II, B-I, C-IV, D-III"
+    ],
+    "correctIndex": 3,
+    "explanation": "A) Hindutva - II) Savarkar B) A Plea for the Reconstruction of Indian Polity - I) J.P Narayan C) Marx, Gandhi and Socialism - IV) Lohia D) Caste in India: Their Mechanism Genesis and Development - III) B.R Ambedkar",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-119",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Authors) (Books) Nationalism Myth A) Kedourie Elie I) and Reality B) Hans Kohn II) Nationalism Nationalism and C) R. Muir III) Internationalism Nationalism and D) Boyd. C. Shafer IV) Liberty Choose the correct answer from the options given below:",
+    "options": [
+      "A -I, B -III, C -II, D -IV",
+      "A -II, B -IV, C -III, D-I",
+      "A -IV, B -III, C-I, D-II",
+      "A -III, B -III, C -IV, D-I"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) Kedourie Elie -II) Nationalism B) Hans Kohn - IV) Nationalism and Liberty C) R. Muir - III) Nationalism and Internationalism D) Boyd. C. Shafer - I) Nationalism Myth and Reality",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-120",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II (List- I) (List-II) A) Henry Kissinger I) Man, State and War B) Kanneth Waltz II) Multiplex Order Traditional C) Amitav Acharya III) Approach to Foreign Policy D) Joseph S. Nye IV) The Future of Power Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B -I, C -III, D -IV",
+      "A-IV, B-I, C-II, D- III",
+      "A-III, B-I, C-II, D-IV",
+      "A-I, B-III, C-II, D-IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "A) Henry Kissinger - III) Traditional Approach to Foreign Policy B) Kanneth Waltz - I) Man, State and War C) Amitav Acharya - II) Multiplex Order D) Joseph S. Nye - IV) The Future of Power",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-121",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II (List-I) (List-II) Millenium A) I) European Recovery Development Goals New International B) Marshall Plan II) Economic Order World Trade C) Group of 77 III) Organisation Poverty and D) GATT IV) Hunger Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-III, B-IV, C-II, D-I",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-IV, C-III, D-II"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) Millienium Development Goals - IV) Poverty and Hunger B) Marshall Plan - I) European Recovery C) Group of 77 - II) New International Economic Order D) GATT - III) World Trade Organisation",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-122",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "match",
+    "question": "Match List I with List II (List-I) (List-II) Administration and control of Scheduled A) I) 5th Schedule Areas and Scheduled Tribes List of Official B) II) 3rd Schedule Languages Provision of Lists C) (Union, State, III) 7th Schedule Concurrent) Oath needs to be D) made by the Union IV) 8th Schedule and State Ministers Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-III, C-II, D-IV",
+      "A-I, B-II, C-III, D-IV",
+      "A- I, B-IV, C-III, D-II"
+    ],
+    "correctIndex": 3,
+    "explanation": "A) Administration and control of Scheduled Areas and Scheduled Tribes - I) 5th Schedule B) List of Official Languages - IV) 8th Schedule C) Provision of Lists (Union, State, Concurrent) - III) 7th Schedule D) Oath needs to be made by the Union and State Ministers - II) 3rd Schedule",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-123",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Authors) (Books) Francine R. Frankel The Modernity of A) I) and M.S.A Rao Traditions Rudolph and B) II) Battles Half Won Rudolph The Trajectories of C) Ashutosh Varshney III) the Indian State Dominance and D) Sudipta Kaviraj IV) State Power in Modern India Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-II, B-I, C-III, D-IV",
+      "A-II, B-IV, C-III, D-I",
+      "A-IV, B-I, C-III, D-II"
+    ],
+    "correctIndex": 0,
+    "explanation": "A) Francine R. Frankel and M.S.A Rao - IV) Dominance and State Power in Modern India B) Rudolph and Rudolph - I) Modernity of Traditions C) Ashutosh Varshney - II) Battles Half Won D) Sudipta Kaviraj - III) The Trajectories of the Indian State",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-124",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Stages in the (Duration) Evolution) Principles of A) I) 1938-1947 Administration B) Era of Challenges II) 1948-1970 Politics - C) Administration III) 1887-1926 Dichotomy D) Crisis of Identity IV) 1927-1937 Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-III, C-IV, D-I",
+      "A-IV, B-I, C-III, D-II",
+      "A-I, B-II, C-IV, D-III",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) Principles of Administration - IV) 1927-1937 B) Era of Challenges - I) 1938-1947 C) Politics and Administration Dichotomy - III) 1887-1926 D) Crisis of Identity - II) 1948-1970",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-125",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Match the Following: (Citizen's Charter (Name of the Implementation Countries) Years) A) Canada I) 1993 B) India II) 1995 C) Malaysia III) 1997 D) France IV) 1992 Choose the correct answer from the options given below:",
+    "options": [
+      "A-III, B-II, C-I, D-IV",
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-I, C-III, D-II",
+      "A-IV, B-II, C-I, D-III"
+    ],
+    "correctIndex": 1,
+    "explanation": "A) Canada - II) 1995 B) India - III) 1997 C) Malaysia - I) 1993 D) France - IV) 1992",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-126",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Arrange the following stages of human history given by Karl Marx A. Slave Society B. Primitive Society C. Communist Society D. Feudal Society E. Capitalist Society Choose the correct answer from the options given below",
+    "options": [
+      "A, B, C, D, E",
+      "B, C, D, E, A",
+      "B, A, D, E, C",
+      "D, C, B, A,E"
+    ],
+    "correctIndex": 2,
+    "explanation": "(B) Primitive Society: The earliest form of social organization, characterized by communal living and shared resources. (A) Slave Society: Emerged when societies began to develop class divisions, with slavery as a prominent institution. (D) Feudal Society: Characterized by a hierarchical system where lords owned land and vassals worked it, leading to a different class structure. (E) Capitalist Society: Developed with the rise of capitalism, where the means of production are privately owned, leading to class conflict. (C) Communist Society: The final stage in Marx's theory, envisioned as a classless society that emerges after the overthrow of capitalism.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-127",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "What is the correct sequencing of these Political Thinkers on the basis of their year of birth A. Rousseau B. Machiavelli C. Locke D. Aristotle E. Hobbes Choose the correct answer from the options given below",
+    "options": [
+      "D, B, E, C, A",
+      "A, B, C, D, E",
+      "B, C, D, A,E",
+      "E, A, C, B, D"
+    ],
+    "correctIndex": 0,
+    "explanation": "(D) Aristotle: Born in 384 BCE. (B) Machiavelli: Born in 1469 CE. (E) Hobbes: Born in 1588 CE. (C) Locke: Born in 1632 CE. (A) Rousseau: Born in 1712 CE.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-128",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Arrange the following books written by B.R. Ambedkar in an ascending order: A. Castes in India: Their Mechanism, Genesis and Development B. The Annihilation of Caste C. The Problem of the Rupee: Its Origin and Its Solution D. Thoughts on Pakistan Choose the correct answer from the options given below",
+    "options": [
+      "A, C, B, D",
+      "C, A, B, D",
+      "D, A, B, C",
+      "B, D, A, C"
+    ],
+    "correctIndex": 0,
+    "explanation": "; (A) Castes in India: Their Mechanism, Genesis and Development : 1916. (C) The Problem of the Rupee: Its Origin and Its Solution: 1923. (B) The Annihilation of Caste : 1936. (D) Thoughts on Pakistan : 1940.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-129",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Arrange the following according to the chronological order A. Russian-Ukrainian War B. Russian-Georgian War C. Euromaidan Revolution D. Orange Revolution Choose the correct answer from the options given below",
+    "options": [
+      "D, B, C, A",
+      "B, C, A, D",
+      "D, C, B, A",
+      "A, C, B, D"
+    ],
+    "correctIndex": 0,
+    "explanation": "(D) Orange Revolution: Took place in 2004- 2005 in Ukraine. (B) Russian-Georgian War: Occurred in August 2008. (C) Euromaidan Revolution: Happened in late 2013 to early 2014. (A) Russian-Ukrainian War : Began in 2022",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-130",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Arrange the following in the chronological order A. Lahore Declaration B. Agra Summit C. Shimla Accord D. Indus Water Treaty Choose the correct answer from the options given below",
+    "options": [
+      "D, A, B, C",
+      "D, C, A, B",
+      "A, C, B, D",
+      "B, C, A, D"
+    ],
+    "correctIndex": 1,
+    "explanation": "(D) Indus Water Treaty: Signed in 1960 between India and Pakistan to manage the water resources of the Indus River system. (C) Shimla Accord: Signed in 1972 following the Indo-Pakistani War of 1971, establishing a framework for peace between India and Pakistan. (A) Lahore Declaration: Issued in 1999, aimed at improving relations between India and Pakistan. (B) Agra Summit: Took place in July 2001, aimed at resolving issues between India and Pakistan.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-132",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Consider the following movements,. Arrange them in chronological order A. Naxalbari Movement B. Kheda Movement C. Champaran Movement D. Khilafat Movement Choose the correct answer from the options given below",
+    "options": [
+      "C, B, D, A",
+      "A, B, C, D",
+      "D, C, B, A",
+      "B, C, A, D"
+    ],
+    "correctIndex": 0,
+    "explanation": "(C) Champaran Movement: Started in 1917, it addressed the grievances of farmers in Bihar against oppressive plantation systems. (B) Kheda Movement: Took place in 1918, focusing on the farmers' demands for tax relief due to crop failure in Gujarat. (D) Khilafat Movement: Launched in 1919, aimed at preserving the caliphate after World War I and opposing British rule. (A) Naxalbari Movement: Began in 1967, it was a peasant uprising in West Bengal that marked the beginning of the Naxalite movement in India.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-133",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2022",
+    "type": "chronological",
+    "question": "Chronologically arrange the correct sequence of Committiees constituted for Panchayati Raj in India A. G.V.K. Rao Committee B. Ashok Mehta Committee C. Balwantrai Mehta Committee D. L. M. Singhavi Committee Choose the correct answer from the options given below",
+    "options": [
+      "B, A, D, C",
+      "D, A, B, C",
+      "C, B, A, D",
+      "A, C, B, D"
+    ],
+    "correctIndex": 2,
+    "explanation": "(C) Balwantrai Mehta Committee: Established in 1957, it recommended a three-tier structure for Panchayati Raj institutions. (B) Ashok Mehta Committee: Formed in 1977, it suggested the establishment of a two-tier system of Panchayati Raj and emphasized the need for greater decentralization. (A) G.V.K. Rao Committee: Constituted in 1985, it focused on strengthening the Panchayati Raj system and enhancing its effectiveness. (D) L. M. Singhavi Committee: Established in 1986, it recommended constitutional status for Panchayati Raj institutions and emphasized the need for their empowerment.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-134",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "assertion-reason",
+    "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A: The pilosophy of Integral Humanism belongs to Deendayal Upadhyay Reason R: Deendayal Upadhyay rejected Communism in which Individualism was crushed as part of a large heartless machine. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": [
+      "Both A and R are correct and R is the correct explanation of A",
+      "Both A and R are correct but R is NOT the correct explanation of A",
+      "A is correct but R is not correct",
+      "A is not correct but R is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "; Both A and R are correct and R is the correct explanation of A Assertion (A) is correct: The philosophy of Integral Humanism is indeed attributed to Deendayal Upadhyay. This philosophy emphasizes the importance of the individual within the context of society and the need for a harmonious and holistic approach to human development. Reason (R) is correct: Deendayal Upadhyay did reject Communism, arguing that it often led to the suppression of individuality, as individuals were treated as cogs in a larger machine. This reasoning aligns with his philosophy of Integral Humanism, which seeks to integrate individual and societal needs.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-135",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2022",
+    "type": "mcq",
+    "question": "Which among the following are included in Nine Pillars of Digital India:- A. Information for all B. Early harvest programme C. Electronic manufacturing D. Connect only metro cities of the country Choose the correct answer from the options given below:",
+    "options": [
+      "B, C and D only",
+      "A, C and D only",
+      "A, B and C only",
+      "A, B, C and D"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Nine Pillars of Digital India focus on various aspects of digital infrastructure and services. They include: 1. Broadband Highways 2. Universal Access to Mobile Connectivity 3. Public Internet Access Programme 4. e-Governance: Reforming Government through Technology 5. e-Kranti: Electronic Delivery of Services 6. Information for All 7. Electronics Manufacturing 8. Digital Literacy 9. Early Harvest Programmes The statement \"Connect only metro cities of the country\" (D) does not align with the goals of Digital India, which aims for comprehensive connectivity across all regions, not just metro cities.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-136",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "assertion-reason",
+    "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A: Hegemony is a system regulated by a dominant power Reason R: In realist theory, it refers to the influence, a great power is able to establish over other states in the system, ranging from leadership to dominance. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": [
+      "Both A and R are correct and R is the correct explanation of A",
+      "Both A and R are correct but R is NOT the correct explanation of A",
+      "A is correct but R is not correct",
+      "A is not correct but R is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Both A and R are correct and R is the correct explanation of A Assertion (A) is correct: Hegemony indeed refers to a system where a dominant power regulates or influences other states or groups within a system. This aligns with the concept of hegemony as understood in international relations. Reason (R) is correct: In realist theory, hegemony describes the influence that a great power can exert over other states, encompassing leadership and dominance. This directly supports the notion of hegemony mentioned in the assertion. Both statements are accurate, and the reason provided effectively explains the assertion regarding the nature of hegemony.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-137",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements Statement I: Tagore and Gandhi met for the first time at Shantiniketan Statement II: Tagore and Gandhi met for first time at Gurukul Kangri In light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement I is true: Tagore and Gandhi met for the first time at Shantiniketan in 1915. This is a well-documented event, as Tagore had established Shantiniketan as a center for education and cultural exchange. Statement II is false: Tagore and Gandhi did not meet for the first time at Gurukul Kangri. While Gurukul Kangri is a known institution founded by Swami Dayananda, it was not the site of their first meeting.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-138",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements Statement I: The word 'ecology' is derived from the Greek word oikos. Statement II: Norwegian philosopher Arne Naess divided ecologism into shallow and deep ecologism. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement I is correct: The word \"ecology\" is indeed derived from the Greek word \"oikos,\" which means \"house\" or \"home.\" It reflects the study of the relationships between living organisms and their environment. Statement II is correct: Norwegian philosopher Arne Naess did divide ecologism into \"shallow\" and \"deep\" ecologism. Shallow ecologism refers to environmentalism that addresses issues primarily for human benefit, while deep ecologism emphasizes intrinsic value of nature and the interconnectedness of all life forms.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2022-139",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2022",
+    "type": "assertion-reason",
+    "question": "Given below are two statements, one is labelled as Assertion Aand the other is labelled as Reason R Assertion A: Thomas Jefferson was determined not to remove public officials for political reasons alone. Reason R: Malconduct is a just ground for removal of public officials. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": [
+      "Both A and R are correct and R is the correct explanation of A",
+      "Both A and R are correct but R is NOT the correct explanation of A",
+      "A is correct but R is not correct",
+      "A is not correct but R is correc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both A and R are correct but R is NOT the correct explanation of A Assertion (A) is correct: Thomas Jefferson did indeed advocate for a system where public officials would not be removed solely for political reasons. He believed in a more principled approach to governance. Reason (R) is correct: The assertion that \"malconduct is a just ground for removal of public officials\" is also correct. Jefferson recognized that ethical misconduct or failure to perform duties could warrant removal. However, the reason does not directly explain the assertion, as Jefferson’s commitment to not removing officials for political reasons goes beyond just the grounds of malconduct; it reflects a broader philosophy of governance and integrity. Thus, both statements are true, but the reason is not a direct explanation of the assertion.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2022-140",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2022",
+    "type": "statements",
+    "question": "Given below are two statements Statement I: Power is an instrument of coercion and has a physical effect. Statement II: Power could as well be based on consent and yet be more effective. In light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "correctIndex": 0,
+    "explanation": "Both Statement I and Statement II are true Statement I is true: Power can indeed be seen as an instrument of coercion, often involving physical force or the threat of force. This perspective emphasizes the more authoritarian aspects of power. Statement II is true: Power based on consent refers to legitimate authority, where individuals or groups willingly accept the power of leaders or institutions. This form of power can be very effective because it fosters cooperation and stability, as people are more likely to support and follow leaders they trust.",
+    "source": "PYQ Jun 2022",
+    "difficulty": "medium"
+  }
+]

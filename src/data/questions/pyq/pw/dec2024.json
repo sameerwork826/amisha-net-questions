@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "pw-dec2024-006",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Cooperative LIST-II (Meaning) Learning Strategy) I. Observing and A. Round Robin listening to a core group Brain Storming discussion II. Students teaching a specific topic to others B. Numbered IV. Assigning roles and Heads Together rotating group representatives III. Discussing a topic in C. Fishbowl turn within a small group IV. Assigning roles and D. Peer Teaching rotating group representatives Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-II, B-III, C-I, D-IV",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Round Robin Brainstorming: Involves students taking turns to discuss a topic within a small group. B. Numbered Heads Together: Involves assigning roles and rotating group representatives to ensure participation. C. Fishbowl: Involves a core group discussing while others observe and listen. D. Peer Teaching: Involves students teaching a specific topic to others.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-007",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Find the number that can replace the question mark (?) in the series given below: 4,27,16,125,36, ?, 64,729",
+    "options": [
+      "343",
+      "81",
+      "49",
+      "161"
+    ],
+    "correctIndex": 0,
+    "explanation": "From the given series, we see that:4 is the square of 2 27 is the cube of 3 16 is the square of 4 125 is the cube of 5 36 is the square of 6 Hence, the pattern is cubes and squares of alternate numbers in the series, that is, 1 3 , 2 2 , 3 3 , 2 3 2. 4 , 5 , 6 ...... 3 Therefore, the next number is 7 = 343. Hence, the next number in the given series is 343.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-008",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I LIST-II (Scholar) (Work) A. I. Boudhayana Rasaratnakara B. II. Nagarjuna Arthashastra C. III. Sulva Brahma Sutra Gupta D. IV. Brahma Vishnu Sputa Gupta Siddanthika Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-IV, C-II, D-III",
+      "A-IV, B-II, C-III, D-I",
+      "A-III, B-I, C-IV, D-II",
+      "A-II, B-III, C-I, D-IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct matching of scholars with their works is as follows: Boudhayana is associated with the Sulva Sutra, which is an ancient Indian text on geometry and mathematics. Nagarjuna is known for his work Rasaratnakara, a text on alchemy and chemistry. Brahma Gupta authored the Brahma Sputa Siddanthika, a significant work on astronomy and mathematics. Vishnu Gupta (also known as Kautilya or Chanakya) wrote the Arthashastra, a treatise on statecraft, economics, and military strategy. Thus, the correct matching is: A-III, B-I, C-IV, D-II So, the correct option is: C. A-III, B-I, C-IV, D-II",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-009",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Toxic LIST-II (Level of Substance Carcinogenicity) Group) A. I. Probable Human Group Carcinogen A B. Group II. Not Classified B C. III. Human Group Carcinogen C D. IV. Possible Human Group Carcinogen D Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-IV, C-I, D-III",
+      "A-II, B-I, C-IV, D-III",
+      "A-III, B-IV, C-I, D-II",
+      "A-III, B-I, C-IV, D-II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Group A – III. Human Carcinogen Substances in Group A are confirmed human carcinogens based on sufficient human data (e.g., asbestos, benzene). Group B – I. Probable Human Carcinogen Group B substances have limited human evidence but sufficient animal evidence of carcinogenicity. Group C – IV. Possible Human Carcinogen Group C includes substances with limited animal evidence and inadequate human data, suggesting possible carcinogenicity. Group D – II. Not Classified Group D substances are not classifiable as to human carcinogenicity due to inadequate data in humans and animals.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-010",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are National Missions of National Action Plan on climate change? A. National Ozone Mission B. National Solar Mission C. National Water Mission D. National Air Mission E. National Mission for Green India Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B and D Only",
+      "A, D and E Only",
+      "B, C and E Only",
+      "C, D and E Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Among the options provided, the following are recognized as National Missions under the NAPCC: National Solar Mission: Aims to promote the development and use of solar energy for power generation and other applications. National Water Mission: Focuses on the conservation of water, minimizing wastage, and ensuring equitable distribution across the country. National Mission for Green India: Targets the enhancement of ecosystem services, including carbon sinks, through afforestation and ecosystem restoration. The other options, National Ozone Mission and National Air Mission, are not part of the NAPCC's eight missions. Therefore, the most appropriate answer is: C. B, C, and E Only This corresponds to the National Solar Mission, National Water Mission, and National Mission for Green India.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-011",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Find out the inter-connected psychodynamics of oral thoughts sequentially, according to Walter J. Ong: A. Additive B. Aggregative C. Copious D. Traditionalist E. Close to the human life Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B, C, D, E",
+      "B, C, D, E, A",
+      "C, D, E, A, B",
+      "D, E, A, B, C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Walter J. Ong, a scholar of orality and literacy, describes the characteristics of oral cultures. These psychodynamics of oral thought are interconnected and unfold sequentially as follows: 1. Traditionalist: Oral cultures rely on tradition for knowledge preservation. Memory and oral transmission ensure that cultural practices are passed down. 2. Close to the human life: Oral thought focuses on immediate, real-life experiences and human action, avoiding abstract concepts. 3. Additive: Oral expression often uses additive structures (e.g., \"and then... and then\") to link ideas rather than hierarchical or subordinative structures. 4. Aggregative: Oral speech tends to favor set phrases and formulas (e.g., \"the brave warrior\" rather than just \"warrior\") to aid memory and maintain rhythm. 5. Copious: Repetition, redundancy, and elaboration are used to ensure retention and understanding, as ora",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-012",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are the benefits of Metacognition? A. Metacognitive practices help learners to plan, monitor and evaluate their own progress. B. Metacognitive practices make a unique contribution to learning over and above the influence of cognitive ability. C. Metacognitive practices help to improve academic achievements of learners. D. Metacognitive skills help students to transfer what they have learnt from one context to the next. Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A and D Only",
+      "B and C Only",
+      "A, B, C and D",
+      "C Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Metacognition refers to \"thinking about thinking\" and involves strategies that help learners become aware of and regulate their own learning processes. The benefits of metacognition include: 1. A. Planning, monitoring, and evaluating progress: Metacognitive practices help learners take control of their learning by planning tasks, monitoring their understanding, and evaluating their progress. 2. B. Unique contribution beyond cognitive ability: Metacognition enhances learning outcomes independently of a learner’s cognitive ability, enabling even those with moderate cognitive skills to perform better through strategic thinking. 3. C. Improving academic achievement: Research shows that metacognitive strategies significantly improve academic performance across various subjects by promoting deeper understanding and retention. 4. D. Transfer of knowledge: Metacognitive skills allow students to ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-013",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "A fallacy in which an opponent's position is depicted as being more extreme or unreasonable than is justified by what was actually asserted, is the fallacy of",
+    "options": [
+      "Appeal to Pity",
+      "The Strawman",
+      "The Red Herring",
+      "The Appeal to the Populace"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strawman Fallacy occurs when an opponent's argument is misrepresented to make it easier to attack or refute. The misrepresented version is usually exaggerated or distorted, making it seem unreasonable or extreme compared to the original position. Examples: Original claim: \"We should regulate carbon emissions to combat climate change.\" Strawman response: \"They want to shut down all industries and ruin the economy!\" Other options explained: A. Appeal to Pity: Persuading by eliciting sympathy rather than providing logical reasoning. C. Red Herring: Introducing irrelevant information to distract from the actual argument. D. Appeal to the Populace: Arguing that something is true because many people believe it (bandwagon fallacy).",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-014",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Rita's smartphone uses an open source operating system. Which of the following best describes the source code in an open source operating system?",
+    "options": [
+      "It is owned by the company who developed it.",
+      "It is made available to users.",
+      "It is more secure.",
+      "It uses less processing power."
+    ],
+    "correctIndex": 1,
+    "explanation": "B. It is made available to users. In open-source operating systems, the source code is publicly accessible, allowing anyone to view, modify, and enhance it. This openness fosters collaboration and innovation, as developers worldwide can contribute to improving the software. Regarding the other options: A. It is owned by the company who developed it. This statement is generally true for proprietary software, not open-source software. C. It is more secure. While open-source software can benefit from community scrutiny, leading to potential security advantages, security levels depend on various factors, including development practices and community involvement. D. It uses less processing power. Resource usage varies among operating systems and is not inherently related to being open-source.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-015",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "A woman walks 100 metres towards north. Then she turns to her left and walks 50 metres. Again turns left and walks 120 metres. Finally she turns to her right at an angle of 45 degrees and starts walking. In which direction is the woman walking now?",
+    "options": [
+      "North",
+      "South-West",
+      "West",
+      "North-West"
+    ],
+    "correctIndex": 1,
+    "explanation": "1. 100m North: She starts by moving north. 2. 50m Left (West): She turns left (which is west) and walks 50 meters. 3. 120m Left (South): She turns left again (now facing south) and walks 120 meters. 4. 45 degrees Right (South-West): Turning right from south means she's now facing west. A 45-degree turn to her right from South would put her on a path directly between South and West, which is South-West. So the answer is B. South-West.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-016",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The degree to which two or more observers agree in their coding and scoring of behaviours, they are observing and recoding, relates to",
+    "options": [
+      "Observer bias",
+      "Observer drift",
+      "Subject reactivity",
+      "Inter-observer reliability"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inter-observer reliability measures how consistently two or more observers agree when recording or coding behaviors. High reliability ensures that the data collected is accurate and objective, minimizing discrepancies due to subjective interpretation. It is crucial for observational research to maintain consistency. Other options explained: A. Observer bias: When an observer’s expectations or personal beliefs influence how they interpret or record behavior. B. Observer drift: A gradual shift in an observer’s criteria or standards over time, leading to inconsistencies in data recording. C. Subject reactivity: When subjects change their behavior because they know they are being observed. Let me know if you need examples of how inter- observer reliability is tested!",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-017",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "What is the correct sequence of Global Warming Potential (GWP) of following Green House Gases from lowest to highest? A. CH4 (Methane) B. CO2 (Carbon dioxide) C. CFC-11 (Chloro Fluoro carbon -11) D. (Nitrus oxide) N2 O Choose the most appropriate answer from the options given below:",
+    "options": [
+      "C, A, B, D",
+      "A, D, B, C",
+      "B, A, C, D",
+      "B, A, D, C"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct sequence of Global Warming Potential (GWP) from lowest to highest is: 1. B. CO2 (Carbon dioxide): CO2 has a GWP of 1 (it's the baseline against which other GHGs are measured). 2. A. CH4 (Methane): Methane has a GWP of around 25 over a 100-year period. 3. D. N2O (Nitrous oxide): Nitrous oxide has a GWP of approximately 265. 4. C. CFC-11 (Chlorofluorocarbon-11): CFC-11 has a very high GWP, in the thousands. Therefore, the correct option is D. B, A, D, C.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-018",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are chemical parameters of water quality? A. pH B. Hardness C. Turbidity D. DO E. BOD Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B, C and D Only",
+      "A, B, D and E Only",
+      "B, C, D and E Only",
+      "A, C and E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chemical parameters of water quality measure the chemical composition and characteristics of water. These include: 1. A. pH – Indicates the acidity or alkalinity of water. 2. B. Hardness – Caused by dissolved calcium and magnesium ions in water. 3. D. DO (Dissolved Oxygen) – Measures the oxygen available in water for aquatic organisms. 4. E. BOD (Biochemical Oxygen Demand) – Indicates the amount of oxygen consumed by microorganisms while decomposing organic matter. C. Turbidity is a physical parameter, as it refers to the cloudiness or haziness of water caused by suspended particles.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-019",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the sampling techniques that are for studying hidden populations. A. Simple random sampling B. Snowball sampling C. Stratified random sampling D. Key informant sampling Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "A and C Only",
+      "B and D Only",
+      "C and D Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hidden populations are groups that are difficult to access or identify, such as individuals involved in illegal activities or marginalized communities. B. Snowball sampling: This is a non- probability sampling technique where existing participants recruit future participants from their acquaintances, making it useful for accessing hidden populations. D. Key informant sampling: This technique involves identifying and collecting data from key individuals who have insider knowledge about the hidden population, helping researchers gain access and insights. Why the others are incorrect: A. Simple random sampling: A probability sampling method that is not suitable for hidden populations because it requires a complete list of the population. C. Stratified random sampling: Involves dividing the population into subgroups (strata) and sampling randomly from each; this technique assumes the populat",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-020",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "When a car passes you on the road and appears to shrink as it gets farther away, which phenomenon permits you to realize that car is not in fact getting smaller?",
+    "options": [
+      "Self-actualization",
+      "Transitivity",
+      "Perceptual constancy",
+      "Similarity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perceptual constancy refers to the brain's ability to recognize that an object's size, shape, or color remains constant, even when its appearance on the retina changes due to distance or lighting. In this case, size constancy, a type of perceptual constancy, helps you understand that the car isn't actually shrinking—it only appears smaller because it’s moving farther away. Other options explained: A. Self-actualization: Part of Maslow’s hierarchy of needs, referring to fulfilling one’s potential. B. Transitivity: A logical relation where if A > B and B > C, then A > C. D. Similarity: A Gestalt principle that refers to grouping similar elements together in perception.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-021",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The Smog of great London smog disaster was composed of high concentrations of A. Nitrogen dioxide B. Sulphur dioxide C. Peroxy Acetyl Nitrate (PAN) D. Particulate matters Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "A and C Only",
+      "C and D Only",
+      "B and D Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Great Smog of London in 1952 was primarily caused by a combination of: B. Sulphur dioxide: This was a major component of the smog, coming from the burning of coal for heating and industrial processes. D. Particulate matters: These were tiny particles of soot and other pollutants, also largely from coal combustion. While other pollutants like nitrogen dioxide and PAN can be present in smog, they were not the primary drivers of the Great Smog. Therefore, the most appropriate answer is D. B and D Only.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-022",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the figure and mood of the following: \"All sodium salts are water -soluble substances. All soaps are sodium salts. Therefore, all soaps are water soluble substances.\" codes: nd",
+    "options": [
+      "AEI ; II Figure",
+      "AAA ; III rd Figure",
+      "IIA; IV th Figure",
+      "AAA ; st Figure I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Major Premise: All sodium salts are water- soluble substances. (A - Universal Affirmative) Minor Premise: All soaps are sodium salts. (A - Universal Affirmative) Conclusion: Therefore, all soaps are water- soluble substances. (A - Universal Affirmative) The mood is AAA (all three statements are universal affirmative). Now, let's determine the figure. The figure depends on the position of the middle term (sodium salts) in the premises. Major Premise: All sodium salts (M) are water- soluble substances (P). (M-P) Minor Premise: All soaps (S) are sodium salts (M). (S-M) Since the middle term (M) is the subject in the major premise and the predicate in the minor premise, this is the First Figure. Therefore, the correct answer is D. AAA; I st Figure.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-023",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following was a pertinent observation of the Indian Education Commission, 1964-66 ?",
+    "options": [
+      "Pyramid type of organisation being replaced by a flat organisation",
+      "Indian universities are global in character.",
+      "Foreign universities are heavily funding Indian students",
+      "All university graduates are guaranteed jobs in India."
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Pyramid type of organisation being replaced by a flat organisation: The commission observed that the traditional hierarchical structure in educational administration (the \"pyramid\" structure) was not conducive to the development of a dynamic and responsive education system. It advocated for a more decentralized and participatory approach (a \"flat\" structure) where decision-making power was distributed more widely, and there was greater collaboration among different stakeholders. The other options are not accurate reflections of the Kothari Commission's observations: B. Indian universities are global in character: While the commission recognized the need for Indian universities to engage with global knowledge and standards, it did not necessarily characterize them as already being \"global in character\" at that time. C. Foreign universities are heavily funding Indian students: This was ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-024",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are the elements of observational learning? A. Retention B. Attention C. Adaptation D. Production E. Motivation Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B, D and E Only",
+      "C and E Only",
+      "A, B, C and E Only",
+      "B and D Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Observational learning, as proposed by Albert Bandura, involves four key elements: 1. Attention: The learner must pay attention to the behavior being observed. 2. Retention: The learner must remember or retain the observed behavior. 3. Production: The learner must be able to reproduce or perform the observed behavior. 4. Motivation: The learner must have a reason or motivation to imitate the behavior. Adaptation (C) is not one of the core elements of observational learning. Therefore, the correct elements are A (Retention), B (Attention), D (Production), and E (Motivation). The correct option is A: A, B, D, and E Only.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-025",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The previous nomenclature of Ministry of Education was",
+    "options": [
+      "Ministry of Youth Affairs",
+      "Ministry of Hunan Resource Development",
+      "Ministry of Education and Research",
+      "Ministry of Central Affairs"
+    ],
+    "correctIndex": 1,
+    "explanation": "he previous nomenclature of the Ministry of Education was the B. Ministry of Human Resource Development (MHRD). It was renamed back to the Ministry of Education in 2020.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-026",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "If ' Z ' represents the standard normal variate, then arrange the following probabilities in increasing order: A. P(0 ≤Z ≤1) B. P(−∞≤Z ≤0) C. P(1 ≤Z ≤3) D. P(2 ≤Z ≤+∞) Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B , C, D",
+      "B, C, D, A",
+      "C, D, A, B",
+      "D, C, A, B"
+    ],
+    "correctIndex": 3,
+    "explanation": "1. A. P(0 ≤ Z ≤ 1): This corresponds to the area under the standard normal curve between 0 and 1. P(0 ≤ Z ≤ 1) ≈ 0.3413 2. B. P(−∞ ≤ Z ≤ 0): This is the cumulative probability from negative infinity to 0 (left half of the curve). P(−∞ ≤ Z ≤ 0) = 0.5 3. C. P(1 ≤ Z ≤ 3): This corresponds to the area between Z = 1 and Z = 3. P(1 ≤ Z ≤ 3) ≈ 0.1359 4. D. P(2 ≤ Z ≤ +∞): This corresponds to the area from Z = 2 to positive infinity (tail probability). P(2 ≤ Z ≤ +∞) ≈ 0.0228 Arranged in increasing order: D (0.0228) < C (0.1359) < A (0.3413) < B (0.5)",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-027",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "In a certain code language: ' 617 ' means \"Sweet and hot\", '735' means \"Coffee is sweet\", ' 263 ' means \"Tea is hot \", What is the code for \"Coffee is hot \" in that language?",
+    "options": [
+      "' 675 '",
+      "'537'",
+      "' 536 '",
+      "' 573 '"
+    ],
+    "correctIndex": 2,
+    "explanation": "Here's how to decode the language: 617: Sweet and hot 735: Coffee is sweet 263: Tea is hot 1. \"Sweet\" is common to 617 and 735. The common number is 7. So, 7 represents \"sweet\". 2. \"Hot\" is common to 617 and 263. The common number is 6. So, 6 represents \"hot\". 3. \"Is\" is common to 735 and 263. The common number is 3. So, 3 represents \"is\". 4. \"Coffee\" is only in 735. The remaining number is 5. So, 5 represents \"coffee\". Therefore, \"Coffee is hot\" would be 536.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-028",
+    "paper": 1,
+    "unit": 10,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "The chronological sequence of the following chairpersons of UGC is: A. Armaity S. Desai B. G. Ram Reddy C. Manmohan Singh D. Yashpal E. Madhuri R. Shah Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, E, B, D, C",
+      "B, C, E, A, D",
+      "C, D, A, E, B",
+      "E, D, C, B, A"
+    ],
+    "correctIndex": 0,
+    "explanation": "To determine the correct chronological sequence, we need to look up the tenures of these individuals as Chairpersons of the UGC. Here's the correct order: 1. E. Madhuri R. Shah: 1981 - 1986 2. D. Yashpal: 1986 - 1991 3. C. Manmohan Singh: 1991 4. B. G. Ram Reddy: 1991 - 1995 5. A. Armaity S. Desai: 1995 - 1999 Therefore, the correct answer is A. A, E, B, D, C",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-029",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The cultural meaning of a text is known as:",
+    "options": [
+      "Notification",
+      "Denotation",
+      "Connotation",
+      "Closed text"
+    ],
+    "correctIndex": 2,
+    "explanation": "The cultural meaning of a text is known as C. Connotation. Denotation is the literal or dictionary definition of a word. Connotation refers to the implied or associated meanings of a word or text, often based on cultural or emotional context. This is where the cultural meaning resides. Notification simply refers to an announcement or message. A closed text is a text with a fixed and limited number of interpretations, often contrasted with an \"open text\" which allows for more diverse readings.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-031",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "A teacher is looking for a Learning Management System (MLS) that can integrate with multiple assessment tools and track student progress. Which platform is best suitable for this?",
+    "options": [
+      "Moodle",
+      "Zoom",
+      "Grammerly",
+      "Turnitin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moodle is a widely used Learning Management System (LMS) that supports integration with multiple assessment tools and provides comprehensive features to track student progress, manage courses, and facilitate online learning. Why the other options are less suitable: B. Zoom: Primarily a video conferencing platform, not an LMS. It lacks tools for tracking progress or managing assessments. C. Grammarly: A writing assistant tool focused on grammar and writing improvement, not an LMS. D. Turnitin: A plagiarism detection tool used for checking originality in written assignments, not a full LMS.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-032",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following text readings were identified by Stuart Hall? A. Complex reading B. Continuous reading C. Dominant reading D. Oppositional reading E. Negotiated reading Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B, C Only",
+      "C, D, E Only",
+      "B, C, D Only",
+      "A, D, E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stuart Hall identified three primary reading positions: Dominant reading: The viewer fully accepts and understands the message encoded by the producer. They decode the text in the way it was intended. Oppositional reading: The viewer understands the dominant message but rejects it and creates a counter-meaning. Negotiated reading: The viewer partially accepts the dominant message but modifies it to reflect their own experiences and context. They create a \"local\" meaning.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-033",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "If (L)M represents a number L in base- M number system, then identify the correct ascending order of the following numbers A-D when converted to decimal number system: A. (11111. 11)2 B. (102. 3)6 C. (42. 5)8 D. (32. 6)16 Select the correct answer from the options given below:",
+    "options": [
+      "B, A, C, D",
+      "A, C, B, D",
+      "C, A, D, B",
+      "D, C, B, A"
+    ],
+    "correctIndex": 1,
+    "explanation": "To determine the correct ascending order of the given numbers when converted to the decimal system, let's convert each number step by step: A. (11111.11)₂ Integer part: 11111₂ = 1×2⁴ + 1×2³ + 1×2² + 1×2¹ + 1×2⁰ = 16 + 8 + 4 + 2 + 1 = 31 Fractional part: .11₂ = 1×2⁻¹ + 1×2⁻² = 0.5 + 0.25 = 0.75 Combining both parts: 31 + 0.75 = 31.75 B. (102.3)₆ Integer part: 102₆ = 1×6² + 0×6¹ + 2×6⁰ = 36 + 0 + 2 = 38 Fractional part: .3₆ = 3×6⁻¹ = 3 / 6 = 0.5 Combining both parts: 38 + 0.5 = 38.5 C. (42.5)₈ Integer part: 42₈ = 4×8¹ + 2×8⁰ = 32 + 2 = 34 Fractional part: .5₈ = 5×8⁻¹ = 5 / 8 = 0.625 Combining both parts: 34 + 0.625 = 34.625 D. (32.6)₁₆ Integer part: 32₁₆ = 3×16¹ + 2×16⁰ = 48 + 2 = 50 Fractional part: .6₁₆ = 6×16⁻¹ = 6 / 16 = 0.375 Combining both parts: 50 + 0.375 = 50.375 Now, arranging the decimal equivalents in ascending order: 1. A. 31.75 2. C. 34.625 3. B. 38.5 4. D. 50.375 Therefore, ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-034",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-II LIST-I (Population (Population Mean (μ) and ( Standard 1 ∑ x2 N1​∑xi2​ )) i N Deviation (σ)) A. 1 x2 μ = 7, ∑ N i I. 9 = 85 μ=7,N1​∑xi2​=85 B. 1 x2 μ = 3, ∑ N i II. 8 = 58 μ=3,N1​∑xi2​=58 C. μ = 7, 1 ∑ x2 i III. 7 N = 113 μ=7,N1​∑xi2​=113 D. 1 x2 μ = 6, ∑ N i IV. 6 = 117 μ=6,N1​∑xi2​=117 Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Let's calculate σ for each option: A. μ=7, (1/N)∑xᵢ²=85: σ = sqrt(85 - 7²) = sqrt(85 - 49) = sqrt(36) = 6 B. μ=3, (1/N)∑xᵢ²=58: = sqrt(58 - 3²) = σ sqrt(58 - 9) = sqrt(49) = 7 C. μ=7, (1/N)∑xᵢ²=113: σ = sqrt(113 - 7²) = sqrt(113 - 49) = sqrt(64) = 8 D. μ=6, (1/N)∑xᵢ²=117: = sqrt(117 - 6²) = σ sqrt(117 - 36) = sqrt(81) = 9 Now, match the calculated σ values with LIST-II: A (σ = 6) - IV B (σ = 7) - III C (σ = 8) - II D (σ = 9) - I Therefore, the correct answer is D. A-IV, B-III, C- II, D-I",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-035",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I LIST-II (Concept) (Description) A. Chirographic I. Print Culture B. II. Speaking to Typographic experience Culture the word III. Spatial C. Oral understanding Culture through images D. Visual IV. Writing Culture Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Chirographic Culture - IV. Writing: Chirographic culture emphasizes the written word, specifically handwritten texts. B. Typographic Culture - I. Print: Typographic culture is characterized by the mass production of printed materials, particularly through movable type. C. Oral Culture - II. Speaking to experience the word: Oral culture relies on spoken language for communication, storytelling, and knowledge transmission, where experience is tied to the spoken word. D. Visual Culture - III. Spatial understanding through images: Visual culture emphasizes the role of images, visual media, and visual representations in shaping understanding and experience, often involving spatial reasoning.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-036",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "When two propositions with same subject and predicate terms agree in quality but differ in quantity are known as",
+    "options": [
+      "Contraries",
+      "Sub-Contraries",
+      "Contradictory",
+      "Corresponding"
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct answer is D. Corresponding. These are also sometimes called \"subalterns.\" When two propositions have the same subject and predicate terms, agree in quality (both affirmative or both negative), but differ in quantity (one is universal and the other is particular), they are called corresponding propositions. This relationship is part of the traditional square of opposition in logic. The other options refer to different types of relationships in the square of opposition: A. Contraries: Universal propositions (A and E) that cannot both be true but can both be false. B. Sub-Contraries: Particular propositions (I and O) that cannot both be false but can both be true. C. Contradictory: Propositions (A and O, or E and I) that cannot both be true or both be false at the same time. Thus, the correct answer is D. Corresponding.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-037",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Arguments by Analogy are",
+    "options": [
+      "Classified as valid",
+      "Classified as invalid",
+      "Claimed to follow from their premises with logical necessity",
+      "Probable"
+    ],
+    "correctIndex": 3,
+    "explanation": "Arguments by analogy are probable rather than deductively valid or invalid. They work by comparing two things and suggesting that because they are similar in some ways, they are likely similar in other ways as well. However, such arguments do not guarantee logical necessity (as in deductive reasoning) and are not classified as strictly valid or invalid. Instead, their strength depends on the quality of the analogy and the relevance of the similarities. A. Classified as valid: Incorrect, because arguments by analogy are not deductively valid. B. Classified as invalid: Incorrect, because they are not inherently invalid; their strength depends on the analogy. C. Claimed to follow from their premises with logical necessity: Incorrect, because they do not claim logical necessity. D. Probable: Correct, because they are based on likelihood and reasoning by comparison, not certainty.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-038",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "With reference to digital communication, which of the following statements A-D are true? A. A Radio broadcast is an example of automatic type of transmission mode. B. A Keyboard communicating with a computer is an example of simplex type of transmission mode. C. Walkie-Talkies operate on half-duplex transmission mode. D. Telephone calls are an example of full-duplex transmission mode. Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and C Only",
+      "A and C Only",
+      "B, C and D Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. A Radio broadcast is an example of automatic type of transmission mode. Analysis: Radio broadcasting is a form of communication where the signal is sent in one direction from the transmitter to multiple receivers. This aligns with the simplex transmission mode, where communication is unidirectional. B. A Keyboard communicating with a computer is an example of simplex type of transmission mode. Analysis: When a keyboard sends data to a computer, the communication is one-way: from the keyboard to the computer. This is characteristic of simplex transmission mode. C. Walkie-Talkies operate on half-duplex transmission mode. Analysis: Walkie-talkies allow two-way communication but not simultaneously; one party speaks while the other listens, and then they switch roles. This is the essence of half- duplex transmission mode. D. Telephone calls are an example of full- duplex transmission mode.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-039",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following subjects were taught in ancient Indian Universities? A. Journalism B. Environmental Science C. Logic D. Medicine E. Philosophy Choose the most appropriate answer from the options given below:",
+    "options": [
+      "A, B, C Only",
+      "B, C, D Only",
+      "C, D, E Only",
+      "A, B, E Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ancient Indian Universities like Nalanda, Taxila, and Vikramashila were centers of advanced learning. The subjects they taught included: C. Logic (Hetu-vidya): Logic was a highly developed field of study in ancient India, with different schools of thought. D. Medicine (Ayurveda): Ayurveda, the traditional Indian system of medicine, was a significant area of study. E. Philosophy (Darshanas): Various schools of philosophy, like Samkhya, Yoga, Vedanta, etc., were central to the curriculum. Journalism and Environmental Science, as we understand them today, were not formal subjects of study in the same way in ancient Indian universities. While elements of both might have been present in other forms of learning, they weren't distinct academic disciplines. Therefore, the most appropriate answer is C. C, D, and E Only.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-040",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "A study meant to discover whether variables covary, relates to",
+    "options": [
+      "case study",
+      "longitudinal research",
+      "correlational research",
+      "archival research"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correlational research is designed to determine whether two or more variables covary (i.e., whether changes in one variable are associated with changes in another). It doesn’t establish cause-and-effect relationships but identifies patterns of association.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-041",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Consider the following MS-EXCEL spreadsheet: A B C D E Item Quantity Price Revenue A-11 12 5 60 B-32 31 9 279 C-44 24 12 288 If the formula =$ B $ 2 * $ C $ 2 is entered into cell E 2, and the formula is then copied to cells E3 and E4, then the values in cells E2, E3 and E4 will be",
+    "options": [
+      "60,60 and 60 , respectively.",
+      "60,279 and 288 , respectively",
+      "0,0 and 0 , respectively",
+      "60,40 and 36 , respectively"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because of the absolute references ($ before both the column and row), the formula always refers to cells B2 and C2, =$B$2*$C$2 regardless of where it's copied. E2: =$B$2*$C$2 = 12 * 5 = 60 E3: = 12 * 5 = 60 =$B$2*$C$2 E4: = 12 * 5 = 60 =$B$2*$C$2 So the answer is A. 60, 60, and 60, respectively.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-042",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The speed of a boat in still water is 10 Km / hr (10 Kmph ). If it can travel 26 Km downstream and 14 Km upstream in the same time, the speed of the stream is:",
+    "options": [
+      "4 .5 Km / hr",
+      "5 Km / hr",
+      "3 Km / hr",
+      "4 Km / hr"
+    ],
+    "correctIndex": 2,
+    "explanation": "Here's how to solve this problem: Let: 'b' be the speed of the boat in still water (10 km/hr) 's' be the speed of the stream 't' be the time taken for both journeys Downstream: Speed = b + s = 10 + s Distance = 26 km Time = Distance / Speed = 26 / (10 + s) Upstream: Speed = b - s = 10 - s Distance = 14 km Time = Distance / Speed = 14 / (10 - s) Since the time taken for both journeys is the same: 26 / (10 + s) = 14 / (10 - s) Now, solve for 's': 1. Cross-multiply: 26 * (10 - s) = 14 * (10 + s) 2. Expand: 260 - 26s = 140 + 14s 3. Combine like terms: 260 - 140 = 14s + 26s 4. Simplify: 120 = 40s 5. Solve for s: s = 120 / 40 6. s = 3 km/hr Therefore, the speed of the stream is 3 km/hr (Option C).",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-043",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Malware LIST-II (Definition) Type) I. A seemingly useful program A. Polymorphic that contains hidden harmful Virus program code B. II. Changes its signature with Metamorphic each copy made during Virus replication III. A malware that spreads copies of itself through a C. Trojan Horse network without user interaction IV. Completely rewrites itself each time it is replicated, D. Worm sometimes changing its behaviour Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-I, C-IV, D-III",
+      "A-III, B-IV, C-I, D-II",
+      "A-II, B-IV, C-I, D-III",
+      "A-I, B-III, C-IV, D-II"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Polymorphic Virus - II. Changes its signature with each copy made during replication: Polymorphic viruses change their code (and thus their digital signature) to avoid detection by antivirus software. B. Metamorphic Virus - IV. Completely rewrites itself each time it is replicated, sometimes changing its behaviour: Metamorphic viruses take polymorphism a step further by not just slightly altering their code, but completely rewriting it with each replication. This makes them even harder to detect. C. Trojan Horse - I. A seemingly useful program that contains hidden harmful program code: Trojan horses disguise themselves as legitimate software but carry out malicious actions in the background. D. Worm - III. A malware that spreads copies of itself through a network without user interaction: Worms are self-replicating malware that can spread across networks automatically, often exploitin",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-044",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "According the Naiyāyikās, words mean",
+    "options": [
+      "Universals only (Jāti)",
+      "Particular only (Vyakti)",
+      "Configuration only (Ākṛti))",
+      "Universal, particular and configuration (Jāti, Vyakti and Ākṛti)"
+    ],
+    "correctIndex": 3,
+    "explanation": "According to the Naiyayikas, a word signifies all three: Jāti (Universal): The generic property or class to which an object belongs (e.g., \"cowness\" in the word \"cow\"). Vyakti (Particular): The individual instance of the universal (e.g., a specific cow). Ākṛti (Configuration): The shape or form of the object. A word, therefore, doesn't just refer to the universal, the individual, or the shape alone, but to all three combined. This is their theory of śabda (word) and its relation to artha (meaning).",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-045",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The age of the father is twice that of the elder son. Ten years hence the age of the father will be three times the age of the younger son. If the difference of ages of the two sons is 15 years, what is the age of the father?",
+    "options": [
+      "50 yrs",
+      "45 yrs",
+      "43 yrs",
+      "40 yrs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Here's how to solve this problem: Let: F = Father's current age E = Elder son's current age Y = Younger son's current age We're given the following information: 1. F = 2E (The father's age is twice the elder son's age) 2. F + 10 = 3(Y + 10) (Ten years hence, the father's age will be three times the younger son's age) 3. E - Y = 15 (The difference in ages of the two sons is 15 years) Now we can solve: From equation (1), E = F/2 Substitute this into equation (3): F/2 - Y = 15 => F - 2Y = 30 Now we have two equations with F and Y: F + 10 = 3Y + 30 => F - 3Y = 20 F - 2Y = 30 Subtract the second equation from the first: (F - 3Y) - (F - 2Y) = 20 - 30 -Y = -10 Y = 10 Now substitute Y = 10 back into F - 2Y = 30: F - 2(10) = 30 F - 20 = 30 F = 50 Therefore, the age of the father is 50 years. The answer is A. 50 yrs.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-051",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Which of the following statements regarding the federal features of the Indian Constitution are correct? A. India is a Union of States. B. The Constitution is the supreme organic law of the land. C. The legislative powers are distributed between the center and the states. D. The residuary powers are reserved to the states. E. All states have equal representation in the Rajya-Sabha. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and D Only",
+      "A, B and C Only",
+      "B, C and D Only",
+      "C, D and E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. India is a Union of States. This is correct. India is described as a \"Union of States\" in Article 1 of the Indian Constitution. It is not a federation of states, like the U.S., but rather a union that is indestructible. The term \"Union\" signifies that the states have no right to secede. B. The Constitution is the supreme organic law of the land.This is correct. The Constitution of India is the supreme law of the country. All laws, including those made by the legislature, must conform to the provisions of the Constitution. C. The legislative powers are distributed between the center and the states.This is also correct. The legislative powers are distributed between the Union (central) and state legislatures through the Union List, State List, and Concurrent List, as outlined in the Seventh Schedule of the Constitution. D. The residuary powers are reserved to the states. This is incorre",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-052",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book article 'Civil Disobedience'?",
+    "options": [
+      "Bell Hooks",
+      "James Tully",
+      "Herbert Marcuse",
+      "Henry David Thoreau"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book \"Civil Disobedience\" was written by Henry David Thoreau. It was first published in 1849, where Thoreau discusses his opposition to slavery and the Mexican-American War, advocating for individuals to resist government policies that are immoral.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-053",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book \"The Sociology of Religion\"?",
+    "options": [
+      "Max Weber",
+      "Ana Ballesteros Peiro",
+      "John Locke",
+      "Herbert Marcuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Max Weber was a German sociologist and one of the key figures in the development of sociology. He is well known for his work on the sociology of religion, particularly his book titled \"The Sociology of Religion\", published in 1963. In this work, Weber analyzed the role of religion in social change and explored the relationship between religious beliefs and the development of modern societies, particularly focusing on the effects of Protestantism on the rise of capitalism in Western Europe.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-054",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the essential facts about communism. A. Common Ownership B. Absolute Equality C. Classless Society D. Vanguard Party E. Dictatorship of the Priestly class Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, E Only",
+      "A, B, C, D Only",
+      "A, B, D, E Only",
+      "B, C, D, E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Common Ownership – In communism, the means of production (factories, land, etc.) are owned collectively, either by the state or directly by the people. This is one of the core principles of communism. B. Absolute Equality – Communism strives for a society where wealth, power, and resources are distributed equally among all members. This is another fundamental goal of communism. C. Classless Society – One of the major objectives of communism is to abolish class distinctions, so that there are no divisions between the rich (bourgeoisie) and the working class (proletariat). A classless society is central to the ideology. D. Vanguard Party – According to Marxist theory, a \"vanguard party\" of revolutionary leaders is needed to lead the working class to seize power and establish a communist state. This is often associated with Leninism, a branch of Marxism. E. Dictatorship of the Priestly C",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-055",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Ram Manohar Lohia advanced his theory of history through his famous work-",
+    "options": [
+      "Wheel of History",
+      "An Introducation to the Principles of Morals and Legislation",
+      "Liberalism and the Limits of Justice",
+      "Eros and Civilization"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ram Manohar Lohia was an Indian freedom fighter, socialist leader, and scholar. In his famous work, 'Wheel of History', he advanced his theory of history by presenting a unique perspective on social and political change. Lohia focused on the cyclical nature of history, where periods of change and progress are often followed by regression. He emphasized the importance of social justice, equality, and the role of the masses in shaping historical movements. The other options are works by different thinkers: B: An Introduction to the Principles of Morals and Legislation – This is a work by Jeremy Bentham, a philosopher and jurist who is considered the founder of modern utilitarianism. C: Liberalism and the Limits of Justice – This is a work by Michael Sandel, a political philosopher known for his critique of liberalism and discussions on justice. D: Eros and Civilization – This is a book by ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-056",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "M.C Rajah of Madras was the first elected president of-",
+    "options": [
+      "All India Depressed Classes Association",
+      "All Assam Students Union",
+      "Indian National Congress",
+      "British Indian Association"
+    ],
+    "correctIndex": 0,
+    "explanation": "M.C. Rajah was an important leader in the Indian social reform movement, particularly known for his work advocating for the rights of the Dalits (Untouchables). He became the first elected president of the All India Depressed Classes Association. This association played a significant role in promoting the welfare of the depressed classes in India during the struggle for independence and social equality.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-057",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-1 (Events) LIST-II (Year) Dumbarton Oaks A. I. 1972 Conference UN Peace keeping B. II. 1956 Mission to Suez Canal Establishment of UN C. Development III. 1944 Programme Establishment of UN D. Environment IV. 1965 Programme Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-I, C-III, D-II",
+      "A-I, B-IV, C-II, D-III",
+      "А-III, В-II, C-IV, D-I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Here’s the matching of events with the corresponding years: A. Dumbarton Oaks Conference – (III) 1944: The Dumbarton Oaks Conference took place in 1944 in Washington, D.C., where representatives from the United States, the Soviet Union, the United Kingdom, and China met to discuss the formation of the United Nations. B. UN Peacekeeping Mission to Suez Canal – (II) 1956: The United Nations Peacekeeping Mission to the Suez Canal was established in response to the Suez Crisis in 1956, where the UN sent peacekeepers to help resolve the conflict. C. Establishment of UN Development Programme – (IV) 1965: The United Nations Development Programme (UNDP) was established in 1965 to focus on helping countries improve their economic and social development. D. Establishment of UN Environment Programme – (I) 1972: The United Nations Environment Programme (UNEP) was established in 1972 to coordinate gl",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-058",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following terms are associated with conservatism? A. Tradition B. Social duty C. Change in order to conserve D. Revolution E. Gender equality Choose the correct answer from the options given below:",
+    "options": [
+      "A, D and E Only",
+      "B, C and D Only",
+      "C, D and E Only",
+      "A, B and C Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Tradition – Conservatism places a strong emphasis on tradition, valuing the established customs and practices of society. Conservatives believe that traditions provide stability and continuity. B. Social duty – Conservatives often emphasize the importance of social duty, responsibility, and obligations to society, highlighting the role of individuals in maintaining societal order. C. Change in order to conserve – A key aspect of conservatism is the idea that change should occur gradually and in a way that preserves the essential structures and values of society. This concept is often referred to as \"conserving through change.\" The other terms are not closely associated with conservatism: D. Revolution – Revolution is generally not associated with conservatism, as it advocates for rapid, often radical change. Conservatives usually prefer slow, organic change rather than revolutionary u",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-059",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Progress) LIST-II (Year) A. Google launched I. 1998 B. Facebook launched II. 2004 C. Microsoft founded III. 1975 D. Apple Computers IV. 1976 Choose the correct answer from the options given below:",
+    "options": [
+      "А-II, В-I, C-III, D-IV",
+      "А-I, В-II, С-III, D-IV",
+      "А-I, В-II, C-IV, D-III",
+      "A-II, B-I, C-IV, D-III"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Google launched – (I) 1998: Google was founded by Larry Page and Sergey Brin in 1998 while they were students at Stanford University. B. Facebook launched – (II) 2004: Facebook was launched by Mark Zuckerberg and his college roommates in 2004, initially as \"The Facebook\" for Harvard students before expanding to other universities and eventually the general public. C. Microsoft founded – (III) 1975: Microsoft was founded by Bill Gates and Paul Allen in 1975 to develop software for the Altair 8800 microcomputer. D. Apple Computers – (IV) 1976: Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976 in Cupertino, California. So, the correct matching is A-I, B-II, C-III, D-IV.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-060",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Work) LIST-II (Scholar) The Practice of A. I. Fred Riggs Management The Ecology of B. Public II. Yehezkel Dror Administration The Eighteenth C. Brumarie of Louis III. Peter Drucker Bonaparte Public Policy D. Making Re- IV. Karl Marx examined Choose the correct answer from the options given below:",
+    "options": [
+      "A-II, B-IV, C-I, D-III",
+      "А-III, В-I, C-IV, D-II",
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. The Practice of Management: This is a famous work by Peter Drucker (III). Peter Drucker is widely regarded as the father of modern management and this book is one of his most influential works, focusing on the practice of management in organizations. B. The Ecology of Public Administration: This book is written by Fred Riggs (I). Riggs was a pioneering scholar in the field of comparative public administration, and \"The Ecology of Public Administration\" is known for discussing the environment and institutional aspects of public administration. C. The Eighteenth Brumaire of Louis Bonaparte: This is a work by Karl Marx (IV). In this book, Marx analyzes the rise of Louis Bonaparte in France, focusing on the class struggles and political events of the time. D. Public Policy Making Re-examined: This book was written by Yehezkel Dror (II). Dror was a key figure in the field of public policy ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-061",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Author) LIST-II (Book) Economy and A. Max Weber I. Society Social Reform or B. Isaiah Berlin II. Revolution Capitalism and C. Rosa Luxemburg III. Freedom Four Essays on D. Milton Friedman IV. Liberty Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-III, D-II",
+      "A-I, B-IV, C-II, D-III",
+      "А-ІІІ, В-ІI, C-IV, D-I",
+      "A-II, B-III, C-I, D-IV"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Max Weber: The work associated with Max Weber is Economy and Society (I). Max Weber's \"Economy and Society\" is one of his most important contributions to sociology and political theory, focusing on the relationship between economics, politics, and culture. B. Isaiah Berlin: The book associated with Isaiah Berlin is Four Essays on Liberty (IV). This book is a collection of essays, where Berlin examines the concept of liberty and its different interpretations. C. Rosa Luxemburg: The book associated with Rosa Luxemburg is Social Reform or Revolution (II). In this work, Luxemburg argues against reformism and in favor of revolution as the only means of achieving socialism. D. Milton Friedman: The book associated with Milton Friedman is Capitalism and Freedom (III). This book presents Friedman's views on the relationship between economic freedom and political freedom, advocating for a minim",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-062",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who is the first women Director-General of WTO?",
+    "options": [
+      "Ngozi Okonjo-Iweala",
+      "Mike Moore Supachai",
+      "Peter Sutherland",
+      "Paskal Lamy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngozi Okonjo-Iweala made history by becoming the first woman and the first African to serve as the Director-General of the World Trade Organization (WTO). She was appointed to this prestigious role on March 1, 2021. Okonjo-Iweala has had a distinguished career in both international development and public policy. Before becoming the Director-General of the WTO, she served as the Finance Minister of Nigeria and held senior positions at the World Bank, where she was the Managing Director. Her leadership at the WTO focuses on improving global trade, addressing inequalities, and managing challenges such as the COVID-19 pandemic's impact on the global economy. The other options listed are not correct: Mike Moore was the Director-General of the WTO from 1999 to 2002. Supachai Panitchpakdi served as the Director- General from 2002 to 2005. Peter Sutherland served as the GATT/WTO's Director-Gener",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-063",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the Directors-General of GATT/WTO as per their tenure in chronological order: A. Eric Wyndham White B. Olivier Long C. Arthur Dunkel D. Peter Sutherland E. Ngozi Okonjo-Iweala Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D, E",
+      "B, C, D, E, A",
+      "C, D, E, B, A",
+      "D, A, B, C, E"
+    ],
+    "correctIndex": 0,
+    "explanation": "The chronological order of the Directors-General of GATT/WTO based on their tenure is: Eric Wyndham White (A) – He was the first Director-General of GATT, serving from 1948 to 1968. Olivier Long (B) – He served as the Director- General of GATT from 1968 to 1980. Arthur Dunkel (C) – He was the Director- General of GATT from 1980 to 1993. Peter Sutherland (D) – He became the first Director-General of the WTO when it was established in 1995, and served until 1999 (Exact term as Director-General GATT/WTO 1993-1995). Ngozi Okonjo-Iweala (E) – She is the current and first woman Director-General of the WTO, taking office in March 2021.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-064",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who was a trenchant critique of Aryanism, Brahmanism and Hinduism?",
+    "options": [
+      "Dayananda Saraswati",
+      "Swami Kripatri",
+      "E.V. Ramaswamy Naicker",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctIndex": 2,
+    "explanation": "E.V. Ramaswamy Naicker, also known as Periyar, was a trenchant critic of Aryanism, Brahmanism, and Hinduism. He was a social reformer and the founder of the Self-Respect Movement in Tamil Nadu. Periyar strongly opposed the caste system, which was rooted in Brahmanism, and was an advocate for social equality and the rights of marginalized communities. He criticized the dominance of Brahmins in Hindu society and rejected the idea of Aryan superiority, which he saw as a divisive and oppressive social construct. His work aimed at challenging the traditional social norms that perpetuated inequality and caste-based discrimination in India.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-065",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who asserted bureaucracy as an exploitative class instrument?",
+    "options": [
+      "Frederick Herzberg",
+      "Karl Marx",
+      "B. R. Ambedkar",
+      "Fred Riggs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Karl Marx argued that bureaucracy serves as an instrument of the ruling class to maintain its power and exploit the working class. In his writings, particularly in \"The German Ideology\" and \"The Communist Manifesto\", Marx critiqued the role of bureaucracy in perpetuating class domination and alienation. Marx saw bureaucracy as a means for the ruling class to: Maintain control over the working class Extract surplus value from labor Repress dissent and opposition Marx's ideas on bureaucracy as an exploitative class instrument have been influential in shaping critical perspectives on bureaucracy and the state.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-066",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following states in descending order as per their allocation of seats in Rajya Sabha A. Karnatka B. Assam C. Tamil Nadu D. Kerala E. Bihar Choose the correct answer from the options given below:",
+    "options": [
+      "E, C, A, B, D",
+      "E, A, C, D, B",
+      "C, E, A, D, B",
+      "C, A, E, B, D"
+    ],
+    "correctIndex": 2,
+    "explanation": "The allocation of seats in the Rajya Sabha (the Council of States) is based on the population of each state and union territory. The more populous states generally have more seats. The allocation of seats for the mentioned states in descending order is: Tamil Nadu (C) – 18 seats Bihar (E) – 16 seats Karnataka (A) – 12 seats Kerala (D) – 9 seats Assam (B) – 7 seats",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-067",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (SAARC Secretary LIST-II (Tenure) General) January 1, 1994 to A. Abul Ahsan I. December 31,1995 January 1, 1999 to B. Yadav Kant Silwal II. January 10, 2002 January 16, 1987 to C. Nihal Rodrigo III. October 15, 1989 March 1, 2008 to D. Sheel Kant Sharma IV. Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-III, C-IV, D-II",
+      "A-II, B-IV, C-III, D-I",
+      "А-І, В-III, C-IV, D-II",
+      "А-III, В-І, C-II, D-IV"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Abul Ahsan: He served as the SAARC Secretary-General from January 16, 1987 to October 15, 1989 (III). B. Yadav Kant Silwal: He served as the SAARC Secretary-General from January 1, 1994 to December 31, 1995 (I). C. Nihal Rodrigo: He served as the SAARC Secretary-General from January 1, 1999 to January 10, 2002 (II). D. Sheel Kant Sharma: He served as the SAARC Secretary-General from March 1, 2008 to February 28, 2011 (IV).",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-068",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I LIST-II (Year) (Treaties/Agreements) A. Antarctic Treaty I. 1959 Anti-Ballistic Missile B. II. 1972 Treaty (ABM) C. Outer Space Treaty III. 1967 Limited Test Ban D. IV. 1963 Treaty Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-I, C-III, D-IV",
+      "A-IV, B-III, C-I, D-II",
+      "A-III, B-IV, C-II, D-I"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Antarctic Treaty: The Antarctic Treaty was signed in 1959 (I). It regulates international relations concerning Antarctica and prohibits military activity on the continent. B. Anti-Ballistic Missile Treaty (ABM): The ABM Treaty was signed in 1972 (II). Anti-Ballistic Missile Treaty (ABM Treaty), arms control treaty ratified in 1972 between the United States and the Soviet Union to limit deployment of missile systems that could theoretically be used to destroy incoming intercontinental ballistic missiles (ICBMs) launched by the other superpower. The ABM Treaty was signed by U.S. Pres. Richard Nixon and Soviet leader Leonid Brezhnev at a summit in Moscow in May 1972, and it was ratified by both the U.S. Senate and the Supreme Soviet later that year. C. Outer Space Treaty: The Outer Space Treaty was signed in 1967 (III). It sets guidelines for the peaceful use of outer space and prohibits",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-069",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following international events in the chronological order: A. Fidel Castro assumed power in Cuba B. John F. Kennedy became 35th president of the United States of America C. Pope John XXIII implored the Kremlin not to start a nuclear war D. An American U-2 was shot down over Cuba E. Soviet leader Khrushchev announced that he has agreed to remove the Soviet missiles from Cuba Choose the correct answer from the options given below:",
+    "options": [
+      "A, D, B, C, E",
+      "E, C, D, B, A",
+      "A, B, C, D, E",
+      "B, C, D, A, E"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Fidel Castro assumed power in Cuba – Fidel Castro took control of Cuba in January 1959, marking the beginning of his communist regime. B. John F. Kennedy became 35th president of the United States of America – John F. Kennedy was inaugurated as president on January 20, 1961. C. Pope John XXIII implored the Kremlin not to start a nuclear war – Pope John XXIII offered to mediate between US President John F. Kennedy and Nikita Khrushchev during the Cuban Missile Crisis in October 24, 1962, when Pope John XXIII made a public plea for peace between the superpowers. D. An American U-2 was shot down over Cuba – On October 27, 1962, a U.S. U-2 spy plane was shot down over Cuba, increasing tensions during the Cuban Missile Crisis. E. Soviet leader Khrushchev announced that he has agreed to remove the Soviet missiles from Cuba – On October 28, 1962, Soviet Premier Nikita Khrushchev publicly ann",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-070",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Protection of language, script or culture of minorities have been guaranteed through which Article of Indian Constitution?",
+    "options": [
+      "Article 21",
+      "Article 29",
+      "Article 27",
+      "Article 23"
+    ],
+    "correctIndex": 1,
+    "explanation": "Article 29 of the Indian Constitution guarantees the protection of the language, script, or culture of minorities. It ensures that any section of the citizens having a distinct language, script, or culture has the right to conserve the same. Specifically, it gives rights to minorities to protect and promote their culture and language. While as: Article 21 relates to the protection of life and personal liberty. Article 27 relates to freedom as to payment of taxes for promotion of any religion. Article 23 deals with prohibition of trafficking in human beings and forced labour.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-071",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following countries into chronological order as per the year of admission in the United Nations: A. Pakistan B. Myanmar C. Sri Lanka D. India E. Israel Choose the correct answer from the options given below:",
+    "options": [
+      "A, D, B, C, E",
+      "D, A, C, E, B",
+      "D, A, B, E, C",
+      "A, D, C, B, E"
+    ],
+    "correctIndex": 2,
+    "explanation": "Here is the chronological order of the countries admission to the United Nations: India (D) – India became a member of the United Nations on October 30, 1945. Pakistan (A) – Pakistan joined the UN on September 30, 1947. Myanmar (B) – Myanmar (then Burma) became a member on April 19, 1948. Israel (E) – Israel was admitted to the United Nations on May 11, 1949. Sri Lanka (C) – Sri Lanka (then Ceylon) became a member on December 14, 1955.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-072",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Indian National Congress won how many seats in 2014 Lok-Sabha elections?",
+    "options": [
+      "53",
+      "48",
+      "49",
+      "44"
+    ],
+    "correctIndex": 3,
+    "explanation": "In the 2014 Lok Sabha elections, the Indian National Congress (INC) won 44 seats, which was a significant decline from the previous elections. This",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-073",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book \"Poverty and un-British Rule in India\"?",
+    "options": [
+      "Khan Abdul Gaffar Khan",
+      "Bal Gangadhar Tilak",
+      "Dadabhai Naroji",
+      "Jawaharlal Nehru"
+    ],
+    "correctIndex": 2,
+    "explanation": "The book \"Poverty and Un-British Rule in India\" was written by Dadabhai Naoroji. In this book, Naoroji discussed the economic impact of British colonial rule on India, particularly focusing on how British policies led to the impoverishment of the Indian population. He is also known for his contributions to the economic and political discourse regarding India's struggle for independence.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-074",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book 'The Human Condition'?",
+    "options": [
+      "Hannah Arendt",
+      "Max Weber",
+      "Herbert Simon",
+      "Jagdish P. Bhagwati"
+    ],
+    "correctIndex": 0,
+    "explanation": "The book \"The Human Condition\" was written by Hannah Arendt, a German-American political theorist. It was first published in 1958 and explores the nature of human activity and the relationship between public and private life. Arendt discusses the concepts of labor, work, and action, and how they relate to the human condition in the context of modernity.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-075",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Arrange the position of dignitaries as given in Table of Precedence (Higher to Lower position) A. Chief Election Commissioner B. Deputy Chairman Rajya Sabha C. Attorney General of India D. Vice Chairperson, NITI Aayog E. Holders of Bharat Ratna decoration Choose the correct answer from the options given below:",
+    "options": [
+      "B, A, D, E, C",
+      "C, A, B, D, E",
+      "D, E, A, B, C",
+      "E, B, A, C, D"
+    ],
+    "correctIndex": 2,
+    "explanation": "As per the Table of Precedence in India, the dignitaries are ranked in the following order from higher to lower: D. Vice Chairperson, NITI Aayog – The Vice Chairperson of NITI Aayog holds a prominent position. E. Holders of Bharat Ratna decoration – Recipients of the Bharat Ratna, India's highest civilian award, come next in the hierarchy. A. Chief Election Commissioner – The Chief Election Commissioner follows in the table of precedence, holding a significant position in the Indian government. B. Deputy Chairman, Rajya Sabha – The Deputy Chairman of the Rajya Sabha ranks lower than the Chief Election Commissioner. C. Attorney General of India – The Attorney General holds a position just below the Deputy Chairman of the Rajya Sabha.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-076",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Allahabad High Court was established in:",
+    "options": [
+      "1861",
+      "1863",
+      "1869",
+      "1866"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Indian High Courts Act 1861 established High Courts of Calcutta, Madras and Bombay in the year 1862. It vested power in the Queen of England to issue Letters Patent to establish other High Courts like the High Courts of the Presidency Towns with similar powers. In exercise of this power, a High Court of Judicature for the North Western Provinces at Agra was established on 17 March 1866 replacing the Sadr Diwani Adalat. Sir Walter Morgan, Barrister-at- Law was appointed the first Chief Justice of the High Court of North Western Provinces. In the year 1869, it was shifted to Allahabad. By a supplementary Letters Patent dated 11 March 1919, it’s nomenclature was changed to “the High Court of Judicature at Allahabad”.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-077",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Consider the statements regarding NAMAMI GANGE scheme and identify the incorrect options: A. It is an Integrated Conservation Mission for rejuvenation of River Ganga. B. The programme was launched in 2006. C. This programme has budget outlay of Rs. 1000 crore. D. It has provisions for Sewerage Treatment infrastructure. E. It has provisions for industrial effluent monitoring Choose the correct answer from the options given below:",
+    "options": [
+      "A and D Only",
+      "A and E Only",
+      "B and C Only",
+      "D and E Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. It is an Integrated Conservation Mission for rejuvenation of River Ganga.This statement is correct. Namami Gange is indeed an integrated mission aimed at rejuvenating the Ganga River. B. The programme was launched in 2006. This statement is incorrect. Namami Gange was launched in 2014, not 2006. C. This programme has budget outlay of Rs. 1000 crore. This statement is incorrect. The Government of India (GoI) launched the Namami Gange Programme (NGP) in 2014-15 for the rejuvenation of river Ganga and its tributaries with a budgetary outlay of ₹ 20,000 crore, for five years, up to March 2021 and has been further extended to March 2026 with a budgetary outlay of ₹ 22,500 crore. D. It has provisions for Sewerage Treatment infrastructure. This statement is correct. A significant part of the Namami Gange programme is the construction and upgrading of sewage treatment plants to manage untreat",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-078",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are not the part of the liberal democarcy? A. Based on one-party system B. Based on formal legal rules C. Guarantee of civil liberties and individual rights D. A system of checks and balances E. State monopoly on the means of mass communication Choose the correct answer from the options given below:",
+    "options": [
+      "B and C Only",
+      "A and E Only",
+      "C and D only",
+      "B, C and D only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Based on one-party system. This is not a part of liberal democracy. Liberal democracies typically support a multi-party system where various political parties compete for power. A one-party system is characteristic of authoritarian regimes, not liberal democracies. B. Based on formal legal rules. This is part of liberal democracy. Liberal democracies are based on the rule of law, which means that governance and laws are established and enforced through formal legal systems. C. Guarantee of civil liberties and individual rights. This is part of liberal democracy. One of the core features of liberal democracy is the protection and guarantee of individual rights and civil liberties, such as freedom of speech, assembly, and religion. D. A system of checks and balances. This is part of liberal democracy. A system of checks and balances ensures that no branch of government becomes too power",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-079",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following into chronological order A. Hammurabi established the legal code. B. Model Parliament of Edward I is convened C. Treaty of Westphalia enforced notion of sovereignty D. United Nations approval the Universal Declaration of Human Rights E. New Zealand became the first country to grant women the right to vote Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, E, C, D",
+      "A, B, C, E, D",
+      "B, A, C, D, E",
+      "B, A, E, C, D"
+    ],
+    "correctIndex": 1,
+    "explanation": "The events are chronologically arranged below: A. Hammurabi established the legal code. King Hammurabi of Babylon established the Code of Hammurabi around 1750 BCE. The code was written on stone steles and clay tablets, marking one of the earliest and most famous codified legal systems in history. B. Model Parliament of Edward I is convened. This occurred in 1295 AD, when King Edward I convened the Model Parliament, a significant event in the development of the English parliamentary system.The parliament was held at Westminster. C. Treaty of Westphalia enforced the notion of sovereignty. The Treaty of Westphalia was signed in 1648 AD, and it established the concept of national sovereignty, ending the Thirty Years' War in Europe. E. New Zealand became the first country to grant women the right to vote. This happened in 1893 AD, making New Zealand the first self- governing country to grant",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-080",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which year 19th Chinese Communist Party (CCP) Conference was held in Beijing?",
+    "options": [
+      "2013",
+      "2017",
+      "2015",
+      "2019"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 19th National Congress of the Chinese Communist Party (CCP) was held in October 2017 in Beijing. This conference is significant because it was a major event for China's political leadership, where important decisions were made, including the re-election of Xi Jinping as the General Secretary of the CCP. CCP congresses in recent years: 18th CCP Congress: 2012 19th CCP Congress: 2017 20th CCP Congress: 2022",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-081",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Giorgia Meloni is the PM of Italy. Meloni belongs to which Political party?",
+    "options": [
+      "Conservative Party",
+      "Democratic Party",
+      "Brothers of Italy",
+      "Republican Party"
+    ],
+    "correctIndex": 2,
+    "explanation": "Giorgia Meloni is the leader of the Brothers of Italy (Fratelli d'Italia), a right-wing, nationalist political party in Italy. She became Italy's Prime Minister in October 2022. Ms Meloni is not only the first woman Prime Minister of Italy, but also the youngest ever Prime Minister of her country. The party is known for its conservative and nationalist positions. Brothers of Italy is often associated with the far- right, and it has been a key player in Italy's recent political shift towards more nationalist and right- wing politics.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-082",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the characteristic not associated with prismatic societies-",
+    "options": [
+      "Selectivism",
+      "Attainment",
+      "Universalism",
+      "Poly-functionalism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prismatic societies are typically characterized by features that reflect a transition or mix between traditional and modern social structures. Key characteristics of prismatic societies include: 1. Selectivism: This is an intermediate category between universalism and particularism. Under a prismatic system, certain groups, though larger in number than in a fused society, gain precedence over the less privileged groups. 2. Attainment: This is an intermediate category between ascription and achievement, implying that in a prismatic society, merit as well as traditional status, that is, based on birth, caste etc. determine the movement of a person to a higher level. 3. Poly-functionalism: This is an intermediate category between functional specification and functional diffuseness. It implies that in a prismatic society, the level of specialization is much larger than found in a fused socie",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-083",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following into chronological order: A. Charles I is forced to accept Petition of Right B. Falkland war is fought with Argentina C. King John I forced to sign Magna Carta E. Act of Union united Kingdoms of England and Scotland D. Bill of Rights in Britain Choose the correct answer from the options given below:",
+    "options": [
+      "A, D, C, B, E",
+      "C, A, E, B, D",
+      "A, C, E, D, B",
+      "C, A, D, E, B"
+    ],
+    "correctIndex": 3,
+    "explanation": "The events are chronologically arranged below: C. King John I forced to sign Magna Carta (1215). The Magna Carta, signed in 1215, is one of the most significant documents in British history, limiting the powers of the king and establishing certain legal protections for subjects. A. Charles I is forced to accept Petition of Right (1628). The Petition of Right was signed in 1628, requiring Charles I to acknowledge certain constitutional principles and limitations on his power, particularly regarding taxation and imprisonment. D. Bill of Rights in Britain (1689). The Bill of Rights was enacted in 1689, following the Glorious Revolution, which limited the powers of the monarchy and expanded parliamentary rights. E. Act of Union united Kingdoms of England and Scotland (1707). The Act of Union in 1707 merged the Kingdom of England and the Kingdom of Scotland into the Kingdom of Great Britain. ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-084",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Events) LIST-II (Year) Boxer Rebellion in A. I. 1910-1920 China B. Mexican Revolution II. 1931 Japan invaded C. III. 1936 Manchuria Germany Reoccupied D. IV. 1900-1901 the Rhineland Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-I, C-II, D-III",
+      "А-III, В-II, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Boxer Rebellion in China: The Boxer Rebellion occurred from 1900 to 1901 (IV). It was a violent anti-foreign, anti-Christian uprising in China, which was suppressed by an eight-nation alliance, including Japan, the US, and European powers. B. Mexican Revolution: The Mexican Revolution began in 1910 and lasted until around 1920 (I). It was a major armed struggle that aimed to overthrow the dictatorship of Porfirio Díaz and bring about political, social, and economic reforms. C. Japan invaded Manchuria: Japan invaded Manchuria in 1931 (II), marking the beginning of Japanese expansion in East Asia. The invasion led to the establishment of the puppet state of Manchukuo. D. Germany Reoccupied the Rhineland: Germany reoccupied the Rhineland in 1936 (III). This was a significant step in the lead-up to World War II, as it violated the Treaty of Versailles and the Locarno Treaties.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-085",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Separate representation to the Muslim community was provided by -",
+    "options": [
+      "Government of India Act-1858",
+      "Indian Council Act - 1892",
+      "Indian Council Act-1909",
+      "Indian Council Act - 1861"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Indian Council Act of 1909, also known as the Morley-Minto Reforms, introduced separate electorates for Muslims in India. This meant that Muslims could elect their own representatives separately from the general electorate, a significant development in the political landscape of British India. Other options: A. Government of India Act 1858: This act ended the rule of the East India Company and transferred control to the British Crown, but it did not provide separate representation to any community. B. Indian Council Act 1892: This act expanded the legislative councils, but it did not introduce separate electorates for any specific community. D. Indian Council Act 1861: This act was primarily concerned with the reorganization of the Legislative Councils, but it did not address separate representation for any specific community.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-086",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Russian Marxist thinker and ruler, Vladimir Ilyich Lenin died in",
+    "options": [
+      "1921",
+      "1924",
+      "1919",
+      "1927"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vladimir Ilyich Lenin was a Russian Marxist revolutionary and the leader of the Bolshevik Party during the Russian Revolution of 1917. After the revolution, Lenin became the head of government of Soviet Russia and later the Soviet Union. His leadership played a crucial role in the establishment of a socialist state in Russia. Lenin suffered a series of strokes starting in 1922, which left him physically weakened and less able to govern. These health issues gradually incapacitated him. Despite his declining health, Lenin continued to hold power until his death. Lenin died on January 21, 1924, at the age of 53. His death marked the end of his direct influence over the Soviet state, but his ideological legacy and influence continued to shape the Soviet Union. After his death, a power struggle ensued, which ultimately led to Joseph Stalin emerging as the leader of the Soviet Union.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-087",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the essential facts related to German philosopher George Friedrich Hegel A. Hegel popularized the idea of climate change mitigation. B. Hegel's version of idealism is known as dialectical idealism. C. Hegel sought to describe the dialectical process in terms of thesis, antithesis and synthesis. D. Hegel authored the book \"Phenomenology of Spirit. E. Karl Marx was highly influenced by Hegel. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, E Only",
+      "A, C, D Only",
+      "A, B, E Only",
+      "B, C, D, E Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Hegel popularized the idea of climate change mitigation. This statement is incorrect. Hegel lived in the late 18th and early 19th centuries, long before the concept of climate change mitigation became a topic of discussion in modern times. Hegel's work was focused on philosophy, not environmental issues. B. Hegel's version of idealism is known as dialectical idealism. This statement is correct. Hegel developed a version of idealism known as dialectical idealism, which posited that reality unfolds through a dialectical process involving contradictions that eventually lead to resolution and development. C. Hegel sought to describe the dialectical process in terms of thesis, antithesis, and synthesis. This statement is correct. Hegel's dialectical method involves the idea that history and ideas evolve through a process of thesis (an initial concept), antithesis (its contradiction), and s",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-088",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Incident) LIST-II (Year) First Visit by an Indian A. I. 2008 Prime Minister to China Soviet-Indian treaty of B. Peace, Friendship and II. 1971 Co-operation C. Indian Nuclear Test-2 III. 1954 26/11 Mumbai Terror D. IV. 1998 Attack Choose the correct answer from the options given below:",
+    "options": [
+      "А-III, В-II, C-IV, D-I",
+      "А-ІІ, В-III, C-IV, D-I",
+      "А-І, В-II, С-III, D-IV",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. The first visit by an Indian Prime Minister to China was made by Jawaharlal Nehru in 1954. This visit was significant in the context of establishing diplomatic relations between India and China. B. The Soviet-Indian Treaty of Peace, Friendship, and Co-operation was signed in 1971, during the period leading up to the India-Pakistan war, solidifying the military and strategic alliance between India and the Soviet Union. C. India's second set of nuclear tests, known as 'Operation Shakti', took place in 1998, under the leadership of Prime Minister Atal Bihari Vajpayee. D. The horrific 26/11 Mumbai terrorist attacks occurred in 2008, where multiple locations in Mumbai were attacked by terrorists, leading to significant loss of life and widespread shock. Thus, the correct match is А-III, В-II, C-IV, D-I.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-089",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are not the variables of input-output analysis of David Easton? A. Development B. Growth C. Demand D. Support E. Feedback Choose the correct answer from the options given below:",
+    "options": [
+      "C and D Only",
+      "C and E Only",
+      "D and E Only",
+      "A and B Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Easton's Input-Output Analysis is a model used to analyze political systems, focusing on how inputs (demands, supports) are processed by the system and transformed into outputs (policies, decisions). It also emphasizes the role of feedback in the system. The key variables of Easton's system include: Demand (C): Refers to the expectations or demands of individuals or groups in society. Support (D): Refers to the general support the political system receives from the population. Feedback (E): The reaction or responses to the outputs of the system that influence future inputs and policy decisions. Development (A) and Growth (B) are not considered core variables in Easton's input- output model. These terms are more related to the process of societal or economic development rather than the specific dynamics of political systems in Easton’s framework.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-090",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following terrorists attacks into chronological order: A. Moscow Theater Hostage Crisis B. Indian Parliament Attack C. Tokyo Subway Sarin Attack D. Camp Speicher Massacre E. Air India Flight-182 Bombing Choose the correct answer from the options given below:",
+    "options": [
+      "E, C, B, A, D",
+      "E, B, C, D, A",
+      "B, E, C, A, D",
+      "B, C, E, A, D"
+    ],
+    "correctIndex": 0,
+    "explanation": "The chronological order of the terrorist attacks: E. Air India Flight-182 Bombing (1985): Air India Flight 182 was bombed on June 23, 1985, off the coast of Ireland, killing all 329 people aboard. The bombing was carried out by Sikh extremists. C. Tokyo Subway Sarin Attack (1995): On March 20, 1995, members of the Aum Shinrikyo cult released sarin gas in the Tokyo subway, killing 13 people and injuring thousands. B. Indian Parliament Attack (2001): On December 13, 2001, five gunmen attacked the Indian Parliament in New Delhi,",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-091",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The Seventy Fourth Constitutional Amendment Act is intend for-",
+    "options": [
+      "Rural Local Administration",
+      "Judicial Reforms",
+      "Urban Local Bodies Administration",
+      "Linguistic Administration"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Seventy-Fourth Constitutional Amendment Act was passed in 1992 to provide a constitutional status to Urban Local Bodies (ULBs) in India. This amendment aimed to strengthen urban governance and decentralize administrative powers in urban areas. It led to the creation of a framework for the functioning of municipalities, town councils, and municipal corporations, ensuring that they play a more active role in local administration and development. Key provisions of the 74th Amendment include: Establishing the Municipalities (Urban Local Bodies) at the city or town level, and defining their powers and responsibilities. Providing for elections to local bodies and a clear framework for devolution of powers. Setting up a State Finance Commission to recommend measures for improving financial management in urban areas.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-092",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who is the proposed Secretary of State in the Donald Trump Administration II?",
+    "options": [
+      "Ivanka Trump",
+      "Tulsi Gabbad",
+      "Mark Esper",
+      "Macro Rubio"
+    ],
+    "correctIndex": 3,
+    "explanation": "The proposed Secretary of State in the Donald Trump Administration II is Marco Rubio. He was announced as President-elect Trump's nominee for the position on November 13, 2024, and was confirmed by the Senate with a unanimous vote of 99-0 on Inauguration Day, January 20, 2025",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-093",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Scholar) LIST-II (Works) A Theory of Human A. Dr. S Jaishankar I. Motivation On Organizational B. Herbert Simon II. Learning C. Abraham Maslow III. The India Way Administrative D. Chris Argyris IV. Behaviour Choose the correct answer from the options given below:",
+    "options": [
+      "А-І, В-II, С-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "А-II, В-I, C-IV, D-III",
+      "A-III, B-IV, C-I, D-II"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Dr. S. Jaishankar, the current Indian External Affairs Minister, authored the book titled \"The India Way\", which discusses India's foreign policy and strategic vision. B. Herbert Simon is famous for his work on decision-making in organizations. His book \"Administrative Behaviour\" is a significant contribution to the field of management and organizational theory. C. Abraham Maslow is known for his theory of the hierarchy of needs, which he explained in his work \"A Theory of Human Motivation\". D. Chris Argyris is known for his work in organizational learning and behavior, with \"On Organizational Learning\" being one of his key works. Thus, the correct match is A-III, B-IV, C-I, D-II.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-094",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following pairs are matched properly? A. Sustainable Development: Development that meets the needs of the present only. B. Patriarchy: The power relationship between men and women. C. Holism: The whole is more important than it's part D. Fascism: Support for freedom of expression E. Deep Ecology: Rejection of anthropocentricism Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C Only",
+      "B, C and E Only",
+      "C, D and E Only",
+      "A, D and E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Sustainable Development: Development that meets the needs of the present only. This is incorrect. Sustainable Development refers to development that meets the needs of the present without compromising the ability of future generations to meet their own needs. The statement describes it incorrectly as it only mentions the present and ignores the future. B. Patriarchy: The power relationship between men and women. This is correct. Patriarchy refers to a social system where men hold primary power, particularly in political leadership, moral authority, social privilege, and control of property, which",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-095",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book \"The Functions of the Executive\"?",
+    "options": [
+      "Chester Barnard",
+      "Max Weber",
+      "Henri Fayol",
+      "Sun Tzu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chester Barnard wrote the influential book \"The Functions of the Executive\" in 1938. This work is foundational in the field of management and organizational theory. In the book, Barnard discusses the role of executives in an organization, emphasizing the importance of communication, cooperation, and the role of leadership in achieving organizational goals. While as: Max Weber is known for his work on bureaucracy and authority structures. Henri Fayol is known for his contributions to management theory, particularly the development of the 14 principles of management. Sun Tzu is the ancient Chinese military strategist known for writing \"The Art of War\", which focuses on military strategy.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-096",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the characteristics of Presidential form of government: A. Separation of power B. Checks and balances. C. Collective responsibility D. A nominal head E. Fusion of legislature and executive Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C Only",
+      "A, B, C, D Only",
+      "A and B Only",
+      "A, B, C, E Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "In a Presidential form of government, the characteristics are as follows: A. Separation of power: In a Presidential system, there is a clear separation of powers between the executive, legislature, and judiciary. The President (the executive) is separate from the legislature, unlike in a parliamentary system where the executive and legislative branches are fused. B. Checks and balances: The Presidential system is designed with a system of checks and balances, where each branch of government (executive, legislature, and judiciary) has the ability to limit the powers of the others, ensuring no branch becomes too powerful. While as: C. Collective responsibility: Collective responsibility is a characteristic of the parliamentary system, not the Presidential system. In a parliamentary system, the executive (the Cabinet) is collectively responsible to the legislature (Parliament). In a Preside",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-097",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following initiatives establishments by United Nation in chronological order: A. UN Roll Back Malaria Initiative B. Universal Declaration on Human Genome and Human Rights C. Global Polio Eradication Initiative D. Establishment of University of Peace, Costa Rica E. Establishment of UN Forum on Forests Choose the correct answer from the options given below:",
+    "options": [
+      "C, B, A, E, D",
+      "C, A, B, E, D",
+      "D, C, B, A, E",
+      "D, B, C, A, E"
+    ],
+    "correctIndex": 2,
+    "explanation": "The chronological order of the initiatives established by the United Nations are: D. Establishment of the University for Peace, Costa Rica: The University for Peace was established in 1980 by the United Nations as a specialized institution to promote peace education and research. C. Global Polio Eradication Initiative: The Global Polio Eradication Initiative was launched in 1988 by the World Health Organization (WHO), Rotary International, and UNICEF, with a goal to eradicate polio worldwide. B. Universal Declaration on Human Genome and Human Rights: The Universal Declaration on Bioethics and Human Rights was adopted by UNESCO on 11 November 1997 and endorsed by General Assembly resolution 53/152 of 9 December 1998. It deals with bioethics and human rights, focusing on human dignity and human rights in the context of scientific research, including the human genome. A. UN Roll Back Malari",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-098",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I LIST-II (Committee/Act) (Outcome/Recommendation) Increased Managerial A. Pendleton Act I. Capacity in executive office of US President First Hoover Work environment and B. II. Commission Productivity Hawthorne Russian Interference in C. III. Studies US Election US Sentate Intelligence Committee U.S Civil Service D. Report on IV. Commission 2016 Presidentail Election Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-III, В-II, C-I, D-IV",
+      "A-I, B-II, C-III, D-IV",
+      "A-II, В-I, C-IV, D-III"
+    ],
+    "correctIndex": 0,
+    "explanation": "The committees/acts with their outcomes or recommendations: A. Pendleton Act was passed in 1883 to establish the U.S. Civil Service Commission and make civil service jobs based on merit rather than political connections. B. First Hoover Commission was established in 1947 to recommend improvements to the efficiency of the executive branch of the U.S. government. One of its key outcomes was increasing the managerial capacity in the executive office of the President. C. Hawthorne Studies (conducted in the 1920s- 1930s) examined how changes in the work environment affected worker productivity. These studies concluded that social factors and the work environment influence productivity and morale. D. The US Senate Intelligence Committee Report (released in 2018) focused on Russian interference in the 2016 Presidential Election and how the Russian government used disinformation and cyberattacks",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-099",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "In which year, constructive programme was announced by Indian National Congress?",
+    "options": [
+      "1920",
+      "1924",
+      "1930",
+      "1935"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Constructive Programme was a term used by Mahatma Gandhi to describe a set of activities aimed at not just gaining political freedom for India but also improving its social, economic, and cultural conditions. Gandhi introduced programmes like fighting untouchability, promoting Khadi, and empowering women as ways to build a peaceful, self-reliant, and independent society. These Programmes were meant to bring about both personal and social change, helping India achieve freedom. Gandhi used these programmes as tools to resist British rule during the Non- Cooperation Movement and Civil Disobedience Movement . The Indian National Congress (INC) passed a resolution to start the Constructive Programme during the 1920 Calcutta session of the INC, and it was again emphasized in the 1928 INC session. Note: In this question, the NTA had given the option 1922, which we changed and put the correc",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-100",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify the incorrect facts about GATT/WTO: A. From 1948 to 1994 the GATT provided the rules for much of World Trade B. GATT was a provisional agreement and organization C. The WTO was created on 1 January 1995 D. The first ministerial conference of WTO was held in 2009 E. The WTO's 28th Ministerial Conference was held in Delhi in 2024 Choose the correct answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and C Only",
+      "C and A Only",
+      "D and E Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. From 1948 to 1994 the GATT provided the rules for much of World Trade. This statement is correct. The General Agreement on Tariffs and Trade (GATT) was in place from 1948 to 1994 and provided the framework for global trade negotiations. B. GATT was a provisional agreement and organization. This statement is correct. While GATT was initially intended to be a temporary arrangement until a more permanent trade organization was formed, it remained the primary institution for global trade rules until the WTO replaced it in 1995. C. The WTO was created on 1 January 1995. This statement is correct. The World Trade Organization (WTO) was officially established on 1 January 1995, succeeding GATT. D. The first ministerial conference of WTO was held in 2009. This statement is incorrect. The first ministerial conference of the WTO was held in 1996 in Singapore. E. The WTO's 28th Ministerial Confe",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-101",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who of the following thinkers are not associated with the Realist school of International Relations? A. Stephen-Walt B. John Mearsheimer C. Kenneth Waltz D. Wodrow Wilson E. Immanuel Kant Choose the correct answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and C Only",
+      "C and A Only",
+      "D and E Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Realist school of International Relations emphasizes the role of power, national interest, and the anarchic nature of the international system. Realism asserts that states act primarily in their own self-interest and that global politics is governed by competition for power. A. Stephen Walt: He is a prominent Realist scholar, known for his work on the 'balance of threat theory'. He is associated with the offensive realism school within Realism. B. John Mearsheimer: He is another leading Realist scholar, particularly associated with offensive realism, which argues that great powers are inherently aggressive and seek to maximize their power. C. Kenneth Waltz: He is one of the most influential figures in the Realist tradition, especially known for his development of Neorealism (Structural Realism), which focuses on the international system's structure and the distribution of power. Whil",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-102",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Emergency powers relating to suspension of fundamental rights have been taken from:",
+    "options": [
+      "Canadian Constitution",
+      "Australian Constitution",
+      "Weimer Constitution of Germany",
+      "French Constitution"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Emergency powers related to the suspension of fundamental rights in India were inspired by the Weimar Constitution of Germany. The Weimar Constitution (1919-1933) allowed for the suspension of rights during a state of emergency, which influenced the Indian Constitution. In India, these provisions were incorporated under Article 352 (declaration of national emergency) and Article 358 (suspension of certain fundamental rights during an emergency), reflecting the emergency powers that were found in the Weimar Constitution.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-103",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "South Africa held its First non-racial election in-",
+    "options": [
+      "1993",
+      "1997",
+      "1994",
+      "1992"
+    ],
+    "correctIndex": 2,
+    "explanation": "South Africa held its first non-racial, democratic elections in 1994, marking the end of apartheid and the beginning of a new era of equality and democracy. The election, held from April 26 to April 29, 1994, allowed all South Africans, regardless of race, to vote for the first time. Nelson Mandela, leader of the African National Congress (ANC), was elected as the country's first black president.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-104",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who among the following is the first to coin the term 'catch-all-party\"?",
+    "options": [
+      "C. Wright Mills",
+      "William Gladstone",
+      "Otto Kirchheimer",
+      "Bertrand Russel"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term \"catch-all party\" refers to a political party that seeks to attract a broad base of voters, often from various political, social, or ideological groups, to secure electoral support. These parties typically avoid strong ideological positions in favor of more inclusive or centrist policies, making them appeal to a wide range of people. The term was coined by Otto Kirchheimer, a German political scientist, who first introduced it in his work on the nature of political parties, particularly in the context of Western European democracies after World War II.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-105",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-1 (SAARC LIST-II (Date) Summits) A. Dhaka I. 10-11 April, 1993 B. New Delhi II. 2-4 May, 1995 C. Colombo III. 2-6 January, 2004 D. Islamabad IV. 29-31 July, 1998 Choose the correct answer from the options given below:",
+    "options": [
+      "А-II, В-I, C-III, D-IV",
+      "А-І, В-II, С-IV, D-III",
+      "A-III, B-IV, C-II, D-I",
+      "A-IV, B-III, C-I, D-II"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Dhaka Summit: The 1993 SAARC Summit took place in Dhaka, Bangladesh. B. New Delhi Summit: The 1995 SAARC Summit was held in New Delhi, India. C. Colombo Summit: The 1998 SAARC Summit was held in Colombo, Sri Lanka. D. Islamabad Summit: The 2004 SAARC Summit was held in Islamabad, Pakistan Thus, the correct match is А-І, В-II, С-IV, D-III, making option-B the correct answer.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-106",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Donald Trump has become only the second American Presideat to win non-consecutive ferms after winning November 2024 election, who was the first President?",
+    "options": [
+      "John Adams",
+      "Grover Cleveland",
+      "Andrew Jackson",
+      "Abraham Lincoln"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grover Cleveland is the first and only U.S. president to serve two non-consecutive terms. He was the 22nd president (1885–1889) and then became the 24th president (1893–1897) after losing the election in 1888 but winning again in 1892.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-107",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Identify the correct statements regarding the Ecologism- A. The term Ecology was first coined by Ernst Haeckel. B. It studies the relationship between living organism and their environment. C. It is a market centric approach. D. It believes humans are masters of nature. E. Rachel Carson was an environmental conservationist. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and E Only",
+      "B and C Only",
+      "B, C and E Only",
+      "A and D Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. The term Ecology was first coined by Ernst Haeckel. This statement is correct. Ernst Haeckel coined the term \"ecology\" in 1866. B. It studies the relationship between living organisms and their environment. This statement is also correct. Ecology is the scientific study of interactions between organisms and their environment. C. It is a market-centric approach. This statement is incorrect. Ecologism generally focuses on environmental protection and sustainability rather than market-driven approaches. D. It believes humans are masters of nature.This statement is incorrect. Ecologism often advocates for a more harmonious relationship between humans and nature, rather than the idea that humans dominate nature. E. Rachel Carson was an environmental conservationist. This statement is correct. Rachel Carson is renowned for her work in environmental conservation, especially her book 'Silent ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-108",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Identify true facts about Regional Organizations A. East Asian Summit founded in 2005 B. Shanghai Cooperation Organization founded C. Nordic Council founded in 1952 D. ASEAN Regional Forum founded in 1994 E. SAARC founded in 1987 Choose the correct answer from the options given below:",
+    "options": [
+      "A, E Only",
+      "B, C, E Only",
+      "E, A, B Only",
+      "A, B, C, D Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. East Asian Summit founded in 2005: Correct. The East Asian Summit (EAS) was indeed established in 2005 to promote dialogue and cooperation on strategic, political, and economic issues in East Asia. B. Shanghai Cooperation Organization founded in 2001: Correct. The Shanghai Cooperation Organization (SCO) was founded in 2001 with an emphasis on political, economic, and security- related cooperation between China, Russia, and several Central Asian nations. C. Nordic Council founded in 1952: Correct. The Nordic Council, aimed at fostering cooperation between Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden), was founded in 1952. D. ASEAN Regional Forum founded in 1994: Correct. The ASEAN Regional Forum (ARF) was established in 1994 to promote dialogue and cooperation in the Asia-Pacific region on political and security issues. E. SAARC founded in 1987: Incorrect. The South ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-109",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange environmental events in chronological order A. Minimata Convention on Mercury B. Publication of the Rio Declaration and Agenda 21 C. Greenpeace founded D. Bhopal chemical plant disaster E. Chernobyl nuclear disaster Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D, E",
+      "B, C, D, E, A",
+      "C, D, E, B, A",
+      "D, C, E, A, В"
+    ],
+    "correctIndex": 2,
+    "explanation": "Environmental events in chronological order: C. Greenpeace founded: Greenpeace was founded in 1971. It was established to campaign against environmental destruction, particularly related to nuclear testing. D. Bhopal chemical plant disaster: The Bhopal disaster occurred in 1984, when a gas leak from a pesticide plant in India caused thousands of deaths and severe environmental harm. E. Chernobyl nuclear disaster: The Chernobyl disaster happened in 1986 when a nuclear reactor in Ukraine exploded, causing widespread radiation contamination. B. Publication of the Rio Declaration and Agenda 21: The Rio Declaration and Agenda 21 were adopted during the 1992 Earth Summit (also known as the UN Conference on Environment and Development, or UNCED) in Rio de Janeiro. A. Minamata Convention on Mercury: The Minamata Convention on mercury was adopted in 2013 to reduce the global use and emissions of ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-110",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (War and Crisis) LIST-II (Year) A. Kosovo War I. 2011 B. Libyan Civil War II. 2001 US led invasion of C. III. 1996 Afghanistan Taliban I seized D. power in IV. 1999 Afghanistan Choose the correct answer from the options given below:",
+    "options": [
+      "A-I, B-IV, C-III, D-II",
+      "A-II, В-III, C-IV, D-I",
+      "А-ІІІ, В-ІІ, C-I, D-IV",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Kosovo War: The Kosovo War occurred in 1999, when NATO intervened in the conflict between Yugoslav forces and ethnic Albanians in Kosovo. B. Libyan Civil War: The Libyan Civil War began in 2011 after anti-Gaddafi protests turned into a civil war, leading to NATO intervention and the eventual overthrow of Muammar Gaddafi. C. US-led invasion of Afghanistan: The US-led invasion of Afghanistan occurred in 2001 following the September 11 attacks by Al-Qaeda, aiming to remove the Taliban from power. D. Taliban I seized power in Afghanistan: The first Taliban regime seized power in 1996 after defeating the Afghan government forces.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-111",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Women's movement in the United States developed strong ever the years. Some of its basic facts include- A. The Seneca Falls convention, held in 1848, marked the bath of the US women's rights movement. B. The Nineteenth Amendment of the US Constitution granted the vote to American women in 1920. C. The National Women's Suffrage Association was set up in 1869. D. A feminist writer Simon de Beauvoir published the book \"The Second Sex\". E. The history of black women in the US has been nacrated first by Greta Thunberg. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D Only",
+      "B, C, D, E Only",
+      "C, D, E Only",
+      "A, B, E Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. The Seneca Falls Convention, held in 1848, marked the birth of the US women's rights movement: This is correct. The Seneca Falls Convention is widely regarded as the starting point of the organized women's rights movement in the U.S. B. The Nineteenth Amendment of the US Constitution granted the vote to American women in 1920: This is correct. The Nineteenth Amendment, passed in 1920, granted women the right to vote. C. The National Women's Suffrage Association was set up in 1869: This is correct. The National Women's Suffrage Association (NWSA) was founded in 1869 to fight for women's right to vote. D. A feminist writer Simone de Beauvoir published the book \"The Second Sex\": This is correct. Simone de Beauvoir's \"The Second Sex\" was published in 1949. E. The history of black women in the US has been narrated first by Greta Thunberg: This is incorrect. Greta Thunberg is a Swedish envi",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-112",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following are not matched correctly. A. Economic Nationalism: To foster the domestic economy through protectionism. B. Nativism: Voicing the needs of native inhabitants against those of immigrants C. Colonialism: Practice of establishing control over a foreign territory D. Xenophobia: Demand for self-determination E. Universalism: Behaviour characterized by insularity and exclusivity. Choose the correct answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and C Only",
+      "A and C Only",
+      "D and E Only"
+    ],
+    "correctIndex": 3,
+    "explanation": "A. Economic Nationalism: To foster the domestic economy through protectionism. This is correct. Economic nationalism refers to policies that prioritize the domestic economy, often through protectionist measures like tariffs. B. Nativism: Voicing the needs of native inhabitants against those of immigrants. This is correct. Nativism is a political ideology that promotes the interests of native inhabitants against the perceived threat or influence of immigrants. C. Colonialism: Practice of establishing control over a foreign territory. This is correct. Colonialism involves a nation establishing control over a foreign territory, often through conquest or settlement. D. Xenophobia: Demand for self-determination. This is incorrect. Xenophobia is the fear or hatred of foreigners or strangers, not the demand for self-determination, which is more related to nationalist movements. E. Universalism:",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-113",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Author) LIST-II (Books) Critique of Pure A. Thomas Hobbes I. Reason The Order of the Things: An B. Immanuel Kant II. Archaeology of the Human Science C. Michel Foucault III. On Fire D. Naomi Klein IV. Leviathan Choose the correct answer from the options given below:",
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "А-III, В-II, C-I, D-IV",
+      "А-II, В-III, C-IV, D-I",
+      "A-I, B-IV, C-III, D-II"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Thomas Hobbes: Thomas Hobbes is best known for his political philosophy book \"Leviathan\", which discusses the structure of society and government. B. Immanuel Kant: Immanuel Kant is most famous for \"Critique of Pure Reason\", a fundamental work in modern philosophy that examines human perception and understanding. C. Michel Foucault: Michel Foucault is known for \"The Order of Things: An Archaeology of the Human Sciences\", where he examines the development of various sciences and human knowledge. D. Naomi Klein: Naomi Klein is recognized for her book \"On Fire\", which discusses climate change, social justice, and activism.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-114",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Identify the correct statements: A. Vinayak Damodar Savarkar argued that the revolt of 1857 was India's first war of independence. B. Jayaprakash Narayan advocated the notion of Sampoorna Kranti or total revolution. C. Bhimrao Ramji Ambedkar was a protagonist of social justice. D. Bal Gangadhar Tilak was the moderate leader. E. According to Rabindranath Tagore, the idea of hyper nationalism is inalienable with que freedom. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C Only",
+      "B, C and D Only",
+      "C, D and E Only",
+      "B, C, D and E Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Vinayak Damodar Savarkar argued that the revolt of 1857 was India's first war of independence. This is correct. Vinayak Damodar Savarkar, in his book The First War of Indian Independence, argued that the 1857 revolt was indeed India's first war of independence. B. Jayaprakash Narayan advocated the notion of Sampoorna Kranti or total revolution. This is correct. Jayaprakash Narayan is known for advocating Sampoorna Kranti, or total revolution, which was a call for social, political, and economic reforms. C. Bhimrao Ramji Ambedkar was a protagonist of social justice. This is correct. Dr. B.R. Ambedkar was a leading figure for social justice and fought for the rights of the Dalits and other marginalized groups in India. D. Bal Gangadhar Tilak was the moderate leader. This is incorrect. Bal Gangadhar Tilak was a radical leader in the Indian independence movement, not a moderate. He was kn",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-115",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The 52nd Constitution Amendment Act which provided for the disqualification of the members of parliament and the state legislators on the ground of defection from one political party to another was enacted in:",
+    "options": [
+      "1984",
+      "1985",
+      "1987",
+      "1988"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 52nd Constitution Amendment Act, which provided for the disqualification of members of parliament and state legislators on the ground of defection from one political party to another, was enacted in 1985. This amendment is commonly referred to as the \"Anti-Defection Law\".",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-116",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "The Book 'Sexual Politics' was written by-",
+    "options": [
+      "Judith Butler",
+      "Kate Millett",
+      "Pandita Ramabai",
+      "Sister Nivedita"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book \"Sexual Politics\" was written by Kate Millett. Kate Millett was a prominent feminist, and her book, published in 1970, is considered one of the foundational texts of second-wave feminism. In \"Sexual Politics,\" Millett critiques the ways in which patriarchal systems of power are embedded in various aspects of society, especially in sexual relationships and gender roles. She also analyzes how literature, art, and psychology reinforce patriarchal ideas.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-117",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Book) LIST-II (Author) A. Asian Drama I. Gunnar Myrdal The Indian Constitution: B. II. Norman D Palmer Cornerstone of a Nation The State and C. Poverty in India: The III. Atul Kohli Politics of Reform The Indian Political D. IV. Granville Austin System Choose the correct answer from the options given below:",
+    "options": [
+      "A-III, B-II, C-I, D-IV",
+      "A-IV, B-I, C-II, D-III",
+      "A-I, B-IV, C-III, D-II",
+      "А-ІI, В-ІІІ, C-IV, D-I"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Asian Drama: \"Asian Drama: An Inquiry into the Poverty of Nations\" was written by Gunnar Myrdal. Myrdal, a Swedish economist, analyzed the economic challenges faced by South Asian countries in this influential work. B. The Indian Constitution: Cornerstone of a Nation: This book was written by Granville Austin, who examined the making of the Indian Constitution and its development. C. The State and Poverty in India: The Politics of Reform: This book was written by Atul Kohli, who discussed the political aspects of poverty and state policies in India. D. The Indian Political System: This book was written by Norman D Palmer, who analyzed the functioning of India's political system.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-118",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following leader's assassination into chronological order: A. John F. Keneddy B. Ziaur Rahman C. SWRD Bandarnaike D. Olof Palme E. Yitzhak Rabin Choose the correct answer from the options given below:",
+    "options": [
+      "A, D, C, E, B",
+      "A, C, D, E, В",
+      "C, A, B, D, E",
+      "C, B, A, D, E"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assassinations of the leaders in chronological order: C. SWRD Bandaranaike: He was assassinated in 1959. He was the Prime Minister of Ceylon (Sri Lanka). B. John F. Kennedy: He was assassinated in 1963. He was the President of the United States. A. Ziaur Rahman: He was assassinated in 1981. He was the President of Bangladesh. D. Olof Palme: He was assassinated in 1986. He was the Prime Minister of Sweden. E. Yitzhak Rabin: He was assassinated in 1995. He was the Prime Minister of Israel.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-119",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Equality of opportunity in employment has been guaranteed through which article of Indian Constitution?",
+    "options": [
+      "Article 13",
+      "Article 19",
+      "Article 16",
+      "Article 18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Article 16 provides for equality of opportunity in matters of public employment. It ensures that no citizen is denied access to any employment or office under the State based on discrimination such as religion, race, caste, sex, descent, place of birth, or residence. It also allows the government to make special provisions for reservations or appointments in public employment to certain groups, such as backward classes, in order to promote equality. While as: A. Article 13: Article 13 deals with the judicial review of laws that are inconsistent with the fundamental rights. B. Article 19: Article 19 grants freedom of speech and expression, assembly, association, movement, residence, and profession but does not directly address employment equality. D. Article 18: Article 18 deals with the abolition of titles (such as nobility) and does not concern equality in employment.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-120",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which of the following pairs are not matched properly - A. First nuclear test/explosion by USA: 1945 B. First nuclear test/explosion by USSR: 1949 C. First nuclear test/explosion by France: 1965 D. First nuclear test/explosion by China: 1974 E. First nuclear test/explosion by India: 1974 Choose the correct answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and E Only",
+      "C and D Only",
+      "A and E Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. First nuclear test/explosion by USA: 1945: This is correct. The USA conducted its first nuclear test, \"Trinity\", in July 1945. B. First nuclear test/explosion by USSR: 1949: This is correct. The Soviet Union conducted its first nuclear test, \"First Lightning\", in 1949. C. First nuclear test/explosion by France: 1965: This is incorrect. France conducted its first nuclear test in 1960, not 1965. The test was named \"Gerboise Bleue\". D. First nuclear test/explosion by China: 1974: This is incorrect. China conducted its first nuclear test in 1964, not 1974. The test was named \"Project 596\". E. First nuclear test/explosion by India: 1974: This is correct. India conducted its first nuclear test, \"Smiling Buddha\", in 1974.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-121",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following states as per their year of formation in the chronological order: A. Manipur B. Sikkim C. Telangana D. Jharkhand E. Arunachal Pradesh. Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D, E",
+      "B, C, D, E, A",
+      "A, B, E, D, C",
+      "C, D, E, B, A"
+    ],
+    "correctIndex": 2,
+    "explanation": "States in chronological order of their formation: A. Manipur: It became a full-fledged state on January 21, 1972 (previously it was a Union Territory). B. Sikkim: The kingdom opted to become a full fledged State of the Indian Union with effect from 26 April, 1975 vide the Constitution 36th Amendment Act 1975 with special provision laid for the State under article 371(F) of the Constitution of India. E. Arunachal Pradesh: It became a full-fledged state on February 20, 1987 (previously it was a Union Territory). D. Jharkhand: It was formed on November 15, 2000 after separating from Bihar. C. Telangana: It became the 29th state of India on June 2, 2014 after separating from Andhra Pradesh.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-122",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "match",
+    "question": "Match the LIST-I with LIST-II LIST-I (Ideology) LIST-II (Proponent) Deen Dayal A. Pluralism I. Upadhyay B. Utilitarianism II. Auguste Comte C. Integral Humanism III. Jeremy Bentham D. Positivism IV. James Madison Choose the correct answer from the options given below:",
+    "options": [
+      "А-І, В-ІI, C-III, D-IV",
+      "А-III, B-IV, C-II, D-I",
+      "A-IV, B-III, C-I, D-II",
+      "A-II, B-I, C-III, D-IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "A. Pluralism: The concept of Pluralism is closely associated with James Madison. Madison argued for the importance of diverse interests and factions in a democracy, preventing any one group from dominating. B. Utilitarianism: Utilitarianism is a theory associated with Jeremy Bentham. It focuses on the greatest good for the greatest number. C. Integral Humanism: Integral Humanism was a philosophy propounded by Deen Dayal Upadhyay. It emphasizes a balanced development of the human being, integrating material and spiritual aspects. D. Positivism: Positivism was a philosophy developed by Auguste Comte, which emphasizes knowledge derived from sensory experience and logical and mathematical treatments.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-123",
+    "paper": 2,
+    "unit": 8,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which among the following was not a part of self respect movement initiated by EV Ramaswami Naicker?",
+    "options": [
+      "Dropping description of caste from the names",
+      "New interpretation to characters of Hindu mythology",
+      "Joining Congress to support national movement",
+      "Self respect weddings solemnized without Brahmin Priests"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Self-Respect Movement was initiated by E.V. Ramaswami Naicker (also known as Periyar), with the aim of promoting social equality, particularly for the oppressed castes and challenging the dominance of Brahminical culture. The movement focused on: Dropping description of caste from the names (A): This was part of the movement's emphasis on eradicating caste-based discrimination. New interpretation to characters of Hindu mythology (B): Periyar did reinterpret Hindu mythology in a way that challenged traditional Brahminical and caste-based interpretations. Self-respect weddings solemnized without Brahmin priests (D): This was a key feature of the movement, as it opposed caste-based rituals, including the role of Brahmin priests in weddings. However, the movement did not advocate for joining Congress to support the national movement (C). In fact, Periyar was critical of the Congress Part",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-124",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the committees on Panchayati Raj in chronological order- A. Balwant Rai Mehta Committee B. GVK Rao Committee C. Ashok Mehta Committee D. L M Singhvi Committee E. PK Thungan Committee Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D, E",
+      "A, C, B, D, E",
+      "B, C, D, E, A",
+      "C, B, D, E, A"
+    ],
+    "correctIndex": 1,
+    "explanation": "The committees on Panchayati Raj in chronological order: A. Balwant Rai Mehta Committee (1957): This committee was set up by the Government of India to examine the working of the Community Development Program and to suggest measures for its improvement. It is considered the first committee on Panchayati Raj. C. Ashok Mehta Committee (1977): This committee was formed to recommend reforms in the Panchayati Raj system and suggested measures like the creation of a two-tier system of Panchayats, a greater role for political parties, etc. B. GVK Rao Committee (1985): This committee was set up to review the working of the Panchayati Raj system after the Ashok Mehta Committee and to recommend further improvements. D. L M Singhvi Committee (1986): This committee suggested measures to strengthen the Panchayati Raj system and called for the constitutional recognition of local self- government insti",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-125",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Minnowbrook Conference-I occurred in",
+    "options": [
+      "1961",
+      "1965",
+      "1968",
+      "1971"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Minnowbrook Conference-I took place in 1968. It was a significant event in the field of public administration and governance, where scholars and practitioners discussed the role of public administration in the contemporary era. The conference is often considered a key moment in the development of the New Public Administration (NPA) movement, emphasizing social equity, ethics, and public service reform.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-126",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following constitutional amendments provisions as per their inclusion in the chronological order A. Special provisions with respect to Delhi B. Promotion of co-operative societies C. Privy purses abolished D. Representation for women in Legislature E. Total munber of ministers in the Council of Ministers shall not exceed fifteen per cent of the strength of Lok-Sabha Legislative Assembly Choose the correct answer from the options given below:",
+    "options": [
+      "C, A, E, B, D",
+      "C, E, A, B, D",
+      "C, A, B, D, E",
+      "C, E, A, D, B"
+    ],
+    "correctIndex": 0,
+    "explanation": "Constitutional amendments in chronological order: C. Privy purses abolished: The 26th Amendment (1971) abolished privy purses and privileges granted to former rulers of princely states. A. Special provisions with respect to Delhi: The 69th Amendment (1991) provided for the establishment of a Legislative Assembly and a Legislative Council for Delhi and gave it the status of a Union Territory with its own government. E. Total number of ministers in the Council of Ministers shall not exceed fifteen per cent of the strength of Lok Sabha Legislative Assembly: The 91st Amendment (2003) imposed a cap on the number of ministers, not exceeding 15% of the total strength of the Lok Sabha. B. Promotion of co-operative societies: The 97th Amendment (2011) deals with the promotion of co-operative societies, including the right to form co-operatives. D. Representation for women in Legislature: The Cons",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-127",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "What is concept of 'Gangplank' in an organization?",
+    "options": [
+      "A training tool",
+      "Budgeting software",
+      "Level jumping of hierarchy",
+      "An accounting agency"
+    ],
+    "correctIndex": 2,
+    "explanation": "In organizational theory, the concept of \"Gangplank\" refers to a situation where an individual or a team bypasses the hierarchical levels of authority in an organization. It allows for direct communication or decision-making between individuals at different levels in the hierarchy, usually to speed up processes, foster collaboration, or break down barriers in a more flexible or dynamic organizational environment.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-128",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "chronological",
+    "question": "Arrange the following world's largest military spendor country (2023) in the ascending order A. South Korea B. Ukraine C. USA D. China E. Russia Choose the correct answer from the options given below:",
+    "options": [
+      "C, E, D, B, A",
+      "E, C, D, A, B",
+      "A, B, E, D, C",
+      "B, A, D, E, C"
+    ],
+    "correctIndex": 2,
+    "explanation": "As of 2023, the countries with the highest military expenditures are: United States: $916 billion China: $296 billion Russia: $109 billion India: $83.6 billion Saudi Arabia: $75.8 billion United Kingdom: $74.9 billion Germany: $66.8 billion Ukraine: $64.8 billion France: $61.3 billion Japan: $50.2 billion South Korea: $47.9 billion Italy: $35.5 billion Australia: $32.3 billion Poland: $31.6 billion Israel: $27.5 billion Based on this data, the countries in ascending order of military spending are: South Korea: $47.9 billion (A), Ukraine: $64.8 billion (B), Russia: $109 billion (E), China: $296 billion (D), United States: $916 billion (C)",
+    "source": "PYQ Dec 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-dec2024-129",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "When the Legal Services Authorities Act. 1987 was amended in (to provide for the establishment of the permanent Lok-Adalats to the public utility services)?",
+    "options": [
+      "2006",
+      "2002",
+      "2005",
+      "2007"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Legal Services Authorities Act, 1987 was amended in 2002 to provide for the establishment of permanent Lok Adalats for public utility services. This amendment aimed to facilitate the resolution of disputes through the alternative dispute resolution mechanism of Lok Adalats, specifically in cases involving public utilities.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-130",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book \"The Law of Peoples\"?",
+    "options": [
+      "John Rawls",
+      "John Locke",
+      "Edward Said",
+      "Francis Fukuyama"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"The Law of Peoples\" was written by John Rawls, a renowned American political philosopher. The book extends his theory of justice, proposing a framework for how nations should interact with each other in a fair and just way. Rawls' approach focuses on principles of justice for global societies, building on his earlier work, \"A Theory of Justice\".",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-131",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who coined the term 'Possessive Individualism'?",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "John Rawls",
+      "C. B Macpherson",
+      "Edmund Burke"
+    ],
+    "correctIndex": 2,
+    "explanation": "C. B. Macpherson, a Canadian political scientist, coined the term \"Possessive Individualism\" to describe a type of individualism in capitalist societies. He argued that in such societies, individuals are viewed primarily as the possessors of their own resources and property, emphasizing self-interest and ownership. Macpherson's work critiqued the liberal tradition for its focus on individual rights and property as central to personal freedom.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-132",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Which of the following statements are correct? A. Radical feminists call for overturning of gender oppression. B. According to Marxiam, Ideology is an instrument to legitimize the rule of the dominant class C. According to Fascism, people should follow the dictates of their leader. D. J. S. Mill opposed the rights for women E. To maintain the existing order, Karl Marx opposed any idea of revolution Choose the correct answer from the options given below:",
+    "options": [
+      "A, B and C Only",
+      "B, C and D Only",
+      "C, D and E Only",
+      "A. D and E Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. Radical feminists call for overturning of gender oppression. This is correct. Radical feminists believe that gender oppression is deeply embedded in social structures and advocate for radical changes to overturn it. B. According to Marxism, Ideology is an instrument to legitimize the rule of the dominant class. This is correct. In Marxist theory, ideology serves the interests of the ruling class and helps maintain their control over society by justifying and legitimizing their position. C. According to Fascism, people should follow the dictates of their leader. This is correct. Fascism is a far-right, authoritarian ideology that emphasizes the centrality of a strong, dictatorial leader who demands unquestioned loyalty and obedience from the people. D. J. S. Mill opposed the rights for women. This is incorrect. John Stuart Mill was actually a strong advocate for women's rights. In his ",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-133",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which Act provided that the term of the members of Rajya Sabha shall be six years?",
+    "options": [
+      "The Representation of the People Act (1951)",
+      "People Representation Act (1953)",
+      "Government of India Act (1935)",
+      "Government of India Act (1919)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Representation of the People Act (1951) is the legislation that governs elections in India. This Act provided the framework for the functioning of both Rajya Sabha (Council of States) and Lok Sabha (House of the People). According to this Act, the members of the Rajya Sabha are elected for a term of six years, with one-third of its members retiring every two years, ensuring a staggered election process.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-134",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Which one of the following works were not authored by Sri Aurobindo Ghose?",
+    "options": [
+      "Essays on the Gita",
+      "The Ideal of the Karmayogi",
+      "A System of National Education",
+      "The Discovery of India"
+    ],
+    "correctIndex": 3,
+    "explanation": "\"The Discovery of India\" (Option-D) was written by Jawaharlal Nehru, not Sri Aurobindo Ghose. This book reflects Nehru's views on India's history, culture, and his vision for its future. The other works mentioned were indeed authored by Sri Aurobindo Ghose: Essays on the Gita: A collection of his philosophical essays on the Bhagavad Gita. The Ideal of the Karmayogi: Focuses on the concept of selfless action and the ideal of the Karmayogi. A System of National Education: A work by Aurobindo discussing the educational reforms in India.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-135",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who suggested that bourgeois assumptions and values needed to be overthrown by the establishment of a rival 'proletarian hegemony\" and 'the manufacture of consent\"?",
+    "options": [
+      "Anthony Giddens",
+      "John Stuart Mill",
+      "Antonio Gramsci",
+      "Ram Manohar Lohia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antonio Gramsci was an Italian Marxist philosopher who suggested that the bourgeois assumptions and values needed to be overthrown through the establishment of a \"proletarian hegemony\". He believed that this could be achieved by developing a counter- hegemonic culture that would challenge the dominant cultural and ideological practices of the ruling class. His concept of \"the manufacture of consent\" is closely related to his theory of cultural hegemony, where the ruling class maintains power not just through political or economic means but also by shaping ideologies and beliefs in society.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-136",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book \"The Death of Nature Women, Ecology and the Scientific Revolution\"?",
+    "options": [
+      "Carolyn Merchant",
+      "Judith Butler",
+      "Germaine Greer",
+      "Savita Singh"
+    ],
+    "correctIndex": 0,
+    "explanation": "The book \"The Death of Nature: Women, Ecology, and the Scientific Revolution\" was written by Carolyn Merchant. In this influential work, Merchant explores how the Scientific Revolution contributed to the modern worldview that views nature as something to be controlled and exploited, and how this is tied to the historical subjugation of women.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-137",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Who wrote the book 'One-Dimensional Man'?",
+    "options": [
+      "Muchkund Dubey",
+      "Fareed Zakaria",
+      "Herbert Simon",
+      "Herbert Marcuse"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book \"One-Dimensional Man\" was written by Herbert Marcuse, a German-American philosopher, sociologist, and political theorist. This book critiques modern industrial society, emphasizing the way technological advancements and consumerism have created a society where individuals are less able to think critically and are more conformist, thus becoming \"one-dimensional.\"",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-138",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Dec 2024",
+    "type": "statements",
+    "question": "Consider the following statements regarding Representative Democracy and select the correct options. A. It offers a practicable form of democracy for large countries. B. It establishes a link between the government and the governed. C. It obliterates the distinction between the government and the people. D. It advocates a classless society. E. It's most common modem manifestation is the use of referendum Choose the correct answer from the options given below:",
+    "options": [
+      "A and B Only",
+      "B and D Only",
+      "C and D Only",
+      "D and E Only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. It offers a practicable form of democracy for large countries. This is correct. In a large country with a vast population, direct democracy is not practical, and hence representative democracy is more feasible. People elect representatives to make decisions on their behalf. B. It establishes a link between the government and the governed. This is correct. In a representative democracy, elected officials represent the interests and will of the people, creating a crucial link between the government and the governed. C. It obliterates the distinction between the government and the people. This is incorrect. Representative democracy does not obliterate the distinction between the government and the people. The government is still distinct in terms of power, authority, and roles, even though it is elected by the people. D. It advocates a classless society. This is incorrect. Representative",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-139",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Choose the correct pairs of Indian political thinkers and their views/works/ideas A. Kautilya: Dharamshastra B. Sri Aurobindo: Spiritual Nationalism C. Veer Savarkar: An Echo from Andamans D. Swami Vivekananda: Preface to Raja-Yoga E. Rabindranath Tagore: Tarana-e-Hind Choose the correct answer from the options given below:",
+    "options": [
+      "A, B, C, D Only",
+      "B, C, D Only",
+      "B, C, D, E Only",
+      "A, B, C, E Only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A. Kautilya: Dharamshastra: This is incorrect. Kautilya is known for his work Arthashastra, which is a treatise on statecraft, economic policy, and military strategy. Dharamshastra refers to texts on Hindu law and morality, which Kautilya did not author. B. Sri Aurobindo: Spiritual Nationalism: This is correct. Sri Aurobindo emphasized the concept of Spiritual Nationalism, where the freedom of the nation is connected to the spiritual growth of its people. C. Veer Savarkar: An Echo from Andamans: This is correct. Veer Savarkar wrote \"An Echo from Andamans\", which describes his experiences in the Cellular Jail in Andaman and his views on India's freedom struggle. D. Swami Vivekananda: Preface to Raja-Yoga: This is correct. Swami Vivekananda is well known for his work Raja-Yoga, which explains the path of meditation, but he did not write a \"Preface to Raja-Yoga.\" The book itself contains hi",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-dec2024-140",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Dec 2024",
+    "type": "mcq",
+    "question": "Concurrent List of the Indian Constitution have been borrowed form:",
+    "options": [
+      "American Constitution",
+      "Irish Constitution",
+      "Canadian Constitution",
+      "Australian Constitution"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Concurrent List in the Indian Constitution refers to subjects on which both the Central and State legislatures can legislate. This list has been borrowed from the Australian Constitution. The Australian Constitution provides for a Concurrent List (Section 51) where both the federal and state legislatures can make laws on certain subjects. Similarly, the Indian Constitution (Article 246) also allows both the Parliament and the State Legislatures to legislate on the matters enumerated in the Concurrent List.",
+    "source": "PYQ Dec 2024",
+    "difficulty": "medium"
+  }
+]

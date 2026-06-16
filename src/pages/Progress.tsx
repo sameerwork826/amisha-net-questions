@@ -7,6 +7,7 @@ import {
   statsForPaper,
   useProgress,
 } from "../hooks/useProgress";
+import { IconProgress } from "../components/icons";
 
 export default function Progress() {
   const progress = useProgress();
@@ -14,10 +15,15 @@ export default function Progress() {
 
   if (overall.attempted === 0 && progress.mocks.length === 0) {
     return (
-      <div className="card p-10 text-center animate-pop">
-        <p className="text-4xl">📊</p>
-        <p className="mt-3 text-lg font-bold heading">No progress yet</p>
-        <p className="mt-2 text-sm muted">
+      <div className="card p-12 text-center rise">
+        <div
+          className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl"
+          style={{ background: "var(--panel-2)" }}
+        >
+          <IconProgress width={26} />
+        </div>
+        <p className="display mt-4 text-lg font-bold">No progress yet</p>
+        <p className="mx-auto mt-2 max-w-sm text-sm t-muted">
           Answer some practice questions or take a mock test, and your stats will
           appear here.
         </p>
@@ -26,12 +32,10 @@ export default function Progress() {
   }
 
   return (
-    <div className="space-y-6 animate-pop">
-      <h1 className="text-2xl font-black heading">
-        Your <span className="gradient-text">progress</span>
-      </h1>
+    <div className="space-y-7 rise">
+      <h1 className="display text-2xl font-extrabold">Your progress</h1>
 
-      <section className="grid grid-cols-3 gap-3">
+      <section className="grid grid-cols-3 gap-3 sm:gap-4">
         <Stat label="Attempted" value={overall.attempted} />
         <Stat label="Correct" value={overall.correct} />
         <Stat label="Accuracy" value={`${Math.round(overall.accuracy * 100)}%`} />
@@ -43,10 +47,10 @@ export default function Progress() {
         return (
           <section key={p.paper} className="card p-5">
             <div className="flex items-center justify-between">
-              <h2 className="font-bold heading">
-                Paper {p.paper}: {p.title}
+              <h2 className="display font-bold">
+                Paper {p.paper} · {p.title}
               </h2>
-              <span className="chip bg-indigo-100 text-indigo-700 dark:bg-indigo-400/15 dark:text-indigo-300">
+              <span className="badge badge-brand">
                 {ps.correct}/{ps.attempted} · {Math.round(ps.accuracy * 100)}%
               </span>
             </div>
@@ -57,22 +61,23 @@ export default function Progress() {
 
       {progress.mocks.length > 0 ? (
         <section className="card p-5">
-          <h2 className="mb-3 font-bold heading">Mock test history</h2>
-          <div className="space-y-2">
+          <h2 className="display mb-4 font-bold">Mock test history</h2>
+          <div className="flex flex-col">
             {[...progress.mocks]
               .reverse()
               .slice(0, 10)
               .map((m, i) => (
                 <div
                   key={i}
-                  className="flex items-center justify-between rounded-xl bg-slate-100/70 px-3 py-2 text-sm dark:bg-white/5"
+                  className="flex items-center justify-between border-b py-2.5 text-sm last:border-0"
+                  style={{ borderColor: "var(--border)" }}
                 >
-                  <span className="muted">
+                  <span className="t-muted">
                     {new Date(m.ts).toLocaleDateString()} · Paper {m.paper}
                   </span>
-                  <span className="font-bold heading">
-                    {m.correct}/{m.total} ({Math.round((m.correct / m.total) * 100)}
-                    %)
+                  <span className="font-bold">
+                    {m.correct}/{m.total}
+                    <span className="t-faint"> ({Math.round((m.correct / m.total) * 100)}%)</span>
                   </span>
                 </div>
               ))}
@@ -87,7 +92,8 @@ export default function Progress() {
             progressActions.reset();
           }
         }}
-        className="text-sm font-semibold text-rose-600 hover:text-rose-700 dark:text-rose-400"
+        className="text-sm font-semibold"
+        style={{ color: "var(--danger)" }}
       >
         Reset all progress
       </button>
@@ -105,24 +111,24 @@ function UnitBars({
   const units = statsByUnit(progress, paper);
   const syllabus = getPaper(paper)!;
   return (
-    <div className="mt-4 space-y-2.5">
+    <div className="mt-4 space-y-3">
       {units.map((u) => {
         const name = syllabus.units.find((x) => x.number === u.unit)?.name ?? "";
         const pct = Math.round(u.accuracy * 100);
         const color =
-          pct >= 70 ? "bg-emerald-500" : pct >= 40 ? "bg-amber-500" : "bg-rose-500";
+          pct >= 70 ? "var(--success)" : pct >= 40 ? "var(--warning)" : "var(--danger)";
         return (
           <div key={u.unit}>
-            <div className="mb-1 flex justify-between text-xs muted">
-              <span className="truncate pr-2">
+            <div className="mb-1.5 flex justify-between text-xs">
+              <span className="truncate pr-2 t-muted">
                 U{u.unit}. {name}
               </span>
               <span className="shrink-0 font-bold">
                 {u.correct}/{u.attempted} · {pct}%
               </span>
             </div>
-            <div className="h-2.5 w-full overflow-hidden rounded-full bg-slate-200/70 dark:bg-white/10">
-              <div className={`h-full rounded-full ${color}`} style={{ width: `${pct}%` }} />
+            <div className="track">
+              <div className="fill" style={{ width: `${pct}%`, background: color }} />
             </div>
           </div>
         );
@@ -133,9 +139,9 @@ function UnitBars({
 
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
-    <div className="card p-4 text-center">
-      <div className="text-2xl font-black gradient-text">{value}</div>
-      <div className="mt-1 text-xs muted">{label}</div>
+    <div className="card p-4 text-center sm:p-5">
+      <div className="display text-2xl font-extrabold sm:text-3xl">{value}</div>
+      <div className="mt-1 text-xs font-medium t-faint">{label}</div>
     </div>
   );
 }

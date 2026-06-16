@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "pw-jun2024-006",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following are arranged in the order of increasing connotation ?",
+    "options": [
+      "Vertebrates, mammals, canine, labradors",
+      "Mammals, vertebrates, canine, labradors",
+      "Canine, labradors, mammals, vertebrates",
+      "Labradors, canine, mammals, vertebrates"
+    ],
+    "correctIndex": 3,
+    "explanation": "In logic and classification, connotation refers to the set of attributes or qualities a term implies. Terms with more specific meanings (greater connotation) refer to a smaller group, while terms with broader meanings (less connotation) refer to larger groups. Labradors: A specific breed of dog. Canine: A broader category that includes all dog breeds. Mammals: A broader category that includes all animals that have mammary glands, including canines. Vertebrates: An even broader category that includes all animals with a backbone, such as mammals, birds, reptiles, etc. Thus, the connotation increases as we move from \"vertebrates\" (broadest) to \"Labradors\" (most specific).",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-007",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Two researchers obtain similar results while investigating a problem following different methodologies. Their measurements show :",
+    "options": [
+      "Interrater validity",
+      "Convergent validity",
+      "Construct validity",
+      "Test-Retest validity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Convergent validity refers to the degree to which two different methods or measures that are supposed to measure the same construct produce similar",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-008",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Amount of destruction caused by an earthquake is measured by :",
+    "options": [
+      "Richter Scale",
+      "Intensity Scale",
+      "Magnitude Scale",
+      "Mercalli Scale"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Mercalli Scale measures the amount of destruction or the effects of an earthquake on structures, people, and the environment. It is a subjective scale based on observed damage and human perception, ranging from I (not felt) to XII (total destruction). Richter Scale: Measures the magnitude of an earthquake, which is the energy released at the source. Intensity Scale: Refers to scales like the Mercalli Scale, focusing on the effects of the earthquake, often used synonymously in common usage. Magnitude Scale: Measures the energy released during the earthquake, similar to the Richter Scale. Thus, for measuring the destruction caused by an earthquake, the Mercalli Scale is used.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-009",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The contents of swayamprabha channel - 15 with the theme of 'Capacity Building and Teacher Education' is provided by:",
+    "options": [
+      "CEC, New Delhi",
+      "IIT Delhi",
+      "IGNOU, New Delhi",
+      "IIT Kanpur"
+    ],
+    "correctIndex": 2,
+    "explanation": "IGNOU (Indira Gandhi National Open University) is actively involved in the development of educational resources, particularly in the area of teacher education and professional development. This makes IGNOU the primary content provider for Channel 15 under the Swayamprabha initiative.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-010",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following statements are logically equivalent?",
+    "options": [
+      "Some non-dogs are non-friendly animals",
+      "Some dogs are friendly animals",
+      "Some friendly animals are dogs",
+      "All dogs are friendly animals Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "(B) and (C): These two statements are logically equivalent. If some dogs are friendly (B), then it follows that some friendly animals are dogs (C). (D) implies (B): If all dogs are friendly, then it must be true that some dogs are friendly (B), but it does not imply the reverse. (A): This statement does not directly imply or is not implied by any of the other statements. It introduces a different subset (non-dogs).",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-011",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following are advantages of e- commerce for consumers ?",
+    "options": [
+      "They save time by visiting websites instead of stores.",
+      "They have little risk of having their credit card number intercepted.",
+      "They can choose goods from any vendor in the world.",
+      "They can shop no matter their location, time, or conditions. Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) E-commerce allows consumers to browse and shop from home or anywhere, eliminating the time spent traveling to physical stores. (C) Consumers have access to a wide range of products from vendors around the world, expanding their choices beyond local stores. (D) E-commerce provides the flexibility to shop anytime and from anywhere, which is especially beneficial for those with busy schedules or those living in remote areas. (B) is not generally considered an advantage of e-commerce for consumers because there is still a risk of credit card information being intercepted, especially if proper security measures are not in place. While many e- commerce platforms use encryption and other security protocols to protect consumer data, the risk cannot be entirely eliminated.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-012",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Identify the parametric tests used for statistical analysis.",
+    "options": [
+      "t-test",
+      "H-test",
+      "F-test",
+      "U-test Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D (A) T-test: a parametric test used to determine if there is a significant difference between the means of two groups. (C) F-test: a parametric test is used to compare the variances of two or more groups to see if they are significantly different. Non-Parametric Tests: H-test: and U-test",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-013",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The etic approach to communication is ________ in character.",
+    "options": [
+      "Restrictive",
+      "Mechanical",
+      "Universal",
+      "Non-cultural"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C The etic approach to communication is Universal in character. The etic approach refers to a perspective that seeks to understand communication and cultural phenomena from an outsider's point of view, focusing on universal principles and patterns that can be applied across different cultures. The etic approach is not restrictive because it does not limit itself to specific cultural interpretations or practices, which would be considered a restrictive viewpoint. The etic approach is not Mechanical because \"Mechanical\" implies a rigid or automated process, which doesn't reflect the nuanced understanding of human communication that the etic approach seeks to achieve. The etic approach is not non-cultural; rather, it acknowledges the existence of multiple cultures but seeks to find universal patterns across them.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-014",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II (Authors) (Concepts)",
+    "options": [
+      "Roland Barthes (I) Doxa",
+      "Pierre Bourdieu (II) Hegemony",
+      "Antonio Gramsci (III) Simulation",
+      "Jean Baudrillard (IV) Myth Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D List - I List - II (Authors) (Concepts) (A) Roland Barthes (IV) Myth (B) Pierre Bourdieu (I) Doxa (C) Antonio Gramsci (II) Hegemony (D) Jean Baudrillard (III) Simulation",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-015",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Because of Biochemical Oxygen Demand (BOD), Dissolved Oxygen (DO) of a water body :",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains unchanged",
+      "Initially increases and then decreases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B Biochemical Oxygen Demand (BOD) is the amount of dissolved oxygen (DO) needed by aerobic microorganisms to break down organic material in a water body. BOD and DO have an inverse relationship, meaning that high BOD indicates low DO. When BOD levels are high, it indicates a large amount of organic matter present, which requires more oxygen for decomposition. As microorganisms consume the oxygen to break down this organic matter, the Dissolved Oxygen (DO) in the water body decreases. Lower DO levels can harm aquatic life, as oxygen is vital for the survival of fish and other aquatic organisms.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-016",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "If the selling price of ₹ 276 results in a discount of 8 % on the marked price of an item, at what price should the item be sold to offer a discount of 13 % ?",
+    "options": [
+      "₹ 265",
+      "₹ 251",
+      "₹ 257",
+      "₹ 261"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer; D SP = 276, Discount = 8%, MP = ? first, we have to find out the MP of the product MP (100−Discount) SP = 100 MP (100− 8) 276 = 100 MP 276 × 100 = = 300 92 MP = Rs 300 Now, to find out SP to give discount is 13% on MP, we will put value in the same formula given above MP (100−Discount) SP = 100 300 (100 − 13) SP = 100 SP 300 ×87 = = 261 100 Therefore, SP = Rs 261 is the answer on which 13% discount can be given.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-017",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who among the following ancient scholars was a proponent of grammarian tradition ?",
+    "options": [
+      "Ishwarkrishna",
+      "Bhaṛtrihari",
+      "Gautama",
+      "Kaṇada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B Bhaṛtrihari was an ancient Indian scholar known for his significant contributions to the grammatical tradition. He is especially recognized for his work on the philosophy of language and grammar, particularly through his text, the Vākyapadīya, which discusses the relationship between language, thought, and reality. He is one of the most important figures in the Indian grammatical tradition, which stems from Pāṇini's earlier work. Why others are not correct: A. Ishwarkrishna: He was a philosopher known for his contribution to the Sāṅkhya school of Indian philosophy, not the grammatical tradition. C. Gautama: is associated with the Nyāya school of philosophy, focusing on logic and epistemology. D. Kaṇada: He was a proponent of the Vaiśeṣika school, concerned with metaphysics and atomism, not grammar.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-018",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "If (L)M represents a number L in base-M number system, then identify the correct ascending order of the following numbers A-D when converted to decimal number system.",
+    "options": [
+      "(102)4",
+      "(10001)2",
+      "(103)6",
+      "(201)3 Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D To identify the correct ascending order, let's first convert each of the given numbers to the decimal system. (A) (102)4 — Base 4 to Decimal: (102 )4 42 41 40 = 1 × + 0 × + 2 × = 1 × 16 + 0 × 4 + 2 = 16 + 0 + 2 = 18 (B) (10001)2 — Base 2 to Decimal: (10001 )2 24 23 22 ​ = 1 × + 0 × + 0 × + 0 21 20 × + 1 × 16 + 0 + 0 + 0 + 1 = = 17 (C) ​ — Base 6 to Decimal: (103)6 62 61 60 (103 )6 = 1 × + 0 × + 3 × = 1 × 36 + 0 × 6 + 3 = 36 + 0 + 3 = 39 (D) (201)3 ​ — Base 3 to Decimal: (201 )3 32 31 30 ​ = 2 × + 0 × + 1 × = 2 × 9 + 0 × 3 + 1 = 18 + 0 + 1 = 19 Decimal Values: A. (102 )4 = 18 B. (10001 )2 = 17 C. (103 )6 = 39 D. (201 )3 = 19 The correct ascending order of the numbers is: B, A, C and D",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-019",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The Indian Institute of management, Indore, was set up during :",
+    "options": [
+      "Eighth five year plan",
+      "Ninth five year plan",
+      "Tenth five year plan",
+      "Eleventh five year plan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A IIM Indore was established in 1996, which falls under the period of the Eighth Five Year Plan (1992-1997). While its development continued into the Ninth Five Year Plan, its foundation and establishment occurred during the Eighth Plan.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-020",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "An Internet standard that allows for adding media attachments to an email is called :",
+    "options": [
+      "MIME",
+      "DHCP",
+      "HDMI",
+      "FTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A Multipurpose Internet Mail Extensions or MIME is an internet standard that allows for adding media attachments to an email. It allows for various types of content to be included in email messages, beyond plain text.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-021",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "According to Marshal McLuhan, examples of high definition media are :",
+    "options": [
+      "Speech",
+      "Photograph",
+      "Radio",
+      "Cinema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B High definition media are rich in data and offer detailed, explicit content. They require less interpretation or engagement from the user because much of the content is already filled in. Photograph: Highly detailed and visually rich. Radio: Although only audio, it is high definition because it is content-rich and provides a lot of information through sound. Cinema: Combines visual and auditory details, providing a fully immersive and information- packed experience.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-022",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following are consequences of Global Warming ?",
+    "options": [
+      "Change in Hydrological Cycle",
+      "Species Migration",
+      "Change in Ocean Circulation",
+      "Ocean Acidification"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D A. Change in Hydrological Cycle: Global warming affects the hydrological cycle by altering precipitation patterns, increasing evaporation, and changing the frequency and intensity of storms and droughts. B. Species Migration: As temperatures rise, many species are forced to migrate to cooler areas (toward the poles or higher elevations) in order to survive in more favorable environments. C. Change in Ocean Circulation: Global warming can alter ocean circulation patterns due to changes in temperature and salinity, which affect the movement of currents and the distribution of heat across the planet. D. Ocean Acidification: Increased levels of carbon dioxide (CO₂) in the atmosphere are absorbed by the oceans, leading to higher acidity, which affects marine ecosystems and organisms like coral and shellfish. E. Sea Level Rise: As global temperatures rise, polar ice caps and glaciers",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-023",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Ferdinand de Saussure's approach to the study of signs is described as :",
+    "options": [
+      "Semiology",
+      "Semantics",
+      "Signification",
+      "Signifying system"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A Ferdinand de Saussure's approach to the study of signs is foundational in semiotics/semiology, focusing on the relationships between signs and the structures that govern their meanings.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-024",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "7 pumps, working 10 hours a day, can empty a tank in 20 days. How many hours a day must 5 pumps operate to empty the tank in 14 days ?",
+    "options": [
+      "20 hours",
+      "18 hours",
+      "16 hours",
+      "14 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A P1×T1×D1 P2×T2×D2 formula used: = W1 W2 P1 and P2: Pump 1 and pump 2 T1 and T2 : Time taken by pump1 and pump 2 respectively D1 and D2 : days taken by pump1 and pump2 respecively W1 and W2: work ddone by pump1 and pump2 respectively, but here work is not given in the question so, it will not be used. now put the values as given in the question: H2 7 × 10 × 20 = 5 × × 14 H2 7×10×20 hours = = 20 5×14",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-025",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Mobile games were the first to popularize ___________which uses an image of an actual place or thing and adds digital information to it.",
+    "options": [
+      "Virtual Reality",
+      "Augmented Reality",
+      "Mixed Reality",
+      "Computer-Aided Design (CAD)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B Augmented Reality (AR) enhances the real world by overlaying digital content (like images, sounds, or other data) onto the physical environment. This technology allows users to interact with both the real world and the digital elements simultaneously. Games like Pokémon GO are prime examples of AR applications, where players interact with virtual Pokémon that appear in real-world locations through the camera of their mobile devices. This blending of digital and physical realities has driven the popularity of AR in mobile gaming.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-026",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "An English teacher asks students to create a multimedia presentation analysing a novel's themes, characters, and literacy devices. Which assessment method is most suitable to check the real time progress of students ?",
+    "options": [
+      "Authentic Assessment",
+      "Summative Assessment",
+      "Norm-referenced Assessment",
+      "Ipsative Assessment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A Authentic Assessment: This approach involves evaluating students' work through tasks that mirror real-world challenges. In this case, creating a multimedia presentation allows students to apply their understanding of the novel's themes, characters, and literary devices in a practical context. This method provides opportunities for ongoing feedback, reflection, and adjustment of their work as they progress. B. Summative Assessment: This type of assessment evaluates student learning at the end of an instructional unit. C. Norm-referenced Assessment: This method compares a student's performance against a norm or average of a group. D. Ipsative Assessment: This assessment compares a student's current performance to their previous performance.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-027",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "What is the mission of the International Solar Alliance(ISA)?",
+    "options": [
+      "Every home no matter how far will have electricity",
+      "Every home will harvest solar energy",
+      "Every home no matter how far away will have light at home",
+      "Every home has to be carbon neutral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C Vision of ISA: Let us together make the sun brighter. Mission of ISA : Every home no matter how far away, will have a light at home.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-028",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II (Definition) (Malware) (I) Software that monitors and/or records",
+    "options": [
+      "Ransomware the actions of targeted users. (II) A small piece of code that misleads users of its true intent",
+      "Spyware by disguising itself as a legitimate program and infects your computer when you run it. (III) Software that locks data files and demands",
+      "Worm a monetary payment in exchange for unlocking. (IV) A piece of code that replicates itself to",
+      "Trojan Horses other devices without user interaction Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D Malware List - II (Definition) ) (A) (III) Software that locks data files and Ransom demands a monetary payment in ware exchange for unlocking. (B) (I) Software that monitors and/or Spyware records the actions of targeted users (IV) A piece of code that replicates itself (C) to other devices without user Worm interaction (II) A small piece of code that misleads (D) users of its true intent by disguising Trojan itself as a legitimate program and Horses infects your computer when you run it.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-029",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The union government of India had in 2011 decided to establish a National Institute of Design in the states of :",
+    "options": [
+      "Andhra Pradesh",
+      "Kerala",
+      "Assam",
+      "Goa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C The union government of India had in 2011 decided to establish a National Institute of Design in the states of : (A) Andhra Pradesh: Established in 2015 (C) Assam: Established in 2019 (E) Haryana: Established in 2016",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-030",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "In a certain coding language, the word 'TRAIN' is coded as 'VPCGP', then the word 'PROUD' will be coded as :",
+    "options": [
+      "QSPVE",
+      "RPQSF",
+      "RQPTF",
+      "RQQSE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B T +2 = V R -2 = P A +2 = C I - 2 = G N + 2 = P therefore, PROUD will be coded as: P + 2 = R R -2 = P O + 2 = Q U - 2 = S D + 2 = F",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-031",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following arguments is fallacious because of the middle term being too narrow ?",
+    "options": [
+      "All things are non-eternal because they are knowable",
+      "Sound is eternal, because it is audible",
+      "Fire is cold because it is substance",
+      "Wherever there is fire, there is smoke"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A (A) In this argument, the term \"knowable\" is too narrow to adequately support the conclusion that \"all things are non-eternal.\" The reasoning fails because not all knowable things are necessarily non-eternal; some knowable things can indeed be eternal. The middle term \"knowable\" does not provide a sufficient basis for the conclusion, making the argument fallacious.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-032",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "A marketing instructor wants to engage students by conducting live polls during an online lecture to gather instant feedback on marketing strategies. Which of the following tools should the instructor use for creating and displaying polls ?",
+    "options": [
+      "Adobe Illustrator",
+      "Slido",
+      "Straw Poll",
+      "Camtasia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C Slido is a popular tool for conducting live polls, and quizzes, and gathering audience feedback during online lectures or events. Straw Poll is also a tool designed for creating simple polls and surveys. Both tools are specifically suited for engaging students through live polls in an online lecture setting. Adobe Illustrator is a graphic design tool, Camtasia is primarily for screen recording and video editing, and Flipgrid is used for video discussions and sharing, making them less suitable for live polling purposes.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-033",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Find out the correct chronological order of the following :",
+    "options": [
+      "First binary computer by Britishers",
+      "Printing press",
+      "Plan for mechanical computer",
+      "Single-screen motion picture exhibition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B (B) Printing Press (around 1440) (C) Plan for Mechanical Computer (1837) (D) Single-Screen Motion Picture Exhibition (1907) (E) First Public Broadcast of Television (late 1936) (A) First Binary Computer by Britishers (1944)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-034",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statements are true regarding contrary propositions ?",
+    "options": [
+      "They cannot both be true",
+      "They cannot both be false",
+      "They can both be false",
+      "If one is true the other must be false Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C Contrary propositions are statements where both cannot be true simultaneously, but both can be false. For example, the statements \"All birds can fly\" and \"No birds can fly\" are contrary; they cannot both be true, but they can both be false (since some birds can fly, but not all). (A) is correct because contrary propositions cannot both be true at the same time. (C) is correct because it is possible for both contrary propositions to be false. (D) is correct because if one is true, the other must be false.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-035",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following is not a disease caused due to exposure of Ultra Violet (UV)-rays, one of the Environmental hazards due to ozone layer depletion?",
+    "options": [
+      "Melanoma",
+      "Erythema",
+      "Teratoma",
+      "Carcinoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C Teratoma, on the other hand, is a type of tumor that arises from germ cells and is not caused by UV exposure. It is typically related to abnormal development rather than environmental hazards like UV radiation. Melanoma: A type of skin cancer caused by excessive exposure to UV rays. Erythema: Skin redness or sunburn caused by UV radiation exposure. Carcinoma: Another form of skin cancer linked to UV exposure.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-036",
+    "paper": 1,
+    "unit": 6,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which fallacy is committed in the following argument-\"Ambassador cars have almost disappeared. This is an ambassador car. Therefore, this car has almost disappeared\" :",
+    "options": [
+      "Equivocation",
+      "Fallacy of Division",
+      "Hasty Generalization",
+      "Slippery Slope"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B The fallacy of Division: This fallacy occurs when it is assumed that what is true of a whole must also be true of its parts. In this argument, the speaker concludes that because most ambassador cars have almost disappeared, this specific ambassador car must have also disappeared. The assumption fails because it does not necessarily follow that the status of the group applies to every individual member. A. Equivocation: This fallacy involves using a word with multiple meanings in different senses within the same argument. The argument does not shift the meanings of words. C. Hasty Generalization: This involves making a conclusion based on insufficient evidence. The argument does not generalize from a small sample but rather applies a characteristic of a group to an individual member. D. Slippery Slope: This fallacy suggests that a relatively small first step will inevitably lead",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-037",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Identify the main preoccupations of qualitative researchers.",
+    "options": [
+      "Emphasis on process",
+      "Emphasis on generalization",
+      "Emphasis on context",
+      "Emphasis on description Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D A. Emphasis on Process: Qualitative researchers focus on understanding the processes and interactions that lead to certain outcomes rather than just the outcomes themselves. C. Emphasis on Context: Qualitative research emphasizes the context in which people live and how this context influences their behavior and experiences. D. Emphasis on Description: Qualitative researchers aim to provide detailed descriptions of participants' experiences, thoughts, and feelings. Incorrect Option: (B) Emphasis on Generalization: This is generally more aligned with quantitative research, which seeks to make broad generalizations from a sample to a larger population.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-038",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Find out the wrong term from the given series : 125,126,124,127,123,129",
+    "options": [
+      "122",
+      "124",
+      "123",
+      "129"
+    ],
+    "correctIndex": 3,
+    "explanation": "Answer: D 125 + 1 = 126 126 - 2 = 124 124 + 3 = 127 127 - 4 = 123 123 + 5 = 128 Last term will be 128 not 129, therefore last term (129) is the answer.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-039",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "An IT giant company has its Global Education Centre at :",
+    "options": [
+      "Medak",
+      "Ratnagiri",
+      "Mysore",
+      "Agartala"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C The Global Education Centre (GEC) of Infosys, one of the largest IT companies in India, is located in Mysore, Karnataka. It is one of the largest corporate education centers in the world, where new recruits undergo extensive training in various aspects of software engineering and corporate skills.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-040",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II (Abbreviations) (Meaning)",
+    "options": [
+      "ante., (I) here and there",
+      "cf. (II) and others",
+      "et.al., (III) compare",
+      "passim: (IV) before Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "Answer: A List - I List - II (Abbreviations) (Meaning) (A) ante., (I) here and there (B) cf. (II) and others (C) et.al., (III) compare (D) passim: (IV) before",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-041",
+    "paper": 1,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "A relationship in which a less-experienced learner acquires knowledge and skills under the guidance of an expert is known as :",
+    "options": [
+      "Cloud computing",
+      "Cognitive load",
+      "Cognitive apprenticeship",
+      "Collective monologue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C Cognitive Apprenticeship is a type of learning relationship in which an expert in a particular field or domain guides and supports a novice's learning and skill development.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-042",
+    "paper": 1,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The New Education Policy of 2020, suggested degree courses in :",
+    "options": [
+      "Development Communication",
+      "Logic",
+      "Art and Museum Administration",
+      "Graphic Design"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C The New Education Policy of 2020, suggested degree courses in : (C) Art and Museum Administration (D) Graphic Design (E) Web Design High-quality programmes and degrees in Translation and Interpretation, Art and Museum Administration, Archaeology, Artefact Conservation, Graphic Design, and Web Design within the higher education system will also be created. In order to preserve and promote its art and culture, develop high-quality materials in various Indian languages, conserve artefacts, develop highly qualified individuals to curate and run museums and heritage or tourist sites, thereby also vastly strengthening the tourism industry.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-043",
+    "paper": 1,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Identify the non-probability sampling techniques :",
+    "options": [
+      "Systematic sampling",
+      "Simple random sampling",
+      "Snowball sampling",
+      "Purposive sampling Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: the non-probability sampling techniques : (C) Snowball sampling (D) Purposive sampling",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-044",
+    "paper": 1,
+    "unit": 8,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following are the sub-types of long term memory ?",
+    "options": [
+      "Episodic memory",
+      "Semantic memory",
+      "Procedural memory",
+      "Priming"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answer: C the sub-types of long term memory : (A) Episodic memory (B) Semantic memory (C) Procedural memory",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-045",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "A sum of money is equally divided among a number of children. Had there been 10 children less, each would have received ₹ 5 more, and had there been 10 children more each would have received ₹ 3 less. What is the sum of money that is distributed?",
+    "options": [
+      "300",
+      "600",
+      "750",
+      "900"
+    ],
+    "correctIndex": 1,
+    "explanation": "Answer: B S 1. Let the total amount of money be and the number of children be N . 2. Original amount each child receives S Amount per child = N ​ 3. If there are 10 children less (i.e., N ): −10 Each child would receive: S N −10 ​ According to the problem, this is ₹ 5 more than the original amount: S S = + 5 N N −10 N 4. If there are 10 children more (i.e., + 10 ): Each child would receive: S N + 10 ​ This is ₹ 3 less than the original amount: S S = −3 N N + 10 Setting Up the Equations From the first scenario: S S − = 5 N N −10 Multiplying through by N(N −10) : S ⋅N −S(N 5N(N −10) = −10) 10S N 2 −50N = 5 2S N −10N = 2 equation (1) From the second scenario: S S − = −3 N N + 10 N(N Multiplying through by + 10) : S ⋅N −S(N −3N(N + 10) = + 10) −10S N 2 −30N = −3 10S N 2 30N = 3 + equation (2) Solving the Equations Now, we can solve equations (1) and (2): From (1): N −10N 2 S = 2 ​ From (2): ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-051",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "With the reference to Indian Political System, consider the following statements.",
+    "options": [
+      "One salient feature of Indian Political System is the combination of centralisation and decentralisation",
+      "Indian political system throughout the British period was very much dominated by religion",
+      "In Indian Political System the real executive power is with the President",
+      "The Government System is based on three organs, Legislative, Executive and Judiciary"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) is True: The indian system combines both centralization and decentralization. (B) is Partially true: Religion played a role, but it wasn’t the dominant force throughout the British period. (C) is False: The real executive power lies with the Prime Minister, not the President. (D) is True: The government is indeed based on the three organs: Legislative, Executive, and Judiciary. (E) is False: The bureaucracy plays a significant role in governance. Therefore, correct statements are A, B and D.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-052",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who has given the concept of Integral Humanism?",
+    "options": [
+      "Pandit Deendayal Upadhyay",
+      "Swami Vivekanand",
+      "Aurobindo Ghosh",
+      "Rabindranath Tagore"
+    ],
+    "correctIndex": 0,
+    "explanation": "The concept of Integral Humanism was given by Pandit Deendayal Upadhyay. Integral Humanism emphasizes holistic development, integrating spiritual, cultural, and material aspects of life, and promoting a model of progress that aligns with Indian values and traditions.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-053",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statement is not correct about Constitutionalism ?",
+    "options": [
+      "Totalitarian Government",
+      "Responsible Government",
+      "Limited Government",
+      "Constitutional Monarchy"
+    ],
+    "correctIndex": 0,
+    "explanation": ") Totalitarian Government. Totalitarian Government: This is not consistent with constitutionalism, as totalitarian governments concentrate power and do not operate within a framework of laws that limit government authority. Responsible Government: This aligns with constitutionalism, emphasizing accountability to the electorate. Limited Government: This is a core principle of constitutionalism, ensuring that government powers are restricted by law. Constitutional Monarchy: This form of government operates under constitutional limits, which is consistent with constitutionalism.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-054",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Indian National Movement had many streams. One of them was Extremist. From the following identify which is correct.",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai",
+      "Bipin Chandra Pal",
+      "Gopal Krishna Gokhale"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Extremist faction of the Indian National Movement was characterized by a more radical approach to achieving independence, advocating for direct action and self-reliance. Among the options provided, the Bal Gangadhar Tilak (A), Lala Lajpat Rai (B), Bipin Chandra Pal (C), are prominent Extremists: (A) Bal Gangadhar Tilak: Known for his slogan \"Swaraj is my birthright,\" he was a leading figure in the Extremist wing. (B) Lala Lajpat Rai: Also associated with the Extremist movement, advocating for self-rule. (C) Bipin Chandra Pal: Another key Extremist leader known for his radical views. (D) Gopal Krishna Gokhale is known for his moderate approach and is associated with the Congress's Moderate faction. (E) Dadabhai Naoroji was also a moderate and an early nationalist leader.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-055",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Rational Choice Theory's impact on Public Administration has been strongly felt in the areas such as :",
+    "options": [
+      "Organization Behaviour",
+      "Local Government",
+      "Public Service Delivery",
+      "Theory of Democratic Administration Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rational Choice Theory (RCT) emphasizes decision-making based on logical reasoning, cost-benefit analysis, and individual preferences. Its impact on Public Administration is most significantly felt in the following areas: (A) Organization Behaviour: RCT informs how individuals and groups within organizations make decisions and interact based on rational calculations. (B) Public Service Delivery: RCT has influenced the design and evaluation of public services, focusing on efficiency and responsiveness to citizen needs. (C) Local Government: While RCT can apply here, its influence is less pronounced compared to organization behavior and service delivery.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-056",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which is/are group of people who come together to contest election and hold power in the government?",
+    "options": [
+      "Pressure Group",
+      "Political Party",
+      "Interest Group",
+      "Business Lobby"
+    ],
+    "correctIndex": 1,
+    "explanation": ") Political Party. The correct group of people who come together specifically to contest elections and hold power in the government is political party (B). Political parties are organized groups that seek to gain political power through elections. Other statements: (A) Pressure Group: These groups influence government policy but do not contest elections. (C) Interest Group: Similar to pressure groups, they aim to influence public policy but do not seek to hold power through elections. (D) Business Lobby: This refers to organizations that advocate for business interests, not political power. (E) Religious Group: While they may influence politics, they do not necessarily contest elections or seek to hold government power.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-057",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "India's diaspora is a strategic asset for the country.",
+    "options": [
+      "India receives largest volume of remittances",
+      "Illegal Indian migrants have given a bad name to India",
+      "Indian Americans played key role in the passing of Indo-US nuclear deal",
+      "India trained Engineers were instrumental in ushering in IT revolution in the US and then bringing it to India"
+    ],
+    "correctIndex": 0,
+    "explanation": "To assess the statements regarding India's diaspora as a strategic asset: (A) India receives largest volume of remittances is True. India is one of the largest recipients of remittances globally, which significantly contributes to its economy. (B) Illegal Indian migrants have given a bad name to India: While this may be true, it does not reflect the positive aspects of the diaspora as a strategic asset. (C) Indian Americans played key role in the passing of Indo-US nuclear deal is True. Indian Americans were influential in lobbying for the deal, showcasing the diaspora's political engagement. (D) India trained engineers were instrumental in ushering in IT revolution in the US and then bringing it to India is True. Many Indian engineers and IT professionals contributed significantly to the tech industry in the US and facilitated the IT boom in India. (E) Indian Diaspora is a source of sof",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-058",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "match",
+    "question": "Match List - I with List - II. List-I List-II Indo-Soviet",
+    "options": [
+      "(I) Narendra Modi Friendship Treaty",
+      "Pokhran II (II) Narsimha Rao",
+      "Look East Policy (III) Atal Bihari Vajpayee",
+      "Panchamrit (IV) Indira Gandhi Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": ": (A)-(IV), (B)-(III), (C)-(II), (D)- (I) Indo-Soviet Friendship Treaty : Indira Gandhi Pokhran II : Atal Bihari Vajpayee Look East Policy : Narsimha Rao Panchamrit : Narendra Modi",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-059",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who propounded the concept of 'Total Revolution'?",
+    "options": [
+      "J. L. Nehru",
+      "Aurobindo Ghosh",
+      "Jaya Prakash Narayan",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctIndex": 2,
+    "explanation": "The concept of 'Total Revolution' was propounded by Jaya Prakash Narayan. Jaya Prakash Narayan advocated for a comprehensive societal transformation that encompassed political, economic, and social dimensions. He called for a movement that would address the root causes of societal issues, emphasizing not just political change but also moral and cultural renewal.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-060",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who had envisioned the evolution of human life into a divine life in a divine body ?",
+    "options": [
+      "M. N. Roy",
+      "Ram Manohar Lohia",
+      "Deen Dayal Upadhayay",
+      "Aurobindo Ghosh"
+    ],
+    "correctIndex": 3,
+    "explanation": "The vision of the evolution of human life into a divine life in a divine body was articulated by Aurobindo Ghosh. Aurobindo Ghosh proposed a spiritual philosophy that emphasized the potential for human beings to evolve beyond their current state, achieving a higher consciousness and a divine existence. His works focus on integrating spiritual development with social and political progress.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-061",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Ministry of Panchayati Raj, Government of India has initiated measures to make the Panchayats vibrant. Arrange the following in sequential order, from earlier to later time.",
+    "options": [
+      "SVAMITVA Scheme, Property Survey",
+      "Multi Bijli Yojana to install rooftop solar and provide free electricity upto 300 monthly units",
+      "Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) with focus on localization of Sustainable Development Goals",
+      "Release of a standard operating procedure (SOP) regarding e-gram Swaraj to bring in better transparency Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "Question was Deleted by NTA in the Revised Key.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-062",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II",
+    "options": [
+      "Shimla Agreement (I) Jawahar Lal Nehru Tashkent",
+      "(II) Indira Gandhi Agreement",
+      "Indus Water Treaty (III) Manmoham Singh Indo-US Nuclear",
+      "(IV) Lal Bahadur Shashtri Agreement Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": ": (A)-(II), (B)-(IV), (C)-(I), (D)- (III) Shimla Agreement : Indira Gandhi Tashkent Agreement : Lal Bahadur Shastri Indus Water Treaty : Jawaharlal Nehru Indo-US Nuclear Agreement : Manmohan Singh",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-063",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following statements are associated with the theory of International Realism ?",
+    "options": [
+      "Domestic politics is characterised by hierarchy and international politics by anarchy",
+      "Power is both means and end",
+      "Believes in relative gain rather than absolute gain",
+      "Anarchy is what states make of it"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Domestic politics is characterised by hierarchy and international politics by anarchy is True. Realists believe that the international system is anarchic, lacking a central authority. (B) Power is both means and end is True. Realists view power as essential for survival and as a goal in itself. (C) Believes in relative gain rather than absolute gain is True. Realists focus on how states compare with one another in terms of power, emphasizing relative gains over absolute gains. (D) Anarchy is what states make of it is False. This statement is associated with Constructivism, not Realism. Realists believe anarchy is an inherent condition of international relations. (E) Like all politics, international politics is the struggle for power is True. Realism posits that power struggles are central to international relations.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-064",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Application of the laws of dialectics in social life is demonstrated through the principle of :",
+    "options": [
+      "Social materialism",
+      "Economic materialism",
+      "Historical materialism",
+      "Cultural materialism"
+    ],
+    "correctIndex": 2,
+    "explanation": "The application of the laws of dialectics in social life is best demonstrated through the principle of Historical Materialism. Historical Materialism is a concept developed by Karl Marx and Friedrich Engels, emphasizing that material conditions (such as economic factors) primarily shape society's development and historical changes. It views history as a dialectical process driven by class struggles and the evolution of productive forces.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-065",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "match",
+    "question": "Match List - I with List - II. List-I List-II First Lok Sabha",
+    "options": [
+      "(I) 1950 Election Adoption of the",
+      "(II) 1949 Constitution",
+      "First Republic Day (III) 1975 Promulgation of",
+      "(IV) 1952 Emergency Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "First Lok Sabha Election - 1952 Adoption of the Constitution - 1949 First Republic Day - 1950 Promulgation of Emergency - 1975",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-066",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who has propounded the concept of \"Power Elite\" ?",
+    "options": [
+      "James Burnham",
+      "C. Wright Mills",
+      "Raymond Aron",
+      "Karl Mannheim"
+    ],
+    "correctIndex": 1,
+    "explanation": ") The concept of \"Power Elite\" was introduced by C. Wright Mills in his influential book, 'The Power Elite', published in 1956. In this work, Mills argues that a small group of individuals—comprising leaders from the political, military, and economic spheres—hold significant power and influence over societal decisions, effectively shaping the direction of the country. Other Options: (A) James Burnham: Although he discussed similar themes regarding elite control in society, his focus was more on the managerial class and bureaucratic elite, particularly in his book 'The Managerial Revolution'. (C) Raymond Aron: Known for his work in political sociology and philosophy, he did not specifically develop the concept of the \"Power Elite.\" (D) Karl Mannheim: A sociologist known for his contributions to the sociology of knowledge, Mannheim did not address the concept of the \"Power Elite\" in the wa",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-067",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which of the following are variants of International Liberalism ?",
+    "options": [
+      "Complex Interdependence",
+      "Institutional Liberalism",
+      "Republican/Democratic Liberalism",
+      "Neoliberalism"
+    ],
+    "correctIndex": 2,
+    "explanation": "The variants of International Liberalism include: (A) Complex Interdependence is variants of International Liberalism. This concept emphasizes the interconnections between states and non- state actors and the importance of economic and social ties. It is a central idea in International Liberalism. (B) Institutional Liberalism is also a variants of International Liberalism. This variant focuses on the role of international institutions in promoting cooperation and peace among states. It highlights how institutions can facilitate collaboration and reduce conflict. (C) Republican/Democratic Liberalism is indeed a variants of International Liberalism. This theory posits that democracies are less likely to engage in conflict with one another, emphasizing the role of democratic governance in fostering international peace. It aligns well with International Liberalism. (D) Neoliberalism: In inte",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-068",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who has given the concept of \"Political Decay\" ?",
+    "options": [
+      "Lucian W. Pye",
+      "Samuel P. Huntington",
+      "Sidney Verba",
+      "Almond and Powell"
+    ],
+    "correctIndex": 1,
+    "explanation": "The concept of \"Political Decay\" is most prominently associated with Samuel P. Huntington, particularly in his influential work, 'Political Order in Changing Societies' (1968). Huntington's analysis focuses on the idea that as societies modernize, they often experience political decay due to the inability of political institutions to adapt to new social and economic challenges. Other Options: (A) Lucian W. Pye: Pye is known for his work on political culture and the role of culture in political systems, but he is not primarily associated with the concept of political decay. (C) Sidney Verba: Verba’s research focuses on political participation and civic engagement, rather than political decay specifically. (D) Almond and Powell: Gabriel Almond and G. Bingham Powell are known for their work on political systems and the role of political culture but do not specifically address the concept of",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-069",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Choose the correct statements given below :",
+    "options": [
+      "NATO is a security pact created for the defence of US led Western Countries",
+      "Warsaw pact was created by Soviet Union and its allies in response to NATO",
+      "SAARC was created for the security of South Asia",
+      "ASEAN is a Security Organisation"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) NATO is a security pact created for the defense of US-led Western countries is True: The North Atlantic Treaty Organization (NATO) was established in 1949 primarily for collective defense against potential threats from the Soviet Union and its allies. It includes the US, Canada, and several Western European nations. (B) Warsaw Pact was created by the Soviet Union and its allies in response to NATO is True: The Warsaw Pact, officially known as the Treaty of Friendship, Cooperation, and Mutual Assistance, was established in 1955 as a collective defense treaty among the Soviet Union and its Eastern Bloc allies, primarily as a counterbalance to NATO. (C) SAARC was created for the security of South Asia is incorrect: The South Asian Association for Regional Cooperation (SAARC) was founded in 1985 to promote regional cooperation and development among South Asian countries. While security i",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-070",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following states with respect of their year of formation in ascending order.",
+    "options": [
+      "Bihar",
+      "Rajasthan",
+      "Nagaland",
+      "Gujrat"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Bihar- Established in 1912. (B) Rajasthan- Formed in 1956 (merger of princely states). (D) Gujarat- Formed in 1960. (C) Nagaland- Became a state in 1963. (E) Himachal Pradesh-Became a state in 1971. Therefore, based on their year of formation in ascending order, the correct order would be Bihar(A), Rajasthan(B), Gujarat(D), Nagaland(C), Himachal Pradesh(E), i.e., option-b is correct. Note: There was no match for any option in the question paper, and NTA deleted it in the revised key.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-071",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List- I List- II Government",
+    "options": [
+      "requires a special (I) Liberalism elite",
+      "Majority of the (II) Marxism population are incapable of effective self- government Political democracy ignores the lack of",
+      "(III) Feminism democracy in economic relations Democratic systems Conservatism in",
+      "reflect gender (IV) society divisions in society Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Government requires a special elite - Conservatism in society (IV) (B) Majority of the population are incapable of effective self-government - Liberalism (I) (C) Political democracy ignores the lack of democracy in economic relations - Marxism (II) (D) Democratic systems reflect gender divisions in society - Feminism (III)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-072",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II World System",
+    "options": [
+      "(I) Kenneth Waltz Theory Social",
+      "(II) John Mearsheimer Constructivism Immanual",
+      "Defensive Realism (III) Walterstein",
+      "Offensive Realism (IV) Alexander Wendt Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) World System Theory - Immanuel Wallerstein (III), analyzes the global economic system as a complex structure divided into core, semi-periphery, and periphery countries. (B) Social Constructivism - Alexander Wendt (IV), this perspective emphasizes that international relations are not just driven by material factors but also by ideas, identities, and norms. (C) Defensive Realism - Kenneth Waltz (I), is a theory within the broader realist framework that argues states seek to ensure their security rather than maximize power. (D) Offensive Realism - John Mearsheimer (II), suggests that states are inherently power- seeking and will strive for dominance in the international system.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-073",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following International Relations Thinkers in the chronological order :",
+    "options": [
+      "Kenneth Waltz",
+      "Hans Morgenthan",
+      "Thucydides",
+      "Alexander Wendt"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chronological order: (C) Thucydides (c. 460–c. 400 BCE) – Ancient Greek historian. (E) E.H. Carr (1892–1982) – British historian and international relations theorist. (B) Hans Morgenthau (1904–1980) – Prominent realist theorist in the mid-20th century. (A) Kenneth Waltz (1924–2013) – Influential figure in neorealism, active in the mid-20th century. (D) Alexander Wendt (b. 1952) – Constructivist thinker, active in the late 20th century. The correct order is (C), (E), (B), (A), (D), hence option-C is correct.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-074",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "A thinker of anti-colonial struggle and revolutionary action :",
+    "options": [
+      "Karl Marx",
+      "A. Gramsci",
+      "Hannah Arendt",
+      "Frantz Fanon"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Karl Marx: Marx is known for his critique of capitalism and class struggle. While his ideas have influenced various revolutionary movements, his focus was primarily on class struggle rather than anti-colonialism specifically. (B) Antonio Gramsci: He is known for his ideas on cultural hegemony and the role of intellectuals in society. His work focused on how dominant classes maintain power through culture and ideology. (C) Hannah Arendt: Arendt was a political theorist known for her work on totalitarianism, authority, and the nature of power. Her focus was on the political and ethical dimensions of human actions. (D) Frantz Fanon: Fanon was a psychiatrist and philosopher whose works, such as \"Black Skin, White Masks\" and \"The Wretched of the Earth\", directly address the psychological and political effects of colonialism. He emphasized the necessity of violent revolution for decoloniza",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-075",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which among the following statement related to CBDR (Common But Differentiated Responsibilities) is not correct :",
+    "options": [
+      "It is an important global environmental norms developed by the international community",
+      "It favours Developing Countries",
+      "It grants certain trade concessions to Developing Countries",
+      "Developed Countries are opposed to it"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) This statement is correct. CBDR is indeed a key principle in international environmental law and policy, particularly in agreements like the United Nations Framework Convention on Climate Change (UNFCCC). (B) This statement is correct.CBDR explicitly acknowledges that developing countries have different responsibilities and capacities compared to developed countries when addressing environmental issues. (C) This statement is not correct. While CBDR focuses on environmental responsibilities, it does not inherently grant trade concessions. Trade concessions are typically part of trade agreements and not directly tied to the principle of CBDR. CBDR relates to environmental obligations rather than trade policies. (D) While this statement may reflect a viewpoint, it does not universally represent the stance of all developed countries.Many developed countries have historically shown resist",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-076",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which does not come under All India Service ?",
+    "options": [
+      "Indian Administrative Services",
+      "Indian Police Service",
+      "Indian Foreign Service",
+      "Indian Forest Service"
+    ],
+    "correctIndex": 3,
+    "explanation": "The All India Services are central services that are common to both the Union and the states. These services are established by the Parliament of India and are primarily responsible for the administration of the country at both the central and state levels.Indian Administrative Service (IAS),Indian Police Service (IPS),Indian Forest Service (IFS) are the recognized All India Services. Services that are NOT All India Services are: Indian Foreign Service (IFS) – This is a Central Service that deals with India's foreign affairs but does not fall under the category of All India Services. Indian Customs Service – This is also a Central Service, primarily focused on customs and revenue collection, and it is not an All India Service.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-077",
+    "paper": 2,
+    "unit": 6,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following events related to India's Foreign Policy in ascending order.",
+    "options": [
+      "Indo-US Nuclear Deal",
+      "Gujral Doctrine",
+      "Panchasheel",
+      "Panchamrit"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Indo-US Nuclear Deal (2008) – A landmark agreement to facilitate civilian nuclear cooperation between India and the United States. (B) Gujral Doctrine (1996) – A foreign policy approach by Prime Minister I.K. Gujral emphasizing good relations with India's neighbors, particularly in South Asia. (C) Panchasheel (1954) – A set of principles guiding India’s relations with China, focusing on mutual respect and non-aggression. (D) Panchamrit (2021) – A five-point framework introduced by Prime Minister Narendra Modi to address climate change. (E) Look East Policy (1991) – An initiative to strengthen relations with Southeast Asian countries. Correct ascending chronological order is (C), (E), (B), (A), (D): (C) Panchasheel (1954), (E) Look East Policy (1991), (B) Gujral Doctrine (1996), (A) Indo- US Nuclear Deal (2008), (D) Panchamrit (2021) Therefore, the correct Option is D.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-078",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following political philosophers in the chronological order :",
+    "options": [
+      "Karl Popper",
+      "John Rawls",
+      "C.B. Macpherson",
+      "Robert Dahl"
+    ],
+    "correctIndex": 1,
+    "explanation": ", Correct Order: E,A,C,D,B To arrange the political philosophers in chronological order based on their contributions, we can look at their birth years : (E) Herbert Marcuse (1898–1979) – A key figure in the Frankfurt School of critical theory and known for works like \"One-Dimensional Man\" (1964). (A) Karl Popper (1902–1994) – A philosopher of science known for his ideas on falsifiability and critiques of historicism, with key works like \"The Open Society and Its Enemies\" (1945). (C) C.B. Macpherson (1911–1987) – A political theorist known for his analysis of liberal democracy and works such as \"The Political Theory of Possessive Individualism\" (1962). (D) Robert Dahl (1915–2014) – An influential political scientist known for his works on democracy and pluralism, particularly \"Who Governs?\" (1961). (B) John Rawls (1921–2002) – A major political philosopher known for his theory of justice ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-079",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Ambedkar was a multifaceted personality. Which of the facts and opinion are true ?",
+    "options": [
+      "Ambedkar defined social justice as a means for giving equal opportunity to all",
+      "Jyotiba Phule was his ideal",
+      "He was the first Attorney General of India",
+      "He contested election"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Ambedkar defined social justice as a means for giving equal opportunity to all is True. He emphasized the importance of social justice and equality in society. (B) Jyotiba Phule was his ideal is True. Ambedkar was influenced by Jyotiba Phule's thoughts on social justice and the rights of the oppressed. (C) He was the first Attorney General of India is False. Ambedkar was not the Attorney General; he served as the first Law Minister of India. (D) He contested election is True. Ambedkar did contest elections, notably in 1952, when he was elected to the Lok Sabha. (E) He was PhD in Economics is True. Ambedkar earned a PhD in Economics from Columbia University.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-080",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Choose the correct statements from the following.",
+    "options": [
+      "India has signed RCEP (Regional Comprehensive Economic Partnership)",
+      "India has refused to sign NPT because it is a discriminatory treaty",
+      "India has signed CTBT (Comprehensive Test Ban Treaty)",
+      "India has signed PTBT (Partial Test Ban Treaty)"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) India has signed RCEP (Regional Comprehensive Economic Partnership)- False. India was part of the negotiations but opted out of signing the RCEP in November 2019, primarily due to concerns about trade imbalances and the impact on domestic industries. (B) India has refused to sign NPT because it is a discriminatory treaty- True. India has consistently maintained that the Nuclear Non-Proliferation Treaty (NPT) is discriminatory as it recognizes five nuclear-armed states while restricting other countries from developing nuclear weapons. (C) India has signed CTBT (Comprehensive Test Ban Treaty)- False. India has not signed the Comprehensive Test Ban Treaty (CTBT). It conducted nuclear tests in 1998 and has expressed concerns about the treaty's implications for its security. (D) India has signed PTBT (Partial Test Ban Treaty)- True. India signed the Partial Test Ban Treaty (PTBT) in 1963,",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-081",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Different countries have different kinds of Political Party System. Identify the right answer from the given options.",
+    "options": [
+      "China is a Communist country, therefore it has single party system",
+      "India enjoys multi party system",
+      "Britain has two party system",
+      "Japan enjoys two party system"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) China is a Communist country, therefore it has a single party system- True. China operates under a single-party system led by the Communist Party of China (CPC). Other parties exist but are under the control of the CPC and do not contest power. (B) India enjoys a multi-party system- True. India has a vibrant multi-party system with numerous national and regional parties. This diversity reflects the country’s vast population and cultural diversity. (C) Britain has a two-party system- True. The United Kingdom traditionally operates under a two-party system, predominantly featuring the Conservative Party and the Labour Party, though other parties do exist and have representation. (D) Japan enjoys a two-party system- False. While Japan has had dominant parties, it operates as a multi-party system. The Liberal Democratic Party (LDP) has been the most prominent, but there are several other",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-082",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II",
+    "options": [
+      "Inside Out (I) Realism Approach",
+      "Outside In Approach (II) Liberalism",
+      "Theory of Relative (III) Structural Realism Gain",
+      "Theory of Absolute (IV) Classical Realism Gain Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Inside Out Approach- Classical Realism (IV) (B) Outside In Approach- Structural Realism (III) (C) Theory of Relative Gain- Realism (I) (D) Theory of Absolute Gain- Liberalism (II)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-083",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The Third Wave of Feminism reflected the influence of :",
+    "options": [
+      "Post-Structuralism",
+      "Anarchism",
+      "Liberalism",
+      "Multiculturalism"
+    ],
+    "correctIndex": 0,
+    "explanation": ") Post-Structuralism. The Third Wave of Feminism, which emerged in the 1990s, is characterized by its diverse approaches and the influence of various theoretical frameworks. Post-Structuralism significantly influenced the Third Wave of Feminism. This theoretical framework challenges the idea of fixed identities and emphasizes the complexity of gender and sexuality. Third Wave feminists often critique earlier feminist movements for being too focused on a universal female experience. Instead, they draw on post-structuralist ideas to advocate for a more fluid understanding of identity, recognizing the intersection of gender with race, class, sexuality, and other social categories.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-084",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "match",
+    "question": "Match List - I with List - II. List-I List-II Political Guru of",
+    "options": [
+      "Vedvyasa (I) Gandhi",
+      "Kautilya (II) Mahabharat Raja Ram Mohan",
+      "(III) Saptang Roy Gopal Krishna Pioneer of Indian",
+      "(IV) Gokhale Renaissance Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Vedvyasa - Mahabharat (II) (B) Kautilya - Saptang (III) (C) Raja Ram Mohan Roy - Pioneer of Indian Renaissance (IV) (D) Gopal Krishna Gokhale - Political Guru of Gandhi (I)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-085",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who has given the concept of \"Iron law of Oligarchy\" ?",
+    "options": [
+      "James Burnham",
+      "Raymond Aron",
+      "Karl Mannheim",
+      "Robert Michels"
+    ],
+    "correctIndex": 3,
+    "explanation": "The concept of the \"Iron Law of Oligarchy\" was introduced by Robert Michels. He argued that all complex organizations, regardless of their democratic ideals, eventually develop oligarchic tendencies. This means that a small group of leaders tends to dominate decision-making, leading to a concentration of power. Michels suggested that this is an inevitable outcome of organizational structure, as the need for efficiency and expertise often sidelines broader participation. His work highlighted the challenges of achieving true democracy within large organizations.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-086",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who had organised the Abhinava Bharat, a Secret Society of Revolution ?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "V.D. Savarkar",
+      "Aurobindo Ghosh",
+      "Prafulla Chaki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vinayak Damodar Savarkar organized Abhinava Bharat, a secret society of revolutionaries. It was founded to promote armed resistance against British rule in India, advocating for independence through revolutionary means.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-087",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statements are correct regarding conservatism ?",
+    "options": [
+      "Conservatism postulates collective leadership, promotes treaties to achieve peace and order.",
+      "Sympathises with free-market ideology, greater emphasis on nationalism and the authority of the state.",
+      "A disposition or an 'attitude of mind' placing their faith in pragmatism, tradition and history.",
+      "Provides a model for change, improves freedom of thought and take steps to improve happiness of masses."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) is incorrect: Conservatism postulates collective leadership, promotes treaties to achieve peace and order.This statement is incorrect as conservatism typically emphasizes individual leadership and the importance of strong central authority rather than collective leadership. While conservatives may support treaties, their focus is more on maintaining national sovereignty and order rather than multilateral agreements. (B) is correct:Conservatives generally advocate for free-market economics, limited government intervention in economic affairs, and prioritize national interests. They also stress the importance of state authority and law and order. (C) is correct: Conservatism emphasizes the importance of tradition, pragmatism, and historical continuity. Conservatives often argue that social stability and order are best preserved through respect for established customs and institutions. ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-088",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "When the President of India resigns he/she addresses resignation letter to :",
+    "options": [
+      "The Prime Minister of India",
+      "The Chief Justice of Supreme Court",
+      "The Vice President of India",
+      "The Attorney General of India"
+    ],
+    "correctIndex": 2,
+    "explanation": "When the President of India resigns, he/she addresses the resignation letter to the Vice President of India. As per Article 56(1)(a) of the Indian Constitution, the President can submit their resignation by writing to the Vice President. The Vice President is next in line to discharge the duties of the President in case of a vacancy, resignation, or incapacity. After receiving the letter, the Vice President informs the Parliament or concerned authorities, and arrangements for the election of a new President are initiated.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-089",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following international events in ascending order :",
+    "options": [
+      "Demise of Communism in East Europe",
+      "Unification of Germany",
+      "Disintegration of Soviet Union",
+      "Assumption of Presidency by Mikhail Gorbachev"
+    ],
+    "correctIndex": 2,
+    "explanation": "(D) Assumption of Presidency by Mikhail Gorbachev (1985): Gorbachev became the General Secretary of the Communist Party of the Soviet Union in 1985, initiating policies of glasnost (openness) and perestroika (restructuring), which eventually contributed to the fall of communism. (E) INF Treaty (1987): The Intermediate-Range Nuclear Forces (INF) Treaty was signed by the U.S. and the Soviet Union in 1987, eliminating nuclear and conventional ground-launched ballistic and cruise missiles with ranges between 500 and 5,500 km. (A) Demise of Communism in East Europe (1989):The year 1989 saw the fall of communist regimes across Eastern Europe, marked by key events like the fall of the Berlin Wall and democratic transitions in countries like Poland, Hungary, and Czechoslovakia. (B) Unification of Germany (1990): Following the fall of the Berlin Wall in 1989, East and West Germany were officially",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-090",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Chronologically arrange the classical works of western political philosophers.",
+    "options": [
+      "A Vindication of Rights of Women with structures on Moral and Political Subjects",
+      "The Social Contract",
+      "Elements of Philosophy of Right",
+      "On Liberty"
+    ],
+    "correctIndex": 2,
+    "explanation": "(B) The Social Contract – (1762), by Jean- Jacques Rousseau. This work discusses the concept of collective sovereignty and the idea that individuals should surrender some personal freedom for the benefit of a collective \"general will.\" (A) A Vindication of the Rights of Women – (1792), by Mary Wollstonecraft. This early feminist work argues for the education of women and their equal treatment in society. (C) Elements of the Philosophy of Right– (1820) by G.W.F. Hegel. This work outlines Hegel's ideas on law, ethics, and the structure of the modern state. (E) The Economic and Philosophical Manuscripts– (1844), by Karl Marx. These manuscripts are among Marx's early writings and address the alienation of labor in capitalist society. (D) On Liberty – (1859), by John Stuart Mill. Mill's work defends individual freedoms and discusses the limits of societal control over individuals, emphasizing",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-091",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Peaceful rise of China is a myth rather than a reality.",
+    "options": [
+      "China's nibbling of neighbours territory through \"Slami Slicing\" strategy is against its claim of peaceful rise.",
+      "China's massive aid to Asian and African Countries undermines its claim to peaceful rise.",
+      "China's support to non-democratic and authoritarian countries violates its claim to peaceful rise.",
+      "China's assertion of 9 dash-lines is against its claim of peaceful rise."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) This statement is correct. China's gradual expansionist strategy, especially in contested areas like the South China Sea and along the border with India, reflects aggressive tactics that contradict its claim of a peaceful rise. (B) is incorrect: While China's foreign aid and investments (especially through the Belt and Road Initiative) are seen as strategic moves to expand influence, the claim that this aid undermines its peaceful rise is debatable. (C) is incorrect:China's support for authoritarian regimes might align with its foreign policy goals, but it is not directly a military or aggressive strategy that would undermine claims of a peaceful rise. (D) is correct: The 9-dash line, which China uses to claim large portions of the South China Sea, conflicts with international law and the territorial claims of other nations. (E) is correct: \"Wolf-Warrior Diplomacy\" refers to China's ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-092",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "When the Reserve Bank of India was established?",
+    "options": [
+      "1951",
+      "1971",
+      "1935",
+      "1947"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935. It was set up under the Reserve Bank of India Act, 1934, initially as a private shareholders' institution, and later nationalized in 1949. The RBI is India's central banking institution responsible for controlling the monetary policy of the Indian rupee and supervising the banking system.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-093",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statements are correct ?",
+    "options": [
+      "China has blocked India's membership to NSG (Nuclear Suppliers Group).",
+      "India has refused to be part of China promoted BRI (Belt and Road Initiative).",
+      "Gujral doctrine believes in reciprocity.",
+      "India and China cooperate with each other in climate change talks."
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) is correct: China has opposed India's entry into the NSG, mainly because India is not a signatory to the Nuclear Non-Proliferation Treaty (NPT), which China argues is a requirement for NSG membership. (B) is correct: India has consistently opposed China's Belt and Road Initiative (BRI), particularly due to concerns over the China-Pakistan Economic Corridor (CPEC), which passes through Pakistan-occupied Kashmir (PoK). (C) is incorrect: The Gujral Doctrine, formulated by former Indian Prime Minister I.K. Gujral, emphasizes India's willingness to go the extra mile with its smaller neighbors without expecting reciprocity, to improve regional relations. (D) is correct: India and China have often cooperated in global climate change negotiations, especially in representing the concerns of developing nations in forums like the UNFCCC (United Nations Framework Convention on Climate Change). (",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-094",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "match",
+    "question": "Match List - I with List - II. List I List II",
+    "options": [
+      "Socialism (I) E.F. Schumacher",
+      "Feminism (II) Charles Taylor",
+      "Ecologism (III) Thomas Piketty",
+      "Multiculturalism (IV) Bell Hooks Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) Socialism — (III) Thomas Piketty (Piketty is a prominent economist known for his work on inequality, which ties into socialist themes.) (B) Feminism — (IV) Bell Hooks (Bell Hooks is a renowned feminist thinker and writer, known for her contributions to intersectional feminism.) (C) Ecologism— (I) E.F. Schumacher (Schumacher is known for his work on ecological economics and his book Small is Beautiful.) (D) Multiculturalism — (II) Charles Taylor (Charles Taylor has written extensively on multiculturalism and the politics of recognition.)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-095",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "What do political parties, pressure groups, public opinion, popular movements have in common ? They are :",
+    "options": [
+      "Formal organisations of power",
+      "Informal organisations of power",
+      "Helping the governments of the day in governance",
+      "Existing only in democracies"
+    ],
+    "correctIndex": 2,
+    "explanation": "C) Helping the governments of the day in governance. Political parties, pressure groups, public opinion, and popular movements all play a role in influencing government policies and decisions, effectively assisting or pressuring governments in their governance. They reflect the interests and needs of the public and can guide or challenge governmental actions, contributing to the overall functioning of a political system, especially in democracies.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-096",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II Atal Bihari",
+    "options": [
+      "Doklam Confrontation (I) Vajpayee Lal Bahadur",
+      "Bangladesh War (II) Shastri",
+      "Kargil War (III) Narendra Modi 1965 Indo-Pakistan",
+      "(IV) Indira Gandhi War Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Doklam Confrontation - (III) Narendra Modi: The Doklam standoff between India and China occurred in 2017 under Prime Minister Narendra Modi's leadership. The confrontation took place near the tri-junction of India, Bhutan, and China. (B) Bangladesh War -(IV) Indira Gandhi: The Bangladesh Liberation War of 1971, which led to the creation of Bangladesh as an independent country, took place under Prime Minister Indira Gandhi. India's involvement was pivotal in achieving Bangladesh's independence. (C) Kargil War - (I) Atal Bihari Vajpayee: The Kargil War between India and Pakistan occurred in 1999 under Prime Minister Atal Bihari Vajpayee. Indian forces successfully repelled the intruders from Pakistani-controlled areas. (D) 1965 Indo-Pakistan War - (II) Lal Bahadur Shastri: The 1965 war between India and Pakistan happened during the tenure of Prime Minister Lal Bahadur Shastri, who led ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-097",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who observed that intellectuals \"are the dominant groups 'deputies' exercising the subaltern functions of social hegemony and political government\" ?",
+    "options": [
+      "Mao Zedong",
+      "Antonio Gramsci",
+      "Karl Marx",
+      "Frantz Fanon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antonio Gramsci, in his theory of cultural hegemony, observed that intellectuals serve as \"deputies\" of the dominant groups, helping to exercise social hegemony and political governance by shaping ideology and maintaining consent in society.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-098",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "The cornerstone of the ECI's mandate derives from Article 324 of the Constitution.",
+    "options": [
+      "Article 324 mandated that the commission is to be led by a Single Chief Election Commissioner (CEC).",
+      "The president can appoint additional commissioners.",
+      "Judiciary is barred from interference in the election process.",
+      "Election Commission also conducts the elections of Panchayats."
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) is correct: Article 324 of the Indian Constitution vests the Election Commission with the power to oversee elections and mandates the CEC to lead the commission. (B) is correct: The President has the authority to appoint additional Election Commissioners as needed. (C) is correct: Once the election process has begun, courts generally do not interfere in the conduct of elections, in line with the principle of non-intervention during elections. (D) is incorrect: The Election Commission of India does not conduct Panchayat elections; these are conducted by the respective State Election Commissions. (E) is incorrect: The CEC does not act as the Chief Executive Officer of the Government of India during the election period. The CEC's role is limited to overseeing the election process.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-099",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statements are true?",
+    "options": [
+      "The constitution of India allows the state to intervene in matters of religion in order to ensure equality among religious communities.",
+      "Constitution prohibits discrimination on the grounds of religion.",
+      "The Constitution provides to all individuals and communities freedom to profess, practice and propogate any religion or not to follow any.",
+      "The Constitution of India advocates the titles of military or academic distinction for the citizen of India."
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) is correct: The Indian Constitution permits the state to regulate religious practices to uphold equality and prevent discrimination among different religious groups. This is reflected in Articles 15 and 25, which aim to balance individual rights with societal interests. (B) is correct: Article 15 of the Indian Constitution specifically prohibits discrimination on grounds of religion, race, caste, sex, or place of birth. This ensures that all citizens are treated equally, regardless of their religious affiliations. (C) is correct: Article 25 guarantees the freedom of conscience and the right to freely profess, practice, and propagate religion. This includes the right to not follow any religion, thus promoting individual freedom in matters of belief. (D) is correct: The Constitution does advocate for the granting of titles of nobility or academic distinctions. Article 18 prohibits the ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-100",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Among the following challenges to Indian Democracy, which one is not related to Globalization:",
+    "options": [
+      "De-politicisation",
+      "Roll back of welfare state",
+      "Politics of defection",
+      "Decay of nation-state"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: (C) Politics of defection Politics of defection refers to the practice of elected representatives switching political parties, which is a challenge in Indian democracy but is not directly related to globalization. This issue is more related to internal political dynamics rather than the global economic and political processes. The other challenges, such as de-politicization (A), roll back of welfare state (B), decay of nation-state (D), and crony capitalism (E), are influenced by or associated with globalization, particularly through economic liberalization and neoliberal policies.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-102",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following events/incidents related to Sino-India relations chronologically.",
+    "options": [
+      "Chinese Invasion of India",
+      "Wuhan Spirit",
+      "Galwan Valley Incident",
+      "Chennai Connect"
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) Chinese Invasion of India - This occurred in October-November 1962 when China launched an offensive against India, leading to a brief war. (E) Nathu La Skirmishes - These skirmishes occurred in 1967 along the Nathu La pass in Sikkim,",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-103",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "New provisions under the Consumer Protection Act include:",
+    "options": [
+      "Strict Norms for misleading advertisements",
+      "Establishment of Central Consumer Protection Authority",
+      "Inclusion of E-Commerce, Direct selling",
+      "Alternate Dispute Resolution through Mediation"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) is True. The Act introduces stringent regulations against misleading advertisements, including penalties for advertisers who mislead consumers. (B) is True. The Act provides for the establishment of the Central Consumer Protection Authority (CCPA) to promote, protect, and enforce the rights of consumers. (C) is True. The Act expands its scope to include e-commerce and direct selling, ensuring that consumers have protections in these areas. (D) is True. The Act promotes alternative dispute resolution mechanisms, including mediation, to resolve consumer disputes effectively. (E) is False. The Act does not restrict the powers of consumers to file complaints; rather, it enhances their ability to seek redress.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-104",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Cosmopolitans argue that citizenship should extend to the :",
+    "options": [
+      "Country in which an individual resides",
+      "People based upon where a person is born",
+      "World as a whole",
+      "Persons accepted by Governments based on laws and rules"
+    ],
+    "correctIndex": 2,
+    "explanation": "C. World as a whole Cosmopolitanism advocates for a global perspective on citizenship, suggesting that all human beings belong to a single community based on shared morality and values, rather than being limited by national borders or specific legal frameworks.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-105",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange the following events/incidents related to India-Pakistan Relations chronologically.",
+    "options": [
+      "Kargil War",
+      "Shimla Agreement",
+      "Pulwama Incident",
+      "Indus Water Treaty"
+    ],
+    "correctIndex": 3,
+    "explanation": "(D) Indus Water Treaty - Signed in 1960, it regulates the use of the Indus River and its tributaries. (B) Shimla Agreement - Signed in 1972, following the Bangladesh Liberation War, it established principles for bilateral relations. (A) Kargil War - Occurred in 1999, following infiltration by Pakistani soldiers and militants into Indian territory in Kargil. (E) Uri Incident - Occurred in September 2016, when an attack on an Indian Army base in Uri led to a surgical strike by India across the Line of Control. (C) Pulwama Incident - Took place in February 2019, when a suicide bomber attacked a convoy of Indian paramilitary forces in Pulwama, leading to heightened tensions.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-106",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List -I List - II",
+    "options": [
+      "Heartland Theory (I) A.T. Mahan Halford",
+      "Rimland Theory (II) Mackinder Alexander",
+      "Sea Power Theory (III) Seversky Nicholas",
+      "Air Power Theory (IV) Spykman Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 0,
+    "explanation": "a) Heartland Theory (Halford Mackinder) emphasizes control of the central Eurasian \"heartland\" as key to global dominance. b) Rimland Theory (Nicholas Spykman) focuses on the importance of the coastal fringes or \"rimlands\" around Eurasia as strategic regions. c) Sea Power Theory (A.T. Mahan) highlights the importance of naval power in securing global influence. d) Air Power Theory (Alexander Seversky) stresses the importance of air superiority for military dominance in modern warfare.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-107",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Management by objectives was the key idea put forward by Peter Drucker in :",
+    "options": [
+      "Managing for Results",
+      "The New Society",
+      "The Frontier of Management",
+      "The Practice of Management"
+    ],
+    "correctIndex": 3,
+    "explanation": "Peter Drucker introduced the concept of Management by Objectives (MBO) in his 1954 book, \"The Practice of Management.\" This idea emphasizes setting clear, achievable goals agreed upon by both management and employees, with the aim of improving organizational performance.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-108",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II",
+    "options": [
+      "Labour Party (I) Bangladesh",
+      "Republican Party (II) Algeria The Islamic Salvation",
+      "(III) Britain Front",
+      "Awami League (IV) America Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "a) Labour Party is a major political party in Britain. b) Republican Party is one of the two major political parties in the United States (America). c) The Islamic Salvation Front is a political party in Algeria. d) Awami League is a political party in Bangladesh.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-109",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange chronologically the following International Organisations :",
+    "options": [
+      "World Trade Organisations (WTO)",
+      "North Atlantic Treaty Organisation (NATO)",
+      "International Monetary Fund (IMF)",
+      "G-20"
+    ],
+    "correctIndex": 1,
+    "explanation": "c) International Monetary Fund (IMF) – Established in 1944 during the Bretton Woods Conference. b) North Atlantic Treaty Organisation (NATO)– Founded in 1949. e) South Asian Association for Regional Cooperation (SAARC)– Founded in 1985. a) World Trade Organisation (WTO)– Established in 1995, replacing the General Agreement on Tariffs and Trade (GATT). d) G-20 – Established in 1999 as a forum for international economic cooperation.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-110",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which among the following is not correct about India's Nuclear Policy?",
+    "options": [
+      "Credible Minimum Nuclear Deterrence",
+      "No first use",
+      "In Post-Pokharan-II phase, India has agreed to sign NPT and CTBT",
+      "Homi J.Bhabha is the architect of India's nuclear programme"
+    ],
+    "correctIndex": 2,
+    "explanation": "C: In Post-Pokharan-II phase, India has agreed to sign NPT and CTBT India has not signed the Nuclear Non- Proliferation Treaty (NPT) or the Comprehensive Nuclear-Test-Ban Treaty (CTBT). Although India maintains its commitment to non-proliferation and disarmament, it has refused to sign these treaties on the grounds that they are discriminatory and do not treat all countries equally.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-111",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who contended that \"we are concerned only with finding a choice mechanism that will lead it to pursue a \"satisficing\" path, a path that will permit satisfaction at same specified level of all of its needs\" ?",
+    "options": [
+      "Mary Parker Follett",
+      "Chester Barnard",
+      "Max Weber",
+      "Herbert Simon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Herbert A. Simon, a renowned economist and cognitive psychologist. Simon introduced the idea of \"satisficing\" as part of his broader theory of bounded rationality. Instead of seeking optimal solutions, individuals or organizations pursue a course of action that is \"good enough\" to meet a specified level of satisfaction or adequacy, considering their cognitive limitations and the complexity of decision-making environments.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-112",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II The will is free when its ends are 'its own', so",
+    "options": [
+      "(I) G.W.F. Hegal that it is self determining It is the consent, and not the need which",
+      "(II) J.J. Rousseau makes the government legitimate 'Virtue' is",
+      "indispensable to the (III) Machiavelli citizen and state Man naturally good in",
+      "(IV) John Locke the moral sense Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) The will is free when its ends are 'its own', so that it is self-determining — (I) G.W.F. Hegel (B) It is the consent, and not the need, which makes the government legitimate — (IV) John Locke (C) 'Virtue' is indispensable to the citizen and state — (III) Machiavelli (D) Man naturally good in the moral sense — (II) J.J. Rousseau.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-113",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which among the following statements are not correct about the Parlimentary System of Government in India ?",
+    "options": [
+      "All parties in the parliament are represented in the government.",
+      "The Government is responsible to the Parliament and can be removed by it.",
+      "Government is elected for a fixed term.",
+      "The Government is chosen by the Parliament and cannot be removed before completion of its fixed term."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) is correct: All parties in Parliament are represented in the government; In a parliamentary system, the government is typically formed by the party (or coalition) that has the majority in the Lok Sabha. (B) is correct: This is a fundamental feature of the parliamentary system. The government must maintain the confidence of the majority in the Lok Sabha and can be removed through a vote of no confidence. (C) is incorrect: While the Lok Sabha has a term of five years, the government itself is not guaranteed to serve the full term. It can be dissolved earlier if it loses the confidence of the Parliament. (D) is incorrect: The government can indeed be removed before the completion of its term if it loses a vote of no confidence in the Lok Sabha. Thus, it is not immune to being removed before the fixed term ends. (E) is correct: The Election Commission of India is an independent constitut",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-114",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II Mary Parker",
+    "options": [
+      "Theory of Motivation (I) Follett Psychologically oriented imprint on Douglas",
+      "(II) research into industrial McGregor relations Administrative processes are more",
+      "important than (III) Eltan Mayo hierarchy and authority",
+      "Focus on values like (IV) H.G. citizen responsiveness, Frederickson worker and citizen participation in decision making Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) Theory of Motivation — (II) Douglas McGregor (Douglas McGregor is known for Theory X and Theory Y, which explain motivation and management styles.) (B) Psychologically oriented imprint on research into industrial relations — (III) Elton Mayo (Elton Mayo is associated with the Hawthorne Studies, which focused on the psychological aspects of industrial relations.) (C) Administrative processes are more important than hierarchy and authority — (I) Mary Parker Follett (Mary Parker Follett emphasized collaborative and participatory management, focusing more on processes than rigid authority.) (D) Focus on values like citizen responsiveness, worker and citizen participation in decision making — (IV) H.G. Frederickson (H.G. Frederickson is known for his work in public administration, particularly for his focus on social equity and citizen participation.)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-115",
+    "paper": 2,
+    "unit": 2,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II People who should Mary",
+    "options": [
+      "rule are those who (I) Wollstonecraft know about politics The achievement of freedom through the",
+      "abolition of (II) John Rawls exploitation and oppression The Principle of equal",
+      "(III) Aristotle basic liberties Freedom, rights and",
+      "citizenship of women (IV) Karl Marx as well as of men Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 3,
+    "explanation": "(A) People who should rule are those who know about politics — (III) Aristotle (Aristotle believed that those with political knowledge and virtue should rule.) (B) The achievement of freedom through the abolition of exploitation and oppression — (IV) Karl Marx (Karl Marx emphasized the abolition of class exploitation and oppression as a means to achieve freedom.) (C) The Principle of equal basic liberties — (II) John Rawls (John Rawls, in his theory of justice, emphasized the importance of equal basic liberties for all individuals.) (D) Freedom, rights, and citizenship of women as well as of men — (I) Mary Wollstonecraft (Mary Wollstonecraft is known for advocating equal rights, education, and citizenship for women.)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-116",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Deliberative Democracy Champions :",
+    "options": [
+      "Informal debate",
+      "Direct participation of citizens",
+      "Public use of reason",
+      "Impartial pursuit of truth"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) is incorrect: While informal debate can occur in deliberative democracy, the focus is more on structured dialogue and reasoned discussion rather than informal debate alone. (B) is correct: Deliberative democracy emphasizes the direct involvement of citizens in the decision-making process. This participation is key to ensuring that diverse perspectives are heard and considered. (C) is correct: A fundamental aspect of deliberative democracy is the encouragement of public reasoning, where citizens engage in rational discourse to make collective decisions. (D) is incorrect: While deliberative democracy seeks a reasoned consensus that may involve an impartial pursuit of truth, this is more a characteristic of the deliberative process rather than a primary championed aspect. (E) is incorrect: Monism as well as Dualism do not specifically relate to deliberative democracy and do not capture ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-117",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Arrange the Commissions or Committees for improving Centre State relations in India in ascending order.",
+    "options": [
+      "Balwant Rai Mehta Committee",
+      "Sarkaria Commission",
+      "Punchhi Commission",
+      "Bhore Committee"
+    ],
+    "correctIndex": 2,
+    "explanation": "(D) Bhore Committee (1943): Also known as the \"All India Health Survey Committee,\" it primarily focused on health policy but laid down principles relevant to the relationship between different levels of government. (A) Balwant Rai Mehta Committee (1957): This committee emphasized the importance of local self-governance and was instrumental in promoting the idea of democratic decentralization. (E) Rajmannar Committee (1971): This committee focused on the distribution of powers between the Centre and the States and recommended significant changes to the relationship. (B) Sarkaria Commission (1983): This commission was set up to review the relations between the Centre and the States and made several recommendations for improving these relations. (C) Punchhi Commission (2007): This commission was established to review the working of the current Centre-State relations and suggested further re",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-118",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "A person who is in the know of things and is willing to alert the controlling authority by disclosing the corrupt act or practice that takes place.",
+    "options": [
+      "Lokayukta",
+      "Ombudsman",
+      "Whistle Blower",
+      "Central Vigilance Commissioner"
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: C: Whistle Blower A whistleblower is a person who exposes any kind of information or activity that is deemed illegal, unethical, or not correct within an organization, and is willing to alert the authorities regarding corrupt acts or practices.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-119",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Consider the statements about Constitutional Government.",
+    "options": [
+      "It is a form of limited government.",
+      "One where Constitution is the basis of public authority.",
+      "One where Prime Minister is the formal head of the state.",
+      "One where there is always universal adult franchise."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) is correct: A constitutional government is characterized by limitations on governmental powers, often enshrined in a constitution. This ensures that the government operates within set boundaries and respects individual rights. (B) is correct: In a constitutional government, the constitution serves as the supreme law and the foundation of all public authority. It outlines the structure, powers, and limitations of government. (C) is incorrect: While many constitutional governments (like parliamentary systems) have a Prime Minister as the head of government, this statement does not universally apply to all constitutional governments. Some countries have a president as the head of state, and the role of the Prime Minister can vary significantly. (D) is incorrect: While many constitutional governments promote universal adult franchise, it is not a requirement for all. Some constitutional ",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-120",
+    "paper": 2,
+    "unit": 10,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II Cooperative",
+    "options": [
+      "(I) Niti Aayog Federalism",
+      "Bargaining Federalism (II) K.C. Wheare Competitive Granville",
+      "(III) Federalism Austin",
+      "Quasi-Federal (IV) Morris Jones Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Cooperative Federalism —(III) Granville Austin (B) Bargaining Federalism — (IV) Morris Jones (C) Competitive Federalism — (I) Niti Aayog (D) Quasi-Federal — (II) K.C. Wheare",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-121",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Hannah Arendt analyses the Vita activa via three categories which corresponds to the three fundamental activities of our being in the world.",
+    "options": [
+      "Capital, job and pleasure",
+      "Desire, fulfilment and violence",
+      "Labour, work and action",
+      "Freedom, suffering and rights"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hannah Arendt, in her analysis of the Vita activa in \"The Human Condition\", categorizes human activities into labour, work, and action. These correspond to the three fundamental activities of human life: - Labour refers to the biological processes and necessities of life. - Work refers to the creation of the artificial world of things (tools, buildings, art, etc.). - Action refers to political and social interaction, which is the realm of human freedom and plurality.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-122",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "chronological",
+    "question": "Arrange John Rawls writings in chronological order which indicates his evolution as a philosopher of eminence?",
+    "options": [
+      "Political Liberalism",
+      "A Theory of Justice",
+      "Justice as Fairness",
+      "The Law of Peoples Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 2,
+    "explanation": "(C) Justice as Fairness (1958): This essay introduced Rawls' core idea of \"justice as fairness,\" laying the foundation for his later work. (B) A Theory of Justice (1971): This is Rawls' most famous work, where he systematically develops his theory of justice, including the original position and the veil of ignorance. (A) Political Liberalism (1993): In this work, Rawls addresses critiques of \"A Theory of Justice\" and focuses on how a just society can accommodate diverse worldviews. (D) The Law of Peoples (1999): This book extends Rawls' ideas of justice to the international sphere, discussing principles for regulating interactions between societies.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "hard"
+  },
+  {
+    "id": "pw-jun2024-123",
+    "paper": 1,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Development Administration encompasses :",
+    "options": [
+      "Activities relating to Centralization and limiting the number of agencies that deal with development to be undertaken.",
+      "New management agencies and systems must be devised.",
+      "Introduction of competent planning and monitoring delivery.",
+      "Appointing trained personnel to give specialized support."
+    ],
+    "correctIndex": 2,
+    "explanation": "A) is incorrect: Development Administration does not necessarily focus on centralization or limiting agencies. In fact, effective development administration often involves coordination among multiple agencies and decentralization to enhance responsiveness and local engagement. (B) is correct: Development Administration often requires innovative management practices and the establishment of new agencies or systems to effectively address developmental challenges. (C) is correct: Effective planning and monitoring are crucial components of Development Administration to ensure that development goals are met and that resources are used efficiently. (D) is correct: Development Administration relies on trained and skilled personnel to implement development projects effectively and provide specialized support to various initiatives. (E) is incorrect: While regulatory frameworks can be a part of b",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-124",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Match List - I with List - II. List - I List - II The NPM : Improving",
+    "options": [
+      "Stephen P. Osborne (I) Research and Policy Dialogue New Public Management :",
+      "Christopher Hood (II) An Introduction The Art of the State : Culture,",
+      "Jan-Erik Lane (III) Rhetoric and Public Management",
+      "Michael Barzelay (IV) Public Management: Critical Perspectives on Business and Management Choose the correct answer from the options given below :"
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) Stephen P. Osborne — (IV) Public Management: Critical Perspectives on Business and Management (B) Christopher Hood — (III) The Art of the State: Culture, Rhetoric and Public Management (C) Jan-Erik Lane — (II) New Public Management: An Introduction (D) Michael Barzelay — (I) The NPM: Improving Research and Policy Dialogue.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-125",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who founded the All India Harijan Sangh ?",
+    "options": [
+      "Narayan Guru",
+      "M.Gandhi",
+      "Jyotiba Phule",
+      "Aurobindo Ghosh"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: B) M. Gandhi Mahatma Gandhi founded the All India Harijan Sangh in 1932 to promote the welfare and upliftment of the Harijans (now referred to as Dalits). The organization aimed to address social issues and promote equality.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-126",
+    "paper": 1,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which is the nodal agency to achieve Sustainable Development Goals in India ?",
+    "options": [
+      "Niti Aayog",
+      "Ministry of Environment, Forests and Climate change",
+      "National Environment Engineering Institute",
+      "Indian Institute of Sustainable Development"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niti Aayog is the nodal agency responsible for coordinating the implementation and monitoring of the Sustainable Development Goals (SDGs) in India.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-127",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Human Rights are also criticised for :",
+    "options": [
+      "Elevating collectivism above individualism",
+      "Equating collectivism and individualism",
+      "Elevating individualism above collectivism",
+      "Opposing collectivism as well as individualism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct option is C C) Elevating individualism above collectivism Human rights are often criticized for focusing primarily on individual rights and freedoms, potentially neglecting the importance of collective rights and social responsibilities.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-128",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which organisation provides a robust communication system and effective support for e-governance in India?",
+    "options": [
+      "Information Technology Organisation",
+      "Electronic-Seva",
+      "egovIndia",
+      "The National Informatics Centre"
+    ],
+    "correctIndex": 3,
+    "explanation": "The National Informatics Centre (NIC) provides a robust communication system and effective support for e-governance initiatives in India, facilitating the delivery of various government services through technology.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-129",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "\"Basic Structure\" is outcome of :",
+    "options": [
+      "Original Constitution of India",
+      "Constitutional Amendment",
+      "Executive Order",
+      "Judicial Interpretation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The concept of \"Basic Structure\" emerged from judicial interpretation, particularly from the landmark Supreme Court case Kesavananda Bharati v. State of Kerala (1973), where the court held that certain fundamental features of the Constitution cannot be altered or destroyed by amendments.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-130",
+    "paper": 2,
+    "unit": 5,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "India believes in and practices strategic autonomy in its foreign policy.",
+    "options": [
+      "India refused to be a party to any military alliance during cold war.",
+      "India procured its weapons from all possible sources.",
+      "India yielded to American pressure to reduce its oil import from Iran.",
+      "India refused to yield to Western pressure to not to import oil from Russia because of its Ukraine invasion."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) is correct: India adopted a non-aligned stance, deliberately choosing not to enter into military alliances with either the United States or the Soviet Union. This reflects its commitment to maintaining an independent foreign policy. (B) is correct: India has historically sought to diversify its arms procurement, sourcing weapons from multiple countries, including Russia, the U.S., and others. This strategy allows India to avoid dependence on any single country and aligns with its principle of strategic autonomy. (C) is incorrect: Although there were pressures from the U.S. regarding sanctions on Iran, India did not fully yield to these pressures. It has sought to balance its energy needs while navigating international relations, which aligns more with strategic autonomy. (D) is correct: India continued to import oil from Russia despite Western pressures stemming from the Ukraine conf",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-131",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Which among the following is a justiciable right?",
+    "options": [
+      "Directive principles of the state policy",
+      "Fundamental Duties",
+      "Preamble",
+      "Fundamental Rights"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fundamental Rights are justiciable, meaning they can be enforced in a court of law, while Directive Principles of State Policy and Fundamental Duties are not justiciable. The Preamble, although important, does not itself provide enforceable rights.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-132",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Merton's criticism of bureaucratic theory :",
+    "options": [
+      "Displacement of goals",
+      "Trained incapacity",
+      "Non conformity",
+      "Depersonalisation of relationships"
+    ],
+    "correctIndex": 1,
+    "explanation": "Merton criticized bureaucratic theory for: Displacement of goals (A): The focus shifts from achieving goals to adhering to rules. Trained incapacity (B): Employees become too specialized and unable to adapt. Depersonalisation of relationships (D): Relationships become more formal and less personal due to bureaucratic structures. Options (C) and (E) do not directly reflect Merton's key criticisms of bureaucratic theory.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-133",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Advantages of social audit.",
+    "options": [
+      "Encourages e-democracy",
+      "Promotes collective decision making and sharing responsibilities",
+      "Trains the community in audit practices",
+      "Benefits local bureaucracy and elected representatives"
+    ],
+    "correctIndex": 1,
+    "explanation": "B. Promotes collective decision making and sharing responsibilities: By involving the community in the audit process, social audits foster collaborative decision-making and shared ownership of outcomes.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-134",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Key elements of Machiavelli include :",
+    "options": [
+      "Classification of political regimes",
+      "Critique of classical philosophical ideas",
+      "Criticism of Liberty",
+      "Ideas on Republicanism"
+    ],
+    "correctIndex": 1,
+    "explanation": "The key elements of Machiavelli's thought include: (A) Classification of political regimes: Machiavelli categorizes different forms of government in his work. (D) Ideas on Republicanism: Machiavelli emphasizes the importance of republican forms of government in his writings. (E) Analyzing power: A central theme in Machiavelli's work is the analysis of power dynamics and how they function in political life.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-135",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who has given the concept of \"Managerial Revolution\" ?",
+    "options": [
+      "James Burnham",
+      "C. Wright Mills",
+      "Robert Michels",
+      "Karl Mannheim"
+    ],
+    "correctIndex": 0,
+    "explanation": "The concept of \"Managerial Revolution\" was given by James Burnham. In his book titled \"The Managerial Revolution,\" Burnham argues that power in society is increasingly shifting to managers and technocrats rather than traditional capitalists or politicians.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-136",
+    "paper": 2,
+    "unit": 3,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "Who wrote \"Hindu Theory of International Relations\" ?",
+    "options": [
+      "Swami Vivekanand",
+      "William Jones",
+      "Benoy Kumar Sarkar",
+      "Aurobindo Ghosh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benoy Kumar Sarkar was an Indian scholar and thinker who contributed significantly to the field of international relations by articulating the \"Hindu Theory of International Relations.\" In his work, he emphasized the unique perspectives derived from Hindu philosophy and culture regarding diplomacy, conflict, and cooperation among nations.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-137",
+    "paper": 2,
+    "unit": 1,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "United States of America is still the \"Sole Super Power\" of the world.",
+    "options": [
+      "Best and brightest of the world prefer to migrate to America.",
+      "American dream is still intact.",
+      "USA is the most indebted country of the world.",
+      "Global surplus capital gets accumulated in the USA."
+    ],
+    "correctIndex": 2,
+    "explanation": "(A) is correct: Best and brightest of the world prefer to migrate to America, this underscores the U.S.'s appeal and influence, attracting talent from around the globe. (B) is correct: The notion of the American dream symbolizes hope and opportunity, contributing to the U.S.'s global image (D) is correct: Global surplus capital gets accumulated in the USA, this indicates the U.S.'s role as a financial center, attracting investment. (E) is correct: USA still is the Global leader in the development of new innovative technology, this reflects the U.S.'s position at the forefront of technological advancements, a key factor in maintaining its superpower status. Thus, while (C) presents an important fact, it doesn't negate the superpower status like the other points do, making (C) USA is the most indebted country of the world: While this is true, it doesn't necessarily diminish its status as a",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-138",
+    "paper": 2,
+    "unit": 9,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "System Theory focuses on the study of organisation as a :",
+    "options": [
+      "Continuous system",
+      "Cooperative or Collaborative system",
+      "Disorganised system",
+      "Constrained mechanism"
+    ],
+    "correctIndex": 1,
+    "explanation": "System Theory focuses on the study of an organization as a B) Cooperative or Collaborative system This perspective emphasizes how different parts of an organization work together to achieve common goals, highlighting interdependence and collaboration.",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-139",
+    "paper": 2,
+    "unit": 4,
+    "topic": "PYQ Jun 2024",
+    "type": "statements",
+    "question": "Which of the following statements are correct ?",
+    "options": [
+      "India will not use its nuclear weapons against non-nuclear states.",
+      "India is committed to no-first use of nuclear weapons.",
+      "India will transfer nuclear technology to friendly countries.",
+      "India will extend its nuclear umbrella to its friendly neighbouring countries in South Asia."
+    ],
+    "correctIndex": 0,
+    "explanation": "(A) is correct: India will not use its nuclear weapons against non-nuclear states: This is generally true as part of India's nuclear policy, which emphasizes restraint against non-nuclear weapon states. (B) is correct: India is committed to no-first use of nuclear weapons: India has a declared policy of no-first use, meaning it will only use nuclear weapons in retaliation to a nuclear attack. (C) is incorrect: India will transfer nuclear technology to friendly countries: While India has engaged in civilian nuclear cooperation, it is generally cautious about transferring military nuclear technology due to non-proliferation concerns. (D) is incorrect: India will extend its nuclear umbrella to its friendly neighbouring countries in South Asia: India has not officially stated a policy of extending a nuclear umbrella to neighboring countries, focusing instead on its own deterrent capabilities",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pw-jun2024-140",
+    "paper": 2,
+    "unit": 7,
+    "topic": "PYQ Jun 2024",
+    "type": "mcq",
+    "question": "According to the Election Commission for being considered as a national party, a political party should atleast have which of the following qualification ?",
+    "options": [
+      "It should be recognised as a state-level party in four or more states.",
+      "In General Elections the party must manage to win six percent of the votes and win atleast four Lok Sabha seats.",
+      "It has to win a minimum of two percent of the seats in the Lok Sabha from atleast three different states.",
+      "The state party plays a vital role in regional political system in India."
+    ],
+    "correctIndex": 1,
+    "explanation": "(A) is correct: It should be recognised as a state- level party in four or more states: This is true. For a party to be considered a national party, it must have state-level recognition in at least four states. (B) is correct: In General Elections the party must manage to win six percent of the votes and win at least four Lok Sabha seats: This is also true. A party needs to secure at least 6% of the total valid votes in the Lok Sabha elections and win a minimum of four seats. (C) is correct: It has to win a minimum of two percent of the seats in the Lok Sabha from at least three different states: This statement is accurate as well. It is a criterion for national party recognition. (D) is incorrect: The state party plays a vital role in the regional political system in India: While this statement is generally true, it does not serve as a formal qualification for national party status. (E)",
+    "source": "PYQ Jun 2024",
+    "difficulty": "medium"
+  }
+]
