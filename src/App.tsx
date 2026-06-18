@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 import Layout from "./components/Layout";
 import Dashboard from "./pages/Dashboard";
 import Practice from "./pages/Practice";
@@ -8,15 +9,18 @@ import Papers from "./pages/Papers";
 
 export default function App() {
   return (
-    <Routes>
-      <Route element={<Layout />}>
-        <Route index element={<Dashboard />} />
-        <Route path="practice" element={<Practice />} />
-        <Route path="mock" element={<Mock />} />
-        <Route path="papers" element={<Papers />} />
-        <Route path="progress" element={<Progress />} />
-        <Route path="*" element={<Dashboard />} />
-      </Route>
-    </Routes>
+    <>
+      <Routes>
+        <Route element={<Layout />}>
+          <Route index element={<Dashboard />} />
+          <Route path="practice" element={<Practice />} />
+          <Route path="mock" element={<Mock />} />
+          <Route path="papers" element={<Papers />} />
+          <Route path="progress" element={<Progress />} />
+          <Route path="*" element={<Dashboard />} />
+        </Route>
+      </Routes>
+      <Analytics />
+    </>
   );
 }
